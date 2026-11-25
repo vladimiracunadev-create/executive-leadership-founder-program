@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Capital allocator"
 outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir enterprise value de equity value mediante evidencia observable."
-  - "Aplicar la secuencia: elegir métrica consistente → definir peer set por economics → normalizar estados → comparar growth margin y risk → aplicar rango y reconciliar con DCF."
-  - "Interpretar EV-Revenue, EV-EBITDA, growth sin atribuir causalidad automática."
-  - "Resolver el caso de múltiplos y comparables con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir valor de empresa y valor del patrimonio y los múltiplos que corresponden a cada uno."
+  - "Elegir una métrica consistente y un grupo de comparables por su economía."
+  - "Normalizar los estados financieros antes de comparar."
+  - "Comparar crecimiento, margen y riesgo para ajustar el rango."
+  - "Reconciliar el resultado con el flujo descontado."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
   - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
   - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Noam Wasserman — *The Founder's Dilemmas*"
 limits:
-  - "Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico."
+  - "Los múltiplos son relativos: si el mercado está caro o barato, la valoración lo refleja."
 evidence_signals:
-  - "EV-Revenue"
-  - "EV-EBITDA"
-  - "growth"
-  - "gross margin"
-  - "net debt"
+  - "métrica coherente con el valor de empresa"
+  - "comparables por su economía"
+  - "cifras normalizadas"
+  - "reconciliación con el flujo descontado"

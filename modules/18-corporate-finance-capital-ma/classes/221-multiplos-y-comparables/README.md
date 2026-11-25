@@ -10,225 +10,209 @@
 
 ## 🎯 Propósito
 
-Los múltiplos comparan valor relativo usando métricas como EV/Revenue, EV/EBITDA o P/E. Solo son útiles si comparables tienen riesgo, crecimiento, margen, accounting y capital structure suficientemente semejantes; la selección del peer set suele importar más que la fórmula.
+Cuando alguien dice «esa empresa se vendió a ocho veces el EBITDA», está usando el lenguaje más frecuente del mercado: los **múltiplos**. Son rápidos, intuitivos y permiten comparar: si empresas parecidas se transan a 8 veces su EBITDA, la nuestra debería valer algo cercano. Por eso los usan banqueros, inversionistas y compradores, y por eso se abusa de ellos: se copia un múltiplo de un titular de prensa, se compara una empresa en crecimiento con una madura, se aplica a una cifra sin normalizar, se mezclan múltiplos de valor de empresa con otros del patrimonio o se pretende que un múltiplo sea «el precio». Un múltiplo no explica nada por sí solo: es el resultado de crecimiento, rentabilidad, riesgo y estado del mercado. Quien lo usa debe saber qué lo explica.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **múltiplos y comparables** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase enseña a valorar con múltiplos con rigor: elegir una métrica consistente, definir el grupo de comparables por la economía del negocio, normalizar los estados, comparar crecimiento, margen y riesgo, aplicar un rango y reconciliar con el flujo descontado. Se apoya en Koller y colaboradores y en Damodaran, en el análisis de estados de Penman y de Palepu, Healy y Peek, y en la práctica de transacciones de DePamphilis. Al terminar sabrás distinguir valor de empresa y de patrimonio, escoger y calcular múltiplos coherentes, evitar los errores clásicos y usar los comparables como control, no como sustituto del análisis.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `enterprise value`, `equity value`, `trading multiple`, `comparable company`, `normalization` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** EV-Revenue, EV-EBITDA, growth sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** valor de empresa y valor del patrimonio y los múltiplos que corresponden a cada uno.
+2. **Elegir** una métrica consistente y un grupo de comparables por su economía.
+3. **Normalizar** los estados financieros antes de comparar.
+4. **Comparar** crecimiento, margen y riesgo para ajustar el rango.
+5. **Reconciliar** el resultado con el flujo descontado.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define enterprise value y equity value sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con EV-Revenue y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 | Recuperación: ¿qué múltiplo oíste la última vez que se habló del valor de una empresa y qué decía realmente? |
+| 20–60 | Valor de empresa y patrimonio, métricas, comparables, normalización, ajustes y reconciliación. |
+| 60–105 | Ejemplo trabajado: valoración por múltiplos con seis comparables. |
+| 105–150 | Caso ejecutivo y práctica. |
+| 150–175 | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **enterprise value** | valor de operaciones para todos los financiadores | Distingue un hecho compatible y otro que lo refute. |
-| **equity value** | valor residual atribuible a accionistas | Distingue un hecho compatible y otro que lo refute. |
-| **trading multiple** | relación entre valor de mercado y métrica financiera | Distingue un hecho compatible y otro que lo refute. |
-| **comparable company** | empresa con economics y riesgo comparables | Distingue un hecho compatible y otro que lo refute. |
-| **normalization** | ajuste de métricas para eliminar distorsiones no recurrentes | Distingue un hecho compatible y otro que lo refute. |
+| **Múltiplo** | Razón entre el valor (o precio) de una empresa y una métrica financiera. | EV/EBITDA, precio/utilidad. |
+| **Valor de empresa (EV)** | Valor del negocio operativo para todos los financistas. | Patrimonio + deuda neta. |
+| **Valor del patrimonio** | Valor de lo que corresponde a los propietarios. | EV − deuda neta. |
+| **Comparables** | Empresas similares en economía, riesgo y crecimiento. | Se eligen por fundamentos, no solo por sector. |
+| **Normalización** | Ajuste de las cifras por partidas únicas y políticas distintas. | EBITDA «ajustado». |
+| **Múltiplo de transacciones** | Múltiplo pagado en compras de empresas, incluye prima de control. | Datos de adquisiciones. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 221: 1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF](modelo-mental.svg)
+![Cuatro múltiplos y cuándo sirven: valor empresa sobre EBITDA, sobre ventas, precio sobre utilidad y valor empresa sobre flujo libre.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los múltiplos comparan valor relativo usando métricas como EV/Revenue, EV/EBITDA o P/E. Solo son útiles si comparables tienen riesgo, crecimiento, margen, accounting y capital structure suficientemente semejantes; la selección del peer set suele importar más que la fórmula.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico.**
+**Cómo leer el diagrama.** Una tabla con cuatro múltiplos habituales. **Valor empresa/EBITDA**: precio del negocio por peso de caja operativa; sirve con inversión y deuda distintas; ignora la inversión que exige el crecimiento. **Valor empresa/ventas**: precio por peso de ingresos; sirve cuando aún no hay utilidades; no refleja márgenes ni calidad. **Precio/utilidad**: precio del capital propio por peso de utilidad; sirve en empresas maduras y comparables; se ve afectado por la deuda y las partidas únicas. **Valor empresa/flujo libre**: precio por caja disponible; sirve cuando la inversión es relevante; los flujos volátiles dificultan comparar. La nota recuerda que se reconcilia siempre con el flujo descontado; el pie, que los múltiplos cambian con el ciclo.
 
 ## 📖 Desarrollo
 
-### 1. enterprise value: mecanismo central
+### 1. Valor de empresa y valor del patrimonio
 
-**enterprise value** se entiende aquí como **valor de operaciones para todos los financiadores**. Esta es la pieza causal o estructural desde la que se inicia **múltiplos y comparables**: antes de elegir métrica consistente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La confusión más frecuente es mezclar el numerador con la métrica del denominador. El **valor de empresa (EV)** es lo que vale el negocio operativo para todos sus financistas: patrimonio más deuda neta (más intereses minoritarios y otras obligaciones, menos activos no operativos). Por eso se divide por métricas que **no dependen de la deuda**: EBITDA, EBIT, ventas, flujo libre antes de intereses. El **valor del patrimonio** (precio o capitalización de mercado) se divide por métricas **después de intereses**: utilidad neta, flujo del patrimonio. Koller y colaboradores recomiendan EV/EBITDA o EV/EBIT sobre precio/utilidad porque son menos sensibles a la estructura de capital, y recuerdan que los múltiplos de utilidad pueden engañar cuando hay deuda, partidas únicas o políticas contables distintas.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **EV-Revenue**; regístrala con periodo, unidad, población y baseline.
+### 2. Elegir métricas coherentes
 
-Relaciona el mecanismo con **equity value**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La métrica debe reflejar lo que crea valor en ese negocio. EV/EBITDA es la más usada por su simplicidad, pero ignora cuánto hay que invertir para sostener el EBITDA: dos empresas con el mismo EBITDA pueden valer distinto si una exige mucha más inversión. EV/EBIT incorpora la depreciación como aproximación de la inversión de mantención. EV/ventas se usa cuando no hay utilidades (empresas jóvenes), pero supone que algún día los márgenes serán normales. El **precio/utilidad** es útil para empresas maduras y de estructura similar. En sectores específicos (inmobiliarias, bancos, seguros, software) hay métricas propias (valor por activo, precio/valor libro, múltiplo de ingresos recurrentes). Damodaran subraya la **consistencia**: numerador y denominador deben corresponder al mismo concepto y al mismo período (histórico, proyectado, normalizado).
 
-### 2. equity value: frontera conceptual y error de clasificación
+### 3. Elegir comparables por su economía
 
-**Definición operacional:** valor residual atribuible a accionistas. Su valor está en distinguirlo de **enterprise value** y **trading multiple**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un buen grupo de comparables no se define solo por el sector, sino por la **economía del negocio**: crecimiento, rentabilidad, intensidad de capital, riesgo, tamaño, geografía y modelo de ingresos. Dos empresas del mismo sector pueden valer distinto si una crece al 15 % y la otra al 3 %. Se recomienda construir un grupo de **cinco a diez** comparables, documentar los criterios de inclusión y exclusión, y estudiar **por qué** difieren sus múltiplos. La **mediana** suele ser preferible al promedio porque resiste valores extremos. Penman y Palepu, Healy y Peek advierten que la comparabilidad depende de la **calidad contable**: distintas políticas de depreciación, de reconocimiento de ingresos o de arriendos pueden distorsionar las razones.
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **equity value** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **EV-EBITDA** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Normalizar las cifras
 
-Antes de definir peer set por economics, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Antes de aplicar un múltiplo hay que **normalizar** las cifras de la empresa y de los comparables: eliminar partidas únicas (venta de activos, reestructuraciones, litigios), ajustar efectos de políticas contables, incorporar el costo real de arriendos y de remuneraciones de los dueños en empresas familiares, y llevar todas las cifras a un mismo criterio y período (por ejemplo, los últimos 12 meses o el año proyectado). Una cifra sin normalizar puede cambiar la valoración en decenas de millones: un EBITDA de 11.200 con una partida única negativa de 800 equivale a 12.000 normalizado; a 7,65 veces la diferencia es de 6.120. Pero también hay que cuidarse de las «normalizaciones» exageradas, que convierten cualquier pérdida en un «hecho único».
 
-### 3. trading multiple: operacionalización y medición
+### 5. Ajustar por crecimiento, margen y riesgo
 
-**trading multiple** significa **relación entre valor de mercado y métrica financiera**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Aun con buenos comparables, la empresa a valorar difiere. Una empresa que crece más rápido, con mejores márgenes o con menos riesgo merece un múltiplo **mayor**; una con mayor concentración de clientes o deuda más cara, uno **menor**. Se comparan variables explicativas (crecimiento esperado, margen, retorno sobre el capital, volatilidad, tamaño) y se aplican **ajustes cualitativos** con criterio o regresiones simples cuando hay datos suficientes. El resultado es un **rango** justificado, no un punto. Damodaran muestra que gran parte de la dispersión de los múltiplos se explica por crecimiento, riesgo y retorno sobre el capital; por eso, aplicar el múltiplo promedio sin ajustar es una decisión implícita de «somos iguales al promedio».
 
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* orienta este bloque mediante **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **growth**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Múltiplos de mercado y de transacciones
 
-Al llegar a normalizar estados, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los **múltiplos de empresas cotizadas** reflejan el precio de pequeñas participaciones sin control y con liquidez. Los **múltiplos de transacciones** (adquisiciones de empresas completas) incluyen una **prima de control** por la capacidad de dirigir, y a veces sinergias pagadas. DePamphilis subraya que el comprador debe distinguir entre el valor **independiente** del negocio y el valor con **sinergias**, y que lo que paga el mercado en una operación específica depende de las circunstancias (competencia entre oferentes, urgencia, ciclo). Las transacciones comparables deben ser **recientes** y de **empresas similares**; con pocos datos, se usan como referencia y no como regla. Los descuentos por **iliquidez** y por **tamaño** se consideran en empresas cerradas.
 
-### 4. comparable company: trade-offs y efectos de segundo orden
+### 7. Reconciliar con el flujo descontado
 
-**Definición:** empresa con economics y riesgo comparables. Este concepto obliga a abandonar la idea de que **múltiplos y comparables** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar growth margin y risk, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* aporta una lente sobre **proceso de M&A, valoración, due diligence, negociación e integración**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **gross margin** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **múltiplos y comparables**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **comparable company** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. normalization: gobernanza, límites e integración
-
-**normalization** se define como **ajuste de métricas para eliminar distorsiones no recurrentes** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar aplicar rango y reconciliar con dcf, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **enterprise value**, **equity value**, **trading multiple**, **comparable company** y **normalization** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **múltiplos y comparables** no consiste en sumar cinco definiciones. Empieza por **enterprise value**, contrasta **equity value** con **trading multiple**, incorpora **comparable company** como restricción o mecanismo y usa **normalization** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Múltiplos y comparables
-
-`EV/EBITDA`, `EV/Revenue` y `P/E` comparan cosas distintas. Enterprise-value multiples usan métricas antes de efectos de financiación; equity multiples corresponden a valor para accionistas. Selecciona comparables por economía, crecimiento, margen, riesgo y modelo, no solo por industria nominal.
-
-Normaliza EBITDA/earnings y explica mediana, rango y diferencias estructurales. Un múltiplo no “valora solo”: resume expectativas incorporadas por mercado y requiere una narrativa de por qué la empresa merece prima o descuento.
+Los múltiplos y el DCF (clase 220) se usan **juntos**. El DCF responde a «qué debería valer según los fundamentos»; los múltiplos, a «qué paga hoy el mercado por empresas parecidas». Se contrasta: ¿el múltiplo implícito en el DCF está dentro del rango de los comparables?, ¿qué crecimiento, margen o riesgo explican la diferencia? Si el DCF implica un múltiplo muy superior, hay que justificarlo con ventajas reales o corregir los supuestos; si es muy inferior, quizás el mercado esté asumiendo algo que no hemos considerado. El **resultado final** es un rango de valor con la lógica de cada método, no un promedio mecánico de ambos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **múltiplos y comparables** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **múltiplos y comparables** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **múltiplos y comparables** ayuda a desafiar? |
-| Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* | proceso de M&A, valoración, due diligence, negociación e integración | ¿Qué supuesto de **múltiplos y comparables** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **múltiplos y comparables** ayuda a desafiar? |
-
-En **múltiplos y comparables**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **enterprise value**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Koller y otros | Preferencia por múltiplos basados en valor de empresa y sus cuidados. | Requiere datos de calidad. | ¿El numerador y la métrica coinciden? |
+| Damodaran | Múltiplos como función de crecimiento, riesgo y retorno. | Basado en mercados desarrollados. | ¿Qué explica la diferencia de múltiplos? |
+| Penman | Calidad de las cifras contables y su comparabilidad. | Enfoque contable. | ¿Las cifras son comparables? |
+| Palepu, Healy y Peek | Análisis del negocio para elegir comparables. | Estilo de libro de texto. | ¿Qué hace comparable a esta empresa? |
+| DePamphilis | Múltiplos de transacciones, prima de control y sinergias. | Datos de operaciones pasadas. | ¿Cuánto es control y cuánto sinergia? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una SaaS de 40% crecimiento y 85% margen usa como comparable una consultora de 8% crecimiento y 25% margen solo porque ambas venden software empresarial.
+**Situación (hipotética).** Se valora una empresa con ventas de 80.000 millones de pesos, EBITDA reportado de 11.200 millones y deuda neta de 15.000 millones. El EBITDA incluye una partida única negativa de 800 millones (provisión por un litigio resuelto). Crece 8 % anual con un margen EBITDA de 15 %.
 
-**Paso 1 — elegir métrica consistente.** La gerencia escribe primero el supuesto asociado a **enterprise value** y evita convertirlo en hecho. Luego busca **EV-Revenue** para contrastarlo en el caso de **múltiplos y comparables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Normalización.** EBITDA normalizado: 11.200 + 800 = 12.000 millones (margen de 15 %).
 
-**Paso 2 — definir peer set por economics.** La gerencia escribe primero el supuesto asociado a **equity value** y evita convertirlo en hecho. Luego busca **EV-EBITDA** para contrastarlo en el caso de **múltiplos y comparables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Comparables (seis empresas).**
 
-**Paso 3 — normalizar estados.** La gerencia escribe primero el supuesto asociado a **trading multiple** y evita convertirlo en hecho. Luego busca **growth** para contrastarlo en el caso de **múltiplos y comparables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Empresa | Crecimiento esperado | Margen EBITDA | EV/EBITDA |
+|---|---|---|---|
+| A | 4 % | 13 % | 6,8 |
+| B | 6 % | 14 % | 7,4 |
+| C | 7 % | 15 % | 7,9 |
+| D | 9 % | 16 % | 8,5 |
+| E | 12 % | 18 % | 9,6 |
+| F | 2 % | 12 % | 5,9 |
+| **Mediana** | | | **7,65** |
+| **Promedio** | 6,7 % | 14,7 % | 7,68 |
 
-**Paso 4 — comparar growth margin y risk.** La gerencia escribe primero el supuesto asociado a **comparable company** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **múltiplos y comparables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ajuste.** La empresa a valorar crece 8 % con un margen de 15 %: está entre las empresas C (7 %; 15 %) y D (9 %; 16 %). Su múltiplo razonable es 7,9 a 8,5, y con un ajuste por riesgo (concentración de clientes) se toma un rango de **7,0 a 8,5 veces**.
 
-**Paso 5 — aplicar rango y reconciliar con DCF.** La gerencia escribe primero el supuesto asociado a **normalization** y evita convertirlo en hecho. Luego busca **net debt** para contrastarlo en el caso de **múltiplos y comparables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valoración.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **múltiplos y comparables**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Múltiplo | Valor de empresa | Valor del patrimonio (− 15.000) |
+|---|---|---|
+| 7,0 | 12.000 × 7,0 = 84.000 | 69.000 |
+| 7,65 (mediana) | 91.800 | 76.800 |
+| 8,5 | 102.000 | 87.000 |
+
+**Efecto de no normalizar.** Con el EBITDA reportado (11.200) y la mediana de 7,65: 11.200 × 7,65 = 85.680. Con el normalizado: 91.800. Diferencia: 6.120 millones (7,1 % de 85.680).
+
+**Reconciliación con el DCF.** El valor por flujos del ejemplo de la clase 220 (88.234 millones de valor de empresa) cae dentro del rango por múltiplos (84.000 a 102.000) y equivale a un múltiplo implícito de 88.234 ÷ 12.000 = 7,35 veces, ligeramente bajo la mediana. Ambos métodos se refuerzan; se concluye un **rango de valor de empresa de 84.000 a 98.000 millones**, con un punto central de 90.000.
+
+**Precio/utilidad como control.** Utilidad neta aproximada: (EBIT 9.600 − intereses de 15.000 × 8 % = 1.200) × 0,73 = 6.132 millones. Con el valor del patrimonio de 76.800: precio/utilidad de 12,5 veces. Si los comparables transan a 13,2 veces en promedio, el resultado es coherente, aunque la deuda y las partidas únicas afectan la comparación.
+
+**Múltiplo de transacciones.** Dos adquisiciones recientes de empresas similares se pagaron a 8,8 y 9,4 veces el EBITDA, con una prima de control estimada de 15 %. El valor sin prima sería de 8,8 ÷ 1,15 ≈ 7,65 y 9,4 ÷ 1,15 ≈ 8,17: consistente con el rango.
+
+**Cuidados.** Los múltiplos cambian con el ciclo; las normalizaciones deben documentarse y verificarse con los estados financieros; la información de comparables se obtiene de fuentes confiables y se verifican las definiciones; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La normalización cambió el valor en 6.120 millones. (2) El ajuste por crecimiento y riesgo generó un rango. (3) El DCF y los múltiplos se reconciliaron.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **enterprise value** | valor de operaciones para todos los financiadores | Cuando EV-Revenue es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **equity value** | valor residual atribuible a accionistas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Múltiplos frente a precio de mercado.** Un múltiplo de comparables indica cómo valora el mercado a empresas parecidas; el precio de una transacción se negocia y puede distar de él.
 
-**Frontera de aplicación:** Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico.
+**Límites.** Los múltiplos son relativos: si el mercado está caro o barato, la valoración lo refleja. Los comparables nunca son idénticos. Las cifras contables no son totalmente comparables. Los múltiplos de transacciones incluyen primas de control y sinergias. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre múltiplos y comparables |
+| Nivel | Cómo participa en la valoración por múltiplos |
 |---|---|
-| **Profesional** | usa **múltiplos y comparables** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **enterprise value** y **equity value** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta EV-Revenue con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si múltiplos y comparables cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de múltiplos y comparables reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **múltiplos y comparables** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara estados normalizados con criterios explícitos. |
+| **Jefe / Team Lead** | Explica las partidas únicas de su área. |
+| **Gerente** | Construye grupos de comparables con criterios documentados. |
+| **CEO / Director** | Usa los múltiplos como control de las valoraciones y de las ofertas. |
+| **Founder / Owner** | Entiende cómo el mercado valora empresas como la suya y por qué. |
 
 ## 🏢 Caso ejecutivo
 
-Una SaaS de 40% crecimiento y 85% margen usa como comparable una consultora de 8% crecimiento y 25% margen solo porque ambas venden software empresarial.
+Una empresa de logística con ventas de 120.000 millones de pesos, EBITDA reportado de 14.400 millones y deuda neta de 30.000 millones va a vender el 100 % de su capital. El banco de inversión propone un múltiplo de 9,5 veces el EBITDA porque «una empresa del sector se vendió a ese precio». El EBITDA reportado incluye ingresos únicos de 1.600 millones por la venta de un camión de su flota y excluye gastos de arriendo de bodegas con partes relacionadas por 900 millones al año (por debajo de mercado). La empresa tiene un cliente que representa el 30 % de las ventas y crece 3 % anual; la empresa vendida a 9,5 veces crecía 11 % y tenía diversificación de clientes. Los comparables cotizados transan entre 5,5 y 7,5 veces. El comprador ofrece 8,0 veces sobre el EBITDA reportado.
 
-Entrega un **decision brief de múltiplos y comparables** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de valoración por múltiplos** que contenga: (a) la normalización del EBITDA con cada ajuste y su efecto; (b) la selección de comparables con criterios y diferencias de crecimiento, margen y riesgo; (c) el rango de múltiplos ajustado y el valor de empresa y de patrimonio; (d) el análisis de los múltiplos de transacciones y de la prima de control; (e) la reconciliación con un flujo descontado simplificado y la postura de negociación; (f) las verificaciones contables y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **múltiplos y comparables** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta EV-Revenue, EV-EBITDA; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el valor de empresa de una compañía a partir de su capitalización y su deuda neta.
+2. Normaliza el EBITDA de una empresa con tres partidas y calcula el efecto en el valor.
+3. Construye un grupo de seis comparables con crecimiento, margen y múltiplo, y calcula mediana y promedio.
+4. Ajusta el múltiplo según diferencias de crecimiento y riesgo y obtén un rango.
+5. Compara el múltiplo implícito de un DCF con el rango de comparables y explica la diferencia.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar enterprise value y equity value como sinónimos | Se pierde la distinción entre “valor de operaciones para todos los financiadores” y “valor residual atribuible a accionistas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “aplicar rango y reconciliar con DCF” | Se saltó “elegir métrica consistente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF y marca el primer supuesto no demostrado. |
-| Optimizar solo EV-Revenue | La métrica local sustituyó al resultado del sistema | Contrástala con EV-EBITDA y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre múltiplos y comparables | Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico. |
-| No fijar revisión | Una decisión sobre múltiplos y comparables se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mezclar EV con métricas del patrimonio | Falta de claridad en el concepto | Numerador y denominador coherentes. |
+| Comparar por sector solamente | Es lo más fácil | Comparar por crecimiento, margen y riesgo. |
+| No normalizar | Se usan cifras reportadas | Ajustar partidas únicas y políticas. |
+| Usar el promedio sin ajustar | Se supone igualdad | Ajustar por diferencias explicativas. |
+| Confundir control con mercado | Se mezclan datos | Separar múltiplos cotizados y de transacciones. |
+| Tratar el múltiplo como precio | Se simplifica la negociación | Usarlo como rango y reconciliar con el DCF. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **enterprise value** y **equity value** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **trading multiple** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **elegir métrica consistente → definir peer set por economics** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **EV-Revenue** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **múltiplos y comparables**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico.**?
+1. ¿Qué diferencia hay entre valor de empresa y valor del patrimonio?
+2. ¿Por qué EV/EBITDA es más robusto frente a la estructura de capital que precio/utilidad?
+3. ¿Cómo se elige un buen grupo de comparables?
+4. ¿Qué es normalizar y por qué importa?
+5. ¿Por qué se ajusta el múltiplo por crecimiento y riesgo?
+6. ¿Qué diferencia hay entre múltiplos de mercado y de transacciones?
+7. ¿Cómo se reconcilian múltiplos y DCF?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El valor de empresa es el del negocio para todos los financistas; el del patrimonio es el de los propietarios, igual al primero menos la deuda neta.
+2. Porque el EBITDA y el valor de empresa no dependen de la deuda, mientras que la utilidad y el precio sí.
+3. Por la economía del negocio (crecimiento, rentabilidad, intensidad de capital, riesgo, tamaño, modelo) y no solo por sector, de cinco a diez empresas y con criterios documentados.
+4. Eliminar partidas únicas y diferencias contables para que las cifras sean comparables; cambia el valor de forma material.
+5. Porque una empresa que crece más o es menos riesgosa merece un múltiplo mayor, y viceversa.
+6. Los de mercado reflejan participaciones sin control; los de transacciones incluyen prima de control y a veces sinergias.
+7. Comparando el múltiplo implícito del DCF con el rango de comparables y explicando las diferencias con crecimiento, margen y riesgo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/221-multiplos-y-comparables/`:
 
-- `leadership-decision-brief.md` con el problema específico de **múltiplos y comparables**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **múltiplos y comparables** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **enterprise value**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una SaaS de 40% crecimiento y 85% margen usa como comparable una consultora de 8% crecimiento y 25% margen solo porque ambas venden software empresarial.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el memo del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con la tabla de comparables y la normalización;
+- `decision-journal.md` con los criterios de selección, los ajustes y la reconciliación.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** proceso de M&A, valoración, due diligence, negociación e integración. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **múltiplos y comparables** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **múltiplos y comparables**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **múltiplos y comparables** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **múltiplos y comparables** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **múltiplos y comparables** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** múltiplos basados en valor de empresa y sus cuidados. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** múltiplos como función de crecimiento, riesgo y retorno. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** calidad y comparabilidad de las cifras contables. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** análisis del negocio para elegir comparables. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** múltiplos de transacciones, prima de control y sinergias. Lectura selectiva sobre **múltiplos y comparables**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
 
-> **Regla de fuentes para Múltiplos y comparables:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **múltiplos y comparables** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Múltiplos y comparables:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las definiciones contables y las obligaciones de información en una transacción. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

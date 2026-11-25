@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Capital allocator"
 outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir debt de equity mediante evidencia observable."
-  - "Aplicar la secuencia: proyectar cash y downside → medir capacidad de servicio → cuantificar dilution y control → comparar términos y flexibilidad → seleccionar mezcla y plan B."
-  - "Interpretar debt service coverage, dilution, runway sin atribuir causalidad automática."
-  - "Resolver el caso de deuda versus equity con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Proyectar la caja y el escenario adverso con y sin financiamiento."
+  - "Medir la capacidad de servicio de deuda en cada escenario."
+  - "Cuantificar la dilución y el efecto en el valor de los propietarios."
+  - "Comparar términos, covenants y flexibilidad de cada fuente."
+  - "Seleccionar una mezcla y definir un plan B."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Aswath Damodaran — *Investment Valuation*"
-  - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Stewart C. Myers & Nicholas S. Majluf — *Corporate financing and investment decisions when firms have information that investors do not have*"
+  - "Michael C. Jensen & William H. Meckling — *Theory of the firm: Managerial behavior, agency costs and ownership structure*"
+  - "Brad Feld & Jason Mendelson — *Venture Deals*"
+  - "Stewart C. Myers — *The Capital Structure Puzzle*"
 limits:
-  - "Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios."
+  - "Las comparaciones dependen de los escenarios y de supuestos como el múltiplo y la tasa."
 evidence_signals:
-  - "debt service coverage"
-  - "dilution"
-  - "runway"
-  - "cash volatility"
-  - "control rights"
+  - "escenarios de caja proyectados"
+  - "cobertura de servicio medida"
+  - "dilución y valor cuantificados"
+  - "mezcla y plan B definidos"

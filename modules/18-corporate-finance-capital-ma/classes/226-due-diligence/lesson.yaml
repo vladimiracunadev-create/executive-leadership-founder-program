@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Capital allocator"
 outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir due diligence de quality of earnings mediante evidencia observable."
-  - "Aplicar la secuencia: partir de deal thesis → convertir supuestos en questions → asignar workstreams y materiality → analizar findings y cuantificar → actualizar price terms o walk-away."
-  - "Interpretar QoE adjustments, customer concentration, legal exposure sin atribuir causalidad automática."
-  - "Resolver el caso de due diligence con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Convertir la tesis de la operación en preguntas verificables."
+  - "Organizar frentes de trabajo con criterios de materialidad."
+  - "Analizar la calidad de las utilidades y las deudas implícitas."
+  - "Cuantificar hallazgos y su efecto en valor, precio y condiciones."
+  - "Decidir entre ajustar el precio, pedir protecciones o retirarse."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
   - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Brad Feld & Jason Mendelson — *Venture Deals*"
-  - "Aswath Damodaran — *Investment Valuation*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+  - "Atul Gawande — *The Checklist Manifesto*"
 limits:
-  - "Diligence nunca elimina toda incertidumbre y tiene tiempo limitado. Prioriza supuestos que pueden cambiar decisión o terms, no exhaustividad imposible."
+  - "La información proviene en gran parte del vendedor y puede ser incompleta."
 evidence_signals:
-  - "QoE adjustments"
-  - "customer concentration"
-  - "legal exposure"
-  - "security findings"
-  - "deal assumption changes"
+  - "supuestos convertidos en preguntas"
+  - "calidad de utilidades ajustada"
+  - "deuda implícita y capital de trabajo"
+  - "hallazgos cuantificados y clasificados"

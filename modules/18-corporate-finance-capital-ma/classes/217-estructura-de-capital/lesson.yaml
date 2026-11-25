@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Capital allocator"
 outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir capital structure de financial leverage mediante evidencia observable."
-  - "Aplicar la secuencia: modelar cash flows y downside → estimar debt capacity → comparar costo y control → stress-test covenants y liquidez → definir rango objetivo y contingencias."
-  - "Interpretar net debt-EBITDA, interest coverage, free cash flow sin atribuir causalidad automática."
-  - "Resolver el caso de estructura de capital con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir estructura de capital y apalancamiento financiero."
+  - "Estimar la capacidad de deuda con flujos, escenarios adversos y restricciones."
+  - "Comparar el costo y el control de deuda y capital propio."
+  - "Someter la estructura a pruebas de estrés de liquidez y de condiciones contractuales."
+  - "Definir un rango objetivo con márgenes y un plan de contingencia."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
   - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Aswath Damodaran — *Investment Valuation*"
-  - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
+  - "Stewart C. Myers — *The Capital Structure Puzzle*"
+  - "Stewart C. Myers & Nicholas S. Majluf — *Corporate financing and investment decisions when firms have information that investors do not have*"
+  - "John R. Graham & Campbell R. Harvey — *The theory and practice of corporate finance: evidence from the field*"
   - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
 limits:
-  - "Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital."
+  - "No existe un nivel óptimo universal: los modelos informan, pero no sustituyen el juicio."
 evidence_signals:
-  - "net debt-EBITDA"
-  - "interest coverage"
-  - "free cash flow"
-  - "liquidity headroom"
-  - "covenant headroom"
+  - "caja y peor caso modelados"
+  - "capacidad de deuda estimada"
+  - "costo y control comparados"
+  - "rango objetivo con contingencias"

@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 18 completa** (217–228): estructura de capital y capacidad de deuda (Brealey, Myers y Allen,
+  Myers, Graham y Harvey), costo de capital (Fama y French), deuda frente a equity (Myers y Majluf, Jensen y
+  Meckling), valoración por flujos y por múltiplos (Koller, Damodaran, Penman), captación de capital, cap table y
+  term sheets (Feld y Mendelson, Wasserman), lógica estratégica de las adquisiciones (Roll, Andrade y otros,
+  Moeller y otros), debida diligencia, integración post-adquisición y capstone del comité de capital; cada clase
+  con fuentes verificadas, cifras recalculadas y un diagrama a medida.
 - **La parte 17 completa** (205–216): propiedad, gobierno y administración (Jensen y Meckling, Fama y Jensen),
   qué hace un directorio, presidente y CEO, comités de auditoría, riesgo y compensación (COSO, OCDE), deberes,
   conflictos e independencia (Cialdini sobre la influencia), información y transparencia, board pack, supervisión

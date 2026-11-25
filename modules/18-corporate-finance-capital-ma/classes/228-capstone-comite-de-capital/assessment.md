@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **capital allocation framework** de **capital budget** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **portfolio return** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **risk-adjusted return** con **capital recycling**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre marco de asignación y presupuesto de capital?
+2. ¿De qué se compone el capital disponible y cómo se prueba en estrés?
+3. ¿Cómo se comparan oportunidades cuando el capital es limitado?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** La empresa dispone de USD 30M: puede adquirir un competidor, construir nueva planta, pagar deuda o invertir en IA. Cada sponsor presenta su caso con métricas distintas.
+**Caso:** Una empresa de energía y servicios con ventas de 210.000 millones de pesos, EBITDA de 31.500 millones, deuda neta de 52.000 millones (1,65 veces), caja de 14.000 millones y un piso de caja de 8.000 recibe este año nueve propuestas por un total de 68.000 millones: ampliación de una planta (14.000; TIR de 18 %), automatización de procesos (6.500; 24 %), parque solar (22.000; 12 %, con contratos de largo plazo), plataforma de clientes (9.000; 20 %), adquisición de un competidor regional (18.000 al cierre; TIR de 13 %; con una diligencia incompleta), mantenimiento obligatorio (7.500), pilotos de almacenamiento de energía (3.000), recompra de acciones solicitada por los propietarios (5.000) y reducción de deuda (4.000). El flujo libre antes de dividendos es de 15.000 millones; los dividendos, 6.000. El costo de capital es de 9,5 % y la tasa de corte, 13 % para proyectos del negocio actual y 15 % para nuevos. El directorio quiere «un presupuesto equilibrado»; el CEO prefiere la adquisición; los propietarios piden la recompra; el director financiero advierte que el covenant exige menos de 3,0 veces. De los 20 líderes más críticos, solo 5 trabajan en las prioridades del plan.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **establecer cash floor y constraints → comparar oportunidades por return y risk → considerar strategic options → asignar capital y talent → revisar post-investment y recycle**. Debes utilizar o diseñar cómo obtener **ROIC, FCF, capital concentration**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de asignación de capital** que contenga: (a) las restricciones duras (piso de caja, capacidad de deuda, covenants) y el capital disponible en el escenario base y adverso; (b) la comparación de las nueve propuestas con retorno, riesgo y ajuste a la tasa de corte; (c) el tratamiento de las opciones estratégicas y de la adquisición; (d) la asignación con monto firme y condicionado, etapas y puertas; (e) la asignación de talento y la medición «talento en prioridades»; (f) el plan de revisión posterior y las verificaciones financieras, contractuales y regulatorias pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las proyecciones son inciertas y optimistas.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

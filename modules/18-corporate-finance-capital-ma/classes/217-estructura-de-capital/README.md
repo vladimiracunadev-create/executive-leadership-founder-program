@@ -10,225 +10,201 @@
 
 ## 🎯 Propósito
 
-La estructura de capital combina deuda, equity y otras fuentes para financiar activos y crecimiento. La elección afecta costo, flexibilidad, control, impuestos, covenant risk y resiliencia; no existe un ratio óptimo universal separado del riesgo operativo y ciclo de caja.
+La estructura de capital es la mezcla de deuda y capital propio con que una empresa financia sus activos. En los textos aparece como un problema de optimización: hay un nivel de deuda que minimiza el costo de capital y maximiza el valor. En la práctica es una decisión de **supervivencia y de control**: cuánta deuda puede soportar la empresa si el negocio va peor de lo previsto, cuánto estamos dispuestos a diluir a los propietarios, qué condiciones aceptamos de los acreedores y qué margen de seguridad dejamos para aprovechar oportunidades o resistir crisis. Muchas empresas que quebraron no tenían un mal negocio sino una estructura de capital que no resistió un mal año; otras perdieron oportunidades porque, por temor a endeudarse, financiaron todo con capital más caro.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **estructura de capital** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase aborda la estructura de capital como una decisión de **rango con margen de seguridad**, apoyada en la teoría de Brealey, Myers y Allen, en la idea de Myers sobre el «rompecabezas» de la estructura de capital y la jerarquía de las fuentes de financiamiento, en la evidencia de Graham y Harvey sobre cómo deciden realmente los gerentes financieros y en la visión de Koller y colaboradores sobre valor y financiamiento. Al terminar sabrás modelar caja y peor caso, estimar la capacidad de deuda, comparar costo y control de cada fuente, someter la estructura a pruebas de estrés y definir un rango objetivo con contingencias.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `capital structure`, `financial leverage`, `debt capacity`, `covenant`, `financial flexibility` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** net debt-EBITDA, interest coverage, free cash flow sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** estructura de capital y apalancamiento financiero.
+2. **Estimar** la capacidad de deuda con flujos, escenarios adversos y restricciones.
+3. **Comparar** el costo y el control de deuda y capital propio.
+4. **Someter** la estructura a pruebas de estrés de liquidez y de condiciones contractuales.
+5. **Definir** un rango objetivo con márgenes y un plan de contingencia.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define capital structure y financial leverage sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con net debt-EBITDA y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué nivel de deuda de tu empresa te dejaría sin dormir si el negocio cae 25 % y por qué? |
+| 20–60 min | Teorías, capacidad de deuda, costo y control, estrés, rango y contingencia. |
+| 60–105 min | Ejemplo trabajado: tres formas de financiar una inversión de 4.000 millones. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **capital structure** | mezcla de deuda equity y otros instrumentos | Distingue un hecho compatible y otro que lo refute. |
-| **financial leverage** | uso de deuda que amplifica retorno y pérdida para equity | Distingue un hecho compatible y otro que lo refute. |
-| **debt capacity** | capacidad de soportar deuda sin riesgo excesivo de distress | Distingue un hecho compatible y otro que lo refute. |
-| **covenant** | compromiso contractual que limita o exige ciertas condiciones | Distingue un hecho compatible y otro que lo refute. |
-| **financial flexibility** | capacidad de obtener recursos o adaptarse bajo estrés | Distingue un hecho compatible y otro que lo refute. |
+| **Estructura de capital** | Proporción de deuda y capital propio con que se financia la empresa. | Razones de deuda sobre capital o sobre EBITDA. |
+| **Apalancamiento financiero** | Efecto de la deuda sobre el retorno y el riesgo del capital propio. | Retorno propio más volátil. |
+| **Capacidad de deuda** | Deuda máxima que el flujo soporta en el escenario adverso. | Cobertura de intereses y de servicio de deuda. |
+| **Covenant** | Condición financiera impuesta por el acreedor. | Razón máxima de deuda o mínima de cobertura. |
+| **Costo de quiebra** | Pérdida de valor por dificultades financieras. | Pérdida de clientes, talento y opciones. |
+| **Rango objetivo** | Intervalo de deuda con margen de seguridad. | Define cuándo endeudarse y cuándo reducir. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 217: 1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias](modelo-mental.svg)
+![Cómo se decide una estructura de capital: caja y peor caso, capacidad de deuda, costo y control, estrés, rango y contingencias.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La estructura de capital combina deuda, equity y otras fuentes para financiar activos y crecimiento. La elección afecta costo, flexibilidad, control, impuestos, covenant risk y resiliencia; no existe un ratio óptimo universal separado del riesgo operativo y ciclo de caja.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Caja y peor caso**: flujos esperados y escenario adverso. **Capacidad de deuda**: cuánta deuda soporta el flujo. **Costo y control**: qué cuesta y qué se cede con cada fuente. **Estrés**: covenants y liquidez bajo escenarios duros. **Rango y contingencias**: meta con márgenes y plan B. La flecha indica que los resultados reajustan el rango. La nota afirma que la estructura de capital es un rango con margen de seguridad y que lo que importa es poder cumplir los compromisos en el peor caso razonable; el pie, que los covenants se leen en los contratos.
 
 ## 📖 Desarrollo
 
-### 1. capital structure: mecanismo central
+### 1. Qué dice la teoría y qué se observa
 
-**capital structure** se entiende aquí como **mezcla de deuda equity y otros instrumentos**. Esta es la pieza causal o estructural desde la que se inicia **estructura de capital**: antes de modelar cash flows y downside, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La teoría clásica de las finanzas corporativas, tal como la presentan Brealey, Myers y Allen, parte de que en un mercado sin fricciones el valor de la empresa no depende de cómo se financia (proposición de Modigliani y Miller), y que las fricciones reales (impuestos que favorecen la deuda, costos de dificultades financieras, problemas de agencia y asimetría de información) explican por qué la estructura importa. Eso da una lógica de **equilibrio**: la deuda aporta ventajas (costo menor, disciplina, efecto tributario según la ley) pero eleva el riesgo de dificultades. Myers describió además que las empresas tienden a seguir una **jerarquía de fuentes** (primero fondos internos, luego deuda y al final capital nuevo), porque los inversionistas externos descuentan lo que los gerentes saben y ellos no. Graham y Harvey, en una encuesta a gerentes financieros, encontraron que la **flexibilidad financiera** y la **calificación crediticia** pesan más en sus decisiones que un óptimo teórico.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **net debt-EBITDA**; regístrala con periodo, unidad, población y baseline.
+### 2. Modelar caja y escenario adverso
 
-Relaciona el mecanismo con **financial leverage**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La decisión comienza con la **caja operativa** que la empresa genera antes del servicio de la deuda: EBITDA menos inversión de mantención, impuestos y variación de capital de trabajo. Se proyecta en un escenario base y en **escenarios adversos plausibles**: caída de ventas, pérdida de un cliente grande, alza de costos, atraso de cobranzas. Brealey y colaboradores insisten en que el riesgo del negocio determina cuánta deuda es prudente: un negocio con flujos estables y contratos largos soporta más deuda que uno cíclico o con alta concentración. El escenario adverso no es un pronóstico sino un **ejercicio de supervivencia**: ¿qué pasa con la caja y los compromisos si ocurre lo que no queremos que ocurra?
 
-### 2. financial leverage: frontera conceptual y error de clasificación
+### 3. Capacidad de deuda
 
-**Definición operacional:** uso de deuda que amplifica retorno y pérdida para equity. Su valor está en distinguirlo de **capital structure** y **debt capacity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La capacidad de deuda se determina por las **restricciones que se activan primero**: cobertura de intereses (caja operativa sobre intereses), cobertura del servicio de la deuda (considerando amortizaciones), razón de deuda sobre EBITDA, liquidez mínima y condiciones de los covenants. Se calcula la deuda máxima que cumple cada restricción **en el escenario adverso** y se toma la más baja: esa es la capacidad. No se usa el EBITDA de un buen año: las crisis llegan cuando los flujos caen y los compromisos no. También se consideran las **fechas de vencimiento**: una deuda grande que vence en un año de crisis es más riesgosa que una igual con vencimientos escalonados. Koller y colaboradores recuerdan que el valor se crea con el negocio, y la deuda solo cambia cómo se reparte el riesgo y los impuestos.
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **financial leverage** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **interest coverage** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Costo y control
 
-Antes de estimar debt capacity, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cada fuente tiene un **costo** (la tasa de la deuda, el retorno exigido por los propietarios) y un **control** asociado: la deuda exige pagos y condiciones pero no cede propiedad; el capital propio no obliga a pagar pero diluye a los actuales dueños y suma derechos de nuevos socios. La **flexibilidad** también cuenta: la deuda con covenants estrictos reduce la libertad de decisión; el capital permite resistir pérdidas sin quiebra inmediata. Myers y Majluf mostraron que emitir capital puede interpretarse como señal de que los gerentes creen que sus acciones están caras, lo que **encarece** la emisión; por eso muchas empresas prefieren fondos internos y deuda. La decisión se toma comparando el costo adicional del capital con el valor de la **seguridad** que compra.
 
-### 3. debt capacity: operacionalización y medición
+### 5. Estrés: covenants y liquidez
 
-**debt capacity** significa **capacidad de soportar deuda sin riesgo excesivo de distress**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se aplica a la estructura propuesta un conjunto de **pruebas de estrés**: ¿qué pasa si el EBITDA cae 25 %?, ¿si las tasas suben 200 puntos base?, ¿si un cliente clave se va?, ¿si se corta una línea de crédito?, ¿si hay una multa o un siniestro? Para cada escenario se verifican: **cumplimiento de covenants**, **liquidez** (caja más líneas disponibles frente a vencimientos de los próximos 12 a 24 meses), **cobertura** y **capacidad de refinanciar**. Se identifican los **puntos de quiebre**: el nivel de caída del EBITDA a partir del cual se incumple un covenant y cuánto tiempo quedaría para reaccionar. Las condiciones exactas de los contratos de financiamiento se leen en el texto y se consultan con asesoría.
 
-Ben Horowitz — *The Hard Thing About Hard Things* orienta este bloque mediante **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **free cash flow**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Rango objetivo y contingencias
 
-Al llegar a comparar costo y control, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El resultado es un **rango**, no un número. Un enfoque habitual es fijar un límite máximo de uso de la capacidad (por ejemplo, 70 % de la capacidad de deuda en el escenario adverso) y un mínimo por debajo del cual la empresa está desaprovechando financiamiento barato. Se definen **reglas de acción**: si la deuda sube sobre el rango, se reducen dividendos o inversiones; si baja, se evalúan recompras, inversiones o distribución. Se prepara un **plan de contingencia**: líneas de crédito comprometidas no utilizadas, activos vendibles, posibilidad de aporte de propietarios, calendario de vencimientos y una conversación abierta con los acreedores antes de una crisis. El rango se **revisa** cada año o cuando cambian el negocio, las tasas o los covenants.
 
-### 4. covenant: trade-offs y efectos de segundo orden
+### 7. Señales de mala estructura
 
-**Definición:** compromiso contractual que limita o exige ciertas condiciones. Este concepto obliga a abandonar la idea de que **estructura de capital** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de stress-test covenants y liquidez, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aswath Damodaran — *Investment Valuation* aporta una lente sobre **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **liquidity headroom** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **estructura de capital**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **covenant** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. financial flexibility: gobernanza, límites e integración
-
-**financial flexibility** se define como **capacidad de obtener recursos o adaptarse bajo estrés** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* se utiliza para estudiar **proceso de M&A, valoración, due diligence, negociación e integración** y contrastar la recomendación final. Al ejecutar definir rango objetivo y contingencias, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **capital structure**, **financial leverage**, **debt capacity**, **covenant** y **financial flexibility** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **estructura de capital** no consiste en sumar cinco definiciones. Empieza por **capital structure**, contrasta **financial leverage** con **debt capacity**, incorpora **covenant** como restricción o mecanismo y usa **financial flexibility** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Estructura de capital como trade-off
-
-Deuda ofrece prioridad contractual y puede tener ventajas fiscales según jurisdicción; equity absorbe riesgo residual y diluye propiedad/control. No existe ratio universal óptimo. Evalúa estabilidad de caja, activos, covenants, flexibilidad, riesgo de refinanciamiento y etapa.
-
-Usa escenarios de downside: una estructura que maximiza ROE en el caso base puede destruir opcionalidad cuando ventas caen. La capacidad de sobrevivir importa junto al costo promedio de capital.
+Algunas señales de que la estructura de capital es frágil: **vencimientos concentrados** en un mismo año; **dependencia de una sola fuente** o de un banco; **covenants ajustados** que dejan poco margen; **deuda en moneda distinta** de los ingresos sin cobertura; **recurrencia de refinanciamientos** de emergencia; **dividendos financiados con deuda**; y **ausencia de un plan para el peor caso**. También hay señales de estructura **demasiado conservadora**: caja ociosa persistente, rechazo a invertir proyectos rentables por temor a la deuda o un costo de capital más alto que el de comparables. El equilibrio depende del negocio, del ciclo y de la cultura de riesgo del directorio.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **estructura de capital** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **estructura de capital** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **estructura de capital** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **estructura de capital** ayuda a desafiar? |
-| Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* | proceso de M&A, valoración, due diligence, negociación e integración | ¿Qué supuesto de **estructura de capital** ayuda a desafiar? |
-
-En **estructura de capital**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **capital structure**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Brealey, Myers y Allen | Teoría de la estructura de capital y de las fricciones. | No da un nivel específico para cada empresa. | ¿Qué fricción pesa más en nuestro caso? |
+| Myers (1984) | Jerarquía de fuentes y rompecabezas de la estructura de capital. | Modelo con límites empíricos. | ¿Qué fuente usamos primero y por qué? |
+| Myers y Majluf | Asimetría de información y costo de emitir capital. | Teoría estilizada. | ¿Qué señal envía emitir ahora? |
+| Graham y Harvey | Cómo deciden los gerentes: flexibilidad y calificación. | Encuesta de una época y de empresas de EE. UU. | ¿Qué valoramos más: costo o flexibilidad? |
+| Koller y otros | Financiamiento en relación con la creación de valor. | Foco en valoración. | ¿El financiamiento cambia el valor o solo el riesgo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa estable toma deuda para recomprar acciones. Luego pierde su principal cliente y covenant headroom cae de 40% a 5% en dos trimestres.
+**Situación (hipotética).** Una empresa tiene EBITDA de 12.000 millones de pesos, deuda neta de 11.000 millones (0,92 veces el EBITDA), costo de deuda de 8 % antes de impuestos y tasa de impuestos de 27 %. Evalúa una inversión de 4.000 millones.
 
-**Paso 1 — modelar cash flows y downside.** La gerencia escribe primero el supuesto asociado a **capital structure** y evita convertirlo en hecho. Luego busca **net debt-EBITDA** para contrastarlo en el caso de **estructura de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Caja operativa antes del servicio de deuda.** Base: 12.000 (EBITDA) − 3.000 (inversión de mantención) − 1.900 (impuestos) − 600 (capital de trabajo) = 6.500 millones. En un escenario adverso con EBITDA 25 % menor (9.000): 9.000 − 3.000 − 1.000 − 300 = 4.700 millones.
 
-**Paso 2 — estimar debt capacity.** La gerencia escribe primero el supuesto asociado a **financial leverage** y evita convertirlo en hecho. Luego busca **interest coverage** para contrastarlo en el caso de **estructura de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capacidad de deuda en el escenario adverso.**
 
-**Paso 3 — comparar costo y control.** La gerencia escribe primero el supuesto asociado a **debt capacity** y evita convertirlo en hecho. Luego busca **free cash flow** para contrastarlo en el caso de **estructura de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Restricción | Cálculo | Deuda máxima |
+|---|---|---|
+| Cobertura de intereses ≥ 3,0 veces | Intereses máximos = 4.700 ÷ 3 = 1.566,7; deuda = 1.566,7 ÷ 0,08 | 19.583 |
+| Cobertura del servicio de deuda ≥ 1,3 veces (amortización de 10 % anual: servicio = 0,18 × deuda) | 4.700 ÷ (1,3 × 0,18) | 20.085 |
+| Covenant de deuda neta ≤ 3,0 veces el EBITDA | 3,0 × 9.000 | 27.000 |
+| **Capacidad (la menor)** | | **19.583** |
 
-**Paso 4 — stress-test covenants y liquidez.** La gerencia escribe primero el supuesto asociado a **covenant** y evita convertirlo en hecho. Luego busca **liquidity headroom** para contrastarlo en el caso de **estructura de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rango objetivo.** Entre 55 % y 70 % de la capacidad: de 10.771 a 13.708 millones. La deuda actual de 11.000 equivale a 56,2 % (11.000 ÷ 19.583): dentro del rango, cerca del piso.
 
-**Paso 5 — definir rango objetivo y contingencias.** La gerencia escribe primero el supuesto asociado a **financial flexibility** y evita convertirlo en hecho. Luego busca **covenant headroom** para contrastarlo en el caso de **estructura de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tres formas de financiar los 4.000 millones.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **estructura de capital**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Opción | Financiamiento | Deuda neta | Deuda/EBITDA | En estrés | Cobertura de intereses en estrés | Servicio de deuda en estrés | Uso de la capacidad |
+|---|---|---|---|---|---|---|---|
+| A | 4.000 de deuda | 15.000 | 1,25 | 1,67 | 4.700 ÷ 1.200 = 3,92 | 4.700 ÷ 2.700 = 1,74 | 76,6 % |
+| B | 2.500 de deuda + 1.500 de caja propia (menos dividendos) | 13.500 | 1,13 | 1,50 | 4.700 ÷ 1.080 = 4,35 | 4.700 ÷ 2.430 = 1,93 | 68,9 % |
+| C | 1.000 de deuda + 3.000 de capital nuevo | 12.000 | 1,00 | 1,33 | 4.700 ÷ 960 = 4,90 | 4.700 ÷ 2.160 = 2,18 | 61,3 % |
+
+**Costo.** La deuda cuesta 8 % × (1 − 0,27) = 5,84 % después de impuestos; el capital propio, supongamos 13 %. Frente a la opción A, B usa 1.500 de capital propio en lugar de deuda: costo adicional anual = 1.500 × (13 % − 5,84 %) = 107,4 millones. C usa 3.000 de capital propio: 3.000 × 7,16 % = 214,8 millones, además de dilución.
+
+**Decisión.** La opción A cumple todos los covenants y coberturas en estrés, pero deja la empresa en el 76,6 % de su capacidad, sobre el rango del 70 %. La opción B mantiene la estructura dentro del rango con un costo adicional de 107 millones al año y sin dilución. La opción C compra más seguridad que la necesaria a un costo mayor. Se elige **B**, con un plan de contingencia: línea de crédito comprometida de 2.000 millones sin utilizar y revisión anual del rango.
+
+**Cuidados.** El costo del capital propio es una estimación; los covenants, las condiciones de los créditos y el tratamiento tributario de los intereses se verifican en los contratos y con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La capacidad se calculó con el escenario adverso y no con el año bueno. (2) La decisión comparó el costo con el margen de seguridad. (3) Se definió un rango y un plan de contingencia.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **capital structure** | mezcla de deuda equity y otros instrumentos | Cuando net debt-EBITDA es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **financial leverage** | uso de deuda que amplifica retorno y pérdida para equity | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Estructura de capital frente a política de dividendos.** El pago de dividendos es un uso de la caja que afecta cuánta deuda se necesita; ambas decisiones se toman en conjunto.
 
-**Frontera de aplicación:** Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital.
+**Límites.** No existe un nivel óptimo universal: los modelos informan, pero no sustituyen el juicio. Los escenarios adversos son hipótesis; las tasas y los costos de capital cambian. La disponibilidad de financiamiento depende del mercado. Las normas contables y tributarias aplicables y los términos de los contratos se verifican en la fuente. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre estructura de capital |
+| Nivel | Cómo participa en la estructura de capital |
 |---|---|
-| **Profesional** | usa **estructura de capital** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **capital structure** y **financial leverage** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta net debt-EBITDA con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si estructura de capital cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de estructura de capital reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **estructura de capital** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo el flujo de su área sostiene los compromisos. |
+| **Jefe / Team Lead** | Cuida el capital de trabajo de su equipo. |
+| **Gerente** | Presenta proyecciones realistas con escenarios adversos. |
+| **CEO / Director** | Fija el rango de deuda con el directorio y protege la liquidez. |
+| **Founder / Owner** | Decide cuánto de su patrimonio y de su control está dispuesto a arriesgar. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa estable toma deuda para recomprar acciones. Luego pierde su principal cliente y covenant headroom cae de 40% a 5% en dos trimestres.
+Una empresa de transporte con ingresos de 130.000 millones de pesos y EBITDA de 15.600 millones (12 %) tiene una deuda neta de 31.200 millones (2,0 veces) con vencimientos concentrados: 14.000 millones en el próximo año. Su principal covenant es una razón máxima de deuda neta sobre EBITDA de 3,0 veces. El 40 % de los ingresos depende de dos clientes; la caída de ventas en el último ciclo fue de 22 %. El directorio evalúa una expansión de flota de 9.000 millones que se financiaría con deuda, y los propietarios piden mantener el dividendo de 3.500 millones. El banco ofrece una nueva línea con covenants más ajustados (2,5 veces), y un fondo propone aportar capital a cambio de 18 % de la propiedad. El gerente financiero dice que «con el EBITDA actual tenemos holgura»; un director cree que la empresa «está al límite».
 
-Entrega un **decision brief de estructura de capital** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de estructura de capital** que contenga: (a) la caja operativa en el escenario base y en el adverso, con supuestos; (b) la capacidad de deuda con las restricciones y la más exigente; (c) la comparación de al menos tres alternativas de financiamiento con costo, control y dilución; (d) las pruebas de estrés de covenants y liquidez, incluidos los vencimientos del año próximo; (e) el rango objetivo y las reglas de acción; (f) el plan de contingencia y las verificaciones contractuales y tributarias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **estructura de capital** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta net debt-EBITDA, interest coverage; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula la caja operativa antes del servicio de deuda de tu empresa en el escenario base y en uno adverso.
+2. Estima la capacidad de deuda con tres restricciones y señala la más exigente.
+3. Compara dos formas de financiar una inversión con costo, riesgo y control.
+4. Diseña tres pruebas de estrés y verifica covenants y liquidez en cada una.
+5. Define un rango objetivo de deuda con reglas de acción y un plan de contingencia.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar capital structure y financial leverage como sinónimos | Se pierde la distinción entre “mezcla de deuda equity y otros instrumentos” y “uso de deuda que amplifica retorno y pérdida para equity” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “definir rango objetivo y contingencias” | Se saltó “modelar cash flows y downside” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias y marca el primer supuesto no demostrado. |
-| Optimizar solo net debt-EBITDA | La métrica local sustituyó al resultado del sistema | Contrástala con interest coverage y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre estructura de capital | Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital. |
-| No fijar revisión | Una decisión sobre estructura de capital se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Calcular la capacidad con un buen año | Se mira el flujo actual | Usar el escenario adverso. |
+| Buscar un óptimo único | Se confía en la teoría | Definir un rango con margen. |
+| Vencimientos concentrados | Se sigue la oferta disponible | Escalonar y anticipar refinanciamientos. |
+| Ignorar covenants | Se consideran un detalle | Probar su cumplimiento en estrés. |
+| Dividendos con deuda | Presión de propietarios | Vincular dividendos al rango de deuda. |
+| Evitar la deuda por temor | Cultura conservadora | Comparar el costo del capital propio con el valor de la seguridad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **capital structure** y **financial leverage** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **debt capacity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **modelar cash flows y downside → estimar debt capacity** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **net debt-EBITDA** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **estructura de capital**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital.**?
+1. ¿Por qué importa la estructura de capital si, en teoría, el valor no depende del financiamiento?
+2. ¿Qué es la jerarquía de fuentes de Myers?
+3. ¿Cómo se estima la capacidad de deuda?
+4. ¿Qué pruebas de estrés se aplican a una estructura propuesta?
+5. ¿Qué compara la decisión entre deuda y capital propio?
+6. ¿Qué es un rango objetivo y para qué sirve?
+7. ¿Qué señales muestran una estructura frágil?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque hay fricciones (impuestos, costos de dificultades financieras, agencia, información) que hacen que la mezcla afecte el valor y el riesgo.
+2. La tendencia a financiarse primero con fondos internos, luego con deuda y al final con capital nuevo, por la asimetría de información.
+3. Con la caja operativa en el escenario adverso y la deuda máxima que cumple cada restricción; se toma la menor.
+4. Caída del EBITDA, alza de tasas, pérdida de un cliente, corte de líneas y eventos extraordinarios, verificando covenants, liquidez y cobertura.
+5. El costo adicional del capital propio frente al valor de la seguridad y de la flexibilidad, junto con el control y la dilución.
+6. Un intervalo de deuda con márgenes de seguridad que define cuándo endeudarse o reducir y reglas de acción.
+7. Vencimientos concentrados, dependencia de una fuente, covenants ajustados, descalce de monedas, refinanciamientos de emergencia y dividendos financiados con deuda.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/217-estructura-de-capital/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **estructura de capital**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **estructura de capital** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **capital structure**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa estable toma deuda para recomprar acciones. Luego pierde su principal cliente y covenant headroom cae de 40% a 5% en dos trimestres.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el memo del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con la proyección de caja y de liquidez en estrés;
+- `decision-journal.md` con los supuestos, los covenants y el plan de contingencia.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** proceso de M&A, valoración, due diligence, negociación e integración. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **estructura de capital** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **estructura de capital**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **estructura de capital** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **estructura de capital** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **estructura de capital** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** teoría de la estructura de capital y de las fricciones. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stewart C. Myers — *The Capital Structure Puzzle* (The Journal of Finance, 1984). **Uso en esta clase:** jerarquía de fuentes y rompecabezas de la estructura de capital. **Localizador:** [DOI 10.1111/j.1540-6261.1984.tb03646.x](https://doi.org/10.1111/j.1540-6261.1984.tb03646.x).
+- Stewart C. Myers & Nicholas S. Majluf — *Corporate financing and investment decisions when firms have information that investors do not have* (Journal of Financial Economics, 1984). **Uso en esta clase:** asimetría de información y costo de emitir capital. Lectura selectiva sobre **estructura de capital**. **Localizador:** [DOI 10.1016/0304-405X(84)90023-0](https://doi.org/10.1016/0304-405X(84)90023-0).
+- John R. Graham & Campbell R. Harvey — *The theory and practice of corporate finance: evidence from the field* (Journal of Financial Economics, 2001). **Uso en esta clase:** cómo deciden los gerentes financieros. Lectura selectiva sobre **estructura de capital**. **Localizador:** [DOI 10.1016/s0304-405x(01)00044-7](https://doi.org/10.1016/s0304-405x(01)00044-7).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** financiamiento y creación de valor. Lectura selectiva sobre **estructura de capital**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
 
-> **Regla de fuentes para Estructura de capital:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **estructura de capital** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Estructura de capital:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los contratos de financiamiento, los covenants y el tratamiento tributario y contable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

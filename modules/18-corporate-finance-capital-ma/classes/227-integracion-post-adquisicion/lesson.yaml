@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Capital allocator"
 outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir Day 1 de integration management office mediante evidencia observable."
-  - "Aplicar la secuencia: traducir deal thesis a integration priorities → proteger clientes y talento → definir Day 1 governance → secuenciar synergies y systems → medir value capture y culture risks."
-  - "Interpretar synergy realized, critical talent retention, customer churn sin atribuir causalidad automática."
-  - "Resolver el caso de integración post-adquisición con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Traducir la tesis de la adquisición en prioridades de integración con dueños."
+  - "Proteger a clientes y talento clave desde antes del cierre."
+  - "Definir el gobierno del día 1 y la oficina de integración."
+  - "Secuenciar sinergias y sistemas con un calendario realista."
+  - "Medir la captura de valor y corregir el rumbo."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Aswath Damodaran — *Investment Valuation*"
   - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Gregor Andrade, Mark Mitchell & Erik Stafford — *New Evidence and Perspectives on Mergers*"
+  - "Sara B. Moeller, Frederik P. Schlingemann & René M. Stulz — *Firm size and the gains from acquisitions*"
+  - "John P. Kotter — *Leading Change*"
+  - "Michael D. Watkins — *The First 90 Days*"
 limits:
-  - "Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis."
+  - "Los resultados dependen de factores difíciles de prever (reacción de clientes, mercado, personas)."
 evidence_signals:
-  - "synergy realized"
-  - "critical talent retention"
-  - "customer churn"
-  - "integration cost"
-  - "system migration progress"
+  - "tesis traducida en iniciativas con dueño"
+  - "clientes y talento protegidos"
+  - "calendario de sinergias con valor presente"
+  - "tablero de captura de valor"

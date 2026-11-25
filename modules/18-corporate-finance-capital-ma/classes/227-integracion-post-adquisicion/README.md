@@ -10,225 +10,204 @@
 
 ## 🎯 Propósito
 
-La integración post-adquisición captura o destruye la tesis del deal. Antes del Day 1 deben definirse governance, critical talent, customer continuity, synergies, systems y ritmo de decisión. Integrar todo rápidamente no siempre maximiza valor; algunas capacidades requieren autonomía.
+La firma de una adquisición marca el comienzo del trabajo, no el final. Todo lo prometido en la tesis (sinergias de costos, ventas cruzadas, nuevas capacidades) solo ocurre si dos organizaciones, con culturas, sistemas, incentivos y prioridades distintos, se integran de verdad. Y ahí se pierde con facilidad el valor: clientes que se inquietan y se van, personas clave que reciben una oferta de la competencia, decisiones que se paralizan por no saber quién manda, sistemas que no se integran, sinergias que se prometieron sin dueño ni calendario, y un equipo directivo agotado que además debe seguir operando el negocio. Estudios sobre fusiones sugieren que una proporción importante no logra el valor esperado, y que la causa suele estar más en la ejecución posterior que en el precio.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **integración post-adquisición** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta la integración como un proyecto de **gestión del cambio con dueño y medición**: traducir la tesis a prioridades, proteger a clientes y talento desde el primer día, definir el gobierno del día 1, secuenciar sinergias y sistemas de forma realista y medir la captura de valor. Se apoya en DePamphilis, en Andrade, Mitchell y Stafford y en Moeller, Schlingemann y Stulz sobre los resultados de las fusiones, en Kotter sobre la conducción de cambios y en Watkins sobre las transiciones de liderazgo. Al terminar sabrás diseñar el plan de integración, estimar el efecto de los retrasos en el valor de las sinergias y establecer indicadores y reglas de corrección.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `Day 1`, `integration management office`, `synergy capture`, `critical talent`, `integration archetype` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** synergy realized, critical talent retention, customer churn sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Traducir** la tesis de la adquisición en prioridades de integración con dueños.
+2. **Proteger** a clientes y talento clave desde antes del cierre.
+3. **Definir** el gobierno del día 1 y la oficina de integración.
+4. **Secuenciar** sinergias y sistemas con un calendario realista.
+5. **Medir** la captura de valor y corregir el rumbo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define Day 1 y integration management office sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con synergy realized y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué integración vivida o conocida perdió clientes o talento en los primeros seis meses y por qué? |
+| 20–60 min | Tesis, protección, gobierno, sinergias, sistemas, cultura y medición. |
+| 60–105 min | Ejemplo trabajado: calendario de sinergias, costos y valor presente. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **Day 1** | primer día bajo nueva propiedad con continuidad y mensajes definidos | Distingue un hecho compatible y otro que lo refute. |
-| **integration management office** | mecanismo temporal que coordina workstreams y dependencias | Distingue un hecho compatible y otro que lo refute. |
-| **synergy capture** | realización medible de beneficios del deal | Distingue un hecho compatible y otro que lo refute. |
-| **critical talent** | personas cuya salida amenaza tesis o continuidad | Distingue un hecho compatible y otro que lo refute. |
-| **integration archetype** | grado de absorción preservación o simbiosis entre empresas | Distingue un hecho compatible y otro que lo refute. |
+| **Integración** | Proceso de combinar operaciones, sistemas y personas tras la compra. | Plan con hitos y responsables. |
+| **Día 1** | Primer día de operación conjunta. | Comunicación, gobierno y continuidad. |
+| **Oficina de integración (IMO)** | Equipo que coordina y mide la integración. | Dueño, calendario y tablero. |
+| **Captura de sinergias** | Valor efectivamente logrado frente al prometido. | Seguimiento por iniciativa. |
+| **Costo de lograr (*cost to achieve*)** | Gasto necesario para obtener las sinergias. | Indemnizaciones, sistemas, traslados. |
+| **Retención de talento y clientes** | Permanencia de personas y clientes críticos. | Indicadores de rotación y ventas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 227: 1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks](modelo-mental.svg)
+![Integrar una adquisición para capturar valor: tesis a prioridades, clientes y talento, gobierno del día 1, sinergias y sistemas, y medir captura.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La integración post-adquisición captura o destruye la tesis del deal. Antes del Day 1 deben definirse governance, critical talent, customer continuity, synergies, systems y ritmo de decisión. Integrar todo rápidamente no siempre maximiza valor; algunas capacidades requieren autonomía.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Tesis a prioridades**: qué valor se prometió y cómo se logra. **Clientes y talento**: proteger lo que se compró. **Gobierno del día 1**: quién decide qué desde el primer día. **Sinergias y sistemas**: secuencia realista y dueños. **Medir captura**: valor logrado frente a lo prometido. La flecha indica que lo medido ajusta el plan de integración. La nota afirma que gran parte del valor de una adquisición se pierde o se gana después de firmarla; el pie, que los cambios que afectan a personas se verifican con asesoría laboral y normas vigentes.
 
 ## 📖 Desarrollo
 
-### 1. Day 1: mecanismo central
+### 1. La integración empieza antes del cierre
 
-**Day 1** se entiende aquí como **primer día bajo nueva propiedad con continuidad y mensajes definidos**. Esta es la pieza causal o estructural desde la que se inicia **integración post-adquisición**: antes de traducir deal thesis a integration priorities, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+DePamphilis insiste en que la planificación de la integración debe comenzar **durante la debida diligencia**, no después de la firma. Las razones: los hallazgos de la diligencia (clientes frágiles, personas clave, sistemas incompatibles) son insumos del plan; el período entre la firma y el cierre permite preparar el día 1; y el comprador puede estructurar el contrato para proteger lo esencial (acuerdos de permanencia, pagos contingentes). Un equipo de integración con un **dueño con autoridad** (muchas veces, un ejecutivo senior ajeno a quienes negociaron la compra) se forma desde la fase de diligencia, con representantes de las funciones clave de ambas empresas. Si no hay dueño, nadie responde por el valor prometido.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **synergy realized**; regístrala con periodo, unidad, población y baseline.
+### 2. De la tesis a prioridades
 
-Relaciona el mecanismo con **integration management office**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La tesis contiene las **fuentes de valor** (sinergias de costos, de ingresos, capacidades). Cada una se traduce en **iniciativas** con dueño, meta, plazo, costo y riesgo. Se **priorizan** según valor, probabilidad y rapidez: primero las que aseguran el negocio (retener clientes y personas, mantener la operación), luego las que generan caja temprana (compras, costos duplicados), y después las estructurales (sistemas, plantas, reorganizaciones). Kotter sugiere que los cambios de gran escala necesitan **urgencia**, una **coalición** y **victorias tempranas** (clase 177); en una integración, las primeras victorias visibles (por ejemplo, el primer pedido conjunto, una compra consolidada con ahorro verificable) construyen confianza. Se evita comprometer demasiadas iniciativas simultáneas: la organización necesita seguir operando.
 
-### 2. integration management office: frontera conceptual y error de clasificación
+### 3. Proteger clientes y talento
 
-**Definición operacional:** mecanismo temporal que coordina workstreams y dependencias. Su valor está en distinguirlo de **Day 1** y **synergy capture**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El mayor riesgo del primer año es la **fuga** de lo que se compró. Los **clientes** perciben cambios (nuevos contactos, atrasos, cambios de condiciones) y evalúan alternativas; se les comunica pronto y con claridad, se asigna a cada cliente clave un responsable y se **monitorea** la retención. Los **competidores** aprovechan el período para captar clientes. Las **personas clave** (directivos, ingenieros, vendedores con relaciones, técnicos con conocimiento único) se identifican desde la diligencia, se les ofrece claridad sobre su rol y futuro, **incentivos de permanencia** proporcionados (diferidos, ligados a hitos) y reconocimiento. Watkins advierte que los períodos de transición son delicados: la claridad temprana de roles y expectativas reduce la ansiedad. Los acuerdos con personas se verifican con asesoría laboral y las normas vigentes.
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **integration management office** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **critical talent retention** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Gobierno del día 1 y oficina de integración
 
-Antes de proteger clientes y talento, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **día 1** define cómo se percibe la nueva organización. Se prepara: **comunicación** coherente para empleados, clientes, proveedores y autoridades; **estructura de mando** clara (quién decide qué, a quién se reporta); **continuidad operativa** (pagos, nómina, facturación, atención a clientes); y **cumplimiento** de obligaciones legales (por ejemplo, información a trabajadores y autoridades, aprobaciones regulatorias). La **oficina de integración** coordina las iniciativas, mantiene el calendario, resuelve conflictos entre funciones, mide el avance y reporta al comité y al directorio. Se define un **ritmo** (reunión semanal del equipo de integración, revisión mensual con el CEO) y **reglas de escalamiento**. Las decisiones sobre quién ocupa cada cargo se toman con **criterios transparentes** y con la mayor rapidez posible para reducir la incertidumbre.
 
-### 3. synergy capture: operacionalización y medición
+### 5. Secuenciar sinergias y sistemas
 
-**synergy capture** significa **realización medible de beneficios del deal**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las sinergias de **costos** son las más rápidas pero cuestan: indemnizaciones, cierres, traslados, sistemas (el costo de lograrlas). Las de **ingresos** son más lentas y dependen de clientes y equipos comerciales. Los **sistemas** (ERP, CRM, datos) son la fuente más frecuente de retrasos: integrarlos exige tiempo, pruebas y riesgo operativo; muchas empresas operan en paralelo meses o años y migran por etapas. Se construye un **calendario realista** con las dependencias y se calcula el **valor presente** de la captura: una sinergia que se logra en tres años vale menos que una inmediata. Cada retraso tiene un costo estimable. Se evita prometer sinergias a un ritmo que la organización no puede soportar, porque el costo en servicio y en personas puede superar el ahorro.
 
-Ben Horowitz — *The Hard Thing About Hard Things* orienta este bloque mediante **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **customer churn**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cultura y comunicación
 
-Al llegar a definir day 1 governance, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Dos culturas distintas (formas de decidir, jerarquía, ritmo, estilo de comunicación, tolerancia al riesgo) se encuentran en la integración. Ignorar la cultura produce malentendidos y desgaste; imponerla produce resistencia. Se diagnostican las **diferencias** (clase 174) y se acuerdan **prácticas comunes** donde importa (seguridad, ética, atención al cliente, decisiones) y se **respeta** la diversidad donde no afecta el negocio. La comunicación es continua: **qué se sabe, qué no se sabe, qué se decidió y cuándo se sabrá más** (clase 200). Se escuchan las preocupaciones de las personas y se corrigen rumores con información. Kotter subraya la necesidad de anclar los cambios en la cultura mediante nuevas rutinas y reconocimientos.
 
-### 4. critical talent: trade-offs y efectos de segundo orden
+### 7. Medir la captura de valor y corregir
 
-**Definición:** personas cuya salida amenaza tesis o continuidad. Este concepto obliga a abandonar la idea de que **integración post-adquisición** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de secuenciar synergies y systems, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aswath Damodaran — *Investment Valuation* aporta una lente sobre **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **integration cost** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **integración post-adquisición**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **critical talent** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. integration archetype: gobernanza, límites e integración
-
-**integration archetype** se define como **grado de absorción preservación o simbiosis entre empresas** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* se utiliza para estudiar **proceso de M&A, valoración, due diligence, negociación e integración** y contrastar la recomendación final. Al ejecutar medir value capture y culture risks, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **Day 1**, **integration management office**, **synergy capture**, **critical talent** y **integration archetype** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **integración post-adquisición** no consiste en sumar cinco definiciones. Empieza por **Day 1**, contrasta **integration management office** con **synergy capture**, incorpora **critical talent** como restricción o mecanismo y usa **integration archetype** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Integración: valor y continuidad
-
-Antes de Day 1 define decisiones sobre liderazgo, customer continuity, sistemas críticos, talento clave y controles. Distingue integración necesaria de áreas que conviene mantener separadas para proteger valor.
-
-Usa un synergy tracker con baseline, owner, fecha y costo de captura. Medir solo “sinergias prometidas” incentiva reetiquetar ahorro existente; exige incrementalidad.
+La integración se mide con un **tablero**: **sinergias** (logradas frente a plan, por iniciativa, en run-rate anual y en caja), **costos de lograrlas** (real frente a presupuesto), **retención de clientes y de ventas**, **retención de talento clave**, **indicadores operativos** (calidad, plazos, incidentes), **clima** (encuestas pulso) y **riesgos**. Se comparan con la tesis: ¿cuánto del valor prometido se ha capturado?, ¿qué iniciativas van atrasadas?, ¿qué supuestos fallaron? Moeller, Schlingemann y Stulz y Andrade, Mitchell y Stafford sugieren que el valor se pierde cuando las expectativas no se cumplen; el seguimiento permite **corregir** a tiempo: reasignar recursos, ajustar plazos, detener iniciativas que no valen, y comunicar al directorio con honestidad. A los 12 y 24 meses se hace una **revisión posterior** que alimenta el aprendizaje para futuras operaciones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **integración post-adquisición** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **integración post-adquisición** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **integración post-adquisición** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **integración post-adquisición** ayuda a desafiar? |
-| Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* | proceso de M&A, valoración, due diligence, negociación e integración | ¿Qué supuesto de **integración post-adquisición** ayuda a desafiar? |
-
-En **integración post-adquisición**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **Day 1**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| DePamphilis | Planificación y etapas de la integración. | Marco general. | ¿Quién es el dueño de la integración? |
+| Andrade, Mitchell y Stafford | Resultados promedio de fusiones y dónde se pierde valor. | No detalla la ejecución. | ¿Qué parte del valor depende de ejecutar bien? |
+| Moeller, Schlingemann y Stulz | Pérdidas en compradores grandes. | Período específico. | ¿Podemos absorber esta operación? |
+| Kotter | Conducción de cambios: urgencia, coalición, victorias, anclaje. | No es específico de M&A. | ¿Qué victorias tempranas mostraremos? |
+| Watkins | Transiciones de liderazgo y claridad de roles. | No cubre sistemas. | ¿Cuándo sabrán las personas su rol? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Comprador anuncia migrar todas las herramientas en 60 días. El principal activo adquirido es un equipo de producto que depende de autonomía y stack especializado.
+**Situación (hipotética).** Continuando la operación de las clases 225 y 226: la empresa compra al objetivo y espera sinergias de costos de 150 millones de pesos al año antes de impuestos y costos de integración de 600 millones. Impuestos de 27 %, tasa de descuento de 10 %.
 
-**Paso 1 — traducir deal thesis a integration priorities.** La gerencia escribe primero el supuesto asociado a **Day 1** y evita convertirlo en hecho. Luego busca **synergy realized** para contrastarlo en el caso de **integración post-adquisición**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Calendario de captura previsto (run-rate antes de impuestos).**
 
-**Paso 2 — proteger clientes y talento.** La gerencia escribe primero el supuesto asociado a **integration management office** y evita convertirlo en hecho. Luego busca **critical talent retention** para contrastarlo en el caso de **integración post-adquisición**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Año | Run-rate de sinergias | Costos de integración |
+|---|---|---|
+| 1 | 60 (40 %) | 400 |
+| 2 | 120 (80 %) | 200 |
+| 3 y siguientes | 150 (100 %) | 0 |
 
-**Paso 3 — definir Day 1 governance.** La gerencia escribe primero el supuesto asociado a **synergy capture** y evita convertirlo en hecho. Luego busca **customer churn** para contrastarlo en el caso de **integración post-adquisición**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor presente de las sinergias netas.**
 
-**Paso 4 — secuenciar synergies y systems.** La gerencia escribe primero el supuesto asociado a **critical talent** y evita convertirlo en hecho. Luego busca **integration cost** para contrastarlo en el caso de **integración post-adquisición**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Año 1: 60 × 0,73 = 43,8 ÷ 1,10 = 39,8
+- Año 2: 120 × 0,73 = 87,6 ÷ 1,21 = 72,4
+- Año 3 en adelante (perpetuidad de 150 × 0,73 = 109,5): valor al final del año 2: 109,5 ÷ 0,10 = 1.095; valor presente: 1.095 ÷ 1,21 = 905,0
+- **Total sinergias:** 39,8 + 72,4 + 905,0 = 1.017,2
 
-**Paso 5 — medir value capture y culture risks.** La gerencia escribe primero el supuesto asociado a **integration archetype** y evita convertirlo en hecho. Luego busca **system migration progress** para contrastarlo en el caso de **integración post-adquisición**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Costos de integración después de impuestos: año 1: 400 × 0,73 = 292 ÷ 1,10 = 265,5; año 2: 200 × 0,73 = 146 ÷ 1,21 = 120,7; total 386,2.
+- **Sinergias netas:** 1.017,2 − 386,2 = **631**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **integración post-adquisición**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+(En la clase 225 se había supuesto 1.022 con captura inmediata; la captura gradual y el descuento reducen el valor a 631, un 38 % menos.)
+
+**Efecto de un retraso de un año.** Si la captura se desplaza un año: año 1: 0; año 2: 60; año 3: 120; año 4 en adelante: 150. Valor presente: año 2: 60 × 0,73 = 43,8 ÷ 1,21 = 36,2; año 3: 87,6 ÷ 1,331 = 65,8; perpetuidad desde el año 4: valor al final del año 3 = 109,5 ÷ 0,10 = 1.095, ÷ 1,331 = 822,7; total 924,7. Costos: se mantienen (suponiendo que se gastan igual): 386,2. Sinergias netas: 538,5. El retraso de un año cuesta 631 − 538,5 = 92,5 millones.
+
+**Primeros 12 meses (hipotético).** Plan: run-rate de 60; logrado: 48 (80 %). Costos de lograr: plan 400, real 420 (105 %). Retención de ventas del objetivo: 94 % de la base. Talento clave: 8 de 10 personas retenidas (80 %). Incidentes del día 1: 3 menores. Migración de sistemas: planificada en el mes 14.
+
+**Acciones correctivas.** (1) La iniciativa de consolidación de compras va 3 meses atrasada: se asigna un responsable con autoridad y se prioriza. (2) Dos personas clave se fueron: se activan los reemplazos y se refuerzan los incentivos de permanencia de las demás. (3) Se mantiene el pago contingente ligado a la retención del cliente principal.
+
+**Gobierno.** Reunión semanal del equipo de integración; revisión mensual con el CEO; informe trimestral al directorio con tablero de sinergias, costos, retención y riesgos; revisión posterior a los 12 y 24 meses.
+
+**Cuidados.** Las decisiones que afectan a personas (cargos, indemnizaciones, traslados) y las obligaciones de información laboral y regulatoria se verifican con asesoría y normas vigentes; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El valor de las sinergias depende del calendario. (2) El retraso tiene un costo calculable. (3) El tablero permitió corregir a tiempo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **Day 1** | primer día bajo nueva propiedad con continuidad y mensajes definidos | Cuando synergy realized es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **integration management office** | mecanismo temporal que coordina workstreams y dependencias | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Integración frente a mantener independiente.** A veces el mayor valor se logra preservando la autonomía del negocio adquirido (marca, cultura, clientes) e integrando solo funciones específicas. La integración total no siempre es lo mejor.
 
-**Frontera de aplicación:** Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis.
+**Límites.** Los resultados dependen de factores difíciles de prever (reacción de clientes, mercado, personas). Los plazos de integración tienden a subestimarse. Los modelos de cambio son marcos generales. La evidencia sobre fusiones es promedio. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre integración post-adquisición |
+| Nivel | Cómo participa en la integración |
 |---|---|
-| **Profesional** | usa **integración post-adquisición** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **Day 1** y **integration management office** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta synergy realized con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si integración post-adquisición cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de integración post-adquisición reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **integración post-adquisición** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Documenta su conocimiento y colabora con colegas de la otra empresa. |
+| **Jefe / Team Lead** | Mantiene la operación y contiene la incertidumbre de su equipo. |
+| **Gerente** | Lidera iniciativas con metas de sinergia y reporta avance. |
+| **CEO / Director** | Nombra al dueño de la integración y exige medición y honestidad. |
+| **Founder / Owner** | Decide su rol y el del equipo adquirido y cumple los acuerdos de la venta. |
 
 ## 🏢 Caso ejecutivo
 
-Comprador anuncia migrar todas las herramientas en 60 días. El principal activo adquirido es un equipo de producto que depende de autonomía y stack especializado.
+Una empresa de alimentos con 2.600 personas adquirió hace cuatro meses a una empresa regional con 850 personas, ventas de 60.000 millones de pesos y una marca muy querida en su zona. La tesis prometía sinergias de costos de 3.600 millones al año (compras, logística, administración) y de ingresos de 2.400 millones (distribución conjunta), con costos de integración de 5.500 millones. A la fecha: no hay dueño de la integración (la dirige el director financiero en sus ratos libres); el nuevo organigrama aún no está definido y los directivos de la adquirida no saben si seguirán; dos de los cinco principales clientes de la adquirida redujeron pedidos; 12 personas clave recibieron ofertas de la competencia, 4 ya se fueron; se cambiaron las condiciones de pago a proveedores de la adquirida sin avisar, y dos dejaron de despachar; la migración de sistemas está planificada en 8 meses sin pruebas; el clima en la adquirida cayó 30 puntos. El CEO dice que «hay que acelerar para capturar sinergias»; la adquirida pide más autonomía; el directorio pregunta cuánto valor se ha capturado.
 
-Entrega un **decision brief de integración post-adquisición** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de integración** que contenga: (a) la traducción de la tesis en iniciativas con dueño, meta, plazo y costo; (b) el plan de protección de clientes y talento con incentivos y comunicación; (c) el gobierno, la oficina de integración y las reglas de decisión; (d) el calendario de sinergias y sistemas con el valor presente y el efecto de retrasos; (e) el tablero de medición y las acciones correctivas; (f) las verificaciones laborales, contractuales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **integración post-adquisición** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta synergy realized, critical talent retention; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Traduce cinco fuentes de valor de una tesis en iniciativas con dueño, meta y plazo.
+2. Identifica diez personas y diez clientes críticos y diseña una medida de protección para cada grupo.
+3. Calcula el valor presente de las sinergias con captura gradual y con un retraso de un año.
+4. Diseña un tablero de integración con diez indicadores y umbrales de alerta.
+5. Redacta el plan de comunicación del día 1 para empleados, clientes y proveedores.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar Day 1 y integration management office como sinónimos | Se pierde la distinción entre “primer día bajo nueva propiedad con continuidad y mensajes definidos” y “mecanismo temporal que coordina workstreams y dependencias” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir value capture y culture risks” | Se saltó “traducir deal thesis a integration priorities” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks y marca el primer supuesto no demostrado. |
-| Optimizar solo synergy realized | La métrica local sustituyó al resultado del sistema | Contrástala con critical talent retention y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre integración post-adquisición | Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis. |
-| No fijar revisión | Una decisión sobre integración post-adquisición se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Sin dueño de la integración | Se agrega a las tareas del día a día | Ejecutivo con autoridad y dedicación. |
+| Prometer sinergias inmediatas | Se omite el calendario | Calcular valor presente con captura gradual. |
+| Descuidar clientes y talento | Se mira la estructura | Plan de protección desde la diligencia. |
+| Integrar sistemas sin pruebas | Se busca ahorrar | Pruebas, paralelo y migración por etapas. |
+| Ignorar la cultura | Se ve como «blando» | Diagnóstico y prácticas comunes. |
+| No medir | Se confía en el plan | Tablero y revisión posterior a 12 y 24 meses. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **Day 1** y **integration management office** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **synergy capture** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **traducir deal thesis a integration priorities → proteger clientes y talento** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **synergy realized** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **integración post-adquisición**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis.**?
+1. ¿Cuándo debe empezar la planificación de la integración?
+2. ¿Cómo se pasa de la tesis a prioridades de integración?
+3. ¿Qué medidas protegen a clientes y talento?
+4. ¿Qué define el gobierno del día 1?
+5. ¿Por qué el calendario cambia el valor de las sinergias?
+6. ¿Qué indicadores forman parte del tablero de integración?
+7. ¿Qué límites tiene la integración total?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Durante la debida diligencia, antes del cierre, con un dueño con autoridad.
+2. Traduciendo cada fuente de valor en iniciativas con dueño, meta, plazo, costo y riesgo, y priorizando por valor, probabilidad y rapidez.
+3. Comunicación temprana, responsables por cliente clave, monitoreo de retención, claridad de roles e incentivos de permanencia proporcionados.
+4. Quién decide qué, estructura de mando, comunicación coherente, continuidad operativa y cumplimiento legal.
+5. Porque una sinergia que se logra más tarde vale menos por el descuento y por el costo de espera; cada retraso es cuantificable.
+6. Sinergias frente al plan, costos de lograrlas, retención de clientes y de talento, indicadores operativos, clima y riesgos.
+7. A veces conviene preservar la autonomía del negocio adquirido (marca, cultura, clientes) e integrar solo funciones específicas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/227-integracion-post-adquisicion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **integración post-adquisición**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **integración post-adquisición** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **Day 1**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Comprador anuncia migrar todas las herramientas en 60 días. El principal activo adquirido es un equipo de producto que depende de autonomía y stack especializado.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de integración del caso ejecutivo;
+- `project-charter.md` (plantilla [Project charter](../../../../templates/project-charter.md)) con la oficina de integración, el calendario y los hitos;
+- `decision-journal.md` con el tablero de captura de valor, las acciones correctivas y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** proceso de M&A, valoración, due diligence, negociación e integración. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **integración post-adquisición** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **integración post-adquisición**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **integración post-adquisición** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **integración post-adquisición** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **integración post-adquisición** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** planificación y etapas de la integración. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
+- Gregor Andrade, Mark Mitchell & Erik Stafford — *New Evidence and Perspectives on Mergers* (Journal of Economic Perspectives, 2001). **Uso en esta clase:** resultados promedio de fusiones y dónde se pierde valor. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [DOI 10.1257/jep.15.2.103](https://doi.org/10.1257/jep.15.2.103).
+- Sara B. Moeller, Frederik P. Schlingemann & René M. Stulz — *Firm size and the gains from acquisitions* (Journal of Financial Economics, 2004). **Uso en esta clase:** pérdidas en compradores grandes. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [DOI 10.1016/j.jfineco.2003.07.002](https://doi.org/10.1016/j.jfineco.2003.07.002).
+- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** conducción de cambios con urgencia, coalición y victorias. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** transiciones de liderazgo y claridad de roles. Lectura selectiva sobre **integración post-adquisición**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
 
-> **Regla de fuentes para Integración post-adquisición:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **integración post-adquisición** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Integración post-adquisición:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales, contractuales y regulatorias de una integración. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

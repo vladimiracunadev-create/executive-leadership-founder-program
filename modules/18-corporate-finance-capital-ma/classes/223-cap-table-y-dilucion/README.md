@@ -10,225 +10,213 @@
 
 ## 🎯 Propósito
 
-Cap table muestra quién posee qué y cómo opciones, convertibles y nuevas rondas alteran propiedad. El founder debe comprender fully diluted ownership, option pool y escenarios de dilución antes de firmar; porcentajes nominales sin waterfall pueden engañar.
+La tabla de capitalización (*cap table*) es el documento que dice quién es dueño de qué en una empresa. Parece una planilla simple: nombres, acciones, porcentajes. Pero es el cimiento de todas las negociaciones de capital: cuánto vale cada acción, cuánto se diluye a los fundadores, cuánto recibe cada uno en una venta, qué poder tiene cada socio. Y es una fuente frecuente de errores caros: opciones que nadie contó, convertibles que se transforman en más acciones de lo esperado, un *pool* de opciones que se agrega después de acordar el precio, socios que creen tener un porcentaje que no tienen. Los inversionistas lo detectan en la revisión y lo castigan con descuentos, demoras o la pérdida de la operación. Los fundadores lo descubren, a veces, cuando se vende la empresa.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **cap table y dilución** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase enseña a construir, leer y simular una tabla de capitalización: limpiarla, convertirla a una base totalmente diluida, modelar una nueva emisión y su *pool*, calcular la participación posterior a la inversión y simular rondas y salidas. Se apoya en Feld y Mendelson sobre las ofertas de capital de riesgo, en Brealey, Myers y Allen sobre emisión de capital, en Wasserman sobre los dilemas de propiedad de los fundadores, en Jensen y Meckling sobre los conflictos entre dueños y en Koller y colaboradores sobre valor. Al terminar sabrás distinguir valoración previa y posterior, calcular participaciones, entender el efecto del *pool* de opciones y planificar las rondas con una visión de largo plazo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `cap table`, `fully diluted`, `option pool`, `pre-money valuation`, `post-money valuation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** founder ownership, investor ownership, option pool sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Limpiar** una tabla de capitalización y detectar errores comunes.
+2. **Convertir** la tabla a una base totalmente diluida.
+3. **Calcular** participaciones y precio por acción en una nueva emisión.
+4. **Explicar** el efecto del *pool* de opciones sobre la valoración efectiva.
+5. **Simular** rondas sucesivas y su efecto en los fundadores.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define cap table y fully diluted sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con founder ownership y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué porcentaje de tu empresa tienes hoy y qué porcentaje tendrías si se ejercieran todas las opciones y convertibles? |
+| 20–60 min | Tabla limpia, base diluida, precio por acción, *pool*, rondas y control. |
+| 60–105 min | Ejemplo trabajado: una ronda de 6.000 millones con *pool* ampliado. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **cap table** | registro de ownership y securities de una compañía | Distingue un hecho compatible y otro que lo refute. |
-| **fully diluted** | propiedad asumiendo ejercicio o conversión de instrumentos relevantes | Distingue un hecho compatible y otro que lo refute. |
-| **option pool** | acciones reservadas para incentivos de empleados | Distingue un hecho compatible y otro que lo refute. |
-| **pre-money valuation** | valor antes del nuevo capital | Distingue un hecho compatible y otro que lo refute. |
-| **post-money valuation** | pre-money más inversión nueva | Distingue un hecho compatible y otro que lo refute. |
+| **Tabla de capitalización** | Registro de los propietarios y sus participaciones. | Acciones, opciones, convertibles, porcentajes. |
+| **Valoración previa (*pre-money*)** | Valor de la empresa antes de recibir el nuevo capital. | Se negocia con el inversionista. |
+| **Valoración posterior (*post-money*)** | Valoración previa más el capital recibido. | Define el porcentaje del inversionista. |
+| **Base totalmente diluida** | Cuenta todas las acciones posibles: emitidas, opciones, convertibles y *pool*. | Se usa para calcular el precio por acción. |
+| **Pool de opciones** | Acciones reservadas para empleados futuros. | Se define antes de la ronda. |
+| **Dilución** | Reducción del porcentaje de un propietario por nuevas acciones. | Se mide en puntos o en proporción. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 223: 1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits](modelo-mental.svg)
+![Conceptos de una tabla de capitalización: pre-money y post-money, participación nueva, totalmente diluida y pool de opciones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Cap table muestra quién posee qué y cómo opciones, convertibles y nuevas rondas alteran propiedad. El founder debe comprender fully diluted ownership, option pool y escenarios de dilución antes de firmar; porcentajes nominales sin waterfall pueden engañar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera.**
+**Cómo leer el diagrama.** Una tabla con cuatro conceptos. **Pre-money y post-money**: la valoración posterior es la previa más el monto levantado; el error frecuente es confundir cuál valor usa el inversionista. **Participación nueva**: monto dividido por la valoración posterior; error frecuente, olvidar el *pool* de opciones al calcular. **Totalmente diluida**: incluye opciones, convertibles y *pool* reservado; error frecuente, mirar solo las acciones emitidas. **Pool de opciones**: se define antes de la ronda y diluye a los actuales; error frecuente, crearlo después y perder el control del reparto. La nota afirma que sin una versión limpia y totalmente diluida las negociaciones se hacen con números equivocados.
 
 ## 📖 Desarrollo
 
-### 1. cap table: mecanismo central
+### 1. Qué muestra una tabla de capitalización
 
-**cap table** se entiende aquí como **registro de ownership y securities de una compañía**. Esta es la pieza causal o estructural desde la que se inicia **cap table y dilución**: antes de limpiar cap table actual, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una tabla de capitalización lista a **cada titular** (fundadores, socios, inversionistas, empleados con opciones, asesores), el **tipo de instrumento** (acciones ordinarias, preferentes, opciones, *warrants*, instrumentos convertibles o similares), la **cantidad**, el **precio de emisión** o de ejercicio, las **fechas** y las **condiciones** (por ejemplo, de consolidación de derechos, o *vesting*). Su porcentaje se calcula sobre el total de acciones de una **base elegida**. Feld y Mendelson subrayan que una tabla limpia y actualizada es una condición para que un inversionista avance: la existencia de acuerdos informales, promesas de acciones o errores de registro es una señal de desorden que suele traducirse en menor valoración o retraso. La validez de los títulos y los derechos de cada titular se verifican con los documentos societarios y con asesoría legal.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **founder ownership**; regístrala con periodo, unidad, población y baseline.
+### 2. Limpiar: los errores más comunes
 
-Relaciona el mecanismo con **fully diluted**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Antes de negociar se **limpia** la tabla: se concilia con los registros societarios (libro de acciones, actas, pactos); se verifican las **emisiones** efectivamente aprobadas y pagadas; se documentan **promesas informales** de acciones u opciones a empleados, asesores y socios; se revisan **convertibles**, notas y acuerdos de inversión simples (con sus tasas de descuento y topes de valoración); se confirman **calendarios de consolidación** (*vesting*) y condiciones de salida; y se identifican **derechos especiales** (preferencias, vetos, antidilución). Las contingencias más caras: «el socio que ayudó al inicio» sin documento, opciones prometidas pero nunca formalizadas, y acciones emitidas sin el procedimiento societario correcto. Se regularizan con asesoría antes de la ronda.
 
-### 2. fully diluted: frontera conceptual y error de clasificación
+### 3. Base totalmente diluida
 
-**Definición operacional:** propiedad asumiendo ejercicio o conversión de instrumentos relevantes. Su valor está en distinguirlo de **cap table** y **option pool**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El porcentaje que importa en una negociación es el calculado sobre la **base totalmente diluida**: todas las acciones emitidas, más las que surgirían del ejercicio de **todas las opciones** otorgadas, de la conversión de **instrumentos convertibles** y del **pool** reservado para el futuro. Si un fundador tiene 5.000.000 de acciones de un total emitido de 9.000.000, parece tener 55,6 %; pero si hay 700.000 opciones otorgadas y 300.000 reservadas, la base diluida es 10.000.000 y su participación es 50 %. Brealey, Myers y Allen recuerdan que lo que se valora es el derecho sobre el flujo de la empresa; la dilución potencial es una reducción de ese derecho. Por eso el **precio por acción** de una nueva emisión se calcula dividiendo la valoración previa por las acciones totalmente diluidas **antes** de la emisión (incluido el *pool* acordado).
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **fully diluted** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **investor ownership** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Valoración previa y posterior
 
-Antes de convertir a fully diluted, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **valoración previa** (*pre-money*) es el valor acordado de la empresa antes de recibir el dinero; la **posterior** (*post-money*) es la previa más la inversión. La participación del inversionista es la inversión dividida por la valoración posterior: invertir 6.000 sobre una valoración previa de 24.000 implica una valoración posterior de 30.000 y una participación de 20 %. Un error frecuente es calcularla sobre la previa (6.000 ÷ 24.000 = 25 %). El **precio por acción** surge de dividir la valoración previa por la base totalmente diluida previa (incluido el *pool* ampliado). Se confirma siempre cuál criterio usa la oferta, porque una valoración previa «de titular» puede ocultar ajustes que reducen el valor efectivo para los actuales propietarios.
 
-### 3. option pool: operacionalización y medición
+### 5. El pool de opciones
 
-**option pool** significa **acciones reservadas para incentivos de empleados**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El **pool de opciones** reserva acciones para atraer y retener a futuros empleados. Los inversionistas suelen exigir que, después de la ronda, exista un *pool* disponible de cierto tamaño (por ejemplo, 10 % de la base diluida posterior) para cubrir las contrataciones hasta la siguiente ronda. Lo relevante es **quién lo paga**: si el *pool* se incorpora en la valoración previa, la dilución recae solo en los propietarios actuales, y la **valoración efectiva** para ellos es menor que la del titular (el llamado efecto *option pool shuffle*). Se negocia el tamaño según el **plan de contrataciones** real (cuántas personas, a qué nivel, con qué porcentaje), no por un porcentaje estándar. Y se define cuánto del *pool* ya está otorgado para no contar dos veces.
 
-Brad Feld & Jason Mendelson — *Venture Deals* orienta este bloque mediante **term sheets, economics/control y negociación de venture capital**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **option pool**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Rondas sucesivas y el camino de los fundadores
 
-Al llegar a modelar nueva emisión y pool, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada ronda diluye a los propietarios existentes. Se simula un **camino de capital**: las rondas probables (semilla, A, B), sus montos, valoraciones y *pools*, para estimar la participación de los fundadores en una salida futura. Una participación que parece sana hoy (50 %) puede ser de 20 % tras tres rondas; la cuestión es si el **valor** de esa participación es mayor. Wasserman ilustra que los fundadores enfrentan decisiones que equilibran **riqueza** y **control** (ceder una mayor porción por una valoración más alta, o aceptar menos capital para mantener el control) y que las decisiones tempranas sobre socios y propiedad son difíciles de revertir. La dilución en sí no es mala; es el precio del capital y debe compararse con el valor que ese capital permite crear.
 
-### 4. pre-money valuation: trade-offs y efectos de segundo orden
+### 7. Control, derechos y conflictos
 
-**Definición:** valor antes del nuevo capital. Este concepto obliga a abandonar la idea de que **cap table y dilución** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de calcular ownership post-money, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* aporta una lente sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **dilution per round** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **cap table y dilución**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **pre-money valuation** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. post-money valuation: gobernanza, límites e integración
-
-**post-money valuation** se define como **pre-money más inversión nueva** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Noam Wasserman — *The Founder's Dilemmas* se utiliza para estudiar **dilemas de fundador, equity, control, equipo y decisiones tempranas** y contrastar la recomendación final. Al ejecutar simular rondas y exits, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **cap table**, **fully diluted**, **option pool**, **pre-money valuation** y **post-money valuation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **cap table y dilución** no consiste en sumar cinco definiciones. Empieza por **cap table**, contrasta **fully diluted** con **option pool**, incorpora **pre-money valuation** como restricción o mecanismo y usa **post-money valuation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Cap table y dilución
-
-Trabaja siempre en base fully diluted cuando corresponda y distingue pre-money/post-money. Si una empresa vale 8 pre-money y recibe 2, post-money = 10; el nuevo inversor tendría 20 % antes de considerar otros ajustes. Una ampliación de option pool pre-money puede diluir principalmente a founders existentes.
-
-Modela rondas sucesivas, options, convertibles/SAFEs según términos reales y escenarios de salida. Porcentajes sin número de acciones y derechos pueden ocultar errores.
+La propiedad no es solo porcentaje: es también **derechos**. Los distintos tipos de acciones o los pactos pueden dar a algunos titulares derechos de voto superiores, vetos, representación en el directorio, preferencias de liquidación (clase 224) o protección antidilución. Jensen y Meckling señalan que las relaciones entre propietarios con intereses distintos generan **costos de agencia**: un fundador con control y un inversionista con preferencia pueden preferir decisiones diferentes. Se documentan los acuerdos entre socios (pacto de accionistas) con reglas claras sobre **decisiones reservadas**, **salida**, **transferencia de acciones**, **derechos de arrastre y de acompañamiento**, y **resolución de disputas**. Las implicancias legales y tributarias de cada instrumento se verifican con asesoría en la jurisdicción correspondiente.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **cap table y dilución** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **cap table y dilución** ayuda a desafiar? |
-| Brad Feld & Jason Mendelson — *Venture Deals* | term sheets, economics/control y negociación de venture capital | ¿Qué supuesto de **cap table y dilución** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **cap table y dilución** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **cap table y dilución** ayuda a desafiar? |
-
-En **cap table y dilución**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **cap table**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Feld y Mendelson | Tabla de capitalización, pool y mecánica de las rondas. | Práctica de EE. UU.; adaptar a cada país. | ¿Quién paga el pool? |
+| Brealey, Myers y Allen | Emisión de capital y derechos sobre los flujos. | No detalla la mecánica de startups. | ¿Qué parte del flujo cede cada emisión? |
+| Wasserman | Dilemas de propiedad y control de los fundadores. | Evidencia de ciertos mercados. | ¿Qué decisión de propiedad es difícil de revertir? |
+| Jensen y Meckling | Conflictos entre propietarios con intereses distintos. | Teoría estilizada. | ¿Qué conflicto crea este instrumento? |
+| Koller y otros | Valor de la participación frente a porcentaje. | No cubre cap tables. | ¿Vale más una porción menor de algo mayor? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Dos fundadores creen conservar 70% tras ronda. El term sheet exige option pool 15% creado pre-money y un convertible convierte con descuento antes de la ronda.
+**Situación (hipotética).** Una empresa tiene esta tabla antes de una ronda de 6.000 millones de pesos con una valoración previa de 24.000 millones (titular).
 
-**Paso 1 — limpiar cap table actual.** La gerencia escribe primero el supuesto asociado a **cap table** y evita convertirlo en hecho. Luego busca **founder ownership** para contrastarlo en el caso de **cap table y dilución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Titular | Acciones | % de la base diluida (10.000.000) |
+|---|---|---|
+| Fundador A | 5.000.000 | 50,0 % |
+| Fundador B | 3.000.000 | 30,0 % |
+| Inversionista ángel | 1.000.000 | 10,0 % |
+| Opciones otorgadas a empleados | 700.000 | 7,0 % |
+| *Pool* disponible | 300.000 | 3,0 % |
+| **Total diluido** | **10.000.000** | **100 %** |
 
-**Paso 2 — convertir a fully diluted.** La gerencia escribe primero el supuesto asociado a **fully diluted** y evita convertirlo en hecho. Luego busca **investor ownership** para contrastarlo en el caso de **cap table y dilución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+(Las acciones emitidas son 9.000.000; sobre esa base, el fundador A parecería tener 55,6 %.)
 
-**Paso 3 — modelar nueva emisión y pool.** La gerencia escribe primero el supuesto asociado a **option pool** y evita convertirlo en hecho. Luego busca **option pool** para contrastarlo en el caso de **cap table y dilución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Condiciones de la oferta.** Valoración posterior = 24.000 + 6.000 = 30.000 millones; el inversionista recibe 6.000 ÷ 30.000 = 20 %. El inversionista exige un *pool* disponible de 10 % de la base diluida posterior, incluido en la valoración previa.
 
-**Paso 4 — calcular ownership post-money.** La gerencia escribe primero el supuesto asociado a **pre-money valuation** y evita convertirlo en hecho. Luego busca **dilution per round** para contrastarlo en el caso de **cap table y dilución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo.** Los titulares actuales con acciones y opciones otorgadas (A, B, ángel y opciones otorgadas) suman 9.700.000 y deben representar el 70 % de la base posterior (100 % − 20 % − 10 %). Base posterior: 9.700.000 ÷ 0,70 = 13.857.143. Acciones del inversionista: 0,20 × 13.857.143 = 2.771.429. *Pool* disponible: 0,10 × 13.857.143 = 1.385.714, es decir, 1.085.714 acciones nuevas sobre las 300.000 existentes.
 
-**Paso 5 — simular rondas y exits.** La gerencia escribe primero el supuesto asociado a **post-money valuation** y evita convertirlo en hecho. Luego busca **proceeds waterfall** para contrastarlo en el caso de **cap table y dilución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Precio por acción.** 6.000.000.000 ÷ 2.771.429 ≈ 2.165 pesos. Comprobación: 2.165 × 11.085.714 (base previa incluyendo el nuevo *pool*) ≈ 24.000 millones.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **cap table y dilución**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Tabla posterior.**
+
+| Titular | Acciones | % posterior |
+|---|---|---|
+| Fundador A | 5.000.000 | 36,1 % |
+| Fundador B | 3.000.000 | 21,6 % |
+| Inversionista ángel | 1.000.000 | 7,2 % |
+| Opciones otorgadas | 700.000 | 5,1 % |
+| *Pool* disponible | 1.385.714 | 10,0 % |
+| Inversionista nuevo | 2.771.429 | 20,0 % |
+| **Total** | **13.857.143** | **100 %** |
+
+**Efecto del *pool*.** Valoración efectiva previa para los titulares actuales: 2.165 × 9.700.000 ≈ 21.000 millones, frente a los 24.000 del titular: 12,5 % menos (3.000 ÷ 24.000). El *pool* ampliado «cuesta» 3.000 millones a los propietarios actuales.
+
+**Dilución del fundador A.** De 50,0 % a 36,1 %: una caída de 13,9 puntos (27,8 % en términos relativos). Su participación vale, a la valoración posterior de 30.000 millones: 0,361 × 30.000 = 10.825 millones, frente a 0,50 × 24.000 = 12.000 antes (el valor de su participación sobre la valoración previa titular). La diferencia refleja el *pool* y el efecto del precio; el valor sube si la empresa crece más que lo que se diluyó.
+
+**Simulación de una serie B.** Una ronda posterior diluye 20 %: el fundador A baja a 36,1 % × 0,80 = 28,9 %. Si la valoración posterior a la serie B es de 90.000 millones (3 veces la de la serie A), su participación pasa a valer 0,289 × 90.000 ≈ 26.000 millones: más del doble de los 10.825 millones de hoy, pese a la dilución.
+
+**Acciones de limpieza.** Se formalizan dos promesas de opciones a asesores y un acuerdo con un exsocio; se revisan los calendarios de consolidación de los fundadores; se actualiza el libro de acciones y se documenta el pacto de socios.
+
+**Cuidados.** Los instrumentos, derechos y obligaciones tienen efectos legales y tributarios que se verifican con asesoría; los cálculos suponen un solo tipo de acciones y omiten preferencias; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La base diluida cambió el porcentaje aparente. (2) El *pool* redujo la valoración efectiva. (3) La simulación mostró que la dilución puede acompañarse de mayor valor.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **cap table** | registro de ownership y securities de una compañía | Cuando founder ownership es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **fully diluted** | propiedad asumiendo ejercicio o conversión de instrumentos relevantes | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Cap table frente a pacto de accionistas.** La tabla muestra cuántos títulos hay; el pacto establece derechos y obligaciones entre socios. Ambos deben coincidir con los documentos societarios.
 
-**Frontera de aplicación:** Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera.
+**Límites.** La mecánica varía según el tipo de sociedad, la jurisdicción y los instrumentos. Las simulaciones simplifican (un solo tipo de acciones, sin preferencias, sin impuestos). Las valoraciones de las rondas futuras son hipótesis. La existencia de derechos especiales puede cambiar el reparto en una salida. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre cap table y dilución |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **cap table y dilución** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **cap table** y **fully diluted** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta founder ownership con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si cap table y dilución cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de cap table y dilución reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **cap table y dilución** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pregunta cuántas opciones tiene y con qué condiciones. |
+| **Jefe / Team Lead** | Entiende que las opciones son parte del paquete de su equipo. |
+| **Gerente** | Mantiene registros precisos de lo prometido. |
+| **CEO / Director** | Modela rondas, evalúa la dilución y negocia el pool. |
+| **Founder / Owner** | Decide el equilibrio entre control, riqueza y capital. |
 
 ## 🏢 Caso ejecutivo
 
-Dos fundadores creen conservar 70% tras ronda. El term sheet exige option pool 15% creado pre-money y un convertible convierte con descuento antes de la ronda.
+Una empresa de tecnología con 85 personas prepara una ronda de 12.000 millones de pesos con una valoración previa de titular de 48.000 millones. La tabla es la siguiente: dos fundadores con 4.000.000 y 3.500.000 acciones; un exsocio que se retiró y dice tener «un 5 %» por un acuerdo verbal (no hay documento); un inversionista ángel con 900.000 acciones; 60 empleados con opciones prometidas por 1.100.000 acciones (de las cuales solo 600.000 están formalizadas); un convertible de 1.500 millones con un descuento de 20 % y un tope de valoración de 30.000 millones; y un *pool* sin asignar de 150.000 acciones. El inversionista que lidera la ronda pide un *pool* disponible de 12 % de la base diluida posterior incluido en la valoración previa y tiene preferencia de liquidación. El CEO cree que su porcentaje es 47 %; la CFO, que es 38 %. Un empleado clave exige más opciones o se irá a la competencia.
 
-Entrega un **decision brief de cap table y dilución** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de capitalización y dilución** que contenga: (a) la limpieza de la tabla con cada contingencia y su tratamiento; (b) la base totalmente diluida antes de la ronda; (c) el cálculo de la conversión del convertible con descuento y tope; (d) el precio por acción, la tabla posterior y la valoración efectiva con el *pool*; (e) la simulación de una serie B y de una salida; (f) las verificaciones societarias, legales y tributarias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **cap table y dilución** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta founder ownership, investor ownership; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Construye una tabla de capitalización con cinco titulares y calcula los porcentajes sobre la base emitida y sobre la diluida.
+2. Calcula la participación del inversionista y el precio por acción de una ronda con valoración previa y posterior.
+3. Determina cuánto cuesta a los actuales propietarios un *pool* ampliado incluido en la valoración previa.
+4. Simula una segunda ronda y calcula el valor de la participación de un fundador antes y después.
+5. Redacta una lista de diez verificaciones para limpiar una tabla de capitalización.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar cap table y fully diluted como sinónimos | Se pierde la distinción entre “registro de ownership y securities de una compañía” y “propiedad asumiendo ejercicio o conversión de instrumentos relevantes” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “simular rondas y exits” | Se saltó “limpiar cap table actual” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits y marca el primer supuesto no demostrado. |
-| Optimizar solo founder ownership | La métrica local sustituyó al resultado del sistema | Contrástala con investor ownership y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre cap table y dilución | Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera. |
-| No fijar revisión | Una decisión sobre cap table y dilución se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Calcular sobre acciones emitidas | Es la cifra visible | Usar la base totalmente diluida. |
+| Confundir previa y posterior | Se usa una por otra | Participación = monto ÷ valoración posterior. |
+| Ignorar el *pool* | Se piensa en él después | Negociarlo y modelarlo desde la oferta. |
+| Promesas informales | Se confía en la relación | Formalizar con documentos societarios. |
+| No modelar rondas futuras | Se mira solo la actual | Simular el camino de capital. |
+| Mirar solo el porcentaje | Apego a la propiedad | Calcular el valor de la participación. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **cap table** y **fully diluted** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **option pool** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **limpiar cap table actual → convertir a fully diluted** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **founder ownership** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **cap table y dilución**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera.**?
+1. ¿Qué muestra una tabla de capitalización?
+2. ¿Qué es la base totalmente diluida y por qué importa?
+3. ¿Cómo se calcula la participación de un inversionista?
+4. ¿Qué efecto tiene un *pool* incluido en la valoración previa?
+5. ¿Qué errores comunes se corrigen al limpiar una tabla?
+6. ¿Por qué simular rondas futuras?
+7. ¿Por qué la propiedad no es solo porcentaje?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Quién es dueño de qué: titulares, instrumentos, cantidades, precios, condiciones y porcentajes.
+2. Incluye acciones emitidas, opciones, convertibles y *pool*; es la base sobre la que se negocia y se calcula el precio por acción.
+3. Monto invertido dividido por la valoración posterior.
+4. Reduce la valoración efectiva para los actuales propietarios, porque la dilución del *pool* recae solo en ellos.
+5. Promesas informales, opciones no formalizadas, convertibles no considerados, emisiones sin procedimiento correcto y derechos especiales no documentados.
+6. Para ver la participación y el valor de los fundadores en una salida y decidir el equilibrio entre riqueza y control.
+7. Porque los derechos (voto, veto, preferencias, antidilución) también determinan el poder y el reparto.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/223-cap-table-y-dilucion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **cap table y dilución**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **cap table y dilución** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **cap table**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Dos fundadores creen conservar 70% tras ronda. El term sheet exige option pool 15% creado pre-money y un convertible convierte con descuento antes de la ronda.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el análisis del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con las tablas anterior y posterior y la simulación de rondas;
+- `decision-journal.md` con las contingencias, las decisiones de limpieza y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** term sheets, economics/control y negociación de venture capital. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **cap table y dilución** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **cap table y dilución**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **cap table y dilución** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **cap table y dilución** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cap table y dilución** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** tabla de capitalización, pool y mecánica de las rondas. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** emisión de capital y derechos sobre los flujos. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de propiedad y control de los fundadores. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Michael C. Jensen & William H. Meckling — *Theory of the firm: Managerial behavior, agency costs and ownership structure* (Journal of Financial Economics, 1976). **Uso en esta clase:** conflictos entre propietarios con intereses distintos. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [DOI 10.1016/0304-405X(76)90026-X](https://doi.org/10.1016/0304-405X(76)90026-X).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** valor de la participación frente al porcentaje. Lectura selectiva sobre **cap table y dilución**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
 
-> **Regla de fuentes para Cap table y dilución:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cap table y dilución** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Cap table y dilución:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los efectos societarios, legales y tributarios de acciones, opciones y convertibles. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

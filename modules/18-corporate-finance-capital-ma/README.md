@@ -65,18 +65,18 @@ Las clases **225 a 228** cubren las adquisiciones: lógica estratégica, due dil
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 217 | [Estructura de capital](classes/217-estructura-de-capital/README.md) | capital structure, financial leverage, debt capacity | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 218 | [Costo de capital](classes/218-costo-de-capital/README.md) | cost of equity, cost of debt, WACC | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 219 | [Deuda versus equity](classes/219-deuda-versus-equity/README.md) | debt, equity, dilution | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 220 | [Valoración por flujos](classes/220-valoracion-por-flujos/README.md) | free cash flow, DCF, terminal value | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 221 | [Múltiplos y comparables](classes/221-multiplos-y-comparables/README.md) | enterprise value, equity value, trading multiple | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 222 | [Fundraising y narrativa financiera](classes/222-fundraising-y-narrativa-financiera/README.md) | fundraising, use of proceeds, milestone financing | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 223 | [Cap table y dilución](classes/223-cap-table-y-dilucion/README.md) | cap table, fully diluted, option pool | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 224 | [Term sheets: economía y control](classes/224-term-sheets-economia-y-control/README.md) | liquidation preference, participation, anti-dilution | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 225 | [M&A: lógica estratégica](classes/225-m-a-logica-estrategica/README.md) | M&A, strategic rationale, synergy | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 226 | [Due diligence](classes/226-due-diligence/README.md) | due diligence, quality of earnings, red flag | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 227 | [Integración post-adquisición](classes/227-integracion-post-adquisicion/README.md) | Day 1, integration management office, synergy capture | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 228 | [Capstone: comité de capital](classes/228-capstone-comite-de-capital/README.md) | capital allocation framework, capital budget, portfolio return | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 217 | [Estructura de capital](classes/217-estructura-de-capital/README.md) | Estructura de capital, Apalancamiento financiero, Capacidad de deuda | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 218 | [Costo de capital](classes/218-costo-de-capital/README.md) | Costo de capital, Costo de la deuda, Costo del capital propio | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 219 | [Deuda versus equity](classes/219-deuda-versus-equity/README.md) | Deuda, Capital propio (*equity*), Dilución | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 220 | [Valoración por flujos](classes/220-valoracion-por-flujos/README.md) | Flujo de caja libre (FCF), Valor presente, NOPAT | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 221 | [Múltiplos y comparables](classes/221-multiplos-y-comparables/README.md) | Múltiplo, Valor de empresa (EV), Valor del patrimonio | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 222 | [Fundraising y narrativa financiera](classes/222-fundraising-y-narrativa-financiera/README.md) | Captación (*fundraising*), Uso de fondos, Pista de caja (*runway*) | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 223 | [Cap table y dilución](classes/223-cap-table-y-dilucion/README.md) | Tabla de capitalización, Valoración previa (*pre-money*), Valoración posterior (*post-money*) | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 224 | [Term sheets: economía y control](classes/224-term-sheets-economia-y-control/README.md) | Term sheet, Preferencia de liquidación, Participación | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 225 | [M&A: lógica estratégica](classes/225-m-a-logica-estrategica/README.md) | Tesis estratégica, Valor independiente (*stand-alone*), Sinergia | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 226 | [Due diligence](classes/226-due-diligence/README.md) | Debida diligencia, Calidad de utilidades (*quality of earnings*), Deuda implícita (*debt-like items*) | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 227 | [Integración post-adquisición](classes/227-integracion-post-adquisicion/README.md) | Integración, Día 1, Oficina de integración (IMO) | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 228 | [Capstone: comité de capital](classes/228-capstone-comite-de-capital/README.md) | Marco de asignación de capital, Presupuesto de capital, Piso de caja | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,70 +87,81 @@ Las clases **225 a 228** cubren las adquisiciones: lógica estratégica, due dil
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+71 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **anti-dilution** | ajuste frente a futuras emisiones a menor precio. |
-| **beta** | medida de sensibilidad sistemática usada en CAPM. |
-| **cap table** | registro de ownership y securities de una compañía. |
-| **capital allocation framework** | reglas para comparar usos de capital. |
-| **capital budget** | conjunto de inversiones propuestas para un periodo. |
-| **capital recycling** | venta o reducción de activos de bajo valor para financiar mejores usos. |
-| **capital structure** | mezcla de deuda equity y otros instrumentos. |
-| **comparable company** | empresa con economics y riesgo comparables. |
-| **confirmatory diligence** | validación final después de indicaciones iniciales. |
-| **control premium** | precio adicional por obtener control. |
-| **cost of debt** | retorno exigido por prestamistas ajustado por condiciones. |
-| **cost of equity** | retorno requerido por accionistas por asumir riesgo residual. |
-| **covenant** | compromiso contractual que limita o exige ciertas condiciones. |
-| **critical talent** | personas cuya salida amenaza tesis o continuidad. |
-| **data room** | repositorio controlado de documentos. |
-| **Day 1** | primer día bajo nueva propiedad con continuidad y mensajes definidos. |
-| **DCF** | valor presente de flujos esperados. |
-| **deal thesis** | hipótesis específica de valor y condiciones de éxito. |
-| **debt** | capital con obligación contractual de repago e interés. |
-| **debt capacity** | capacidad de soportar deuda sin riesgo excesivo de distress. |
-| **default risk** | riesgo de incumplir obligaciones de deuda. |
-| **dilution** | reducción porcentual de propiedad por nueva emisión. |
-| **discount rate** | tasa que refleja tiempo y riesgo. |
-| **due diligence** | investigación estructurada antes de una transacción. |
-| **enterprise value** | valor de operaciones para todos los financiadores. |
-| **equity** | capital residual con participación en propiedad. |
-| **equity value** | valor residual atribuible a accionistas. |
-| **financial flexibility** | capacidad de obtener recursos o adaptarse bajo estrés. |
-| **financial leverage** | uso de deuda que amplifica retorno y pérdida para equity. |
-| **free cash flow** | efectivo generado después de inversión necesaria disponible para financiadores. |
-| **fully diluted** | propiedad asumiendo ejercicio o conversión de instrumentos relevantes. |
-| **fundraising** | proceso de captar capital externo. |
-| **fundraising funnel** | proceso desde target list hasta term sheet y close. |
-| **hurdle rate** | tasa mínima exigida para aceptar una inversión. |
-| **integration archetype** | grado de absorción preservación o simbiosis entre empresas. |
-| **integration management office** | mecanismo temporal que coordina workstreams y dependencias. |
-| **investor fit** | compatibilidad entre inversor etapa horizonte y apoyo. |
-| **liquidation preference** | derecho de inversor a cobrar antes o bajo reglas específicas en liquidez. |
-| **M&A** | fusiones y adquisiciones como forma de reasignar propiedad y capacidades. |
-| **milestone financing** | capital suficiente para alcanzar hitos que reducen riesgo. |
-| **NOPAT** | beneficio operativo después de impuestos sin efecto de financiación. |
-| **normalization** | ajuste de métricas para eliminar distorsiones no recurrentes. |
-| **option pool** | acciones reservadas para incentivos de empleados. |
-| **participation** | posible derecho a cobrar preferencia y luego participar en remanente. |
-| **portfolio return** | retorno agregado ponderado por capital. |
-| **post-money valuation** | pre-money más inversión nueva. |
-| **pre-money valuation** | valor antes del nuevo capital. |
-| **protective provision** | materia que requiere consentimiento especial. |
-| **quality of earnings** | análisis de sostenibilidad y normalización de resultados. |
-| **red flag** | hallazgo que puede cambiar materialmente el deal. |
-| **risk-adjusted return** | retorno interpretado según exposición. |
-| **runway** | tiempo financiable antes de agotar caja. |
-| **strategic rationale** | razón causal por la que combinación crea más valor. |
-| **synergy** | beneficio incremental de combinación no disponible por separado. |
-| **synergy capture** | realización medible de beneficios del deal. |
-| **terminal value** | valor de flujos posteriores al horizonte explícito. |
-| **trading multiple** | relación entre valor de mercado y métrica financiera. |
-| **use of proceeds** | destino específico del capital. |
-| **vesting** | adquisición gradual de derechos sobre equity. |
-| **WACC** | costo promedio ponderado de capital para riesgo del negocio financiado. |
+| **Antidilución** | Protección que ajusta el precio de conversión si hay rondas a la baja. |
+| **Apalancamiento financiero** | Efecto de la deuda sobre el retorno y el riesgo del capital propio. |
+| **Arrastre y acompañamiento** | Reglas para vender el 100 % o para acompañar una venta. |
+| **Base totalmente diluida** | Cuenta todas las acciones posibles: emitidas, opciones, convertibles y *pool*. |
+| **Beta** | Sensibilidad del retorno de un activo al del mercado. |
+| **Calidad de utilidades (*quality of earnings*)** | Análisis de cuánto del resultado reportado es recurrente y real. |
+| **Capacidad de deuda** | Deuda máxima que el flujo soporta en el escenario adverso. |
+| **Capital de trabajo normal** | Nivel de capital de trabajo necesario para operar. |
+| **Capital propio (*equity*)** | Aporte de propietarios sin obligación fija de pago. |
+| **Captación (*fundraising*)** | Proceso de obtener capital de inversionistas. |
+| **Captura de sinergias** | Valor efectivamente logrado frente al prometido. |
+| **Cobertura del servicio de deuda (DSCR)** | Caja disponible sobre intereses y amortizaciones del período. |
+| **Comparables** | Empresas similares en economía, riesgo y crecimiento. |
+| **Costo de capital** | Retorno mínimo exigido por quienes financian la empresa. |
+| **Costo de la deuda** | Tasa a la que la empresa puede endeudarse hoy, neta de impuestos. |
+| **Costo de lograr (*cost to achieve*)** | Gasto necesario para obtener las sinergias. |
+| **Costo de quiebra** | Pérdida de valor por dificultades financieras. |
+| **Costo del capital propio** | Retorno que exigen los propietarios por soportar el riesgo residual. |
+| **Covenant** | Condición financiera impuesta por el acreedor. |
+| **Debida diligencia** | Revisión del objetivo antes del cierre para verificar la tesis y detectar riesgos. |
+| **Declaraciones y garantías** | Afirmaciones del vendedor sobre el negocio, con consecuencias si son falsas. |
+| **Derecho de veto** | Capacidad de bloquear ciertas decisiones. |
+| **Deuda** | Financiamiento con obligación de pagar intereses y capital en fechas. |
+| **Deuda implícita (*debt-like items*)** | Obligaciones que se comportan como deuda aunque no estén en el balance. |
+| **Dilución** | Reducción de la participación de los actuales propietarios. |
+| **Día 1** | Primer día de operación conjunta. |
+| **Embudo de inversionistas** | Secuencia de contactos, reuniones y ofertas. |
+| **Estructura de capital** | Proporción de deuda y capital propio con que se financia la empresa. |
+| **Flujo de caja libre (FCF)** | Caja operativa después de impuestos e inversión, disponible para los financistas. |
+| **Hito** | Resultado verificable que reduce la incertidumbre del negocio. |
+| **Instrumento híbrido** | Mezcla de deuda y capital, como un convertible. |
+| **Integración** | Proceso de combinar operaciones, sistemas y personas tras la compra. |
+| **Marco de asignación de capital** | Principios y criterios con que se decide dónde va el capital. |
+| **Materialidad** | Umbral a partir del cual un hallazgo importa. |
+| **Múltiplo** | Razón entre el valor (o precio) de una empresa y una métrica financiera. |
+| **Múltiplo de transacciones** | Múltiplo pagado en compras de empresas, incluye prima de control. |
+| **NOPAT** | Utilidad operativa después de impuestos, antes de costos financieros. |
+| **Normalización** | Ajuste de las cifras por partidas únicas y políticas distintas. |
+| **Oficina de integración (IMO)** | Equipo que coordina y mide la integración. |
+| **Opción estratégica** | Derecho, no obligación, de invertir más si se cumplen condiciones. |
+| **Participación** | Derecho de cobrar la preferencia y además compartir el resto. |
+| **Piso de caja** | Liquidez mínima que no se compromete. |
+| **Pista de caja (*runway*)** | Meses de operación que permite la caja disponible. |
+| **Plan B de financiamiento** | Alternativa si falla la fuente principal. |
+| **Pool de opciones** | Acciones reservadas para empleados futuros. |
+| **Precio máximo (*walk-away price*)** | Precio por encima del cual no se compra. |
+| **Preferencia de liquidación** | Derecho del inversionista a cobrar primero en una salida. |
+| **Presupuesto de capital** | Aplicación anual del marco a las propuestas concretas. |
+| **Prima de control** | Sobreprecio que se paga por tomar el control. |
+| **Puerta de decisión (*stage gate*)** | Punto en que se decide continuar, ajustar o detener. |
+| **Rango objetivo** | Intervalo de deuda con margen de seguridad. |
+| **Reinversión neta** | Inversión en capital fijo y de trabajo por encima de la depreciación. |
+| **Retención de talento y clientes** | Permanencia de personas y clientes críticos. |
+| **Revisión posterior (*post-investment review*)** | Comparación de lo logrado con lo prometido. |
+| **Sala de evidencia (*data room*)** | Repositorio ordenado de documentos y datos para inversionistas. |
+| **Sinergia** | Valor adicional por combinar los negocios. |
+| **Soberbia (*hubris*)** | Exceso de confianza del comprador en su valoración. |
+| **Tabla de capitalización** | Registro de los propietarios y sus participaciones. |
+| **Tasa de corte (*hurdle rate*)** | Retorno mínimo exigido a un proyecto. |
+| **Term sheet** | Resumen de las condiciones principales de una inversión. |
+| **Tesis estratégica** | Razón por la que la combinación vale más que las partes por separado. |
+| **Uso de fondos** | Destino planificado del capital levantado. |
+| **Valor de empresa (EV)** | Valor del negocio operativo para todos los financistas. |
+| **Valor de empresa y de patrimonio** | El primero valora todo el negocio; el segundo, lo que corresponde a los propietarios. |
+| **Valor del patrimonio** | Valor de lo que corresponde a los propietarios. |
+| **Valor independiente (*stand-alone*)** | Valor del objetivo sin considerar la compra. |
+| **Valor presente** | Valor hoy de un flujo futuro, descontado por riesgo y tiempo. |
+| **Valor terminal** | Valor de los flujos posteriores al horizonte explícito. |
+| **Valoración posterior (*post-money*)** | Valoración previa más el capital recibido. |
+| **Valoración previa (*pre-money*)** | Valor de la empresa antes de recibir el nuevo capital. |
+| **WACC** | Costo promedio ponderado de capital. |
 
 ## 📦 Qué queda como evidencia
 

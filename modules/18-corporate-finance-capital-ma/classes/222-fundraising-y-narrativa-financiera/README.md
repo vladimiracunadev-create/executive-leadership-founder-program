@@ -10,225 +10,211 @@
 
 ## 🎯 Propósito
 
-Fundraising combina necesidad de capital, hitos, narrativa, evidencia y elección del inversor. Una ronda debería financiar suficiente runway para alcanzar un punto de mayor valor o sostenibilidad; levantar porque el mercado está abierto puede diluir sin estrategia.
+Levantar capital es una de las pocas actividades del CEO en la que se compite directamente por la confianza de personas que no conocen el negocio por dentro y que pueden pedir cuentas. Muchos fundadores lo viven como una venta de entusiasmo: una presentación vistosa, una gran visión y una cifra de crecimiento. Pero los inversionistas experimentados compran otra cosa: **un plan verificable en el que cada peso aportado se convierte en un resultado medible** que aumenta el valor de la empresa y permite una siguiente etapa. La narrativa financiera de una captación no es un relato inspirador sino un argumento con números: por qué se necesita capital, cuánto y para qué; qué hitos se lograrán y cuándo; qué evidencia respalda las proyecciones; y qué ocurre si las cosas salen distinto.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **fundraising y narrativa financiera** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el proceso de captación como una disciplina: definir necesidad y monto, ligar el uso de fondos a hitos, preparar una sala de evidencia, gestionar el pipeline de inversionistas, negociar y cerrar, y comunicar con coherencia. Se apoya en Feld y Mendelson sobre las dinámicas del capital de riesgo, en Horowitz sobre las duras decisiones de un fundador, en Wasserman sobre los dilemas de control y propiedad, en Brealey, Myers y Allen sobre financiamiento y en Myers y Majluf sobre los problemas de información al emitir capital. Al terminar sabrás calcular el monto y el calendario de una ronda, preparar una narrativa con números consistentes, ordenar un proceso y evitar errores que erosionan credibilidad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `fundraising`, `use of proceeds`, `milestone financing`, `investor fit`, `fundraising funnel` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** runway after round, milestone coverage, investor conversion sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** por qué, cuánto y cuándo levantar capital con un cálculo de caja.
+2. **Ligar** el uso de fondos a hitos medibles y a la siguiente ronda.
+3. **Preparar** una sala de evidencia coherente con la narrativa.
+4. **Gestionar** un pipeline de inversionistas con tiempos y conversión.
+5. **Negociar y comunicar** con consistencia y honestidad sobre riesgos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define fundraising y use of proceeds sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con runway after round y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué hitos logró tu empresa con el último capital que recibió y cuáles prometió y no cumplió? |
+| 20–60 min | Necesidad, monto, hitos, narrativa, evidencia, proceso y cierre. |
+| 60–105 min | Ejemplo trabajado: cálculo de la ronda, uso de fondos y embudo de inversionistas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **fundraising** | proceso de captar capital externo | Distingue un hecho compatible y otro que lo refute. |
-| **use of proceeds** | destino específico del capital | Distingue un hecho compatible y otro que lo refute. |
-| **milestone financing** | capital suficiente para alcanzar hitos que reducen riesgo | Distingue un hecho compatible y otro que lo refute. |
-| **investor fit** | compatibilidad entre inversor etapa horizonte y apoyo | Distingue un hecho compatible y otro que lo refute. |
-| **fundraising funnel** | proceso desde target list hasta term sheet y close | Distingue un hecho compatible y otro que lo refute. |
+| **Captación (*fundraising*)** | Proceso de obtener capital de inversionistas. | Rondas, roadshow, términos. |
+| **Uso de fondos** | Destino planificado del capital levantado. | Ligado a hitos. |
+| **Pista de caja (*runway*)** | Meses de operación que permite la caja disponible. | Caja ÷ consumo mensual. |
+| **Hito** | Resultado verificable que reduce la incertidumbre del negocio. | Ingresos, retención, producto. |
+| **Sala de evidencia (*data room*)** | Repositorio ordenado de documentos y datos para inversionistas. | Financiero, legal, comercial, técnico. |
+| **Embudo de inversionistas** | Secuencia de contactos, reuniones y ofertas. | Tasas de conversión por etapa. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 222: 1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar](modelo-mental.svg)
+![Levantar capital con una historia verificable: por qué y cuánto, uso y hitos, sala de evidencia, inversionistas, términos y cierre.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Fundraising combina necesidad de capital, hitos, narrativa, evidencia y elección del inversor. Una ronda debería financiar suficiente runway para alcanzar un punto de mayor valor o sostenibilidad; levantar porque el mercado está abierto puede diluir sin estrategia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Por qué y cuánto**: necesidad real y monto con margen. **Uso y hitos**: cada peso ligado a un resultado. **Sala de evidencia**: datos y documentos listos para revisar. **Inversionistas**: segmentos, ajuste y pipeline. **Términos y cierre**: negociar y comunicar con coherencia. La flecha indica que las conversaciones ajustan la propuesta. La nota afirma que levantar capital es vender un plan verificable y no una promesa; el pie, que las ofertas de valores y la relación con inversionistas tienen regulación.
 
 ## 📖 Desarrollo
 
-### 1. fundraising: mecanismo central
+### 1. Por qué y cuánto: partir de la caja
 
-**fundraising** se entiende aquí como **proceso de captar capital externo**. Esta es la pieza causal o estructural desde la que se inicia **fundraising y narrativa financiera**: antes de definir por qué y cuánto capital, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una ronda empieza con una pregunta de **necesidad**: ¿qué no podemos hacer con el capital actual y qué lograríamos con más? Se responde con un **modelo de caja**: ingresos, costos, inversión y consumo mensual proyectados, con la **pista de caja** actual (caja ÷ consumo mensual neto). Un error clásico es iniciar el proceso cuando quedan seis meses de pista: los procesos de captación suelen tomar de **tres a seis meses** o más, y los inversionistas perciben la urgencia y negocian desde la fuerza. Una regla práctica es comenzar con **doce meses de pista** o al menos nueve. El **monto** se calcula como el consumo proyectado hasta lograr los hitos que permitan la siguiente ronda en mejores condiciones, más un **colchón** (por ejemplo, tres a seis meses). Pedir de más diluye innecesariamente; pedir de menos obliga a regresar pronto y en peor posición.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **runway after round**; regístrala con periodo, unidad, población y baseline.
+### 2. Uso de fondos ligado a hitos
 
-Relaciona el mecanismo con **use of proceeds**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los inversionistas financian **hitos**, no gastos. El plan de uso de fondos debe traducirse a resultados medibles que reduzcan la incertidumbre: ingresos recurrentes alcanzados, retención de clientes, costo de adquisición, producto lanzado, aprobaciones regulatorias, márgenes. Cada categoría de gasto (producto, comercial, operaciones, reserva) se vincula con uno o más hitos y con **fechas**. La pregunta de fondo es: «¿qué será verdad en 18 a 24 meses que hoy no lo es, y cómo hará eso que la empresa valga más?». Brealey, Myers y Allen recuerdan que el capital se asigna a proyectos con valor presente neto positivo; en un contexto de alta incertidumbre, los hitos son la forma de **reducir el riesgo por etapas** y justificar valoraciones crecientes.
 
-### 2. use of proceeds: frontera conceptual y error de clasificación
+### 3. La narrativa financiera
 
-**Definición operacional:** destino específico del capital. Su valor está en distinguirlo de **fundraising** y **milestone financing**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La narrativa es el **hilo** que conecta la oportunidad, el modelo de negocio, la tracción, el equipo, los números y el uso de fondos. Una narrativa sólida: define un **problema** relevante y un mercado accesible; muestra **evidencia** (clientes, ingresos, retención) más que adjetivos; explica el **modelo de negocio** y la **economía unitaria** (clase 163); presenta **proyecciones** con supuestos claros y un escenario prudente; reconoce **riesgos principales** y su mitigación; y concluye con una **solicitud concreta** (monto, uso, hitos). Horowitz, desde su experiencia como fundador, enfatiza que el liderazgo en una captación implica honestidad sobre las dificultades: ocultarlas se descubre en la revisión y destruye la confianza. Los números deben ser **consistentes** entre documentos (presentación, modelo, contratos, cifras bancarias).
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **use of proceeds** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **milestone coverage** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Sala de evidencia y preparación
 
-Antes de ligar use of proceeds a milestones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **sala de evidencia** reúne los documentos que un inversionista revisará: estados financieros y modelo con supuestos; métricas del negocio (ingresos, retención, adquisición, ciclos de venta); contratos principales y condiciones comerciales; propiedad y tabla de capitalización (clase 223); cumplimiento legal, laboral y tributario; propiedad intelectual; y organigrama y personas clave. Se organiza **antes** del proceso, con accesos controlados y un índice. Una sala de evidencia incompleta o incoherente alarga el proceso, erosiona la confianza y aparece en la negociación como descuento. Se prepara también al equipo para **preguntas difíciles** (concentración de clientes, rotación, contingencias, deuda) y se acuerda quién responde qué.
 
-### 3. milestone financing: operacionalización y medición
+### 5. Segmentar inversionistas y gestionar el pipeline
 
-**milestone financing** significa **capital suficiente para alcanzar hitos que reducen riesgo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No todos los inversionistas son iguales: los hay **especializados** en una etapa, sector o región; con **cheques** de distintos tamaños; con **estilos** diferentes (activos o pasivos); y con **capacidad de seguimiento** en rondas posteriores. Se arma una lista **segmentada** por ajuste (etapa, sector, tamaño de cheque, valor agregado), y se gestiona el pipeline como un **embudo**: contactos, primeras reuniones, segundas reuniones, revisión de evidencia, ofertas (*term sheets*). Se registra la **conversión** por etapa y se acotan los tiempos para crear tensión competitiva: múltiples conversaciones paralelas, con calendario. Feld y Mendelson señalan que tener más de una oferta mejora el poder de negociación y que conviene conocer a los inversionistas antes de recibir su dinero (referencias de otros fundadores).
 
-Aswath Damodaran — *Investment Valuation* orienta este bloque mediante **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **investor conversion**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Negociar, cerrar y comunicar
 
-Al llegar a preparar evidence room, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando llegan ofertas, no solo importa la valoración: importan los **términos** (clase 224), el **valor agregado** del inversionista (contactos, experiencia, capacidad de aportar en próximas rondas), la **compatibilidad** cultural y los **derechos de control**. Wasserman muestra, a partir de estudios de startups, que los fundadores enfrentan dilemas entre **riqueza y control**, y que ciertas decisiones tempranas sobre socios, propiedad y financiamiento tienen consecuencias duraderas. El cierre incluye revisión legal de los documentos, cumplimiento de condiciones previas y un plan de **comunicación**: a empleados, a otros inversionistas, a clientes y, si corresponde, al mercado. Las ofertas de valores a inversionistas están reguladas y requieren asesoría legal para evitar infracciones (por ejemplo, restricciones sobre ofertas públicas).
 
-### 4. investor fit: trade-offs y efectos de segundo orden
+### 7. Después del cierre: cumplir lo prometido
 
-**Definición:** compatibilidad entre inversor etapa horizonte y apoyo. Este concepto obliga a abandonar la idea de que **fundraising y narrativa financiera** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de segmentar investors y pipeline, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David Skok — *SaaS Metrics resources* aporta una lente sobre **perspectiva de Unit economics aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **dilution** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **fundraising y narrativa financiera**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **investor fit** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. fundraising funnel: gobernanza, límites e integración
-
-**fundraising funnel** se define como **proceso desde target list hasta term sheet y close** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ben Horowitz — *The Hard Thing About Hard Things* se utiliza para estudiar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión** y contrastar la recomendación final. Al ejecutar negociar términos cerrar y comunicar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **fundraising**, **use of proceeds**, **milestone financing**, **investor fit** y **fundraising funnel** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **fundraising y narrativa financiera** no consiste en sumar cinco definiciones. Empieza por **fundraising**, contrasta **use of proceeds** con **milestone financing**, incorpora **investor fit** como restricción o mecanismo y usa **fundraising funnel** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Fundraising como necesidad de capital + hitos
-
-Parte de runway y milestones: cuánto capital se necesita para alcanzar qué evidencia de reducción de riesgo. Una ronda más grande reduce riesgo de liquidez pero puede aumentar dilución y expectativas. Modela base/downside y un buffer explícito.
-
-La narrativa financiera debe reconciliar uso de fondos, contratación, crecimiento, unit economics y siguiente hito financiable. “18 meses de runway” sin plan de hitos es solo una duración.
+La captación no termina con la firma sino con el **cumplimiento de los hitos prometidos**. Se establece un **calendario de informes** a inversionistas (mensual o trimestral), con métricas acordadas y transparencia sobre desvíos; se alinea el uso de fondos con el plan y se comunican los ajustes. Myers y Majluf recuerdan que los inversionistas se informan menos que la gerencia; la confianza se construye cumpliendo los compromisos y avisando temprano de los problemas. Cada ronda siguiente se apoya en el historial: quien cumplió sus hitos levanta mejor y quien no los cumplió paga más caro. Y se prepara la **siguiente ronda** con anticipación: la pista de caja posterior al cierre debe cubrir los hitos y el proceso siguiente.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **fundraising y narrativa financiera** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **fundraising y narrativa financiera** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **fundraising y narrativa financiera** ayuda a desafiar? |
-| David Skok — *SaaS Metrics resources* | perspectiva de Unit economics aplicada al problema de la clase | ¿Qué supuesto de **fundraising y narrativa financiera** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **fundraising y narrativa financiera** ayuda a desafiar? |
-
-En **fundraising y narrativa financiera**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **fundraising**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Feld y Mendelson | Dinámica del capital de riesgo: procesos, ofertas y términos. | Orientado a EE. UU. y a startups. | ¿Qué espera este inversionista? |
+| Horowitz | Honestidad y liderazgo bajo presión al levantar capital. | Experiencia personal. | ¿Cómo comunico lo difícil? |
+| Wasserman | Dilemas de riqueza y control de los fundadores. | Evidencia de startups de ciertos mercados. | ¿Qué decisión de propiedad hoy afectará mañana? |
+| Brealey, Myers y Allen | Financiamiento y asignación de capital por valor. | No cubre el proceso de captación. | ¿Los hitos justifican el capital? |
+| Myers y Majluf | Problemas de información en la emisión de capital. | Modelo teórico. | ¿Cómo reduzco la asimetría de información? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup busca USD 5M porque competidor levantó esa cifra. No puede explicar qué milestone habilita ni cómo cambia runway respecto a USD 2M.
+**Situación (hipotética).** Una empresa de software tiene ventas recurrentes anuales (ARR) de 4.000 millones de pesos, caja de 1.800 millones y un consumo neto de 260 millones al mes.
 
-**Paso 1 — definir por qué y cuánto capital.** La gerencia escribe primero el supuesto asociado a **fundraising** y evita convertirlo en hecho. Luego busca **runway after round** para contrastarlo en el caso de **fundraising y narrativa financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pista de caja actual.** 1.800 ÷ 260 = 6,9 meses: demasiado corta para un proceso de captación (de tres a cinco meses más cierre).
 
-**Paso 2 — ligar use of proceeds a milestones.** La gerencia escribe primero el supuesto asociado a **use of proceeds** y evita convertirlo en hecho. Luego busca **milestone coverage** para contrastarlo en el caso de **fundraising y narrativa financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Medidas inmediatas.** Reducir el consumo en 10 % (a 234 millones): pista de 1.800 ÷ 234 = 7,7 meses; negociar una línea de capital de trabajo de 600 millones como puente.
 
-**Paso 3 — preparar evidence room.** La gerencia escribe primero el supuesto asociado a **milestone financing** y evita convertirlo en hecho. Luego busca **investor conversion** para contrastarlo en el caso de **fundraising y narrativa financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo del monto.** Plan a 20 meses para alcanzar un ARR de 9.000 millones y una retención neta de 115 %, con consumo creciente:
 
-**Paso 4 — segmentar investors y pipeline.** La gerencia escribe primero el supuesto asociado a **investor fit** y evita convertirlo en hecho. Luego busca **dilution** para contrastarlo en el caso de **fundraising y narrativa financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Período | Meses | Consumo mensual | Consumo del período |
+|---|---|---|---|
+| Meses 1 a 6 | 6 | 280 | 1.680 |
+| Meses 7 a 12 | 6 | 330 | 1.980 |
+| Meses 13 a 20 | 8 | 380 | 3.040 |
+| **Total** | 20 | | **6.700** |
 
-**Paso 5 — negociar términos cerrar y comunicar.** La gerencia escribe primero el supuesto asociado a **fundraising funnel** y evita convertirlo en hecho. Luego busca **fundraising cycle time** para contrastarlo en el caso de **fundraising y narrativa financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+Monto requerido = consumo (6.700) − caja actual (1.800) + colchón de tres meses de consumo final (3 × 380 = 1.140) = **6.040**, que se redondea a **6.000 millones**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **fundraising y narrativa financiera**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Pista tras el cierre.** Caja: 1.800 + 6.000 = 7.800. Consumo en los primeros 12 meses: 1.680 + 1.980 = 3.660; quedan 4.140. A 380 por mes: 4.140 ÷ 380 = 10,9 meses. Pista total: 12 + 10,9 ≈ **22,9 meses**, suficiente para los hitos (20 meses) más el proceso de la siguiente ronda.
+
+**Uso de fondos ligado a hitos.**
+
+| Uso | % | Millones | Hito |
+|---|---|---|---|
+| Producto e ingeniería | 35 | 2.100 | Lanzar el módulo empresarial en 9 meses |
+| Comercial y marketing | 40 | 2.400 | ARR de 9.000 millones y retención neta de 115 % a 20 meses |
+| Operaciones y soporte | 15 | 900 | Costo de servicio por cliente −20 % |
+| Reserva | 10 | 600 | Contingencias |
+
+**Valoración y dilución.** Si el inversionista valora la empresa en 24.000 millones antes de la inversión (pre-money): valoración posterior de 30.000 millones; participación del nuevo inversionista: 6.000 ÷ 30.000 = 20 %.
+
+**Embudo de inversionistas.** Se contacta a 40 inversionistas segmentados por ajuste: 18 primeras reuniones (45 %); 8 segundas reuniones (44 %); 4 ofertas (50 %). Con cuatro ofertas hay poder de negociación; basta con tres para generar competencia. Con un calendario de 12 semanas desde el primer contacto hasta las ofertas, más seis semanas de revisión legal: cerca de 4,5 meses.
+
+**Sala de evidencia.** Estados financieros auditados, modelo con los supuestos, panel de métricas (ARR, retención, costo de adquisición), 20 contratos principales, tabla de capitalización totalmente diluida, informe de cumplimiento laboral y tributario, y un registro de riesgos. Se revisan cifras para que coincidan con la presentación.
+
+**Comunicación y cumplimiento.** Informe trimestral a inversionistas con diez métricas acordadas, y aviso de desvíos mayores a 10 % en 15 días.
+
+**Cuidados.** Las ofertas de valores y las condiciones de los inversionistas se revisan con asesoría legal; las proyecciones son hipotéticas y no constituyen una promesa de resultados; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La pista de caja determinó cuándo y cuánto. (2) El uso de fondos se ligó a hitos medibles. (3) El embudo y la sala de evidencia ordenaron el proceso.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **fundraising** | proceso de captar capital externo | Cuando runway after round es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **use of proceeds** | destino específico del capital | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Captación frente a financiamiento bancario.** El banco evalúa capacidad de pago y garantías; el inversionista de capital evalúa potencial de crecimiento y participa en el riesgo y la propiedad. Los procesos, la información y los tiempos difieren.
 
-**Frontera de aplicación:** Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente.
+**Límites.** Los tiempos de proceso, las tasas de conversión y las valoraciones varían con el mercado y el momento. Los hitos pueden no cumplirse. Un buen proceso no garantiza capital. Las ofertas de valores tienen restricciones legales. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre fundraising y narrativa financiera |
+| Nivel | Cómo participa en la captación |
 |---|---|
-| **Profesional** | usa **fundraising y narrativa financiera** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **fundraising** y **use of proceeds** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta runway after round con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si fundraising y narrativa financiera cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de fundraising y narrativa financiera reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **fundraising y narrativa financiera** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara datos exactos para la sala de evidencia. |
+| **Jefe / Team Lead** | Explica la tracción de su área con métricas verificables. |
+| **Gerente** | Construye el plan de uso de fondos y los hitos. |
+| **CEO / Director** | Lidera la narrativa, el proceso y la relación con inversionistas. |
+| **Founder / Owner** | Equilibra capital, control y visión a largo plazo. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup busca USD 5M porque competidor levantó esa cifra. No puede explicar qué milestone habilita ni cómo cambia runway respecto a USD 2M.
+Una empresa de tecnología para salud con 70 personas, ARR de 6.500 millones de pesos, crecimiento de 60 % anual, margen bruto de 68 %, caja de 2.400 millones y un consumo neto de 380 millones al mes decide levantar capital. Hay un fondo interesado que ofrece 9.000 millones con una valoración previa de 36.000 millones; un inversionista estratégico propone 5.000 millones con exclusividad comercial; los fundadores tienen 62 % de la propiedad. El director comercial quiere pedir 15.000 millones «para crecer más rápido»; el director financiero advierte que el consumo subiría a 700 millones al mes; la tabla de capitalización tiene errores; la retención neta cayó de 118 % a 104 % en dos trimestres; un cliente representa el 24 % del ARR. El plan prevé un ARR de 16.000 millones en 24 meses. Los fundadores se preocupan por la dilución, y un empleado clave amenaza con irse si no recibe más opciones.
 
-Entrega un **decision brief de fundraising y narrativa financiera** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de captación** que contenga: (a) el cálculo de pista de caja, monto y calendario con el escenario de consumo; (b) el uso de fondos ligado a hitos y a la siguiente ronda; (c) la narrativa financiera con el tratamiento honesto de la caída de retención y la concentración; (d) la sala de evidencia y el plan para corregir la tabla de capitalización; (e) el embudo de inversionistas, con criterios de selección y tiempos; (f) la comparación de ofertas, el plan de comunicación y las verificaciones legales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **fundraising y narrativa financiera** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta runway after round, milestone coverage; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula la pista de caja de tu empresa y decide cuándo habría que empezar una ronda.
+2. Estima el monto necesario para 20 meses con tres tramos de consumo y un colchón.
+3. Liga cada categoría de uso de fondos a un hito medible con fecha.
+4. Arma una lista segmentada de 30 inversionistas con criterios de ajuste y calcula el embudo esperado.
+5. Redacta el índice de una sala de evidencia con los documentos clave.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar fundraising y use of proceeds como sinónimos | Se pierde la distinción entre “proceso de captar capital externo” y “destino específico del capital” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “negociar términos cerrar y comunicar” | Se saltó “definir por qué y cuánto capital” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar y marca el primer supuesto no demostrado. |
-| Optimizar solo runway after round | La métrica local sustituyó al resultado del sistema | Contrástala con milestone coverage y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre fundraising y narrativa financiera | Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente. |
-| No fijar revisión | Una decisión sobre fundraising y narrativa financiera se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Empezar con poca pista de caja | Se posterga la decisión | Iniciar con 9 a 12 meses de pista. |
+| Pedir sin plan de hitos | Se piensa en el monto, no en el uso | Ligar cada peso a un resultado medible. |
+| Cifras inconsistentes | Cada documento se prepara aparte | Una sola fuente y revisión cruzada. |
+| Ocultar problemas | Miedo a perder la oferta | Presentar riesgos y mitigaciones con honestidad. |
+| Una sola conversación | Falta de pipeline | Procesos paralelos y calendario. |
+| No cumplir después | Se da por terminado | Informes periódicos y aviso temprano de desvíos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **fundraising** y **use of proceeds** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **milestone financing** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir por qué y cuánto capital → ligar use of proceeds a milestones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **runway after round** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **fundraising y narrativa financiera**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente.**?
+1. ¿Cuándo conviene iniciar una ronda según la pista de caja?
+2. ¿Cómo se calcula el monto de una ronda?
+3. ¿Por qué se liga el uso de fondos a hitos?
+4. ¿Qué incluye una narrativa financiera sólida?
+5. ¿Qué contiene una sala de evidencia?
+6. ¿Cómo se gestiona el pipeline de inversionistas?
+7. ¿Qué se hace después del cierre?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Con al menos nueve a doce meses de pista, porque el proceso toma varios meses y la urgencia debilita la negociación.
+2. Consumo proyectado hasta los hitos, menos la caja actual, más un colchón de tres a seis meses.
+3. Porque los inversionistas financian resultados que reducen la incertidumbre y justifican valoraciones crecientes.
+4. Problema y mercado, evidencia, modelo de negocio y economía unitaria, proyecciones con supuestos, riesgos y mitigación, y solicitud concreta.
+5. Estados financieros y modelo, métricas, contratos, tabla de capitalización, cumplimiento legal y tributario, propiedad intelectual y personas clave.
+6. Con una lista segmentada por ajuste, un embudo con conversión por etapa y un calendario que genere competencia.
+7. Cumplir hitos, informar con regularidad, avisar de desvíos y preparar la siguiente ronda con anticipación.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/222-fundraising-y-narrativa-financiera/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **fundraising y narrativa financiera**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **fundraising y narrativa financiera** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **fundraising**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup busca USD 5M porque competidor levantó esa cifra. No puede explicar qué milestone habilita ni cómo cambia runway respecto a USD 2M.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el plan de captación del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con la pista de caja y el monto de la ronda;
+- `decision-journal.md` con el uso de fondos, el embudo y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- David Skok — *SaaS Metrics resources* (For Entrepreneurs (Matrix Partners)). **Uso en esta clase:** perspectiva de Unit economics aplicada al problema de la clase. **Fuente primaria:** <https://www.forentrepreneurs.com/saas-metrics-2/>.
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **fundraising y narrativa financiera** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **fundraising y narrativa financiera** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **fundraising y narrativa financiera** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **fundraising y narrativa financiera** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** dinámica del capital de riesgo, procesos y ofertas. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
+- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** honestidad y liderazgo bajo presión al levantar capital. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de riqueza y control de los fundadores. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** financiamiento y asignación de capital por valor. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stewart C. Myers & Nicholas S. Majluf — *Corporate financing and investment decisions when firms have information that investors do not have* (Journal of Financial Economics, 1984). **Uso en esta clase:** problemas de información al emitir capital. Lectura selectiva sobre **fundraising y narrativa financiera**. **Localizador:** [DOI 10.1016/0304-405X(84)90023-0](https://doi.org/10.1016/0304-405X(84)90023-0).
+- David Skok — *SaaS Metrics resources* (For Entrepreneurs (Matrix Partners)). **Uso en esta clase:** métricas de negocios de software por suscripción que sostienen la narrativa financiera. **Fuente primaria:** <https://www.forentrepreneurs.com/saas-metrics-2/>.
 
-> **Regla de fuentes para Fundraising y narrativa financiera:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **fundraising y narrativa financiera** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Fundraising y narrativa financiera:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de ofertas de valores y de relación con inversionistas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

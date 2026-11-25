@@ -10,225 +10,209 @@
 
 ## 🎯 Propósito
 
-Deuda y equity distribuyen riesgo, control y retorno de forma distinta. Deuda exige pagos y puede ser más barata; equity absorbe pérdidas y diluye propiedad. La decisión debe considerar runway, volatilidad, etapa, garantías, covenants y valor de opción.
+Cuando una empresa necesita financiar una expansión, una adquisición o simplemente más caja, la discusión suele reducirse a una frase: «¿pedimos un crédito o traemos un socio?». Cada alternativa tiene defensores. Los partidarios de la deuda dicen que es más barata, no diluye y mantiene el control; los del capital dicen que no obliga a pagar, que da tranquilidad y que un socio aporta más que dinero. Ambos tienen razón y ambos omiten lo esencial: **el resultado depende del escenario**. Si el proyecto sale bien, la deuda deja más valor a los propietarios; si sale mal, la deuda puede llevarlos a perder el control de la empresa, mientras que el socio de capital comparte la pérdida. Elegir bien exige proyectar la caja, probar el escenario adverso, medir qué se cede y a qué precio, y dejar un plan B.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **deuda versus equity** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase compara deuda y capital con un método explícito. Se apoya en el análisis de Brealey, Myers y Allen sobre fuentes de financiamiento, en Myers y Majluf sobre la asimetría de información y el costo de emitir capital, en Jensen y Meckling sobre los conflictos entre propietarios, gerentes y acreedores, y en Feld y Mendelson sobre las condiciones del capital de riesgo. Al terminar sabrás proyectar caja y escenario adverso, medir la capacidad de servicio, cuantificar dilución y control, comparar términos y flexibilidad, y seleccionar una mezcla con un plan alternativo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `debt`, `equity`, `dilution`, `runway`, `default risk` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** debt service coverage, dilution, runway sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Proyectar** la caja y el escenario adverso con y sin financiamiento.
+2. **Medir** la capacidad de servicio de deuda en cada escenario.
+3. **Cuantificar** la dilución y el efecto en el valor de los propietarios.
+4. **Comparar** términos, covenants y flexibilidad de cada fuente.
+5. **Seleccionar** una mezcla y definir un plan B.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define debt y equity sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con debt service coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿en qué escenario te arrepentirías de haber usado deuda y en cuál de haber vendido parte de la empresa? |
+| 20–60 min | Obligaciones, costo, control, información, instrumentos mixtos y decisión. |
+| 60–105 min | Ejemplo trabajado: financiar 6.000 millones con deuda, capital o una mezcla. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **debt** | capital con obligación contractual de repago e interés | Distingue un hecho compatible y otro que lo refute. |
-| **equity** | capital residual con participación en propiedad | Distingue un hecho compatible y otro que lo refute. |
-| **dilution** | reducción porcentual de propiedad por nueva emisión | Distingue un hecho compatible y otro que lo refute. |
-| **runway** | tiempo financiable antes de agotar caja | Distingue un hecho compatible y otro que lo refute. |
-| **default risk** | riesgo de incumplir obligaciones de deuda | Distingue un hecho compatible y otro que lo refute. |
+| **Deuda** | Financiamiento con obligación de pagar intereses y capital en fechas. | Contratos, covenants y garantías. |
+| **Capital propio (*equity*)** | Aporte de propietarios sin obligación fija de pago. | Acciones, participaciones. |
+| **Dilución** | Reducción de la participación de los actuales propietarios. | Nuevas acciones emitidas. |
+| **Cobertura del servicio de deuda (DSCR)** | Caja disponible sobre intereses y amortizaciones del período. | Mide capacidad de cumplir. |
+| **Instrumento híbrido** | Mezcla de deuda y capital, como un convertible. | Se convierte según condiciones. |
+| **Plan B de financiamiento** | Alternativa si falla la fuente principal. | Línea comprometida, venta de activos, aporte. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 219: 1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B](modelo-mental.svg)
+![Financiar con deuda frente a financiar con capital propio: costo, obligación, control y nuevos socios.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Deuda y equity distribuyen riesgo, control y retorno de forma distinta. Deuda exige pagos y puede ser más barata; equity absorbe pérdidas y diluye propiedad. La decisión debe considerar runway, volatilidad, etapa, garantías, covenants y valor de opción.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, **financiar con deuda**: costo menor y, según la ley, con efecto tributario; obligación de pagar aunque el negocio vaya mal; y control que se mantiene, sin dilución pero con condiciones del acreedor. A la derecha, **financiar con capital propio**: sin obligación fija, lo que permite soportar pérdidas sin quiebra inmediata; costo mayor y dilución, porque se cede propiedad; y nuevos socios que aportan recursos y también derechos. La nota explica que no hay una fuente mejor en abstracto; el pie, que los efectos tributarios y regulatorios se verifican con asesoría.
 
 ## 📖 Desarrollo
 
-### 1. debt: mecanismo central
+### 1. Las diferencias de fondo
 
-**debt** se entiende aquí como **capital con obligación contractual de repago e interés**. Esta es la pieza causal o estructural desde la que se inicia **deuda versus equity**: antes de proyectar cash y downside, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La **deuda** es un contrato: el acreedor recibe intereses y la devolución del capital en fechas fijas, tenga o no la empresa un buen año; si no se cumple, puede ejecutar garantías o forzar una reestructuración. A cambio de ese riesgo menor, su retorno exigido es menor. El **capital propio** es un derecho residual: el propietario recibe lo que queda después de pagar a todos los demás, sin fecha ni monto fijo; asume el mayor riesgo y exige un mayor retorno. Brealey, Myers y Allen explican que, en consecuencia, la deuda **eleva el riesgo del capital propio** (más apalancamiento, más variabilidad) y que el costo del capital propio sube con ella, de modo que la deuda no es «gratis». Pero hay fricciones (los intereses pueden ser deducibles de impuestos, según la ley) que le dan una ventaja neta hasta cierto punto.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **debt service coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. El escenario manda
 
-Relaciona el mecanismo con **equity**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El mismo financiamiento puede ser excelente o catastrófico según el escenario. En el **escenario favorable**, la deuda deja más valor a los propietarios: pagan un costo fijo y se quedan con todo el excedente. En el **escenario adverso**, la deuda aumenta la probabilidad de dificultades: cada peso de intereses y amortizaciones debe pagarse, el acreedor puede exigir garantías y covenants, y la empresa puede perder clientes, talento y opciones por su fragilidad. El capital propio, en cambio, **absorbe** las pérdidas. Por eso la decisión se prueba con **al menos tres escenarios** (base, adverso y favorable), calculando para cada uno la caja disponible, la cobertura del servicio de deuda y el valor para los propietarios.
 
-### 2. equity: frontera conceptual y error de clasificación
+### 3. Dilución y control
 
-**Definición operacional:** capital residual con participación en propiedad. Su valor está en distinguirlo de **debt** y **dilution**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Emitir capital **cede propiedad**: los antiguos propietarios pasan a tener un porcentaje menor de una empresa que, con suerte, vale más. Lo importante no es el porcentaje en sí sino el **valor de la participación**: tener el 80 % de una empresa que vale más puede ser mejor que el 100 % de una que vale menos. El control depende de los **derechos** que acompañan al capital: representación en el directorio, vetos, información, preferencias de liquidación, antidilución, arrastre (clase 224). Jensen y Meckling señalan que cada fuente genera sus propios **conflictos de agencia**: los acreedores quieren que no se asuman riesgos excesivos y por eso imponen covenants; los accionistas externos quieren supervisar a los gerentes y por eso piden derechos. Se evalúa **qué tan cómodo** es convivir con las condiciones de cada fuente.
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **equity** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **dilution** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Información y señales
 
-Antes de medir capacidad de servicio, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Myers y Majluf mostraron que, cuando los gerentes saben más que los inversionistas, **emitir acciones puede interpretarse como una señal negativa**: si las acciones estuvieran baratas, ¿por qué venderlas? Los inversionistas lo anticipan y piden un **descuento**, que encarece la emisión. Esto contribuye a que muchas empresas prefieran fondos internos y deuda antes que capital nuevo, salvo cuando la deuda ya es excesiva o la incertidumbre es alta (empresas jóvenes y tecnológicas). En el caso de empresas privadas y de capital de riesgo, la dinámica de información es distinta: los inversionistas especializados negocian con **mucha más información** (la sala de evidencia, clase 222) y la valoración depende de los hitos más que de señales de mercado.
 
-### 3. dilution: operacionalización y medición
+### 5. Instrumentos mixtos y estructuras intermedias
 
-**dilution** significa **reducción porcentual de propiedad por nueva emisión**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Entre deuda y capital hay un espectro: **deuda subordinada**, **deuda convertible** (se convierte en acciones si se cumplen ciertas condiciones), **acciones preferentes** (con derechos de cobro antes que las ordinarias), **opciones y *warrants***, **deuda con pago contingente** (el interés depende de los resultados) y **financiamiento por ingresos futuros**. Ofrecen flexibilidad, pero con **complejidad** (mayor costo de asesoría, riesgo de interpretaciones) y, a veces, **costos escondidos** (cláusulas de conversión que diluyen más en un escenario favorable). Se evalúan con las mismas pruebas: ¿qué ocurre con la caja, con la propiedad y con el valor para los propietarios en cada escenario?
 
-Aswath Damodaran — *Investment Valuation* orienta este bloque mediante **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **runway**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Términos, covenants y flexibilidad
 
-Al llegar a cuantificar dilution y control, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Al comparar ofertas no basta el precio. Se revisan: **plazo y calendario de pagos** (¿se ajusta al flujo?), **covenants** (ratios, restricciones a dividendos, inversiones o endeudamiento adicional), **garantías**, **cláusulas de incumplimiento cruzado**, **derechos de aceleración**, y en el capital, los **derechos de control** y de salida. Una oferta con tasa baja pero con covenants estrictos puede ser peor que otra con tasa mayor y más holgura. La **flexibilidad** vale dinero: poder prepagar sin penalidad, tener una línea de crédito disponible o contar con socios que pueden aportar más capital en una crisis. Los contratos se leen completos y se revisan con asesoría legal antes de firmar.
 
-### 4. runway: trade-offs y efectos de segundo orden
+### 7. Elegir la mezcla y el plan B
 
-**Definición:** tiempo financiable antes de agotar caja. Este concepto obliga a abandonar la idea de que **deuda versus equity** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar términos y flexibilidad, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* aporta una lente sobre **proceso de M&A, valoración, due diligence, negociación e integración**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash volatility** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **deuda versus equity**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **runway** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. default risk: gobernanza, límites e integración
-
-**default risk** se define como **riesgo de incumplir obligaciones de deuda** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar seleccionar mezcla y plan b, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **debt**, **equity**, **dilution**, **runway** y **default risk** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **deuda versus equity** no consiste en sumar cinco definiciones. Empieza por **debt**, contrasta **equity** con **dilution**, incorpora **runway** como restricción o mecanismo y usa **default risk** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Deuda versus equity: costo total, no solo tasa
-
-Compara coste financiero, vencimiento, garantías, covenants, dilución, derechos de control, flexibilidad y riesgo de insolvencia. Equity suele ser más caro económicamente porque asume riesgo residual, aunque no tenga una cuota contractual mensual.
-
-Construye una tabla de escenarios base/downside/upside y prueba si la empresa conserva liquidez bajo deuda. Una ronda de equity que evita insolvencia puede crear más valor que deuda “barata” imposible de servir.
+La elección razonable suele ser una **mezcla** que cumple tres condiciones: sobrevive al escenario adverso con holgura (cobertura mínima definida), no cede más control del necesario y mantiene el costo total razonable. Se define también un **plan B**: ¿qué pasa si el financiamiento previsto no se concreta o si el escenario adverso ocurre? Opciones: líneas de crédito comprometidas sin usar, posibilidad de vender activos o negocios no estratégicos, aportes adicionales de propietarios, acuerdos previos con acreedores y la capacidad de reducir inversión rápidamente. Se documenta la decisión con los escenarios, el razonamiento y las condiciones que obligarían a reconsiderarla.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **deuda versus equity** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **deuda versus equity** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **deuda versus equity** ayuda a desafiar? |
-| Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* | proceso de M&A, valoración, due diligence, negociación e integración | ¿Qué supuesto de **deuda versus equity** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **deuda versus equity** ayuda a desafiar? |
-
-En **deuda versus equity**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **debt**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Brealey, Myers y Allen | Deuda, capital, riesgo y costo; apalancamiento. | No da la mezcla de cada empresa. | ¿Qué pasa con el riesgo del capital propio? |
+| Myers y Majluf | Señales y costo de emitir capital con información asimétrica. | Modelo estilizado. | ¿Qué señal enviamos al emitir? |
+| Jensen y Meckling | Conflictos entre propietarios, gerentes y acreedores. | Supone comportamientos simplificados. | ¿Qué conflicto crea cada fuente? |
+| Feld y Mendelson | Condiciones típicas del capital de riesgo. | Enfocado en startups de EE. UU. | ¿Qué derechos acompañan al capital? |
+| Myers (1984) | Jerarquía de fuentes de financiamiento. | Evidencia mixta. | ¿Por qué elegimos esta secuencia? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup pre-revenue puede obtener préstamo caro con garantía personal del fundador o equity de 15% que aporta además canal comercial.
+**Situación (hipotética).** Una empresa tiene EBITDA de 5.000 millones de pesos, deuda de 4.000 millones (interés de 8 %: 320 millones al año; amortización de 400 al año) y un valor de empresa de 8 veces el EBITDA (40.000 millones; patrimonio de 36.000). Necesita 6.000 millones para un proyecto. Para simplificar, el ejemplo ignora impuestos y se mantienen múltiplo y deuda existente constantes.
 
-**Paso 1 — proyectar cash y downside.** La gerencia escribe primero el supuesto asociado a **debt** y evita convertirlo en hecho. Luego busca **debt service coverage** para contrastarlo en el caso de **deuda versus equity**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escenarios a tres años.**
 
-**Paso 2 — medir capacidad de servicio.** La gerencia escribe primero el supuesto asociado a **equity** y evita convertirlo en hecho. Luego busca **dilution** para contrastarlo en el caso de **deuda versus equity**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Escenario | EBITDA | Valor de empresa (8×) |
+|---|---|---|
+| Adverso (negocio actual −20 %; el proyecto aporta 300) | 4.300 | 34.400 |
+| Base (el proyecto aporta 1.500) | 6.500 | 52.000 |
+| Favorable (negocio +5 %; el proyecto aporta 2.500) | 7.750 | 62.000 |
 
-**Paso 3 — cuantificar dilution y control.** La gerencia escribe primero el supuesto asociado a **dilution** y evita convertirlo en hecho. Luego busca **runway** para contrastarlo en el caso de **deuda versus equity**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opciones de financiamiento.**
 
-**Paso 4 — comparar términos y flexibilidad.** La gerencia escribe primero el supuesto asociado a **runway** y evita convertirlo en hecho. Luego busca **cash volatility** para contrastarlo en el caso de **deuda versus equity**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- **A. Deuda de 6.000 al 9 %** (interés 540; amortización 1.200 al año en cinco años). Deuda total: 10.000.
+- **B. Capital de 6.000 a una valoración posterior de 36.000** (los inversionistas reciben 6.000 ÷ 36.000 = 16,7 %). Deuda total: 4.000.
+- **C. Mezcla: 3.000 de deuda (interés 270; amortización 600 al año) y 3.000 de capital** (8,33 %). Deuda total: 7.000.
 
-**Paso 5 — seleccionar mezcla y plan B.** La gerencia escribe primero el supuesto asociado a **default risk** y evita convertirlo en hecho. Luego busca **control rights** para contrastarlo en el caso de **deuda versus equity**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor para los antiguos propietarios (valor de empresa menos deuda, por su participación).**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **deuda versus equity**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Opción | Adverso | Base | Favorable |
+|---|---|---|---|
+| A (100 %) | 34.400 − 10.000 = 24.400 | 52.000 − 10.000 = 42.000 | 62.000 − 10.000 = 52.000 |
+| B (83,3 %) | (34.400 − 4.000) × 0,8333 = 25.333 | (52.000 − 4.000) × 0,8333 = 40.000 | (62.000 − 4.000) × 0,8333 = 48.333 |
+| C (91,7 %) | (34.400 − 7.000) × 0,9167 = 25.117 | (52.000 − 7.000) × 0,9167 = 41.250 | (62.000 − 7.000) × 0,9167 = 50.417 |
+
+**Capacidad de servicio.** Caja operativa antes del servicio de deuda = EBITDA − inversión de mantención (2.000) − impuestos (aproximación: 800 en base y favorable; 400 en adverso).
+
+| Escenario | Caja operativa | Servicio A | Servicio B | Servicio C |
+|---|---|---|---|---|
+| Adverso | 4.300 − 2.000 − 400 = 1.900 | 320 + 540 + 400 + 1.200 = 2.460 → 0,77 | 320 + 400 = 720 → 2,64 | 320 + 270 + 400 + 600 = 1.590 → 1,19 |
+| Base | 6.500 − 2.000 − 800 = 3.700 | 1,50 | 5,14 | 2,33 |
+
+**Lectura.** La opción A deja el mayor valor a los propietarios en el escenario base (42.000) y favorable (52.000), pero en el adverso **no puede pagar** (cobertura de 0,77 < 1): quedaría obligada a refinanciar, vender activos o pedir capital en la peor posición. La opción B es la más segura (cobertura de 2,64 en el adverso) y deja más valor que A en el adverso (25.333 frente a 24.400), pero cede más en el base (40.000 frente a 42.000) y en el favorable (48.333 frente a 52.000). La opción C intermedia mantiene una cobertura de 1,19 en el adverso, con un valor para los propietarios cercano al de B en el adverso (25.117) y mejor en base y favorable (41.250 y 50.417).
+
+**Decisión.** Se elige **C**, con una línea de crédito comprometida de 1.500 millones sin utilizar como plan B, condiciones de covenants con holgura de 30 % sobre el escenario base y un acuerdo con los nuevos socios que limita sus derechos de veto a materias esenciales.
+
+**Cuidados.** El ejemplo omite impuestos y supone múltiplos constantes; los efectos tributarios, los términos y covenants, y los derechos de los inversionistas se verifican con asesoría y en los contratos; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El resultado cambia con el escenario. (2) La cobertura mostró el riesgo de la deuda total. (3) La mezcla equilibró valor, seguridad y control.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **debt** | capital con obligación contractual de repago e interés | Cuando debt service coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **equity** | capital residual con participación en propiedad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Deuda y capital frente a financiamiento interno.** Los fondos generados por el negocio (retener utilidades) son la fuente más barata y flexible, pero limitada; reducir dividendos tiene costo para los propietarios.
 
-**Frontera de aplicación:** Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios.
+**Límites.** Las comparaciones dependen de los escenarios y de supuestos como el múltiplo y la tasa. El ejemplo simplifica impuestos y amortizaciones. Las condiciones de mercado cambian. Los derechos de inversionistas y los covenants son contractuales y se revisan con asesoría. Las cifras son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre deuda versus equity |
+| Nivel | Cómo participa en la decisión |
 |---|---|
-| **Profesional** | usa **deuda versus equity** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **debt** y **equity** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta debt service coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si deuda versus equity cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de deuda versus equity reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **deuda versus equity** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara proyecciones realistas y escenarios. |
+| **Jefe / Team Lead** | Entiende que un proyecto puede requerir condiciones de financiamiento. |
+| **Gerente** | Presenta el plan de caja y los escenarios de su inversión. |
+| **CEO / Director** | Elige la mezcla con el directorio y fija el plan B. |
+| **Founder / Owner** | Decide cuánta propiedad y cuánto riesgo está dispuesto a ceder. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup pre-revenue puede obtener préstamo caro con garantía personal del fundador o equity de 15% que aporta además canal comercial.
+Una empresa de tecnología con ventas de 45.000 millones de pesos, EBITDA de 7.200 millones y deuda neta de 9.000 millones necesita 15.000 millones para adquirir a un competidor y modernizar su plataforma. Alternativas: un banco ofrece 15.000 millones a 9,5 % con covenants de deuda neta sobre EBITDA máximo de 3,0 veces y garantías sobre los activos; un fondo ofrece 15.000 millones de capital por el 22 % de la empresa (valoración posterior de 68.000 millones) con derecho a dos directores, veto sobre endeudamiento y preferencia de liquidación; un inversionista estratégico ofrece 8.000 millones de capital por 12 % y exclusividad comercial en un mercado. La proyección base muestra un EBITDA de 11.000 millones en tres años; en un escenario adverso (pérdida del 30 % de los ingresos de un cliente grande y retraso de la integración), 6.000 millones. Los fundadores tienen el 70 % de la propiedad y no quieren perder el control.
 
-Entrega un **decision brief de deuda versus equity** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión de financiamiento** que contenga: (a) las proyecciones de caja en tres escenarios; (b) la cobertura de servicio y el cumplimiento de covenants en cada opción; (c) la dilución y el valor para los propietarios en cada escenario; (d) la comparación de términos, derechos de control y flexibilidad; (e) la mezcla recomendada, con el plan B y las condiciones que reabrirían la decisión; (f) las verificaciones contractuales, tributarias y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **deuda versus equity** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta debt service coverage, dilution; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Proyecta la caja de una inversión en tres escenarios y calcula la cobertura del servicio de deuda de cada uno.
+2. Calcula el valor para los propietarios con financiamiento por deuda y por capital en esos escenarios.
+3. Lista cinco covenants o derechos de control que revisarías en una oferta.
+4. Diseña una mezcla de deuda y capital con un plan B y define su disparador.
+5. Redacta el razonamiento de la decisión para el directorio en una página.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar debt y equity como sinónimos | Se pierde la distinción entre “capital con obligación contractual de repago e interés” y “capital residual con participación en propiedad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “seleccionar mezcla y plan B” | Se saltó “proyectar cash y downside” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B y marca el primer supuesto no demostrado. |
-| Optimizar solo debt service coverage | La métrica local sustituyó al resultado del sistema | Contrástala con dilution y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre deuda versus equity | Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios. |
-| No fijar revisión | Una decisión sobre deuda versus equity se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Elegir por el costo nominal | Es el dato más visible | Comparar valor, riesgo y control en escenarios. |
+| Mirar solo el escenario base | Optimismo | Probar el adverso y la cobertura. |
+| Ignorar covenants | Se enfoca en la tasa | Leer y estresar las condiciones. |
+| Temer la dilución sin calcular | Apego a la propiedad | Comparar el valor de la participación, no el porcentaje. |
+| No tener plan B | Se confía en la oferta | Línea comprometida y alternativas. |
+| Aceptar derechos de control sin entenderlos | Presión por cerrar | Simular los efectos y consultar asesoría. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **debt** y **equity** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **dilution** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **proyectar cash y downside → medir capacidad de servicio** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **debt service coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **deuda versus equity**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios.**?
+1. ¿Qué diferencia hay entre deuda y capital propio en obligaciones y retorno?
+2. ¿Por qué el escenario adverso es clave en la decisión?
+3. ¿Qué es la dilución y por qué importa más el valor que el porcentaje?
+4. ¿Qué señal puede enviar la emisión de acciones según Myers y Majluf?
+5. ¿Qué instrumentos mixtos existen?
+6. ¿Qué términos se comparan además del precio?
+7. ¿Qué características tiene una buena mezcla y un buen plan B?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La deuda obliga a pagar en fechas y tiene un retorno exigido menor; el capital propio es residual, sin pago fijo y con mayor retorno.
+2. Porque la deuda aumenta la probabilidad de dificultades si el negocio va mal, mientras que el capital absorbe pérdidas.
+3. Es la reducción de la participación de los antiguos propietarios; importa el valor de su participación, que puede ser mayor aunque el porcentaje sea menor.
+4. Que los gerentes creen que las acciones están caras, por lo que los inversionistas piden descuento y encarecen la emisión.
+5. Deuda subordinada, convertible, acciones preferentes, opciones o warrants, deuda con pago contingente y financiamiento por ingresos futuros.
+6. Plazos, covenants, garantías, aceleración, derechos de control, flexibilidad y derechos de salida.
+7. Sobrevive al escenario adverso con holgura, cede el control necesario y mantiene un costo razonable; el plan B incluye líneas comprometidas, venta de activos o aportes adicionales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/219-deuda-versus-equity/`:
 
-- `leadership-decision-brief.md` con el problema específico de **deuda versus equity**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **deuda versus equity** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **debt**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup pre-revenue puede obtener préstamo caro con garantía personal del fundador o equity de 15% que aporta además canal comercial.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el memo del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con las proyecciones de caja y la cobertura de servicio;
+- `decision-journal.md` con los escenarios, los términos comparados y el plan B.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** proceso de M&A, valoración, due diligence, negociación e integración. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **deuda versus equity** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **deuda versus equity**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **deuda versus equity** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **deuda versus equity** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **deuda versus equity** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** deuda, capital, apalancamiento y costo. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stewart C. Myers & Nicholas S. Majluf — *Corporate financing and investment decisions when firms have information that investors do not have* (Journal of Financial Economics, 1984). **Uso en esta clase:** asimetría de información y costo de emitir capital. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [DOI 10.1016/0304-405X(84)90023-0](https://doi.org/10.1016/0304-405X(84)90023-0).
+- Michael C. Jensen & William H. Meckling — *Theory of the firm: Managerial behavior, agency costs and ownership structure* (Journal of Financial Economics, 1976). **Uso en esta clase:** conflictos entre propietarios, gerentes y acreedores. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [DOI 10.1016/0304-405X(76)90026-X](https://doi.org/10.1016/0304-405X(76)90026-X).
+- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** condiciones típicas del capital de riesgo. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
+- Stewart C. Myers — *The Capital Structure Puzzle* (The Journal of Finance, 1984). **Uso en esta clase:** jerarquía de fuentes de financiamiento. Lectura selectiva sobre **deuda versus equity**. **Localizador:** [DOI 10.1111/j.1540-6261.1984.tb03646.x](https://doi.org/10.1111/j.1540-6261.1984.tb03646.x).
 
-> **Regla de fuentes para Deuda versus equity:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **deuda versus equity** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Deuda versus equity:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los contratos de financiamiento, los efectos tributarios y las normas de ofertas de valores. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

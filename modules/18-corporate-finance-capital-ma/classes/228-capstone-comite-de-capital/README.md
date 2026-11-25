@@ -10,225 +10,225 @@
 
 ## 🎯 Propósito
 
-El comité de capital integra inversión orgánica, deuda, dividendos, recompras, fundraising y M&A como un portafolio. El capstone exige comparar oportunidades con riesgo, estrategia, cash y reversibilidad, y decidir qué no financiar.
+Esta clase integra la parte 18. Las clases anteriores entregaron las piezas de un marco de capital: la estructura de capital y su capacidad de deuda (217), el costo de capital (218), la elección entre deuda y capital propio (219), la valoración por flujos y por múltiplos (220 y 221), la captación de capital, la tabla de capitalización y los términos de una ronda (222 a 224) y la lógica, la diligencia y la integración de las adquisiciones (225 a 227). Un **comité de capital** reúne todo ello en una decisión recurrente y difícil: con una caja y una capacidad de endeudamiento limitadas, ¿a qué se asigna el capital de la empresa este año, a qué se renuncia, qué se financia por etapas y qué se revisa después? Es la sala donde se materializa la estrategia, porque lo que se financia es lo que realmente ocurrirá.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: comité de capital** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+El trabajo del capstone es un **memo de asignación**: restricciones, comparación de oportunidades por retorno y riesgo, valor de las opciones estratégicas, asignación de capital y talento con etapas y condiciones, y un plan de revisión posterior. Se apoya en Bower sobre el proceso de asignación de recursos, en Thorndike sobre las opciones de uso del capital, en Koller y colaboradores sobre valor y retorno sobre el capital, en Brealey, Myers y Allen sobre decisión de inversión y en Mankins y Garton sobre asignación de talento y atención. Al terminar tendrás un documento que podrías presentar a un directorio.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `capital allocation framework`, `capital budget`, `portfolio return`, `risk-adjusted return`, `capital recycling` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** ROIC, FCF, capital concentration sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Establecer** el piso de caja y las restricciones duras antes de evaluar propuestas.
+2. **Comparar** oportunidades por retorno, riesgo y alternativas de uso del capital.
+3. **Valorar** opciones estratégicas que no caben en una fórmula.
+4. **Asignar** capital y talento por etapas con condiciones y puertas de decisión.
+5. **Diseñar** la revisión posterior y el aprendizaje del comité.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define capital allocation framework y capital budget sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con ROIC y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué criterio usa tu empresa para decir que sí a un proyecto y cuál para decir que no? |
+| 20–60 min | Marco, restricciones, comparación, opciones, etapas, talento y revisión. |
+| 60–105 min | Ejemplo trabajado: asignar 8.800 millones entre siete propuestas con etapas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **capital allocation framework** | reglas para comparar usos de capital | Distingue un hecho compatible y otro que lo refute. |
-| **capital budget** | conjunto de inversiones propuestas para un periodo | Distingue un hecho compatible y otro que lo refute. |
-| **portfolio return** | retorno agregado ponderado por capital | Distingue un hecho compatible y otro que lo refute. |
-| **risk-adjusted return** | retorno interpretado según exposición | Distingue un hecho compatible y otro que lo refute. |
-| **capital recycling** | venta o reducción de activos de bajo valor para financiar mejores usos | Distingue un hecho compatible y otro que lo refute. |
+| **Marco de asignación de capital** | Principios y criterios con que se decide dónde va el capital. | Se fija antes de ver las propuestas. |
+| **Presupuesto de capital** | Aplicación anual del marco a las propuestas concretas. | Lista de proyectos aprobados y montos. |
+| **Piso de caja** | Liquidez mínima que no se compromete. | Se respeta en el escenario adverso. |
+| **Puerta de decisión (*stage gate*)** | Punto en que se decide continuar, ajustar o detener. | Hito y criterio para liberar el capital siguiente. |
+| **Opción estratégica** | Derecho, no obligación, de invertir más si se cumplen condiciones. | Pilotos y compras en etapas. |
+| **Revisión posterior (*post-investment review*)** | Comparación de lo logrado con lo prometido. | Informe con aprendizaje. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 228: 1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle](modelo-mental.svg)
+![Cómo decide un comité de capital: piso de caja, comparar oportunidades, opciones estratégicas, asignar capital y talento, revisión posterior.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El comité de capital integra inversión orgánica, deuda, dividendos, recompras, fundraising y M&A como un portafolio. El capstone exige comparar oportunidades con riesgo, estrategia, cash y reversibilidad, y decidir qué no financiar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Piso de caja**: liquidez mínima y restricciones duras. **Comparar oportunidades**: retorno, riesgo y alternativas. **Opciones estratégicas**: valor que no cabe en la fórmula. **Asignar capital y talento**: decisión con dueños y condiciones. **Revisión posterior**: resultado real frente a lo prometido. La flecha indica que la revisión recalibra los criterios. La nota afirma que el marco fija criterios antes de ver las propuestas y que el presupuesto de capital es solo su aplicación anual; el pie, que las decisiones de financiamiento y adquisiciones se verifican con asesoría.
 
 ## 📖 Desarrollo
 
-### 1. capital allocation framework: mecanismo central
+### 1. El marco antes de las propuestas
 
-**capital allocation framework** se entiende aquí como **reglas para comparar usos de capital**. Esta es la pieza causal o estructural desde la que se inicia **capstone: comité de capital**: antes de establecer cash floor y constraints, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Bower mostró que la estrategia de una empresa surge del proceso por el que se asigna su capital: quién propone, con qué criterios y con qué información se decide. Un **marco de asignación de capital** fija, antes de ver propuestas: los **usos posibles** del capital (reinvertir, adquirir, devolver a propietarios, reducir deuda, mantener caja), el **orden de prioridad** (primero lo obligatorio y la seguridad, luego lo que crea más valor), los **criterios** (retorno sobre el capital invertido frente a costo de capital ajustado por riesgo, plazo de recuperación, ajuste estratégico, riesgo, capacidad de ejecución) y las **reglas** (límites de deuda, política de dividendos, tamaño máximo por proyecto sin aprobación del directorio). Thorndike observó que los CEO con mejores resultados trataban el capital como su responsabilidad central y consideraban todo el menú de usos. El **presupuesto de capital** es la aplicación anual de ese marco, no su sustituto.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **ROIC**; regístrala con periodo, unidad, población y baseline.
+### 2. Restricciones duras: piso de caja y capacidad
 
-Relaciona el mecanismo con **capital budget**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El comité parte de **cuánto capital hay disponible** y de **qué no se puede violar**. La disponibilidad se compone de: **flujo de caja libre** del período (después de impuestos y de la inversión de mantención), **caja sobre el piso** (la liquidez mínima que se mantiene, definida en escenarios adversos, clase 217), **capacidad de endeudamiento** dentro del rango objetivo y, si corresponde, **capital propio** que se pueda levantar. Se restan los **compromisos** (dividendos, amortizaciones, inversiones obligatorias). El resultado es el **monto disponible**, que se prueba en un **escenario adverso**: si el EBITDA cae 25 %, ¿el plan de inversión sigue siendo financiable? Si no, se estructura por etapas, con parte del capital condicionado a que se cumplan los resultados del año.
 
-### 2. capital budget: frontera conceptual y error de clasificación
+### 3. Comparar oportunidades
 
-**Definición operacional:** conjunto de inversiones propuestas para un periodo. Su valor está en distinguirlo de **capital allocation framework** y **portfolio return**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada propuesta se presenta en un **formato uniforme**: monto, retorno (VAN, TIR, plazo de recuperación) con supuestos explícitos, riesgos y su probabilidad, ajuste estratégico, necesidades de talento, hitos y dueño. Se evalúan con la **tasa de corte ajustada por riesgo** (clase 218) y se ordenan por **VAN por peso invertido** cuando el capital es limitado. Se aplican las lecciones de las clases anteriores: **escenarios** pesimistas, **pre-mortem** (qué haría fracasar el proyecto), **revisión independiente** de los supuestos y comparación con **alternativas** (incluida no hacer, devolver capital o reducir deuda). Bower advierte que las propuestas llegan «prefabricadas» por los niveles medios, con supuestos que favorecen su aprobación; el comité contrarresta con datos comparables y con calibración histórica: ¿qué tan precisas fueron las proyecciones de esta área en el pasado?
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **capital budget** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **FCF** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Opciones estratégicas y lo que no cabe en la fórmula
 
-Antes de comparar oportunidades por return y risk, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El VAN puede subestimar proyectos que **abren opciones**: un piloto que, si funciona, permite escalar; una tecnología que habilita varios negocios; una pequeña inversión que mantiene a la empresa en un mercado emergente. Estas **opciones estratégicas** se valoran explícitamente: costo de la opción (la inversión inicial), cuánto se aprende, qué se puede hacer después, probabilidad de éxito y valor si se escala. Se evitan dos errores: **justificar cualquier proyecto** con «valor estratégico» sin cuantificarlo, y **descartar** todo lo que no tiene VAN positivo hoy. Una regla: las apuestas estratégicas tienen un **presupuesto limitado** (por ejemplo, 10 % del capital), reglas de **puertas de decisión** y un responsable que responde por los aprendizajes (clase 198).
 
-### 3. portfolio return: operacionalización y medición
+### 5. Asignar con etapas, condiciones y dueños
 
-**portfolio return** significa **retorno agregado ponderado por capital**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La decisión del comité es **asignar** y a la vez **condicionar**. Para cada proyecto aprobado se define: **monto comprometido** y **monto condicionado** (que se libera al cumplir un hito), **dueño**, **métricas** de seguimiento y **puertas de decisión**. Las etapas protegen contra el escenario adverso y permiten aprender. También se decide **qué no se financia** y por qué, con una **medida interina** si corresponde (por ejemplo, un piloto menor). La asignación incluye al **talento**: ¿quién liderará cada proyecto aprobado y qué dejará de hacer? Mankins y Garton observan que las organizaciones asignan el dinero con rigor y el talento por inercia; se contrasta el presupuesto con la lista de los líderes más críticos y se mide cuántos de ellos trabajan en las prioridades.
 
-Noam Wasserman — *The Founder's Dilemmas* orienta este bloque mediante **dilemas de fundador, equity, control, equipo y decisiones tempranas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **capital concentration**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Adquisiciones y rondas dentro del marco
 
-Al llegar a considerar strategic options, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las operaciones de fusiones y adquisiciones, de captación y de financiamiento (clases 219 a 227) se evalúan **dentro del mismo marco**: una adquisición compite por capital con la expansión orgánica, la automatización o la recompra de acciones. Se aplican sus reglas específicas: **precio máximo** fijado de antemano, **diligencia independiente** y **plan de integración con dueño**. En el lado del financiamiento, el comité fija el **rango de deuda** y aprueba los **términos** que afectan al control. Se evita el riesgo de **decidir en silos**: aprobar una adquisición que consume la capacidad de endeudamiento que otro proyecto necesitaba, o levantar capital que diluye a los propietarios sin que el comité haya comparado alternativas.
 
-### 4. risk-adjusted return: trade-offs y efectos de segundo orden
+### 7. Revisión posterior y aprendizaje del comité
 
-**Definición:** retorno interpretado según exposición. Este concepto obliga a abandonar la idea de que **capstone: comité de capital** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar capital y talent, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* aporta una lente sobre **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **post-investment review** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: comité de capital**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **risk-adjusted return** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. capital recycling: gobernanza, límites e integración
-
-**capital recycling** se define como **venta o reducción de activos de bajo valor para financiar mejores usos** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Brad Feld & Jason Mendelson — *Venture Deals* se utiliza para estudiar **term sheets, economics/control y negociación de venture capital** y contrastar la recomendación final. Al ejecutar revisar post-investment y recycle, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **capital allocation framework**, **capital budget**, **portfolio return**, **risk-adjusted return** y **capital recycling** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: comité de capital** no consiste en sumar cinco definiciones. Empieza por **capital allocation framework**, contrasta **capital budget** con **portfolio return**, incorpora **risk-adjusted return** como restricción o mecanismo y usa **capital recycling** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Comité de capital
-
-El comité compara usos alternativos del capital: reinversión orgánica, deuda, adquisiciones, dividendos/buybacks cuando correspondan, liquidez y opciones futuras. Toda propuesta compite con una tasa mínima y con el costo de oportunidad de perder flexibilidad.
-
-El memo final debe incluir retorno esperado, distribución de outcomes, downside, liquidez, covenants/dilución, riesgos no financieros y post-audit. Capital allocation es un sistema de aprendizaje, no un evento anual.
+El comité **aprende** si compara lo prometido con lo ocurrido: revisión posterior de cada inversión relevante a los 12 y 24 meses, por alguien **independiente del proponente**, con los mismos indicadores del caso original (ingresos, costos, plazos, retorno, aprendizajes). Se mide también la **calidad del proceso**: precisión de las proyecciones por área, proporción de proyectos que cumplieron sus hitos, **tasa de reasignación** (capital que se mueve de lo que no funciona), porcentaje de talento clave en las prioridades. Los resultados alimentan la **calibración** (si un área sobreestima en 20 %, sus propuestas se ajustan) y el **marco** (criterios, límites, tasas de corte). Y el comité revisa su propio **funcionamiento**: ¿decidimos con información suficiente?, ¿desafiamos?, ¿registramos?
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **capstone: comité de capital** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **capstone: comité de capital** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **capstone: comité de capital** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **capstone: comité de capital** ayuda a desafiar? |
-| Brad Feld & Jason Mendelson — *Venture Deals* | term sheets, economics/control y negociación de venture capital | ¿Qué supuesto de **capstone: comité de capital** ayuda a desafiar? |
-
-En **capstone: comité de capital**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **capital allocation framework**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Bower | La estrategia surge del proceso de asignación; propuestas «prefabricadas». | Estudio de casos de su época. | ¿Qué favorece nuestro proceso? |
+| Thorndike | Menú completo de usos del capital y disciplina de CEO. | Casos seleccionados por su éxito. | ¿Qué usos no estamos considerando? |
+| Koller y otros | Retorno sobre el capital frente al costo de capital. | No cubre el proceso decisorio. | ¿Cuánto valor crea cada peso? |
+| Brealey, Myers y Allen | Criterios de decisión de inversión y riesgo. | No cubre la dimensión organizacional. | ¿Qué tasa y qué riesgo usamos? |
+| Mankins y Garton | Talento y atención como recursos a asignar. | Estudios agregados. | ¿Dónde están nuestros mejores líderes? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La empresa dispone de USD 30M: puede adquirir un competidor, construir nueva planta, pagar deuda o invertir en IA. Cada sponsor presenta su caso con métricas distintas.
+**Situación (hipotética).** Una empresa tiene un EBITDA de 12.000 millones de pesos, deuda neta de 11.000 millones, caja de 5.000 y un piso de caja de 3.000. Su flujo de caja libre antes de dividendos es de 6.500 millones; los dividendos son 2.400. Su capacidad de deuda en el escenario adverso es 19.583 y el rango objetivo llega hasta el 70 % (13.708).
 
-**Paso 1 — establecer cash floor y constraints.** La gerencia escribe primero el supuesto asociado a **capital allocation framework** y evita convertirlo en hecho. Luego busca **ROIC** para contrastarlo en el caso de **capstone: comité de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capital disponible este año.**
 
-**Paso 2 — comparar oportunidades por return y risk.** La gerencia escribe primero el supuesto asociado a **capital budget** y evita convertirlo en hecho. Luego busca **FCF** para contrastarlo en el caso de **capstone: comité de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Fuente | Millones |
+|---|---|
+| Flujo libre después de dividendos (6.500 − 2.400) | 4.100 |
+| Caja sobre el piso (5.000 − 3.000) | 2.000 |
+| Deuda adicional dentro del rango (13.708 − 11.000) | 2.708 |
+| **Total** | **8.808** (≈ 8.800) |
 
-**Paso 3 — considerar strategic options.** La gerencia escribe primero el supuesto asociado a **portfolio return** y evita convertirlo en hecho. Luego busca **capital concentration** para contrastarlo en el caso de **capstone: comité de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de estrés.** Con un EBITDA 25 % menor, el flujo libre antes de dividendos baja a 4.700; después de dividendos, 2.300. Capital disponible: 2.300 + 2.000 + 2.708 = 7.008 millones: **1.800 menos** que en el escenario base. Por eso parte de la asignación se condiciona.
 
-**Paso 4 — asignar capital y talent.** La gerencia escribe primero el supuesto asociado a **risk-adjusted return** y evita convertirlo en hecho. Luego busca **post-investment review** para contrastarlo en el caso de **capstone: comité de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Propuestas.**
 
-**Paso 5 — revisar post-investment y recycle.** La gerencia escribe primero el supuesto asociado a **capital recycling** y evita convertirlo en hecho. Luego busca **cash headroom** para contrastarlo en el caso de **capstone: comité de capital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| # | Propuesta | Capital | VAN | TIR | VAN/capital | Observación |
+|---|---|---|---|---|---|---|
+| 1 | Mantención crítica (obligatoria) | 1.200 | n. a. | n. a. | n. a. | Seguridad y continuidad |
+| 2 | Automatización de planta | 1.800 | 1.100 | 26 % | 0,61 | Riesgo bajo |
+| 3 | Expansión comercial en una región | 2.500 | 900 | 17 % | 0,36 | Divisible en dos fases |
+| 4 | Plataforma digital | 3.000 | 1.300 | 21 % | 0,43 | Divisible en dos fases |
+| 5 | Adquisición de un competidor | 4.500 al cierre | 600 | 14 % | 0,13 | Bajo la tasa de corte de 15 % |
+| 6 | Piloto de hidrógeno verde | 1.000 | 800 (opción) | n. a. | 0,80 | Apuesta estratégica con puertas |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: comité de capital**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Asignación.**
+
+1. **Obligatoria**: propuesta 1, 1.200. Quedan 7.600.
+2. **Opción estratégica** (presupuesto máximo de 10 % del capital, 880): propuesta 6 con un piloto de 1.000 en dos tramos de 500, con puertas de decisión; dentro del límite se aprueba el primer tramo con el segundo condicionado. Para el cálculo se asignan 1.000 y se condiciona la mitad. Quedan 6.600.
+3. **Por VAN por peso**: propuesta 2 (0,61): 1.800. Quedan 4.800.
+4. Propuesta 4 (0,43): 3.000 en dos fases de 1.500. Quedan 1.800.
+5. Propuesta 3 (0,36): primera fase de 1.500 (60 % del capital: 0,6 × 2.500). Queda 300 de reserva.
+6. **Propuesta 5 (adquisición)**: no cumple la tasa de corte (14 % < 15 %) y no hay capital: **se rechaza** como está; se invita a reestructurarla con pago contingente y a presentarla de nuevo si baja el precio.
+
+**Compromiso firme frente a condicionado.**
+
+| Concepto | Millones |
+|---|---|
+| Firme: propuesta 1 (1.200), 2 (1.800), primer tramo de 6 (500), fase 1 de 4 (1.500) | 5.000 |
+| Condicionado: segundo tramo de 6 (500), fase 2 de 4 (1.500), fase 1 de 3 (1.500) | 3.500 |
+| **Total asignado** | **8.500** |
+| Reserva | 300 |
+
+El compromiso firme de 5.000 cabe en el escenario adverso (7.008). Los 3.500 condicionados se liberan si el EBITDA del primer semestre es al menos 95 % del presupuesto y la caja supera el piso.
+
+**VAN esperado.** Propuesta 2: 1.100; propuesta 4: 1.300; propuesta 3 (fase 1: 60 % de 900) = 540; propuesta 6 (opción): 800. Total: 3.740. Capital discrecional: 1.000 + 1.800 + 3.000 + 1.500 = 7.300. Índice: 3.740 ÷ 7.300 = 0,51.
+
+**Talento.** De los 12 líderes más críticos, 3 (25 %) trabajaban en estas prioridades. Se reasignan 5: 8 de 12 (66,7 %). Los cargos que dejan se cubren con sucesores identificados (clase 201).
+
+**Revisión posterior.** A los 12 meses: comparación con los hitos y el VAN esperado; revisión independiente de la propuesta 2 y de la fase 1 de la propuesta 4; calibración de las proyecciones del área comercial (sobrestimación de 18 % en el último ciclo: se ajusta 15 % a la baja en la propuesta 3).
+
+**Cuidados.** Las condiciones de financiamiento, los covenants, las obligaciones contractuales y los aspectos regulatorios de adquisiciones y expansión se verifican con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Las restricciones se probaron con estrés. (2) La asignación combinó retorno, opciones y etapas. (3) El talento y la revisión posterior cerraron el ciclo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **capital allocation framework** | reglas para comparar usos de capital | Cuando ROIC es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **capital budget** | conjunto de inversiones propuestas para un periodo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Marco frente a presupuesto.** El marco son los criterios permanentes; el presupuesto es su aplicación anual. Cambiar los criterios para aprobar un proyecto favorito rompe el marco.
 
-**Frontera de aplicación:** Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados.
+**Límites.** Las proyecciones son inciertas y optimistas. Las opciones estratégicas se valoran con juicio. El comité decide con información limitada. Los criterios cuantitativos no sustituyen el criterio sobre personas y contexto. Las cifras del ejemplo son ilustrativas y no corresponden a una empresa real.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: comité de capital |
+| Nivel | Cómo participa en la asignación de capital |
 |---|---|
-| **Profesional** | usa **capstone: comité de capital** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **capital allocation framework** y **capital budget** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta ROIC con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: comité de capital cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: comité de capital reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: comité de capital** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara propuestas con supuestos honestos y datos verificables. |
+| **Jefe / Team Lead** | Comprende cómo los proyectos compiten por capital y talento. |
+| **Gerente** | Propone con retorno, riesgo y etapas, y responde por los resultados. |
+| **CEO / Director** | Preside el comité, fija el marco y decide qué no se financia. |
+| **Founder / Owner** | Equilibra reinversión, retorno a los propietarios y riesgo para su patrimonio. |
 
 ## 🏢 Caso ejecutivo
 
-La empresa dispone de USD 30M: puede adquirir un competidor, construir nueva planta, pagar deuda o invertir en IA. Cada sponsor presenta su caso con métricas distintas.
+Una empresa de energía y servicios con ventas de 210.000 millones de pesos, EBITDA de 31.500 millones, deuda neta de 52.000 millones (1,65 veces), caja de 14.000 millones y un piso de caja de 8.000 recibe este año nueve propuestas por un total de 68.000 millones: ampliación de una planta (14.000; TIR de 18 %), automatización de procesos (6.500; 24 %), parque solar (22.000; 12 %, con contratos de largo plazo), plataforma de clientes (9.000; 20 %), adquisición de un competidor regional (18.000 al cierre; TIR de 13 %; con una diligencia incompleta), mantenimiento obligatorio (7.500), pilotos de almacenamiento de energía (3.000), recompra de acciones solicitada por los propietarios (5.000) y reducción de deuda (4.000). El flujo libre antes de dividendos es de 15.000 millones; los dividendos, 6.000. El costo de capital es de 9,5 % y la tasa de corte, 13 % para proyectos del negocio actual y 15 % para nuevos. El directorio quiere «un presupuesto equilibrado»; el CEO prefiere la adquisición; los propietarios piden la recompra; el director financiero advierte que el covenant exige menos de 3,0 veces. De los 20 líderes más críticos, solo 5 trabajan en las prioridades del plan.
 
-Entrega un **decision brief de capstone: comité de capital** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de asignación de capital** que contenga: (a) las restricciones duras (piso de caja, capacidad de deuda, covenants) y el capital disponible en el escenario base y adverso; (b) la comparación de las nueve propuestas con retorno, riesgo y ajuste a la tasa de corte; (c) el tratamiento de las opciones estratégicas y de la adquisición; (d) la asignación con monto firme y condicionado, etapas y puertas; (e) la asignación de talento y la medición «talento en prioridades»; (f) el plan de revisión posterior y las verificaciones financieras, contractuales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: comité de capital** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta ROIC, FCF; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el capital disponible de una empresa con flujo libre, caja sobre el piso y capacidad de deuda, en dos escenarios.
+2. Ordena cinco propuestas por VAN por peso invertido y aplica una tasa de corte y un límite de capital.
+3. Diseña un proyecto en dos fases con una puerta de decisión y su criterio de liberación.
+4. Asigna talento a las prioridades de un plan y mide el porcentaje de líderes críticos asignados.
+5. Redacta el formato de la revisión posterior de una inversión con cinco indicadores.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar capital allocation framework y capital budget como sinónimos | Se pierde la distinción entre “reglas para comparar usos de capital” y “conjunto de inversiones propuestas para un periodo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar post-investment y recycle” | Se saltó “establecer cash floor y constraints” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle y marca el primer supuesto no demostrado. |
-| Optimizar solo ROIC | La métrica local sustituyó al resultado del sistema | Contrástala con FCF y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: comité de capital | Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados. |
-| No fijar revisión | Una decisión sobre capstone: comité de capital se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Evaluar propuestas sin restricciones | Se parte del entusiasmo | Fijar piso de caja y capacidad primero. |
+| Repartir parejo | Se evita el conflicto | Asignar por retorno, riesgo y ajuste. |
+| Justificar con «valor estratégico» sin cuantificar | Se busca aprobar | Valorar la opción y limitar su presupuesto. |
+| Comprometer todo de una vez | No se prueba el escenario adverso | Etapas y puertas de decisión. |
+| Asignar talento por costumbre | Las personas se quedan donde están | Contrastar con los líderes críticos. |
+| No revisar | Se da por terminado | Revisión posterior independiente. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **capital allocation framework** y **capital budget** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **portfolio return** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **establecer cash floor y constraints → comparar oportunidades por return y risk** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **ROIC** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: comité de capital**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados.**?
+1. ¿Qué diferencia hay entre marco de asignación y presupuesto de capital?
+2. ¿De qué se compone el capital disponible y cómo se prueba en estrés?
+3. ¿Cómo se comparan oportunidades cuando el capital es limitado?
+4. ¿Qué son las opciones estratégicas y cómo se limitan?
+5. ¿Qué es una puerta de decisión y para qué sirve?
+6. ¿Cómo se integra el talento en la asignación?
+7. ¿Qué mide la revisión posterior?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El marco son los criterios y reglas permanentes; el presupuesto es su aplicación anual a propuestas concretas.
+2. De flujo libre después de dividendos, caja sobre el piso y deuda adicional dentro del rango; se prueba con un escenario de caída del EBITDA que reduce el capital disponible.
+3. Con el VAN por peso invertido, la tasa de corte ajustada por riesgo, escenarios, pre-mortem, revisión independiente y alternativas.
+4. Inversiones que abren la posibilidad de invertir más si se cumplen condiciones; se limitan con un presupuesto máximo, puertas y un responsable.
+5. Un punto de decisión donde se libera, ajusta o detiene el capital siguiente según hitos.
+6. Contrastando el presupuesto con los líderes más críticos y midiendo cuántos trabajan en las prioridades, con sucesores para los cargos que dejan.
+7. Lo logrado frente a lo prometido en ingresos, costos, plazos y retorno, la precisión de las proyecciones y el aprendizaje para el marco.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/228-capstone-comite-de-capital/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **capstone: comité de capital**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: comité de capital** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **capital allocation framework**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La empresa dispone de USD 30M: puede adquirir un competidor, construir nueva planta, pagar deuda o invertir en IA. Cada sponsor presenta su caso con métricas distintas.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el memo de asignación del caso ejecutivo;
+- `capital-allocation.md` (plantilla [Capital allocation](../../../../templates/capital-allocation.md)) con el presupuesto firme y condicionado y las puertas de decisión;
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la decisión sobre adquisición y recompra;
+- `decision-journal.md` con las restricciones, el plan de revisión posterior y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** term sheets, economics/control y negociación de venture capital. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
-- David Skok — *SaaS Metrics resources* (For Entrepreneurs (Matrix Partners)). **Uso en esta clase:** perspectiva de Unit economics aplicada al problema de la clase. **Fuente primaria:** <https://www.forentrepreneurs.com/saas-metrics-2/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: comité de capital** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: comité de capital**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: comité de capital** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: comité de capital** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comité de capital** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Joseph L. Bower — *Managing the Resource Allocation Process* (Harvard Business School, 1970). **Uso en esta clase:** la estrategia como resultado del proceso de asignación de recursos. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9780875840833](https://openlibrary.org/isbn/9780875840833).
+- William N. Thorndike — *The Outsiders* (Harvard Business Review Press, 2012). **Uso en esta clase:** menú completo de usos del capital y disciplina de los CEO. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9781422162675](https://openlibrary.org/isbn/9781422162675).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** retorno sobre el capital frente al costo de capital. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** criterios de decisión de inversión y riesgo. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** talento y atención como recursos a asignar. Lectura selectiva sobre **capstone: comité de capital**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
 
-> **Regla de fuentes para Capstone: comité de capital:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comité de capital** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para el Capstone del comité de capital:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los covenants, los contratos de financiamiento y los aspectos regulatorios de adquisiciones y expansión. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

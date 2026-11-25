@@ -10,225 +10,214 @@
 
 ## 🎯 Propósito
 
-Un term sheet distribuye economía y control mediante valoración, preferencia de liquidación, anti-dilution, board seats, protective provisions, vesting y otros términos. Dos ofertas con la misma valoración pueden producir outcomes muy diferentes en downside o exit.
+Un *term sheet* (hoja de términos) es un documento de una a cinco páginas que resume las condiciones principales de una inversión antes de redactar los contratos definitivos. Aunque en general no es vinculante en lo económico, **marca el terreno de toda la negociación posterior**: lo que no se discute aquí difícilmente se corrige después. Muchos fundadores se concentran en un único número, la valoración, y firman sin entender el resto: una preferencia de liquidación del doble de lo invertido, un derecho de veto sobre casi todas las decisiones, una protección contra la dilución que los castiga si la empresa debe levantar capital más barato. Una valoración alta con términos duros puede ser peor que una más baja con términos limpios; solo se sabe simulando qué recibe cada parte en distintas salidas y qué poder tiene cada una en las decisiones.
 
-La salida de esta parte es **decidir estructura de capital, valoración, fundraising y transacciones**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **term sheets: economía y control** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase separa los términos en tres bloques: **economía** (cuánto y cómo se reparte el valor), **control** (quién decide) y **protección** (qué ocurre si el escenario cambia). Se apoya en Feld y Mendelson, cuyo libro describe en detalle los términos de las ofertas de capital de riesgo, en Wasserman sobre los dilemas de control de los fundadores, en Jensen y Meckling sobre conflictos de agencia, en Brealey, Myers y Allen sobre valor y financiamiento y en Myers y Majluf sobre información. Al terminar sabrás leer un *term sheet*, modelar el reparto en una salida (el *waterfall*), revisar protecciones contra la dilución y derechos de veto, y negociar el conjunto con escenarios.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `liquidation preference`, `participation`, `anti-dilution`, `protective provision`, `vesting` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → capital allocator.
-3. **Aplicar** la secuencia **1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** founder proceeds by exit, investor preference, board control sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Separar** los términos económicos de los de control y de protección.
+2. **Modelar** el reparto de una salida con preferencias de liquidación.
+3. **Revisar** las cláusulas antidilución y calcular su efecto en una ronda a la baja.
+4. **Mapear** los derechos de veto y de representación en el directorio.
+5. **Negociar** el conjunto simulando escenarios de salida.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define liquidation preference y participation sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con founder proceeds by exit y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué cláusula de una oferta de capital firmarías sin leer y cuál te preocuparía en un escenario malo? |
+| 20–60 min | Economía, preferencias, antidilución, control, salida y negociación. |
+| 60–105 min | Ejemplo trabajado: *waterfall* de cuatro salidas y una ronda a la baja. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **liquidation preference** | derecho de inversor a cobrar antes o bajo reglas específicas en liquidez | Distingue un hecho compatible y otro que lo refute. |
-| **participation** | posible derecho a cobrar preferencia y luego participar en remanente | Distingue un hecho compatible y otro que lo refute. |
-| **anti-dilution** | ajuste frente a futuras emisiones a menor precio | Distingue un hecho compatible y otro que lo refute. |
-| **protective provision** | materia que requiere consentimiento especial | Distingue un hecho compatible y otro que lo refute. |
-| **vesting** | adquisición gradual de derechos sobre equity | Distingue un hecho compatible y otro que lo refute. |
+| **Term sheet** | Resumen de las condiciones principales de una inversión. | Valoración, preferencias, derechos. |
+| **Preferencia de liquidación** | Derecho del inversionista a cobrar primero en una salida. | Múltiplo de lo invertido (1x, 2x). |
+| **Participación** | Derecho de cobrar la preferencia y además compartir el resto. | «Participating». |
+| **Antidilución** | Protección que ajusta el precio de conversión si hay rondas a la baja. | Promedio ponderado o *full ratchet*. |
+| **Derecho de veto** | Capacidad de bloquear ciertas decisiones. | Lista de materias protegidas. |
+| **Arrastre y acompañamiento** | Reglas para vender el 100 % o para acompañar una venta. | *Drag-along*, *tag-along*. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 224: 1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios](modelo-mental.svg)
+![Un acuerdo con inversionistas: economía, control y protección.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un term sheet distribuye economía y control mediante valoración, preferencia de liquidación, anti-dilution, board seats, protective provisions, vesting y otros términos. Dos ofertas con la misma valoración pueden producir outcomes muy diferentes en downside o exit.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los términos dependen de jurisdicción y documentos definitivos. Esta clase enseña economics e issue spotting; usa abogados especializados antes de firmar.**
+**Cómo leer el diagrama.** Tres columnas. **Economía**: valoración y monto, preferencia de liquidación y participación en las salidas. **Control**: directores y derechos de veto, información y decisiones reservadas, condiciones de salida y arrastre. **Protección**: antidilución en rondas posteriores, derechos de preferencia, y opciones y consolidación de derechos (*vesting*) de los fundadores. La nota afirma que una valoración alta con términos duros puede ser peor que una más baja con términos limpios, y que se simula el reparto en varias salidas; el pie, que los términos y su interpretación son contractuales y se revisan con asesoría.
 
 ## 📖 Desarrollo
 
-### 1. liquidation preference: mecanismo central
+### 1. Qué es y qué no es un term sheet
 
-**liquidation preference** se entiende aquí como **derecho de inversor a cobrar antes o bajo reglas específicas en liquidez**. Esta es la pieza causal o estructural desde la que se inicia **term sheets: economía y control**: antes de separar economics de control, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Feld y Mendelson explican que un *term sheet* resume los **términos económicos y de control** de una inversión: monto, valoración, tipo de acciones, preferencias, derechos de voto y de información, composición del directorio, protecciones, condiciones previas, exclusividad de negociación y plazos. Suele ser **no vinculante** en lo esencial (salvo cláusulas como confidencialidad y exclusividad), pero en la práctica **ancla la negociación**: pedir cambios mayores después de firmarlo se percibe como mala fe y suele costar tiempo y confianza. Por eso conviene negociarlo con asesoría legal y con simulaciones, y entender cada cláusula antes de firmar. Lo que aquí se resume es una guía de lectura, no una interpretación jurídica; los contratos definitivos y su efecto legal dependen de la ley aplicable.
 
-La lectura rectora de este bloque es Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*. Su aporte se usa para examinar **valor del dinero, riesgo, costo de capital, inversión y financiación**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **founder proceeds by exit**; regístrala con periodo, unidad, población y baseline.
+### 2. Economía: valoración y preferencias
 
-Relaciona el mecanismo con **participation**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La **valoración** determina el porcentaje del inversionista (inversión ÷ valoración posterior; clase 223). Pero la **preferencia de liquidación** determina quién cobra qué cuando hay una salida (venta, liquidación). Con una preferencia **1x no participativa**, el inversionista elige: recuperar su inversión o convertirse en acciones ordinarias y recibir su porcentaje, lo que le convenga más. Con **participación**, cobra su preferencia **y además** comparte el remanente con los demás en proporción, de modo que obtiene más que su porcentaje, sobre todo en salidas bajas o medianas. Hay también preferencias de **2x o más**, y **límites** a la participación (*caps*). Feld y Mendelson recomiendan negociar primero estas condiciones antes de ceder valoración: dos ofertas con la misma valoración titular pueden diferir en millones para los fundadores según la preferencia.
 
-### 2. participation: frontera conceptual y error de clasificación
+### 3. El waterfall: simular el reparto
 
-**Definición operacional:** posible derecho a cobrar preferencia y luego participar en remanente. Su valor está en distinguirlo de **liquidation preference** y **anti-dilution**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **waterfall** (cascada de pagos) calcula, para cada valor de salida, cuánto recibe cada clase de titulares, aplicando el orden de prelación: primero las deudas, luego las preferencias de los inversionistas y finalmente el remanente entre ordinarios. Se simula con **varias salidas** (por ejemplo, por debajo, en y por encima de la valoración posterior) para ver cómo cambia el reparto. Las salidas bajas muestran el efecto de las preferencias: el inversionista puede recibir una parte desproporcionada del valor; las altas muestran que, con buenos resultados, las preferencias importan poco porque todos se convierten. Este análisis sirve para decidir **qué términos importan en cada escenario** y a qué precio se puede ceder.
 
-Contrasta el problema con Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*, que aporta una mirada sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Formula dos mini-casos: uno que sí satisface la definición de **participation** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **investor preference** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Antidilución: qué pasa si el precio baja
 
-Antes de modelar waterfall en exits, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las cláusulas **antidilución** protegen al inversionista cuando la empresa emite acciones a un precio **menor** al que él pagó (una ronda «a la baja»). La más usual es la de **promedio ponderado**, que ajusta su precio de conversión según cuántas acciones se emiten y a qué precio, de forma moderada; la más severa es la de **ajuste total** (*full ratchet*), que lleva su precio al nuevo precio más bajo, sin ponderar. La antidilución transfiere el costo de una ronda a la baja a los demás propietarios, y especialmente a los fundadores, y puede desatar una espiral. Se negocia que sea de promedio ponderado amplio, con excepciones razonables (opciones para empleados, conversiones previstas), y se calcula su efecto en distintos escenarios antes de aceptarla.
 
-### 3. anti-dilution: operacionalización y medición
+### 5. Control: directorio, vetos e información
 
-**anti-dilution** significa **ajuste frente a futuras emisiones a menor precio**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Wasserman muestra que el control de la empresa es uno de los grandes dilemas de los fundadores, y que se pierde de a poco: por la **composición del directorio** (cuántos directores designan los fundadores, los inversionistas, los independientes), por **derechos de veto** (*protective provisions*) sobre decisiones como emitir nuevas acciones, vender la empresa, endeudarse, cambiar el negocio, modificar el *pool* de opciones o aprobar presupuestos, y por **derechos de información**. Se mapea quién puede **bloquear** qué decisión y con qué mayoría. Un conjunto de vetos extenso puede hacer que un inversionista minoritario controle de hecho la empresa. Jensen y Meckling recuerdan que cada derecho es una forma de controlar los conflictos de agencia, pero también un costo en flexibilidad; se busca un equilibrio proporcionado a la inversión y al riesgo.
 
-Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* orienta este bloque mediante **proceso de M&A, valoración, due diligence, negociación e integración**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **board control**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Salida, arrastre y otros términos
 
-Al llegar a revisar dilution protections, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se definen reglas para la **salida**: los derechos de **arrastre** (*drag-along*) permiten a una mayoría obligar a los demás a vender en una operación aprobada; los de **acompañamiento** (*tag-along*) permiten a los minoritarios vender en las mismas condiciones que los mayoritarios; los **derechos de preferencia** en nuevas emisiones permiten a los inversionistas mantener su porcentaje; las **restricciones a la transferencia** limitan la venta de acciones a terceros; y las cláusulas de **consolidación de derechos** (*vesting*) de los fundadores vinculan su propiedad a la permanencia (típicamente, varios años con una consolidación inicial). También hay cláusulas de **exclusividad** (la empresa no negocia con otros durante un tiempo), **condiciones previas** (diligencia debida, aprobaciones) y **gastos**. Cada término tiene un efecto económico o de control que se evalúa.
 
-### 4. protective provision: trade-offs y efectos de segundo orden
+### 7. Negociar el conjunto
 
-**Definición:** materia que requiere consentimiento especial. Este concepto obliga a abandonar la idea de que **term sheets: economía y control** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de mapear veto y board rights, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ben Horowitz — *The Hard Thing About Hard Things* aporta una lente sobre **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **protective provisions** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **term sheets: economía y control**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **protective provision** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. vesting: gobernanza, límites e integración
-
-**vesting** se define como **adquisición gradual de derechos sobre equity** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* se utiliza para estudiar **drivers de valor, ROIC, crecimiento y valoración por flujo descontado** y contrastar la recomendación final. Al ejecutar negociar conjunto y escenarios, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Los términos dependen de jurisdicción y documentos definitivos. Esta clase enseña economics e issue spotting; usa abogados especializados antes de firmar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **liquidation preference**, **participation**, **anti-dilution**, **protective provision** y **vesting** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **term sheets: economía y control** no consiste en sumar cinco definiciones. Empieza por **liquidation preference**, contrasta **participation** con **anti-dilution**, incorpora **protective provision** como restricción o mecanismo y usa **vesting** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Term sheet: economics y control
-
-Separa términos económicos (valuation, liquidation preference, participation, anti-dilution, dividends) de control/gobierno (board, voting, protective provisions, information rights). Un precio alto puede venir acompañado de términos de control costosos.
-
-Modela al menos tres outcomes de salida para entender preferencias. No negocies cláusulas legales desde un resumen educativo: term sheets reales requieren abogado especializado y revisión del documento completo.
+La negociación debe mirar el **paquete**: valoración, preferencia, participación, antidilución, directorio, vetos, vesting, *pool*. Se establece una lista de **prioridades** (qué es imprescindible, qué es deseable, qué se puede conceder) y se preparan alternativas: otras ofertas, otras fuentes (deuda), o posponer la ronda. Brealey, Myers y Allen recuerdan que el costo del capital propio se paga en parte con **derechos futuros**: la valoración es solo uno de ellos. Myers y Majluf señalan que la asimetría de información favorece a los gerentes, lo que explica por qué los inversionistas piden protecciones; reducir esa asimetría con transparencia mejora los términos. Se aprende a decir que no a cláusulas que, simuladas, hacen inviable el negocio en escenarios plausibles, y se verifican siempre los documentos definitivos con asesoría legal especializada.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **term sheets: economía y control** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **term sheets: economía y control** ayuda a desafiar? |
-| Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* | proceso de M&A, valoración, due diligence, negociación e integración | ¿Qué supuesto de **term sheets: economía y control** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **term sheets: economía y control** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **term sheets: economía y control** ayuda a desafiar? |
-
-En **term sheets: economía y control**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **liquidation preference**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Feld y Mendelson | Términos típicos del capital de riesgo y su efecto. | Práctica de EE. UU.; hay que adaptar a cada país. | ¿Qué cláusula cambia más el reparto? |
+| Wasserman | Dilemas de control y riqueza de los fundadores. | Evidencia de ciertos mercados. | ¿Quién controla de hecho la empresa? |
+| Jensen y Meckling | Conflictos de agencia y mecanismos de control. | Teoría estilizada. | ¿Qué conflicto resuelve este derecho? |
+| Brealey, Myers y Allen | Valor y costo del capital propio. | No cubre el detalle contractual. | ¿Cuál es el costo total del capital? |
+| Myers y Majluf | Información asimétrica y protecciones. | Modelo teórico. | ¿Qué desconfianza justifica esta cláusula? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Oferta A valora USD 20M con 1x non-participating; B valora USD 24M con 2x participating y múltiples vetos. Fundadores eligen B mirando solo headline valuation.
+**Situación (hipotética).** Un inversionista aporta 6.000 millones de pesos por el 20 % (valoración posterior de 30.000 millones). Los demás propietarios tienen el 80 %. Se compara el reparto en cuatro salidas con tres tipos de preferencia (en millones de pesos).
 
-**Paso 1 — separar economics de control.** La gerencia escribe primero el supuesto asociado a **liquidation preference** y evita convertirlo en hecho. Luego busca **founder proceeds by exit** para contrastarlo en el caso de **term sheets: economía y control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preferencia 1x no participativa** (el inversionista recibe lo mayor entre 6.000 y 20 % de la salida):
 
-**Paso 2 — modelar waterfall en exits.** La gerencia escribe primero el supuesto asociado a **participation** y evita convertirlo en hecho. Luego busca **investor preference** para contrastarlo en el caso de **term sheets: economía y control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Salida | Inversionista | Demás propietarios |
+|---|---|---|
+| 15.000 | 6.000 (40 %) | 9.000 |
+| 30.000 | 6.000 (20 %) | 24.000 |
+| 60.000 | 12.000 (20 %) | 48.000 |
+| 120.000 | 24.000 (20 %) | 96.000 |
 
-**Paso 3 — revisar dilution protections.** La gerencia escribe primero el supuesto asociado a **anti-dilution** y evita convertirlo en hecho. Luego busca **board control** para contrastarlo en el caso de **term sheets: economía y control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preferencia 1x participativa sin límite** (recibe 6.000 más el 20 % del resto):
 
-**Paso 4 — mapear veto y board rights.** La gerencia escribe primero el supuesto asociado a **protective provision** y evita convertirlo en hecho. Luego busca **protective provisions** para contrastarlo en el caso de **term sheets: economía y control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Salida | Cálculo | Inversionista | % de la salida | Demás propietarios |
+|---|---|---|---|---|
+| 15.000 | 6.000 + 0,2 × 9.000 | 7.800 | 52,0 % | 7.200 |
+| 30.000 | 6.000 + 0,2 × 24.000 | 10.800 | 36,0 % | 19.200 |
+| 60.000 | 6.000 + 0,2 × 54.000 | 16.800 | 28,0 % | 43.200 |
+| 120.000 | 6.000 + 0,2 × 114.000 | 28.800 | 24,0 % | 91.200 |
 
-**Paso 5 — negociar conjunto y escenarios.** La gerencia escribe primero el supuesto asociado a **vesting** y evita convertirlo en hecho. Luego busca **vesting exposure** para contrastarlo en el caso de **term sheets: economía y control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preferencia 2x no participativa** (el mayor entre 12.000 y 20 % de la salida):
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **term sheets: economía y control**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Salida | Inversionista | Demás propietarios |
+|---|---|---|
+| 15.000 | 12.000 | 3.000 |
+| 30.000 | 12.000 | 18.000 |
+| 60.000 | 12.000 (indiferente) | 48.000 |
+| 120.000 | 24.000 | 96.000 |
+
+**Lectura.** En una salida de 30.000 (igual a la valoración posterior), con participación el inversionista recibe el 36 % con una propiedad de 20 %; con 2x, el 40 % del valor de salida de 30.000 (12.000), y los demás solo 18.000 en vez de 24.000. En una salida de 15.000, con 2x los demás propietarios reciben solo 3.000 de 15.000. En una salida alta (120.000) los tres esquemas casi se igualan. La valoración es la misma en los tres casos; el valor económico para los fundadores es muy distinto.
+
+**Antidilución: ronda a la baja.** Dos años después, la empresa necesita 3.000 millones y solo consigue invertir a 1.200 pesos por acción (el precio de la serie A fue de 2.165). Acciones antes de la emisión: 13.857.143. Nuevas acciones: 3.000.000.000 ÷ 1.200 = 2.500.000.
+
+- **Promedio ponderado amplio:** nuevo precio de conversión = 2.165 × (13.857.143 + 3.000.000.000 ÷ 2.165) ÷ (13.857.143 + 2.500.000) = 2.165 × (13.857.143 + 1.385.713) ÷ 16.357.143 ≈ 2.017. Acciones al convertir: 6.000.000.000 ÷ 2.017 ≈ 2.974.000, unas 202.600 más que las 2.771.429 originales (+7,3 %).
+- **Ajuste total (*full ratchet*):** el precio de conversión baja a 1.200: 6.000.000.000 ÷ 1.200 = 5.000.000 de acciones, unas 2.228.600 más (+80,4 %). El costo para fundadores y demás titulares es mucho mayor.
+
+**Control.** El directorio propuesto tiene cinco miembros: dos fundadores, un inversionista, un independiente nombrado de común acuerdo y el CEO. Los vetos del inversionista cubren: emitir acciones preferentes, vender la empresa, modificar el *pool*, endeudarse más de 3.000 millones y cambiar el giro. Con cinco vetos, el inversionista de 20 % bloquea decisiones clave; se negocia limitar los vetos a tres (emitir acciones preferentes con mejores derechos, vender la empresa y modificar los derechos de sus acciones) con un umbral de monto para el endeudamiento.
+
+**Resultado de la negociación (hipotético).** Valoración previa de 24.000 sin cambios, preferencia 1x no participativa, antidilución de promedio ponderado amplio, tres vetos, consolidación de derechos de los fundadores en cuatro años con 25 % consolidado al inicio, y exclusividad de 45 días.
+
+**Cuidados.** Los términos, su interpretación y su efecto legal y tributario se verifican con asesoría especializada en la jurisdicción correspondiente; el ejemplo omite impuestos, deudas y otros titulares; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La misma valoración puede producir repartos muy distintos. (2) La antidilución puede encarecer mucho una ronda a la baja. (3) El mapa de vetos revela quién controla de hecho.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **liquidation preference** | derecho de inversor a cobrar antes o bajo reglas específicas en liquidez | Cuando founder proceeds by exit es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **participation** | posible derecho a cobrar preferencia y luego participar en remanente | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Term sheet frente a contrato definitivo.** El primero fija los términos esenciales y marca el rumbo; el segundo los desarrolla con precisión y es vinculante. Conviene revisar con la misma atención ambos.
 
-**Frontera de aplicación:** Los términos dependen de jurisdicción y documentos definitivos. Esta clase enseña economics e issue spotting; usa abogados especializados antes de firmar.
+**Límites.** Las prácticas de mercado cambian con el ciclo y la jurisdicción. Los modelos de reparto simplifican (un solo inversionista, sin deudas, sin otros preferentes). La interpretación de las cláusulas es legal y específica. Un buen paquete de términos no garantiza una buena relación con el inversionista. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre term sheets: economía y control |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **term sheets: economía y control** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **liquidation preference** y **participation** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta founder proceeds by exit con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si term sheets: economía y control cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de term sheets: economía y control reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **term sheets: economía y control** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende que sus opciones dependen de los términos de las rondas. |
+| **Jefe / Team Lead** | Sabe que las decisiones reservadas afectan los tiempos de su equipo. |
+| **Gerente** | Prepara los datos para simular las salidas. |
+| **CEO / Director** | Negocia el paquete completo y protege la flexibilidad de la empresa. |
+| **Founder / Owner** | Decide cuánto control y cuánto valor está dispuesto a ceder. |
 
 ## 🏢 Caso ejecutivo
 
-Oferta A valora USD 20M con 1x non-participating; B valora USD 24M con 2x participating y múltiples vetos. Fundadores eligen B mirando solo headline valuation.
+Una empresa de tecnología financiera con 90 personas y un ARR de 8.000 millones de pesos recibe dos *term sheets*. El fondo A ofrece 12.000 millones con una valoración previa de 60.000 millones (post-money de 72.000; 16,7 %), preferencia 2x participativa con un tope de 3x, antidilución de ajuste total, derecho a tres de siete directores, vetos sobre presupuesto, contratación de ejecutivos, endeudamiento y cualquier pago a los fundadores, y consolidación de derechos de los fundadores en seis años. El fondo B ofrece 12.000 millones con una valoración previa de 48.000 millones (post-money de 60.000; 20 %), preferencia 1x no participativa, antidilución de promedio ponderado, un director de siete y vetos limitados a venta de la empresa y emisión de nuevas acciones preferentes, y consolidación en cuatro años. Los fundadores tienen 58 % de la empresa; los empleados, 12 % en opciones. La plataforma podría necesitar otra ronda en 18 meses, y el mercado de capital es incierto. El CEO prefiere la oferta A «por la valoración»; la CFO, la B; un empleado clave pide protegerse de una dilución excesiva.
 
-Entrega un **decision brief de term sheets: economía y control** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de term sheets** que contenga: (a) la separación de términos en economía, control y protección para cada oferta; (b) el *waterfall* de cada oferta en al menos cuatro salidas (por ejemplo, 20.000; 72.000; 150.000 y 300.000 millones); (c) el efecto de la antidilución en una ronda a la baja del 30 %; (d) el mapa de vetos y de control del directorio; (e) la estrategia de negociación con prioridades y alternativas; (f) las verificaciones legales y tributarias con asesoría especializada.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **term sheets: economía y control** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta founder proceeds by exit, investor preference; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el reparto de una salida de tu empresa con una preferencia 1x no participativa y una participativa.
+2. Simula una ronda a la baja y calcula la nueva conversión con promedio ponderado y con ajuste total.
+3. Lista los derechos de veto de una oferta y marca los que bloquearían decisiones operativas.
+4. Compara dos ofertas con distinta valoración y distintos términos en tres salidas.
+5. Redacta una lista de prioridades de negociación con tres «imprescindibles» y tres «concesiones».
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar liquidation preference y participation como sinónimos | Se pierde la distinción entre “derecho de inversor a cobrar antes o bajo reglas específicas en liquidez” y “posible derecho a cobrar preferencia y luego participar en remanente” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “negociar conjunto y escenarios” | Se saltó “separar economics de control” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios y marca el primer supuesto no demostrado. |
-| Optimizar solo founder proceeds by exit | La métrica local sustituyó al resultado del sistema | Contrástala con investor preference y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre term sheets: economía y control | Los términos dependen de jurisdicción y documentos definitivos. Esta clase enseña economics e issue spotting; usa abogados especializados antes de firmar. |
-| No fijar revisión | Una decisión sobre term sheets: economía y control se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mirar solo la valoración | Es la cifra más visible | Simular el reparto en salidas. |
+| Aceptar ajuste total | Se subestima una ronda a la baja | Promedio ponderado y simulación. |
+| Vetos amplios | Se desea cerrar rápido | Limitar a decisiones esenciales. |
+| No leer el consolidado | Se piensa en lo económico | Revisar vesting y condiciones de salida. |
+| Negociar sin alternativas | Falta de otras ofertas | Preparar alternativas y calendario. |
+| Firmar sin asesoría | Se busca ahorrar | Revisión legal especializada. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **liquidation preference** y **participation** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **anti-dilution** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **separar economics de control → modelar waterfall en exits** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **founder proceeds by exit** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **term sheets: economía y control**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Los términos dependen de jurisdicción y documentos definitivos. Esta clase enseña economics e issue spotting; usa abogados especializados antes de firmar.**?
+1. ¿Qué es un *term sheet* y por qué marca la negociación?
+2. ¿Qué diferencia hay entre preferencia participativa y no participativa?
+3. ¿Qué es un *waterfall* y para qué sirve?
+4. ¿Qué es la antidilución y qué tipos se mencionan?
+5. ¿Cómo se pierde el control de la empresa en una ronda?
+6. ¿Qué son arrastre y acompañamiento?
+7. ¿Por qué no basta mirar la valoración?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Un resumen de condiciones principales de una inversión; ancla la negociación posterior aunque no sea vinculante en lo esencial.
+2. En la no participativa el inversionista elige entre su preferencia o convertirse; en la participativa cobra la preferencia y además comparte el resto.
+3. El cálculo del reparto de una salida según el orden de prelación; sirve para ver el efecto real de cada cláusula en distintos escenarios.
+4. Una protección que ajusta el precio de conversión si hay una ronda a un precio menor; promedio ponderado (moderada) y ajuste total (severa).
+5. Por la composición del directorio, los vetos sobre decisiones clave y los derechos de información.
+6. El arrastre permite a una mayoría obligar a los demás a vender; el acompañamiento permite a los minoritarios vender en las mismas condiciones.
+7. Porque preferencias, antidilución y control pueden cambiar mucho el reparto y el poder aunque la valoración sea alta.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/224-term-sheets-economia-y-control/`:
 
-- `risk-governance-brief.md` con el problema específico de **term sheets: economía y control**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **term sheets: economía y control** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **liquidation preference**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Oferta A valora USD 20M con 1x non-participating; B valora USD 24M con 2x participating y múltiples vetos. Fundadores eligen B mirando solo headline valuation.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el análisis de las ofertas del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con los *waterfalls* y la simulación de antidilución;
+- `decision-journal.md` con la lista de prioridades, el mapa de vetos y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities* (Elsevier Science & Technology Books, 2001). **Uso en esta clase:** proceso de M&A, valoración, due diligence, negociación e integración. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9780323910545](https://openlibrary.org/isbn/9780323910545).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **term sheets: economía y control** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **term sheets: economía y control**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **term sheets: economía y control** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **term sheets: economía y control** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **term sheets: economía y control** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** términos típicos del capital de riesgo y su efecto. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de control y riqueza de los fundadores. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Michael C. Jensen & William H. Meckling — *Theory of the firm: Managerial behavior, agency costs and ownership structure* (Journal of Financial Economics, 1976). **Uso en esta clase:** conflictos de agencia y mecanismos de control. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [DOI 10.1016/0304-405X(76)90026-X](https://doi.org/10.1016/0304-405X(76)90026-X).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor y costo del capital propio. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stewart C. Myers & Nicholas S. Majluf — *Corporate financing and investment decisions when firms have information that investors do not have* (Journal of Financial Economics, 1984). **Uso en esta clase:** información asimétrica y protecciones. Lectura selectiva sobre **term sheets: economía y control**. **Localizador:** [DOI 10.1016/0304-405X(84)90023-0](https://doi.org/10.1016/0304-405X(84)90023-0).
 
-> **Regla de fuentes para Term sheets: economía y control:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **term sheets: economía y control** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Term sheets: economía y control:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluida la interpretación jurídica de cada cláusula, que corresponde a asesoría legal especializada. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

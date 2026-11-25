@@ -333,18 +333,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
@@ -586,13 +574,9 @@
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
+        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
+        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
+        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -611,7 +595,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done"
+        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
+        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -674,11 +659,7 @@
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
         "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
@@ -866,11 +847,10 @@
       "locator": "https://openlibrary.org/isbn/9781118443613",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
+        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
+        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
+        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control"
       ],
       "status": "verificada",
       "authority": "Wiley"
@@ -1462,11 +1442,7 @@
       "locator": "https://www.forentrepreneurs.com/saas-metrics-2/",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
+        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera"
       ],
       "status": "verificada"
     },
@@ -1632,10 +1608,9 @@
       "locator": "https://openlibrary.org/isbn/9780323910545",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
         "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
+        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
+        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
       ],
       "status": "verificada",
@@ -2072,18 +2047,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
@@ -2656,7 +2619,8 @@
         "modules/14-organization-design-culture-change/classes/177-coalicion-narrativa-y-adopcion",
         "modules/14-organization-design-culture-change/classes/178-transformacion-empresarial",
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos",
-        "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
+        "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional",
+        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -2800,7 +2764,10 @@
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos"
+        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
+        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
+        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
+        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence"
       ],
       "status": "verificada",
       "authority": "South-Western College Pub"
@@ -3126,7 +3093,8 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion"
+        "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion",
+        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
@@ -3153,6 +3121,7 @@
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
+        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/280-productized-services",
         "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
@@ -3499,11 +3468,9 @@
       "locator": "https://openlibrary.org/isbn/9780691149134",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
+        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
+        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
         "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
@@ -3541,10 +3508,6 @@
         "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia",
         "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion",
         "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
         "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
         "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento",
@@ -3692,18 +3655,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
@@ -4202,13 +4153,9 @@
         "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
         "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
         "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
       "status": "verificada",
@@ -4778,7 +4725,10 @@
         "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos"
+        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
+        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
+        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
+        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence"
       ],
       "status": "verificada",
       "authority": "McGraw-Hill/Irwin"
@@ -4802,18 +4752,7 @@
         "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
         "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
+        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital"
       ],
       "status": "verificada",
       "authority": "McGraw-Hill Education"
@@ -4964,18 +4903,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
@@ -5162,15 +5089,11 @@
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
         "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
         "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
         "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
         "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
@@ -5301,18 +5224,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
-        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
-        "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
-        "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables",
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
-        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
-        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital",
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
@@ -6705,7 +6616,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
+        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital"
       ],
       "status": "verificada"
     },
@@ -7585,7 +7497,8 @@
       "locator": "https://openlibrary.org/isbn/9781422162675",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento"
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
+        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
       "status": "verificada"
     },
@@ -7603,7 +7516,8 @@
       "locator": "https://openlibrary.org/isbn/9780875840833",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento"
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
+        "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
       "status": "verificada"
     },
@@ -7686,7 +7600,10 @@
       "locator": "https://doi.org/10.1016/0304-405X(76)90026-X",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno"
+        "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
+        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
+        "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
+        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control"
       ],
       "status": "verificada"
     },
@@ -7785,6 +7702,126 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "stewart-c-myers-nicholas-s-majluf-corporate-financing-and-investment-decisions-w",
+      "type": "paper",
+      "authors": [
+        "Myers, Stewart C.",
+        "Majluf, Nicholas S."
+      ],
+      "title": "Corporate financing and investment decisions when firms have information that investors do not have",
+      "cited_as": "Stewart C. Myers & Nicholas S. Majluf — Corporate financing and investment decisions when firms have information that investors do not have",
+      "authority": "Journal of Financial Economics",
+      "published": "1984",
+      "doi": "10.1016/0304-405X(84)90023-0",
+      "locator": "https://doi.org/10.1016/0304-405X(84)90023-0",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
+        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
+        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
+        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "stewart-c-myers-the-capital-structure-puzzle",
+      "type": "paper",
+      "authors": [
+        "Myers, Stewart C."
+      ],
+      "title": "The Capital Structure Puzzle",
+      "cited_as": "Stewart C. Myers — The Capital Structure Puzzle",
+      "authority": "The Journal of Finance",
+      "published": "1984",
+      "doi": "10.1111/j.1540-6261.1984.tb03646.x",
+      "locator": "https://doi.org/10.1111/j.1540-6261.1984.tb03646.x",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
+        "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "eugene-f-fama-kenneth-r-french-common-risk-factors-in-the-returns-on-stocks-and",
+      "type": "paper",
+      "authors": [
+        "Fama, Eugene F.",
+        "French, Kenneth R."
+      ],
+      "title": "Common risk factors in the returns on stocks and bonds",
+      "cited_as": "Eugene F. Fama & Kenneth R. French — Common risk factors in the returns on stocks and bonds",
+      "authority": "Journal of Financial Economics",
+      "published": "1993",
+      "doi": "10.1016/0304-405X(93)90023-5",
+      "locator": "https://doi.org/10.1016/0304-405X(93)90023-5",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "sara-b-moeller-frederik-p-schlingemann-rene-m-stulz-firm-size-and-the-gains-from",
+      "type": "paper",
+      "authors": [
+        "Moeller, Sara B.",
+        "Schlingemann, Frederik P.",
+        "Stulz, René M."
+      ],
+      "title": "Firm size and the gains from acquisitions",
+      "cited_as": "Sara B. Moeller, Frederik P. Schlingemann & René M. Stulz — Firm size and the gains from acquisitions",
+      "authority": "Journal of Financial Economics",
+      "published": "2004",
+      "doi": "10.1016/j.jfineco.2003.07.002",
+      "locator": "https://doi.org/10.1016/j.jfineco.2003.07.002",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
+        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "richard-roll-the-hubris-hypothesis-of-corporate-takeovers",
+      "type": "paper",
+      "authors": [
+        "Roll, Richard"
+      ],
+      "title": "The Hubris Hypothesis of Corporate Takeovers",
+      "cited_as": "Richard Roll — The Hubris Hypothesis of Corporate Takeovers",
+      "authority": "The Journal of Business",
+      "published": "1986",
+      "doi": "10.1086/296325",
+      "locator": "https://doi.org/10.1086/296325",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "gregor-andrade-mark-mitchell-erik-stafford-new-evidence-and-perspectives-on-merg",
+      "type": "paper",
+      "authors": [
+        "Andrade, Gregor",
+        "Mitchell, Mark",
+        "Stafford, Erik"
+      ],
+      "title": "New Evidence and Perspectives on Mergers",
+      "cited_as": "Gregor Andrade, Mark Mitchell & Erik Stafford — New Evidence and Perspectives on Mergers",
+      "authority": "Journal of Economic Perspectives",
+      "published": "2001",
+      "doi": "10.1257/jep.15.2.103",
+      "locator": "https://doi.org/10.1257/jep.15.2.103",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
+        "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
       ],
       "status": "verificada"
     }

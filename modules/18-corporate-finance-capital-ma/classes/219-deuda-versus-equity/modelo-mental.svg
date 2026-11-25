@@ -1,63 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-g219 d-g219" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g219">Ficha visual de la clase 219: Deuda versus equity</title>
-<desc id="d-g219">Conceptos: debt; equity; dilution; runway; default risk. Método: proyectar cash y downside → medir capacidad de servicio → cuantificar dilution y control → comparar términos y flexibilidad → seleccionar mezcla y plan B.</desc>
-<defs><marker id="p-g219" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 219 · Deuda versus equity</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 18 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >debt</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capital con obligación contractual de repago e interés</text>
-<circle cx="38" cy="170" r="5" fill="#cf222e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >equity</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capital residual con participación en propiedad</text>
-<circle cx="38" cy="228" r="5" fill="#cf222e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >dilution</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reducción porcentual de propiedad por nueva emisión</text>
-<circle cx="38" cy="286" r="5" fill="#cf222e"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >runway</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo financiable antes de agotar caja</text>
-<circle cx="38" cy="344" r="5" fill="#cf222e"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >default risk</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >riesgo de incumplir obligaciones de deuda</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >proyectar cash y downside</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >medir capacidad de servicio</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >cuantificar dilution y control</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >comparar términos y flexibilidad</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seleccionar mezcla y plan B</text>
-<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="428" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="441" r="3.5" fill="#cf222e"/>
-<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >debt service coverage</text>
-<rect x="208.9" y="428" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="221.9" cy="441" r="3.5" fill="#cf222e"/>
-<text x="232.9" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dilution</text>
-<rect x="300.1" y="428" width="67.4" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="313.1" cy="441" r="3.5" fill="#cf222e"/>
-<text x="324.1" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >runway</text>
-<rect x="377.5" y="428" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="390.5" cy="441" r="3.5" fill="#cf222e"/>
-<text x="401.5" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash volatility</text>
-<rect x="517" y="428" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="530" cy="441" r="3.5" fill="#cf222e"/>
-<text x="541" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >control rights</text>
-<rect x="28" y="474" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="474" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="494" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="512" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si</text>
-<text x="48" y="529.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash es incierto. Modela escenarios.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.81" width="1040" role="img" aria-labelledby="t-s219 d-s219" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s219">Clase 219 · Deuda frente a capital propio</title>
+<desc id="d-s219">Rasgos de financiarse con deuda y de financiarse con capital propio: costo, obligación y control.</desc>
+<defs><marker id="p-s219" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 219 · Deuda frente a capital propio</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Myers &amp; Majluf (1984) · Jensen &amp; Meckling (1976) · Brealey et al.</text>
+<text x="28" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">FINANCIAR CON DEUDA</text>
+<rect x="28" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="28.0" y="104" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Costo menor y deducible</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Intereses acotados y, según la ley, con efecto tributario.</text>
+<rect x="28" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="28.0" y="177.25" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="46" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Obligación de pagar</text>
+<text x="46" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se cumple aunque el negocio vaya mal.</text>
+<rect x="28" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="250.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Control se mantiene</text>
+<text x="46" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >No hay dilución, pero sí condiciones del acreedor.</text>
+<text x="532" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">FINANCIAR CON CAPITAL PROPIO</text>
+<rect x="532" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="532.0" y="104" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<text x="550" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Sin obligación fija</text>
+<text x="550" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Soporta pérdidas sin quiebra inmediata.</text>
+<rect x="532" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="532.0" y="177.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<text x="550" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Costo mayor y dilución</text>
+<text x="550" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se cede propiedad y parte de las utilidades.</text>
+<rect x="532" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.7" />
+<rect x="532.0" y="250.5" width="6" height="63.25" rx="3" fill="#8250df"/>
+<text x="550" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Nuevos socios</text>
+<text x="550" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Aportan recursos y también derechos.</text>
+<rect x="28" y="329.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >No hay una fuente mejor en abstracto: depende de la estabilidad del flujo, de las opciones de la empresa, de lo que se está dispuesto a</text>
+<text x="44" y="369" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >ceder y de la información que tienen los inversionistas.</text>
+<text x="28" y="416.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los efectos tributarios y regulatorios de cada fuente se verifican con asesoría.</text>
 </svg>

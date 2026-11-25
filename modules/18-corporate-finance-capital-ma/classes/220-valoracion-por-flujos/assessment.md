@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **free cash flow** de **DCF** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **terminal value** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **discount rate** con **NOPAT**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es el valor presente y por qué se descuenta?
+2. ¿Cómo se pasa de la utilidad operativa al flujo de caja libre?
+3. ¿Qué tasa se usa en un DCF de empresa y en uno del patrimonio?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un DCF justifica valoración de USD 200M, pero 78% proviene de terminal value con crecimiento perpetuo 6% en economía que crece 3% nominal.
+**Caso:** Una empresa de software con ventas de 36.000 millones de pesos, crecimiento de 22 % en el último año, margen operativo de 6 % (con inversión creciente en producto) y deuda neta nula recibe una oferta de adquisición por 120.000 millones de pesos de valor de empresa (3,3 veces las ventas). El comprador es un competidor que valora el negocio con un múltiplo de ventas de comparables (entre 2,5 y 4,0 veces) y dice que «el precio es justo». El equipo fundador cree que vale 200.000 millones. Su plan proyecta crecer 20 %, 18 %, 15 %, 12 % y 10 % en cinco años, con márgenes que suben hasta 22 %; la reinversión necesaria es alta (35 % del NOPAT en los primeros años). El churn de clientes es de 11 %; el principal cliente es 18 % de las ventas. El directorio debe responder a la oferta en 30 días.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **proyectar drivers operativos → convertir beneficio a FCF → estimar discount rate → calcular terminal value → hacer sensibilidad y sanity checks**. Debes utilizar o diseñar cómo obtener **FCF, growth, operating margin**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de valoración** que contenga: (a) los supuestos operativos y los escenarios (base, adverso y favorable) con su justificación; (b) el cálculo del flujo de caja libre y del valor por flujos con tasa y crecimiento terminal explícitos; (c) el peso del valor terminal y la sensibilidad a tasa, crecimiento y margen; (d) los controles de realidad con múltiplos y transacciones comparables; (e) el valor mínimo aceptable y la estrategia de respuesta; (f) las verificaciones contables, tributarias y legales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **DCF no crea información que no existe. Para startups o negocios en transición, escenarios y unit economics pueden ser más informativos que un punto de valoración.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Un DCF es tan bueno como sus supuestos; pequeñas variaciones de tasa o de crecimiento terminal cambian mucho el resultado.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

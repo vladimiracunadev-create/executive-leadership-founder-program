@@ -65,18 +65,18 @@ Las clases **71 y 72** cubren la salida y el cierre: desvinculación responsable
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 061 | [Diseño de cargos y resultados esperados](classes/061-diseno-de-cargos-y-resultados-esperados/README.md) | job architecture, outcome del cargo, competencia | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 062 | [Planificación de dotación](classes/062-planificacion-de-dotacion/README.md) | workforce planning, headcount, capacity gap | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 063 | [Atracción y selección](classes/063-atraccion-y-seleccion/README.md) | talent funnel, selection validity, job-relevant evidence | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 064 | [Entrevistas estructuradas](classes/064-entrevistas-estructuradas/README.md) | entrevista estructurada, behavioral question, situational question | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 065 | [Onboarding y primeros 90 días](classes/065-onboarding-y-primeros-90-dias/README.md) | onboarding, time-to-productivity, role clarity | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 066 | [Gestión de desempeño](classes/066-gestion-de-desempeno/README.md) | performance management, goal, behavior | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 067 | [Feedback, coaching y planes de mejora](classes/067-feedback-coaching-y-planes-de-mejora/README.md) | performance gap, PIP, support | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 068 | [Compensación e incentivos: fundamentos](classes/068-compensacion-e-incentivos-fundamentos/README.md) | total rewards, pay band, internal equity | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 069 | [Aprendizaje y upskilling](classes/069-aprendizaje-y-upskilling/README.md) | upskilling, reskilling, skill taxonomy | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 070 | [Sucesión y liderazgo interno](classes/070-sucesion-y-liderazgo-interno/README.md) | critical role, succession slate, readiness | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 071 | [Desvinculación responsable y documentación](classes/071-desvinculacion-responsable-y-documentacion/README.md) | causal de término, due process, finiquito | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 072 | [Capstone: construir un sistema de talento](classes/072-capstone-construir-un-sistema-de-talento/README.md) | talent system, employee lifecycle, talent philosophy | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 061 | [Diseño de cargos y resultados esperados](classes/061-diseno-de-cargos-y-resultados-esperados/README.md) | Cargo, Resultado esperado, Características centrales del puesto | [role-scorecard](../../templates/role-scorecard.md) | 150 |
+| 062 | [Planificación de dotación](classes/062-planificacion-de-dotacion/README.md) | Planificación de dotación, Demanda de trabajo, Oferta interna | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 063 | [Atracción y selección](classes/063-atraccion-y-seleccion/README.md) | Validez predictiva, Metaanálisis, Sobrecorrección por restricción de rango | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 064 | [Entrevistas estructuradas](classes/064-entrevistas-estructuradas/README.md) | Entrevista estructurada, Pregunta conductual, Pregunta situacional | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 065 | [Onboarding y primeros 90 días](classes/065-onboarding-y-primeros-90-dias/README.md) | Onboarding, Socialización organizacional, Claridad del rol | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 066 | [Gestión de desempeño](classes/066-gestion-de-desempeno/README.md) | Gestión de desempeño, Evaluación de desempeño, Meta específica y difícil | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 067 | [Feedback, coaching y planes de mejora](classes/067-feedback-coaching-y-planes-de-mejora/README.md) | Brecha de desempeño, Diagnóstico de causas, Plan de mejora | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 068 | [Compensación e incentivos: fundamentos](classes/068-compensacion-e-incentivos-fundamentos/README.md) | Equidad percibida, Inequidad, Recompensa tangible contingente | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 069 | [Aprendizaje y upskilling](classes/069-aprendizaje-y-upskilling/README.md) | Upskilling, Práctica deliberada, Conocimiento previo | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 070 | [Sucesión y liderazgo interno](classes/070-sucesion-y-liderazgo-interno/README.md) | Sucesión, Cargo crítico, Pasaje de liderazgo | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 071 | [Desvinculación responsable y documentación](classes/071-desvinculacion-responsable-y-documentacion/README.md) | Desvinculación, Desvinculación responsable, Documentación | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 072 | [Capstone: construir un sistema de talento](classes/072-capstone-construir-un-sistema-de-talento/README.md) | Sistema de talento, Coherencia, Palanca de entrada | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,69 +87,80 @@ Las clases **71 y 72** cubren la salida y el cierre: desvinculación responsable
 
 ## 🔤 Glosario de la parte
 
-59 conceptos definidos en las clases, con la definición operacional que usa cada una.
+70 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **adverse impact** | efecto desproporcionado de un proceso sobre un grupo. |
-| **behavior** | forma de actuar relevante para producir resultados y cultura. |
-| **behavioral question** | pregunta sobre conducta pasada en contexto relevante. |
-| **build-buy-borrow** | elección entre desarrollar, contratar o acceder temporalmente a una capacidad. |
-| **calibration** | discusión entre managers para reducir inconsistencias de criterios. |
-| **candidate experience** | experiencia del postulante que afecta reputación y aceptación. |
-| **capacity gap** | diferencia entre capacidad requerida y disponible. |
-| **causal de término** | fundamento legal o contractual del fin de relación según jurisdicción. |
-| **competencia** | capacidad observable necesaria para producir el outcome. |
-| **critical role** | rol cuya ausencia causa impacto material y difícil de cubrir. |
-| **developmental assignment** | experiencia diseñada para cerrar una brecha. |
-| **documentation** | registro factual de expectativas, feedback y resultados. |
-| **due process** | procedimiento y oportunidad de respuesta exigible según caso. |
-| **emergency successor** | persona capaz de sostener continuidad temporal. |
-| **employee lifecycle** | secuencia desde atracción hasta salida. |
-| **entrevista estructurada** | entrevista con preguntas, secuencia y scoring predeterminados. |
-| **evidence** | datos, ejemplos y resultados que sustentan evaluación. |
-| **finiquito** | documento de cierre de obligaciones laborales en sistemas donde aplica. |
-| **goal** | resultado esperado con horizonte. |
-| **governance** | roles y decisiones de managers, RR.HH. y ejecutivos. |
-| **headcount** | número de personas, insuficiente sin skills y productividad. |
-| **incentive risk** | conducta no deseada provocada por cómo se recompensa. |
-| **inter-rater reliability** | consistencia entre evaluadores. |
-| **internal equity** | coherencia de pago entre trabajos comparables. |
-| **job architecture** | estructura de familias, niveles y expectativas de roles. |
-| **job-relevant evidence** | evidencia directamente relacionada con tareas o competencias del rol. |
-| **knowledge transfer** | traspaso planificado de información crítica. |
-| **learning path** | secuencia de aprendizaje y práctica hacia un estándar. |
-| **milestone** | evidencia intermedia de progreso. |
-| **network building** | desarrollo de relaciones necesarias para ejecutar. |
-| **nivel** | amplitud de complejidad, autonomía e impacto esperada. |
-| **offboarding** | proceso de salida administrativa, operativa y de seguridad. |
-| **onboarding** | proceso de integración hasta alcanzar contribución y pertenencia razonables. |
-| **outcome del cargo** | resultado por el cual el rol existe. |
-| **pay band** | rango de compensación para un nivel o rol. |
-| **people analytics** | uso responsable de datos para observar patrones del sistema. |
-| **performance gap** | diferencia entre estándar acordado y desempeño observado. |
-| **performance management** | sistema continuo para alinear expectativas y mejorar desempeño. |
-| **PIP** | plan formal de mejora con expectativas y horizonte definidos. |
-| **quick win** | resultado temprano que produce aprendizaje y credibilidad sin riesgo excesivo. |
-| **readiness** | tiempo y brechas estimadas para asumir el rol. |
-| **reskilling** | desarrollo de capacidades para un rol distinto. |
-| **role clarity** | comprensión de outcomes, autoridad y prioridades. |
-| **scorecard** | conjunto corto de outcomes y competencias usados para seleccionar y evaluar. |
-| **scoring anchor** | ejemplo que describe evidencias de cada puntuación. |
-| **selection validity** | grado en que un método predice desempeño relevante. |
-| **situational question** | escenario hipotético que evalúa razonamiento. |
-| **skill taxonomy** | lenguaje común para describir capacidades. |
-| **succession slate** | conjunto de candidatos posibles, no un ganador predeterminado. |
-| **support** | recursos, coaching o entrenamiento razonablemente ofrecidos. |
-| **talent funnel** | etapas desde awareness hasta oferta aceptada. |
-| **talent philosophy** | principios explícitos sobre desarrollo, desempeño y recompensa. |
-| **talent system** | conjunto interdependiente de prácticas que atrae, desarrolla, evalúa y retiene capacidades. |
-| **time-to-productivity** | tiempo desde contratación hasta contribución esperada. |
-| **total rewards** | conjunto de compensación monetaria, beneficios y elementos de experiencia. |
-| **transferencia** | uso efectivo de la capacidad en trabajo real. |
-| **upskilling** | profundización de capacidades para responsabilidades actuales o crecientes. |
-| **variable pay** | compensación dependiente de desempeño o eventos. |
-| **workforce planning** | proceso de proyectar demanda y oferta de capacidades. |
+| **Aceptación social** | Sentirse parte del grupo y valorado (Bauer et al., 2007). |
+| **Autoeficacia** | Confianza en la propia capacidad de desempeñar las tareas (Bauer et al., 2007). |
+| **Brecha** | Diferencia entre demanda y oferta, en cantidad y en capacidades. |
+| **Brecha de desempeño** | Diferencia entre el desempeño observado y el esperado, con hechos. |
+| **Calibración** | Revisión conjunta de evaluaciones para homogeneizar criterios. |
+| **Canal de liderazgo (pipeline)** | Secuencia de pasajes por los que avanza un líder en la organización (Charan et al., 2001). |
+| **Características centrales del puesto** | Variedad de habilidades, identidad de la tarea, significado, autonomía y retroalimentación (Hackman y Oldham, 1976). |
+| **Cargo** | Conjunto de responsabilidades asignadas a una posición. |
+| **Cargo crítico** | Posición cuya vacancia genera un riesgo material para la organización. |
+| **Claridad del rol** | Comprensión de lo que se espera del cargo (Bauer et al., 2007). |
+| **Coaching** | Conversación para que la persona descubra cómo mejorar (Whitmore, 1992). |
+| **Coherencia** | Alineación entre lo que la organización declara, lo que premia y lo que hace en sus prácticas. |
+| **Conocimiento previo** | Lo que la persona ya sabe y condiciona lo que aprende (Ambrose et al., 2010). |
+| **Demanda de trabajo** | Cantidad y tipo de trabajo que la estrategia exige. |
+| **Desvinculación** | Término de la relación de trabajo por decisión de la organización o de la persona. |
+| **Desvinculación responsable** | Término decidido con evidencia, proceso verificado, trato digno y cuidado de quienes se quedan. |
+| **Diagnóstico de causas** | Examen de si la brecha se debe a falta de claridad, de capacidad, de recursos o de motivación. |
+| **Diseño del trabajo** | Organización de las tareas y responsabilidades de un puesto (Morgeson y Humphrey, 2006). |
+| **Disparador de verdad, relación o identidad** | Reacciones que dificultan recibir feedback (Stone y Heen, 2014). |
+| **Documentación** | Registro de hechos, expectativas, apoyo y resultados que sustenta la decisión. |
+| **Efecto de desplazamiento** | Reducción del interés intrínseco al introducir una recompensa externa (Deci et al., 1999). |
+| **Entrevista estructurada** | Entrevista con preguntas, escala y criterios definidos de antemano (Levashina et al., 2014). |
+| **Equidad percibida** | Juicio sobre si la relación entre lo que se aporta y lo que se recibe es justa en comparación con otros (Adams, 1963). |
+| **Escala con anclas** | Puntaje con descripciones de respuestas débiles, medias y fuertes. |
+| **Escenario** | Supuesto alternativo de demanda u oferta. |
+| **Estados psicológicos críticos** | Significado experimentado, responsabilidad experimentada y conocimiento de resultados (Hackman y Oldham, 1976). |
+| **Evaluación de desempeño** | Juicio formal periódico sobre el desempeño. |
+| **Evaluación independiente** | Cada evaluador puntúa antes de conocer la opinión de los demás. |
+| **Feedback de tarea** | Información sobre el desempeño en la tarea, más útil que la dirigida a la persona (Kluger y DeNisi, 1996). |
+| **Ganancia temprana** | Resultado visible logrado pronto que da credibilidad (Watkins, 2003). |
+| **Gestión de desempeño** | Proceso continuo de acordar expectativas, apoyar, observar, evaluar y decidir sobre el desempeño de las personas. |
+| **Hacer o comprar talento** | Decisión entre desarrollar internamente o contratar afuera (Cappelli, 2008). |
+| **Impacto adverso** | Efecto desigual de un método sobre grupos protegidos. |
+| **Incentivo mal alineado** | Incentivo que premia una conducta distinta de la deseada (Gneezy y Rustichini, 2000). |
+| **Indicador de personas** | Medida de resultados sobre las personas: rotación temprana, desempeño, clima, equidad. |
+| **Inequidad** | Percepción de que la propia relación aporte-resultado es menos favorable que la de otro. |
+| **Justicia interpersonal** | Percepción de que se trató a la persona con respeto (Colquitt et al., 2001). |
+| **Justicia procedimental** | Percepción de que el proceso fue justo (Colquitt et al., 2001). |
+| **Meta específica y difícil** | Objetivo claro y exigente (Locke y Latham, 2002). |
+| **Metaanálisis** | Combinación estadística de muchos estudios para estimar un efecto promedio. |
+| **Motivación intrínseca** | Interés por la tarea en sí (Ryan y Deci, 2000). |
+| **Muestra de trabajo** | Tarea representativa del cargo que el candidato realiza. |
+| **Oferta interna** | Personas disponibles con sus capacidades, considerando rotación y jubilaciones. |
+| **Onboarding** | Proceso mediante el cual una persona nueva adquiere los conocimientos, las conductas y las relaciones para desempeñarse en su cargo. |
+| **Palanca de entrada** | Decisión que condiciona todo lo posterior: cargo y selección. |
+| **Pasaje de liderazgo** | Transición a un nivel con nuevas habilidades, uso del tiempo y valores (Charan et al., 2001). |
+| **Plan de mejora** | Acuerdo escrito, con plazo, apoyo y metas, para cerrar una brecha. |
+| **Planificación de dotación** | Proceso de determinar qué personas y capacidades necesita la organización, cuándo y cómo obtenerlas. |
+| **Pregunta conductual** | Pide una situación pasada real: «cuéntame una vez en que…». |
+| **Pregunta situacional** | Plantea una situación hipotética del cargo y pregunta qué haría. |
+| **Preparación (readiness)** | Grado en que un candidato está listo para el siguiente pasaje. |
+| **Proporcionalidad** | Ajuste del sistema al tamaño y al riesgo de la organización. |
+| **Práctica de recuperación** | Intentar recordar lo aprendido, en lugar de releerlo (Brown et al., 2014). |
+| **Práctica deliberada** | Práctica diseñada para mejorar un aspecto específico, al límite de la capacidad, con retroalimentación inmediata (Ericsson y Pool, 2016). |
+| **Práctica espaciada** | Repetir con intervalos de tiempo en vez de concentrar todo (Brown et al., 2014). |
+| **Recompensa tangible contingente** | Premio material que depende de realizar una tarea o alcanzar un resultado (Deci et al., 1999). |
+| **Resultado esperado** | Lo que debe lograrse en el cargo, medible y con plazo. |
+| **Revisión del sistema** | Evaluación periódica de la efectividad y la coherencia. |
+| **Role scorecard** | Documento que fija propósito, resultados y competencias de un cargo. |
+| **Ruido** | Variación indeseada en los juicios de distintos evaluadores ante el mismo caso (Kahneman et al., 2021). |
+| **Sesgo de evaluación** | Error sistemático por factores ajenos al desempeño: afinidad, halo, recencia. |
+| **Sistema de talento** | Conjunto de prácticas de entrada, permanencia, desarrollo y salida de las personas, coherentes con la estrategia. |
+| **Sobrecorrección por restricción de rango** | Error en que se ajustan al alza las validez al suponer que los contratados son más homogéneos de lo que son (Sackett et al., 2022). |
+| **Socialización organizacional** | Proceso por el cual los recién llegados aprenden las normas y el rol de la organización (Bauer et al., 2007). |
+| **Sucesión** | Proceso de preparar personas para ocupar cargos clave cuando queden vacantes. |
+| **Sucesión de emergencia** | Plan para reemplazar de inmediato a una persona por salida inesperada. |
+| **Transferencia** | Aplicación de lo aprendido a situaciones reales. |
+| **Upskilling** | Desarrollo de capacidades que una persona necesita para su cargo actual o próximo. |
+| **Validez predictiva** | Relación entre el puntaje en un método de selección y el desempeño posterior (Schmidt y Hunter, 1998). |
+| **Verificación legal** | Revisión de la norma aplicable por un asesor antes de actuar. |
 
 ## 📦 Qué queda como evidencia
 

@@ -1,68 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g71 d-g71" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g71">Ficha visual de la clase 071: Desvinculación responsable y documentación</title>
-<desc id="d-g71">Conceptos: causal de término; due process; finiquito; offboarding; knowledge transfer. Método: revisar hechos, documentación y fundamento → consultar RR.HH./legal antes de comunicar → preparar conversación breve y digna → ejecutar offboarding y seguridad → comunicar al equipo sin divulgar información privada.</desc>
-<defs><marker id="p-g71" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 071 · Desvinculación responsable y documentación</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >causal de término</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fundamento legal o contractual del fin de relación</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >según jurisdicción</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >due process</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >procedimiento y oportunidad de respuesta exigible según</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >caso</text>
-<circle cx="38" cy="256.24" r="5" fill="#0969da"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >finiquito</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >documento de cierre de obligaciones laborales en</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >sistemas donde aplica</text>
-<circle cx="38" cy="328.36" r="5" fill="#0969da"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >offboarding</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso de salida administrativa, operativa y de</text>
-<text x="54" y="367.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >seguridad</text>
-<circle cx="38" cy="400.48" r="5" fill="#0969da"/>
-<text x="54" y="405.48" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >knowledge transfer</text>
-<text x="54" y="423.48" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >traspaso planificado de información crítica</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >revisar hechos, documentación y fundamento</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >consultar RR.HH./legal antes de comunicar</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >preparar conversación breve y digna</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >ejecutar offboarding y seguridad</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >comunicar al equipo sin divulgar información</text>
-<text x="572" y="365.25" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >privada</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="226.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >errores de acceso post-salida</text>
-<rect x="264.1" y="484.48" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="277.1" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="288.1" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reclamos</text>
-<rect x="355.3" y="484.48" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="368.3" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="379.3" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >documentación completa</text>
-<rect x="543.1" y="484.48" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="556.1" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="567.1" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >knowledge transfer</text>
-<rect x="703.3" y="484.48" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="716.3" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="727.3" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >impacto en equipo</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación,</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contrato, fuero, no discriminación, proceso y asesoría adecuada.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 498.56" width="1040" role="img" aria-labelledby="t-s71 d-s71" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s71">Clase 071 · Una desvinculación responsable, paso a paso</title>
+<desc id="d-s71">Pasos de una desvinculación: causa documentada, proceso verificado con asesoría, conversación digna, apoyo, comunicación al equipo y aprendizaje.</desc>
+<defs><marker id="p-s71" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="498.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 071 · Una desvinculación responsable, paso a paso</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Colquitt et al. (2001)</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Causa documentada</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Hechos, expectativas, apoyo</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >ofrecido y resultado, por</text>
+<text x="44" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >escrito.</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s71)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#cf222e"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Proceso verificado</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Asesoría laboral antes de</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >actuar; la norma aplicable</text>
+<text x="295.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >se confirma.</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s71)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Conversación digna</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >En privado, clara, breve y</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >sin humillar.</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s71)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Apoyo y logística</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Finiquito, acceso,</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >pertenencias y transición,</text>
+<text x="798.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >sin improvisar.</text>
+<path d="M897.25,211.75 V223.75 H142.75 V241.75" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s71)"/>
+<rect x="28" y="243.75" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="52.0" cy="269.75" r="13" fill="#8250df"/>
+<text x="52" y="274.75" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="267.75" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Comunicar al equipo</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Un mensaje respetuoso y sin</text>
+<text x="44" y="317" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >detalles personales.</text>
+<path d="M260.5,300.625 L276.5,300.625" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s71)"/>
+<rect x="279.5" y="243.75" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<circle cx="303.5" cy="269.75" r="13" fill="#59636e"/>
+<text x="303.5" y="274.75" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >6</text>
+<text x="323.5" y="267.75" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Aprender</text>
+<text x="295.5" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Revisar qué falló antes en</text>
+<text x="295.5" y="317" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >selección, apoyo o</text>
+<text x="295.5" y="334.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >desempeño.</text>
+<rect x="28" y="371.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="393.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Las personas que se quedan evalúan cómo se trató a quien se va: las cuatro justicias —resultado, proceso, trato y explicación— también</text>
+<text x="44" y="410.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >aplican aquí.</text>
+<text x="28" y="458" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Plazos, causales, indemnizaciones y formalidades dependen de la normativa vigente: se verifican con asesoría y fuentes oficiales.</text>
 </svg>

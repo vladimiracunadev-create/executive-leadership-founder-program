@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir entrevista estructurada de behavioral question mediante evidencia observable."
-  - "Aplicar la secuencia: seleccionar competencias del scorecard → crear preguntas conductuales y situacionales → definir anchors antes de entrevistar → puntuar independientemente antes de debatir → calibrar discrepancias y guardar evidencia."
-  - "Interpretar dispersión entre entrevistadores, predicción de desempeño, preguntas omitidas sin atribuir causalidad automática."
-  - "Resolver el caso de entrevistas estructuradas con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir los componentes que hacen estructurada una entrevista."
+  - "Diseñar preguntas basadas en conductas pasadas y en situaciones hipotéticas."
+  - "Construir una escala de puntaje con descripciones ancla."
+  - "Conducir la entrevista y registrar evidencia sin interpretar."
+  - "Combinar evaluaciones independientes y documentar la decisión."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "John Boudreau & Peter Ramstad — *Beyond HR*"
-  - "Michael D. Watkins — *The First 90 Days*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
-  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+  - "Julia Levashina, Christopher J. Hartwell, Frederick P. Morgeson & Michael A. Campion — *The Structured Employment Interview: Narrative and Quantitative Review of the Research Literature*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
+  - "Laszlo Bock — *Work Rules!*"
+  - "Frank L. Schmidt & John E. Hunter — *The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings*"
+  - "Paul R. Sackett, Charlene Zhang, Christopher M. Berry & Filip Lievens — *Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range*"
 limits:
-  - "Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez."
+  - "La estructura mejora la predicción en promedio, pero no elimina el sesgo: las preguntas y las anclas pueden reflejar los valores de quien las escribe."
 evidence_signals:
-  - "dispersión entre entrevistadores"
-  - "predicción de desempeño"
-  - "preguntas omitidas"
-  - "tiempo de debrief"
-  - "sesgos detectados"
+  - "mismas preguntas a todos"
+  - "escala con anclas"
+  - "puntaje independiente"
+  - "razón de la decisión registrada"

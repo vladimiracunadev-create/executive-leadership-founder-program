@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir upskilling de reskilling mediante evidencia observable."
-  - "Aplicar la secuencia: mapear capacidades críticas futuras → diagnosticar nivel actual → priorizar brechas por impacto → combinar estudio, práctica y coaching → validar transferencia con evidencia laboral."
-  - "Interpretar skill assessments, transferencia a proyectos, movilidad interna sin atribuir causalidad automática."
-  - "Resolver el caso de aprendizaje y upskilling con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir capacitación, aprendizaje y cambio de conducta."
+  - "Describir los rasgos de la práctica deliberada."
+  - "Aplicar principios de aprendizaje: conocimiento previo, práctica, retroalimentación y recuperación."
+  - "Diseñar un plan de upskilling con objetivo, práctica, transferencia y medición."
+  - "Evaluar el efecto de una intervención de aprendizaje en el trabajo."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "Robert I. Sutton — *Good Boss, Bad Boss*"
-  - "John Boudreau & Peter Ramstad — *Beyond HR*"
+  - "Anders Ericsson & Robert Pool — *Peak*"
+  - "Susan A. Ambrose et al. — *How Learning Works*"
+  - "Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*"
   - "John Whitmore — *Coaching for Performance*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
 limits:
-  - "No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar."
+  - "La práctica deliberada se estudió sobre todo en dominios con reglas y medidas claras, y su generalización a tareas de gestión es una extrapolación."
 evidence_signals:
-  - "skill assessments"
-  - "transferencia a proyectos"
-  - "movilidad interna"
-  - "tiempo hasta competencia"
-  - "uso de capacidades nuevas"
+  - "capacidad definida por resultados"
+  - "práctica con feedback"
+  - "transferencia al trabajo"
+  - "cambio de conducta medido"

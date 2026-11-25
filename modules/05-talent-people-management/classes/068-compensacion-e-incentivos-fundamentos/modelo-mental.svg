@@ -1,65 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g68 d-g68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g68">Ficha visual de la clase 068: Compensación e incentivos: fundamentos</title>
-<desc id="d-g68">Conceptos: total rewards; pay band; internal equity; variable pay; incentive risk. Método: definir filosofía de compensación → benchmarkear sin delegar decisión al mercado → construir bandas y criterios → diseñar variable con guardrails → auditar equidad y gaming.</desc>
-<defs><marker id="p-g68" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 068 · Compensación e incentivos: fundamentos</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >total rewards</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de compensación monetaria, beneficios y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >elementos de experiencia</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pay band</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >rango de compensación para un nivel o rol</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >internal equity</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >coherencia de pago entre trabajos comparables</text>
-<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >variable pay</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >compensación dependiente de desempeño o eventos</text>
-<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >incentive risk</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conducta no deseada provocada por cómo se recompensa</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir filosofía de compensación</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >benchmarkear sin delegar decisión al mercado</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >construir bandas y criterios</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diseñar variable con guardrails</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >auditar equidad y gaming</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >compa-ratio</text>
-<rect x="139.9" y="442.12" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="152.9" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="163.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pay gaps</text>
-<rect x="231.1" y="442.12" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="244.1" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="255.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >turnover por compensación</text>
-<rect x="439.6" y="442.12" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="452.6" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="463.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >variable versus outcome</text>
-<rect x="634.3" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="647.3" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="658.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >gaming o reclamos</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contratos, impuestos, igualdad y regulación local.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 508.56" width="1040" role="img" aria-labelledby="t-s68 d-s68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s68">Clase 068 · Equidad percibida y efecto de los incentivos</title>
+<desc id="d-s68">Dos paneles: cómo se juzga la equidad de una compensación y qué efectos tienen los incentivos monetarios sobre la conducta y la motivación.</desc>
+<defs><marker id="p-s68" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="508.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 068 · Equidad percibida y efecto de los incentivos</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Adams (1963) · Deci, Koestner &amp; Ryan (1999) · Gneezy &amp; Rustichini (2000)</text>
+<text x="28" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">EQUIDAD SEGÚN ADAMS</text>
+<rect x="28" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="104" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Aporte frente a resultado</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Las personas comparan lo que aportan con lo que reciben.</text>
+<rect x="28" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.7" />
+<rect x="28.0" y="177.25" width="6" height="63.25" rx="3" fill="#8250df"/>
+<text x="46" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Con quién se comparan</text>
+<text x="46" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Con pares, con el mercado y con su propio pasado.</text>
+<rect x="28" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="28.0" y="250.5" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="46" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Qué hacen si perciben inequidad</text>
+<text x="46" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Reducen el esfuerzo, piden un cambio o se van.</text>
+<text x="532" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">INCENTIVOS: LO QUE MUESTRA LA EVIDENCIA</text>
+<rect x="532" y="104" width="480" height="80.5" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="532.0" y="104" width="6" height="80.5" rx="3" fill="#bc4c00"/>
+<text x="550" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Recompensas tangibles contingentes</text>
+<text x="550" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >En el metaanálisis de Deci et al., tendieron a reducir la</text>
+<text x="550" y="161.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >motivación intrínseca.</text>
+<rect x="532" y="194.5" width="480" height="80.5" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.7" />
+<rect x="532.0" y="194.5" width="6" height="80.5" rx="3" fill="#59636e"/>
+<text x="550" y="216.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Una multa puede ser un precio</text>
+<text x="550" y="234.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >En una guardería, cobrar multa por retraso aumentó los</text>
+<text x="550" y="251.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >retrasos.</text>
+<rect x="532" y="285" width="480" height="80.5" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="532.0" y="285.0" width="6" height="80.5" rx="3" fill="#1a7f37"/>
+<text x="550" y="307" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Incentivo y resultado</text>
+<text x="550" y="325" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se premia lo que se mide: pueden descuidarse lo no medido y la</text>
+<text x="550" y="342.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >calidad.</text>
+<rect x="28" y="381.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="403.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un sistema de compensación comunica qué valora la organización. Antes de premiar una conducta, conviene preguntarse qué otra conducta</text>
+<text x="44" y="420.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >incentivará sin querer.</text>
+<text x="28" y="468" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los resultados varían por tipo de tarea y de recompensa; las normas de remuneración se verifican con asesoría.</text>
 </svg>

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir talent funnel de selection validity mediante evidencia observable."
-  - "Aplicar la secuencia: definir scorecard y criterios antes de publicar → atraer en canales adecuados → usar screening consistente → combinar entrevistas y muestras de trabajo → registrar decisión y revisar calidad de contratación."
-  - "Interpretar conversiones por etapa, time-to-fill, quality of hire sin atribuir causalidad automática."
-  - "Resolver el caso de atracción y selección con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar qué significa la validez de un método de selección y cómo se estima."
+  - "Comparar métodos de selección según su capacidad predictiva y sus riesgos."
+  - "Diseñar un proceso con varias fuentes de información y criterios previos."
+  - "Atraer candidatos adecuados con un aviso claro y honesto."
+  - "Reducir sesgos y evitar discriminación en el proceso."
 deliverable: "people-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "Dave Ulrich — *Human Resource Champions*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "Frank L. Schmidt & John E. Hunter — *The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings*"
+  - "Paul R. Sackett, Charlene Zhang, Christopher M. Berry & Filip Lievens — *Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range*"
+  - "Julia Levashina, Christopher J. Hartwell, Frederick P. Morgeson & Michael A. Campion — *The Structured Employment Interview: Narrative and Quantitative Review of the Research Literature*"
+  - "Laszlo Bock — *Work Rules!*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
 limits:
-  - "Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales."
+  - "Los metaanálisis ofrecen promedios; la validez en un cargo concreto puede ser distinta, y la revisión de 2022 muestra que las estimaciones son discutibles."
 evidence_signals:
-  - "conversiones por etapa"
-  - "time-to-fill"
-  - "quality of hire"
-  - "offer acceptance"
-  - "adverse impact"
+  - "criterios previos al proceso"
+  - "métodos con evidencia de validez"
+  - "sesgos controlados"
+  - "evaluación del proceso tras contratar"

@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Compensación e incentivos combinan salario, variable, beneficios, equity y reconocimiento para atraer, retener y orientar conducta. El diseño debe equilibrar competitividad externa, equidad interna, capacidad de pago y riesgo de gaming. Pagar por una métrica cambia lo que las personas optimizan.
+La compensación es la herramienta de gestión de personas más cara y la que más se usa con ideas heredadas: «lo que se premia se repite», «el dinero motiva», «un bono por resultados alinea a todos». Cada una contiene algo cierto y algo engañoso. La investigación muestra que las personas **comparan** lo que reciben con lo que aportan y con lo que otros reciben, que un incentivo puede cambiar la conducta de un modo que nadie pretendía y que, en ciertas tareas, premiar con dinero puede reducir el interés por la tarea.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **compensación e incentivos: fundamentos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase presenta los fundamentos con tres investigaciones: la teoría de la equidad de J. Stacy Adams, el metaanálisis de Deci, Koestner y Ryan sobre recompensas y motivación intrínseca y el estudio de Gneezy y Rustichini sobre el efecto de una multa en guarderías. Al terminar sabrás evaluar si un sistema de compensación es percibido como justo, anticipar efectos no deseados de un incentivo y diseñar un esquema sencillo y coherente.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `total rewards`, `pay band`, `internal equity`, `variable pay`, `incentive risk` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** compa-ratio, pay gaps, turnover por compensación sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** la teoría de la equidad y cómo se juzga una compensación.
+2. **Describir** qué hallaron Deci y colegas sobre recompensas y motivación intrínseca.
+3. **Anticipar** efectos no deseados de un incentivo, como el caso de la multa.
+4. **Distinguir** remuneración fija, variable y reconocimiento no monetario, y su función.
+5. **Diseñar** un esquema de compensación simple, coherente y comunicable.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define total rewards y pay band sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con compa-ratio y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un incentivo en tu trabajo que cambió la conducta de modo inesperado. |
+| 20–60 min | Equidad, recompensas e incentivos con efectos no deseados. |
+| 60–105 min | Ejemplo trabajado: un bono por ventas que daña la colaboración. |
+| 105–140 min | Caso ejecutivo: una brecha salarial entre pares. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **total rewards** | conjunto de compensación monetaria, beneficios y elementos de experiencia | Distingue un hecho compatible y otro que lo refute. |
-| **pay band** | rango de compensación para un nivel o rol | Distingue un hecho compatible y otro que lo refute. |
-| **internal equity** | coherencia de pago entre trabajos comparables | Distingue un hecho compatible y otro que lo refute. |
-| **variable pay** | compensación dependiente de desempeño o eventos | Distingue un hecho compatible y otro que lo refute. |
-| **incentive risk** | conducta no deseada provocada por cómo se recompensa | Distingue un hecho compatible y otro que lo refute. |
+| **Equidad percibida** | Juicio sobre si la relación entre lo que se aporta y lo que se recibe es justa en comparación con otros (Adams, 1963). | La persona compara con pares y con el mercado. |
+| **Inequidad** | Percepción de que la propia relación aporte-resultado es menos favorable que la de otro. | Genera tensión que se busca reducir. |
+| **Recompensa tangible contingente** | Premio material que depende de realizar una tarea o alcanzar un resultado (Deci et al., 1999). | «Si haces X, recibes Y.» |
+| **Motivación intrínseca** | Interés por la tarea en sí (Ryan y Deci, 2000). | Se haría sin recompensa. |
+| **Efecto de desplazamiento** | Reducción del interés intrínseco al introducir una recompensa externa (Deci et al., 1999). | Tras el premio, baja la conducta espontánea. |
+| **Incentivo mal alineado** | Incentivo que premia una conducta distinta de la deseada (Gneezy y Rustichini, 2000). | Se produce lo medido, no lo querido. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 068: 1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming](modelo-mental.svg)
+![Equidad percibida y efecto de los incentivos: a la izquierda cómo se juzga la equidad según Adams y a la derecha lo que muestra la evidencia sobre recompensas, multas e incentivos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Compensación e incentivos combinan salario, variable, beneficios, equity y reconocimiento para atraer, retener y orientar conducta. El diseño debe equilibrar competitividad externa, equidad interna, capacidad de pago y riesgo de gaming. Pagar por una métrica cambia lo que las personas optimizan.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local.**
+**Cómo leer el diagrama.** A la izquierda, tres rasgos de la equidad percibida: se compara aporte con resultado, con distintos referentes, y la inequidad percibida mueve a actuar. A la derecha, tres hallazgos sobre incentivos: las recompensas contingentes pueden reducir la motivación intrínseca, una multa puede convertirse en un precio, y se premia lo medido aunque se pretenda otra cosa.
 
 ## 📖 Desarrollo
 
-### 1. total rewards: mecanismo central
+### 1. La compensación comunica
 
-**total rewards** se entiende aquí como **conjunto de compensación monetaria, beneficios y elementos de experiencia**. Esta es la pieza causal o estructural desde la que se inicia **compensación e incentivos: fundamentos**: antes de definir filosofía de compensación, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un sistema de compensación **dice** qué valora la organización: lo que se paga, a quién y por qué. Más que una herramienta de motivación, es una declaración. Si dice cosas contradictorias con la estrategia —se predica colaboración y se premia el éxito individual—, la conducta seguirá lo premiado. Por eso conviene revisar qué mensaje implícito transmite cada elemento del esquema.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **compa-ratio**; regístrala con periodo, unidad, población y baseline.
+### 2. La teoría de la equidad
 
-Relaciona el mecanismo con **pay band**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Adams propone que las personas comparan la razón entre sus **aportes** (esfuerzo, formación, experiencia) y sus **resultados** (pago, reconocimiento, estatus) con la de otras personas de referencia. Si perciben que la propia razón es menos favorable, experimentan inequidad y buscan reducirla: pueden bajar su esfuerzo, pedir un cambio, reinterpretar la comparación o irse. La percepción importa más que la realidad: dos personas con el mismo pago pueden sentir cosas distintas según con quién se comparen. La **transparencia** de criterios reduce los malentendidos, aunque no elimina las comparaciones.
 
-### 2. pay band: frontera conceptual y error de clasificación
+### 3. Recompensas y motivación intrínseca
 
-**Definición operacional:** rango de compensación para un nivel o rol. Su valor está en distinguirlo de **total rewards** y **internal equity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Deci, Koestner y Ryan integraron un gran número de experimentos sobre el efecto de las recompensas extrínsecas en la motivación intrínseca y concluyeron que las recompensas **tangibles contingentes** —premios materiales que dependen de realizar la tarea— tienden a **reducir** el interés intrínseco, mientras que el elogio informativo puede aumentarlo. Esto no significa que el dinero no motive: significa que, en tareas interesantes, premiar su realización puede cambiar el significado de la tarea («lo hago por el premio»). En tareas rutinarias, el efecto es menos relevante.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **pay band** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **pay gaps** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cuando una multa es un precio
 
-Antes de benchmarkear sin delegar decisión al mercado, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Gneezy y Rustichini estudiaron guarderías donde se introdujo una multa por recoger tarde a los niños. En lugar de disminuir, los retrasos **aumentaron**: la multa convirtió una obligación moral en un precio que los padres podían pagar. El caso ilustra un principio: un incentivo monetario puede **reemplazar** una norma social por un cálculo económico, con resultados contrarios a los buscados. Antes de usar un incentivo, conviene preguntarse qué norma o valor hoy sostiene la conducta y si el incentivo lo desplazará.
 
-### 3. internal equity: operacionalización y medición
+### 5. Los tres componentes
 
-**internal equity** significa **coherencia de pago entre trabajos comparables**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un esquema simple distingue: la **remuneración fija**, que debe ser justa, competitiva y comprensible, y cumple una función de condición básica; la **remuneración variable**, ligada a resultados, que funciona mejor cuando la persona controla el resultado, es medible y no incentiva conductas dañinas; y el **reconocimiento no monetario**, que informa sobre la competencia (clase 057). Los beneficios y la estabilidad también son parte de la oferta. Cuantos más componentes dependan de un solo indicador, más riesgo de distorsión.
 
-Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* orienta este bloque mediante **perspectiva de Sucesión aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **turnover por compensación**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Diseñar el incentivo
 
-Al llegar a construir bandas y criterios, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Preguntas de diseño: ¿qué conducta o resultado se quiere?, ¿la persona puede influir en él?, ¿cómo se medirá, y qué se puede manipular?, ¿qué se descuidará por no estar medido?, ¿qué efecto tendrá sobre la colaboración? Para tareas complejas y de equipo, suele funcionar mejor un incentivo **colectivo** o de largo plazo, con criterios de calidad. Se prueba con un piloto y se revisa. Y se comunica con claridad cómo se calcula.
 
-### 4. variable pay: trade-offs y efectos de segundo orden
+### 7. Equidad interna y externa
 
-**Definición:** compensación dependiente de desempeño o eventos. Este concepto obliga a abandonar la idea de que **compensación e incentivos: fundamentos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar variable con guardrails, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Marcus Buckingham & Curt Coffman — *First, Break All the Rules* aporta una lente sobre **rol del manager, fortalezas, expectativas y desempeño individual**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **variable versus outcome** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **compensación e incentivos: fundamentos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **variable pay** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. incentive risk: gobernanza, límites e integración
-
-**incentive risk** se define como **conducta no deseada provocada por cómo se recompensa** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Dave Ulrich — *Human Resource Champions* se utiliza para estudiar **perspectiva de RR.HH. aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar auditar equidad y gaming, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **total rewards**, **pay band**, **internal equity**, **variable pay** y **incentive risk** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **compensación e incentivos: fundamentos** no consiste en sumar cinco definiciones. Empieza por **total rewards**, contrasta **pay band** con **internal equity**, incorpora **variable pay** como restricción o mecanismo y usa **incentive risk** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La **equidad interna** compara cargos dentro de la organización según su aporte; la **externa**, con el mercado. Las brechas entre personas con aportes parecidos deben poder explicarse con criterios objetivos (cargo, desempeño, antigüedad), y revisarse por posibles sesgos de género u otros. Las normas sobre igualdad de remuneración y sobre el contenido de los contratos son específicas de cada jurisdicción y se verifican con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **compensación e incentivos: fundamentos** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **compensación e incentivos: fundamentos** ayuda a desafiar? |
-| Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* | perspectiva de Sucesión aplicada al problema de la clase | ¿Qué supuesto de **compensación e incentivos: fundamentos** ayuda a desafiar? |
-| Marcus Buckingham & Curt Coffman — *First, Break All the Rules* | rol del manager, fortalezas, expectativas y desempeño individual | ¿Qué supuesto de **compensación e incentivos: fundamentos** ayuda a desafiar? |
-| Dave Ulrich — *Human Resource Champions* | perspectiva de RR.HH. aplicada al problema de la clase | ¿Qué supuesto de **compensación e incentivos: fundamentos** ayuda a desafiar? |
-
-En **compensación e incentivos: fundamentos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **total rewards**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Adams (1963) | Teoría de la equidad. | Es un modelo de comparación, con medición compleja. | ¿Con quién se compara tu equipo? |
+| Deci, Koestner y Ryan (1999) | Efecto de las recompensas sobre la motivación intrínseca. | Los efectos varían según el tipo de recompensa. | ¿Tu bono premia una tarea interesante? |
+| Gneezy y Rustichini (2000) | Una multa puede ser un precio. | Es un estudio en un contexto específico. | ¿Qué norma sustituye tu incentivo? |
+| Ryan y Deci (2000) | Motivación autónoma y control. | No es una guía de compensación. | ¿Tu incentivo informa o controla? |
+| Pink (2009) | Autonomía, maestría y propósito; límites de los incentivos. | Divulgación. | ¿Qué parte del argumento verificarías? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un bono comercial paga solo revenue firmado. El equipo comienza a vender descuentos altos y contratos de baja cobrabilidad que perjudican margen y caja.
+**Situación (hipotética).** Una empresa de servicios paga un bono trimestral a quien más nuevos clientes capte. Observa que aumentó la captación, pero cayó la retención, los vendedores dejaron de compartir contactos y las quejas de postventa subieron.
 
-**Paso 1 — definir filosofía de compensación.** La gerencia escribe primero el supuesto asociado a **total rewards** y evita convertirlo en hecho. Luego busca **compa-ratio** para contrastarlo en el caso de **compensación e incentivos: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Lectura |
+|---|---|
+| **Qué se mide** | Clientes nuevos captados. |
+| **Qué se descuida** | Retención, calidad de la venta, apoyo a colegas. |
+| **Efecto sobre la norma** | Se desplazó la cooperación. |
+| **Equidad** | Los vendedores de zonas pequeñas sienten que el bono es injusto: «no es mi esfuerzo, es mi zona». |
 
-**Paso 2 — benchmarkear sin delegar decisión al mercado.** La gerencia escribe primero el supuesto asociado a **pay band** y evita convertirlo en hecho. Luego busca **pay gaps** para contrastarlo en el caso de **compensación e incentivos: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño.** (1) Un componente variable con tres indicadores: captación (40 %), retención a 6 meses (40 %) y satisfacción de postventa (20 %). (2) Un tramo de bono colectivo por la meta del equipo regional. (3) Cuotas ajustadas por potencial de la zona. (4) Un reconocimiento no monetario mensual a la colaboración. (5) Un piloto de seis meses y revisión.
 
-**Paso 3 — construir bandas y criterios.** La gerencia escribe primero el supuesto asociado a **internal equity** y evita convertirlo en hecho. Luego busca **turnover por compensación** para contrastarlo en el caso de **compensación e incentivos: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** En un año, la captación se mantiene, la retención sube de 70 % a 82 % y las quejas bajan.
 
-**Paso 4 — diseñar variable con guardrails.** La gerencia escribe primero el supuesto asociado a **variable pay** y evita convertirlo en hecho. Luego busca **variable versus outcome** para contrastarlo en el caso de **compensación e incentivos: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — auditar equidad y gaming.** La gerencia escribe primero el supuesto asociado a **incentive risk** y evita convertirlo en hecho. Luego busca **gaming o reclamos** para contrastarlo en el caso de **compensación e incentivos: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **compensación e incentivos: fundamentos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El incentivo original premiaba solo lo medido. (2) Se atendió la equidad percibida con cuotas ajustadas. (3) Se combinaron incentivos individuales, colectivos y reconocimiento.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **total rewards** | conjunto de compensación monetaria, beneficios y elementos de experiencia | Cuando compa-ratio es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **pay band** | rango de compensación para un nivel o rol | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Pago justo frente a motivación.** Un pago justo evita la insatisfacción pero no genera por sí solo motivación; el trabajo, el reconocimiento y el sentido hacen más a ese respecto.
 
-**Frontera de aplicación:** Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local.
+**Límites.** Los experimentos sobre recompensas se hicieron sobre todo en entornos de laboratorio y educativos; su aplicación a la remuneración laboral debe hacerse con prudencia, y hay debate sobre la generalidad del efecto. El estudio de las guarderías es un caso en un contexto particular. La teoría de la equidad no dice qué comparaciones son razonables. Y los esquemas de compensación están sujetos a normas sobre remuneración mínima, igualdad, gratificaciones y contratos que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre compensación e incentivos: fundamentos |
+| Nivel | Cómo trabaja la compensación |
 |---|---|
-| **Profesional** | usa **compensación e incentivos: fundamentos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **total rewards** y **pay band** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta compa-ratio con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si compensación e incentivos: fundamentos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de compensación e incentivos: fundamentos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **compensación e incentivos: fundamentos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo se calcula su compensación y la compara con criterio. |
+| **Jefe / Team Lead** | Explica los criterios y detecta efectos no deseados de un incentivo. |
+| **Gerente** | Diseña incentivos alineados con la estrategia y revisa la equidad. |
+| **CEO / Director** | Se asegura de que el esquema premie lo que la estrategia necesita. |
+| **Founder / Owner** | Equilibra caja, equidad y atracción de talento, y usa equity con cuidado. |
 
 ## 🏢 Caso ejecutivo
 
-Un bono comercial paga solo revenue firmado. El equipo comienza a vender descuentos altos y contratos de baja cobrabilidad que perjudican margen y caja.
+En una empresa de 200 personas, una auditoría muestra que dos analistas con el mismo cargo, la misma antigüedad y evaluaciones similares ganan un 18 % de diferencia: una es mujer, el otro hombre. La diferencia viene de las condiciones de ingreso de cada uno. La directora de personas propone ajustar de inmediato; el gerente financiero dice que «es un tema de negociación individual». Además, el bono por metas individuales ha generado rivalidad entre equipos.
 
-Entrega un **decision brief de compensación e incentivos: fundamentos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis y propuesta de compensación** que contenga: (a) el análisis de equidad interna y externa con criterios objetivos; (b) cómo tratarás la brecha entre los dos analistas; (c) el efecto del bono individual sobre la colaboración; (d) el rediseño del esquema con sus tres componentes; (e) cómo lo comunicarás; (f) las verificaciones legales y cómo medirás el efecto.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **compensación e incentivos: fundamentos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta compa-ratio, pay gaps; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Identifica un incentivo de tu organización y escribe qué mide y qué descuida.
+2. Escribe con quién se comparan las personas de tu equipo y qué diferencias percibirían.
+3. Diseña un indicador de calidad para equilibrar uno de cantidad.
+4. Revisa dos cargos comparables y los criterios que explican la diferencia.
+5. Redacta la explicación breve de cómo se calcula un bono.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar total rewards y pay band como sinónimos | Se pierde la distinción entre “conjunto de compensación monetaria, beneficios y elementos de experiencia” y “rango de compensación para un nivel o rol” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “auditar equidad y gaming” | Se saltó “definir filosofía de compensación” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming y marca el primer supuesto no demostrado. |
-| Optimizar solo compa-ratio | La métrica local sustituyó al resultado del sistema | Contrástala con pay gaps y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre compensación e incentivos: fundamentos | Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local. |
-| No fijar revisión | Una decisión sobre compensación e incentivos: fundamentos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Premiar un solo indicador | Es simple | Equilibrar cantidad y calidad. |
+| Usar dinero para tareas interesantes | Se supone que motiva | Informar sobre competencia y dar sentido. |
+| Ignorar la equidad percibida | Se supone que cada uno ve lo suyo | Explicar criterios y revisar comparaciones. |
+| Introducir multas | Se quiere disuadir | Anticipar si sustituyen una norma. |
+| Esquema opaco | Se evita el debate | Comunicar cómo se calcula. |
+| Brechas sin explicación | Se heredan de negociaciones | Revisar con criterios objetivos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **total rewards** y **pay band** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **internal equity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir filosofía de compensación → benchmarkear sin delegar decisión al mercado** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **compa-ratio** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **compensación e incentivos: fundamentos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local.**?
+1. ¿Qué dice la teoría de la equidad de Adams?
+2. ¿Qué hallaron Deci, Koestner y Ryan sobre recompensas contingentes?
+3. ¿Qué mostró el estudio de las guarderías?
+4. ¿Qué tres componentes tiene un esquema de compensación?
+5. ¿Qué preguntas haces al diseñar un incentivo?
+6. ¿Qué diferencia hay entre equidad interna y externa?
+7. ¿Qué límite tienen los experimentos sobre recompensas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Que las personas comparan la razón entre sus aportes y sus resultados con la de otras personas, y buscan reducir la inequidad que perciben.
+2. Que las recompensas tangibles contingentes tienden a reducir la motivación intrínseca, mientras el elogio informativo puede aumentarla.
+3. Que una multa por retraso aumentó los retrasos, porque convirtió una obligación moral en un precio.
+4. Remuneración fija, variable y reconocimiento no monetario.
+5. Qué conducta se quiere, si la persona la controla, cómo se mide y se puede manipular, qué se descuidará y el efecto en la colaboración.
+6. La interna compara cargos dentro de la organización; la externa, con el mercado.
+7. Provienen sobre todo de entornos de laboratorio y educativos; su aplicación a la remuneración laboral exige prudencia.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/068-compensacion-e-incentivos-fundamentos/`:
 
-- `leadership-decision-brief.md` con el problema específico de **compensación e incentivos: fundamentos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **compensación e incentivos: fundamentos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **total rewards**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un bono comercial paga solo revenue firmado. El equipo comienza a vender descuentos altos y contratos de baja cobrabilidad que perjudican margen y caja.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el análisis y la propuesta del caso ejecutivo;
+- `reading-note.md` con una tensión entre Adams y Deci, Koestner y Ryan;
+- `decision-journal.md` con los efectos anticipados del incentivo y su revisión.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Dave Ulrich — *Human Resource Champions* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de RR.HH. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9780875847191](https://openlibrary.org/isbn/9780875847191).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **compensación e incentivos: fundamentos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **compensación e incentivos: fundamentos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **compensación e incentivos: fundamentos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **compensación e incentivos: fundamentos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- J. Stacy Adams — *Towards an understanding of inequity* (The Journal of Abnormal and Social Psychology, 1963). **Uso en esta clase:** teoría de la equidad en la compensación. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [DOI 10.1037/h0040968](https://doi.org/10.1037/h0040968).
+- Edward L. Deci, Richard Koestner & Richard M. Ryan — *A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation* (Psychological Bulletin, 1999). **Uso en esta clase:** efecto de las recompensas sobre la motivación intrínseca. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [DOI 10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627).
+- Uri Gneezy & Aldo Rustichini — *A Fine is a Price* (The Journal of Legal Studies, 2000). **Uso en esta clase:** una multa que se convierte en un precio. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [DOI 10.1086/468061](https://doi.org/10.1086/468061).
+- Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being* (American Psychologist, 2000). **Uso en esta clase:** motivación autónoma y control. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [DOI 10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68).
+- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** límites de los incentivos en tareas complejas. Lectura selectiva sobre **compensación e incentivos: fundamentos**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
 
-> **Regla de fuentes para Compensación e incentivos: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **compensación e incentivos: fundamentos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Compensación e incentivos: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las normas sobre remuneración, igualdad de remuneraciones y contenido de los contratos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

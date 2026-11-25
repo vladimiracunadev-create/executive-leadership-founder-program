@@ -5,222 +5,188 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Un plan de mejora de desempeño convierte una brecha persistente en expectativas, apoyo, plazo y evidencia. Antes de formalizarlo, se distingue capacidad, claridad, recursos y conducta. El objetivo es permitir mejora real y, si no ocurre, sostener una decisión responsable y documentada.
+Cuando el desempeño de una persona no alcanza lo esperado, la mayoría de los jefes reacciona de dos maneras: evita la conversación esperando que mejore, o salta a un «plan de mejora» formal que la persona y el equipo leen como el comienzo del fin. Ambas respuestas desperdician la oportunidad. Entre la evitación y la medida formal hay un recorrido: **feedback**, **coaching** y, solo si hace falta, un **plan de mejora** genuino, con apoyo real y resultado abierto.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **feedback, coaching y planes de mejora** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase integra lo visto en las clases 030 (feedback) y 054 (coaching) con la gestión de desempeño (066), y se apoya en la revisión de Kluger y DeNisi, en el modelo GROW de Whitmore y en el análisis de Stone y Heen sobre cómo se recibe el feedback. Al terminar sabrás escalar de forma gradual y proporcional, diseñar un plan de mejora honesto y decidir con evidencia cuando el plan no funciona.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `performance gap`, `PIP`, `support`, `milestone`, `documentation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** milestones logrados, reincidencia, support utilizado sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** la causa de un desempeño insuficiente: claridad, capacidad, recursos o motivación.
+2. **Elegir** entre feedback, coaching, plan de mejora o decisión de gestión.
+3. **Diseñar** un plan de mejora con hechos, apoyo, metas, plazos y revisiones.
+4. **Conducir** la conversación con respeto y sin atribuir intención.
+5. **Decidir** al final del plan con evidencia y proceso, verificando la norma aplicable.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define performance gap y PIP sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con milestones logrados y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un caso de bajo desempeño en tu entorno; ¿qué se hizo y cuándo? |
+| 20–60 min | Diagnóstico de causas, escalamiento y diseño de un plan. |
+| 60–105 min | Ejemplo trabajado: un plan de mejora de 60 días. |
+| 105–140 min | Caso ejecutivo: un colaborador que «no da el ancho». |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **performance gap** | diferencia entre estándar acordado y desempeño observado | Distingue un hecho compatible y otro que lo refute. |
-| **PIP** | plan formal de mejora con expectativas y horizonte definidos | Distingue un hecho compatible y otro que lo refute. |
-| **support** | recursos, coaching o entrenamiento razonablemente ofrecidos | Distingue un hecho compatible y otro que lo refute. |
-| **milestone** | evidencia intermedia de progreso | Distingue un hecho compatible y otro que lo refute. |
-| **documentation** | registro factual de expectativas, feedback y resultados | Distingue un hecho compatible y otro que lo refute. |
+| **Brecha de desempeño** | Diferencia entre el desempeño observado y el esperado, con hechos. | Se puede describir con ejemplos y fechas. |
+| **Diagnóstico de causas** | Examen de si la brecha se debe a falta de claridad, de capacidad, de recursos o de motivación. | Se descartan causas del sistema antes de atribuir a la persona. |
+| **Plan de mejora** | Acuerdo escrito, con plazo, apoyo y metas, para cerrar una brecha. | Es específico, apoyado y revisado. |
+| **Feedback de tarea** | Información centrada en lo que se hizo y su efecto (Kluger y DeNisi, 1996). | Es concreto y accionable. |
+| **Coaching** | Conversación para que la persona descubra cómo mejorar (Whitmore, 1992). | Se hacen preguntas y se acuerda una acción. |
+| **Disparador de verdad, relación o identidad** | Reacciones que dificultan recibir feedback (Stone y Heen, 2014). | La persona discute el dato, al jefe o se siente atacada. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 067: 1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida](modelo-mental.svg)
+![Un plan de mejora que puede funcionar: hechos y expectativas, apoyo y recursos, plazos y medidas, revisiones y decisión.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un plan de mejora de desempeño convierte una brecha persistente en expectativas, apoyo, plazo y evidencia. Antes de formalizarlo, se distingue capacidad, claridad, recursos y conducta. El objetivo es permitir mejora real y, si no ocurre, sostener una decisión responsable y documentada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos.**
+**Cómo leer el diagrama.** Cinco pasos con un orden deliberado. Antes de fijar plazos y medidas, hay que **establecer los hechos y las expectativas** y **ofrecer apoyo real**. Las revisiones son conversaciones de ayuda, no vigilancia. La decisión final llega al cierre. Un plan donde la decisión ya estaba tomada es un trámite y debe evitarse.
 
 ## 📖 Desarrollo
 
-### 1. performance gap: mecanismo central
+### 1. Primero, el diagnóstico
 
-**performance gap** se entiende aquí como **diferencia entre estándar acordado y desempeño observado**. Esta es la pieza causal o estructural desde la que se inicia **feedback, coaching y planes de mejora**: antes de documentar ejemplos y estándar, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Ante un desempeño insuficiente, la pregunta inicial es **por qué**. Cuatro causas frecuentes: **claridad** (la persona no sabe qué se espera), **capacidad** (no sabe o no puede hacerlo), **recursos** (le faltan herramientas, tiempo o apoyo) y **motivación** (sabe y puede, pero no quiere o no encuentra sentido). Cada una pide una respuesta distinta: aclarar, formar, dar medios, o conversar sobre motivación y encaje. Muchos desempeños insuficientes son fallas del sistema; atribuirlos a la persona sin descartarlas es injusto.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **milestones logrados**; regístrala con periodo, unidad, población y baseline.
+### 2. Escalar de manera proporcional
 
-Relaciona el mecanismo con **PIP**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una secuencia proporcional: **1)** feedback oportuno sobre la tarea; **2)** conversación de coaching para ayudar a que la persona piense soluciones; **3)** si la brecha persiste, una conversación explícita sobre expectativas, hechos y consecuencias posibles; **4)** un plan de mejora formal; **5)** una decisión de gestión. Saltarse etapas es injusto; quedarse en las primeras sin decir que hay un problema serio también lo es. Kluger y DeNisi advierten que el feedback dirigido a la persona tiende a empeorar, así que cada paso debe centrarse en la tarea.
 
-### 2. PIP: frontera conceptual y error de clasificación
+### 3. La conversación de hechos
 
-**Definición operacional:** plan formal de mejora con expectativas y horizonte definidos. Su valor está en distinguirlo de **performance gap** y **support**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cuando el problema es serio, se tiene una conversación **explícita**: los hechos, con ejemplos y fechas; el efecto en el trabajo y en otros; lo que se espera; y la pregunta «¿qué está pasando?». Se escucha, y se evita atribuir intención o hacer inferencias sobre el carácter. Stone y Heen explican por qué es difícil recibir esto: se activan disparadores de verdad, relación e identidad. Se espera una reacción emocional y se permite, sin ceder el contenido (clase 039).
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **PIP** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **reincidencia** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Qué contiene un plan de mejora
 
-Antes de conversar brecha y escuchar contexto, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un plan honesto contiene: **hechos y brecha** descritos con ejemplos; **expectativas** concretas y medibles; **apoyo y recursos** reales (formación, coaching, herramientas, tiempo, un mentor); **metas intermedias** con **fechas**; **cómo se medirá** el avance; **revisiones** regulares (semanales o quincenales); y **qué ocurre** al final del plazo, de manera transparente. Se redacta con la persona, que lo firma como constancia de haberlo recibido y entendido, no necesariamente de estar de acuerdo.
 
-### 3. support: operacionalización y medición
+### 5. El plan como oportunidad
 
-**support** significa **recursos, coaching o entrenamiento razonablemente ofrecidos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El plan debe ser una oportunidad genuina: el jefe quiere que la persona mejore y aporta lo necesario. Si la decisión de desvincular ya fue tomada, es más honesto no iniciar un plan que sea una pantalla. Las señales de un plan genuino: apoyo concreto del jefe, metas alcanzables, revisiones con feedback y disposición a reconocer el avance. Las personas perciben rápidamente si es sincero, y el equipo también.
 
-Michael D. Watkins — *The First 90 Days* orienta este bloque mediante **perspectiva de Transiciones aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **support utilizado**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Durante el plan
 
-Al llegar a acordar acciones y apoyo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Durante el plazo, el jefe da **feedback frecuente y específico**, registra el avance con hechos, ajusta el apoyo si hace falta y reconoce lo logrado. Si surgen factores nuevos —problemas de salud, una situación personal grave, un cambio en el trabajo—, se reevalúa. Algunas de estas situaciones están protegidas por la normativa y requieren asesoría antes de seguir. Y se cuida la confidencialidad: el plan no se comenta con terceros que no necesitan saberlo.
 
-### 4. milestone: trade-offs y efectos de segundo orden
+### 7. El cierre
 
-**Definición:** evidencia intermedia de progreso. Este concepto obliga a abandonar la idea de que **feedback, coaching y planes de mejora** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir milestones y revisión, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Robert I. Sutton — *Good Boss, Bad Boss* aporta una lente sobre **conductas concretas de buenos jefes y reducción de daño organizacional**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **calidad de documentación** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **feedback, coaching y planes de mejora**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **milestone** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. documentation: gobernanza, límites e integración
-
-**documentation** se define como **registro factual de expectativas, feedback y resultados** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John Boudreau & Peter Ramstad — *Beyond HR* se utiliza para estudiar **perspectiva de Talento aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar cerrar con mejora, extensión justificada o proceso de salida, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **performance gap**, **PIP**, **support**, **milestone** y **documentation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **feedback, coaching y planes de mejora** no consiste en sumar cinco definiciones. Empieza por **performance gap**, contrasta **PIP** con **support**, incorpora **milestone** como restricción o mecanismo y usa **documentation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Al final del plazo, se compara el desempeño con las metas. Hay tres resultados posibles: la persona **alcanzó** lo esperado (se cierra el plan y se reconoce); logró un **avance parcial** (se evalúa extender o ajustar, con razón); **no alcanzó** (se toma una decisión de gestión: reasignación a un cargo más adecuado, otra medida o, como último recurso, la desvinculación, con proceso y evidencia, verificando con asesoría las normas aplicables). La decisión debe poder explicarse con hechos documentados.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **feedback, coaching y planes de mejora** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **feedback, coaching y planes de mejora** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **feedback, coaching y planes de mejora** ayuda a desafiar? |
-| Robert I. Sutton — *Good Boss, Bad Boss* | conductas concretas de buenos jefes y reducción de daño organizacional | ¿Qué supuesto de **feedback, coaching y planes de mejora** ayuda a desafiar? |
-| John Boudreau & Peter Ramstad — *Beyond HR* | perspectiva de Talento aplicada al problema de la clase | ¿Qué supuesto de **feedback, coaching y planes de mejora** ayuda a desafiar? |
-
-En **feedback, coaching y planes de mejora**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **performance gap**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kluger y DeNisi (1996) | Foco del feedback y efectos variables. | No diseña planes. | ¿Tu feedback apunta a la tarea? |
+| Stone y Heen (2014) | Cómo se recibe el feedback. | No describe el proceso de gestión. | ¿Qué disparador se activa en la persona? |
+| Whitmore (1992) | Estructura de la conversación de coaching. | No cubre decisiones de gestión. | ¿Qué opciones generó la persona? |
+| Locke y Latham (2002) | Metas específicas y retroalimentación. | No trata de aspectos legales. | ¿Son alcanzables las metas del plan? |
+| Edmondson (2018) | Seguridad psicológica para reconocer una dificultad. | No trata de planes formales. | ¿Puede la persona decir que necesita ayuda? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un vendedor lleva tres trimestres bajo cuota. Su pipeline también es bajo, pero el territory cambió y no existen métricas de actividad comparables con pares.
+**Situación (hipotética).** Daniela, ejecutiva de cuentas, lleva tres trimestres bajo la meta. Su jefe, Mario, detectó que tarda en responder a los clientes y que no registra las visitas.
 
-**Paso 1 — documentar ejemplos y estándar.** La gerencia escribe primero el supuesto asociado a **performance gap** y evita convertirlo en hecho. Luego busca **milestones logrados** para contrastarlo en el caso de **feedback, coaching y planes de mejora**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Qué hace Mario |
+|---|---|
+| **Diagnóstico** | Revisa datos; conversa con ella. Descubre que su cartera creció 40 % sin ajuste de carga y que no recibió formación en el CRM nuevo. Causa: recursos y capacidad, más que motivación. |
+| **Feedback y coaching** | Conversan con GROW: Daniela propone priorizar a sus diez clientes principales y pide capacitación. |
+| **Brecha persiste** | Tras seis semanas, mejora la respuesta pero no las ventas. Mario tiene una conversación explícita con hechos y la posibilidad de un plan formal. |
+| **Plan de 60 días** | Hechos: tres trimestres bajo la meta; respuesta promedio 48 h. Expectativas: respuesta en 24 h, visitas registradas semanalmente, cierre de cuatro oportunidades. Apoyo: formación en el CRM, un mentor, reducción temporal de cartera en 20 %. Revisiones: quincenales. |
+| **Resultado a los 60 días** | Respuesta promedio 18 h; registro completo; dos oportunidades cerradas. Avance parcial. |
+| **Decisión** | Extiende 30 días con metas ajustadas y documenta la razón. |
 
-**Paso 2 — conversar brecha y escuchar contexto.** La gerencia escribe primero el supuesto asociado a **PIP** y evita convertirlo en hecho. Luego busca **reincidencia** para contrastarlo en el caso de **feedback, coaching y planes de mejora**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 3 — acordar acciones y apoyo.** La gerencia escribe primero el supuesto asociado a **support** y evita convertirlo en hecho. Luego busca **support utilizado** para contrastarlo en el caso de **feedback, coaching y planes de mejora**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — definir milestones y revisión.** La gerencia escribe primero el supuesto asociado a **milestone** y evita convertirlo en hecho. Luego busca **calidad de documentación** para contrastarlo en el caso de **feedback, coaching y planes de mejora**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — cerrar con mejora, extensión justificada o proceso de salida.** La gerencia escribe primero el supuesto asociado a **documentation** y evita convertirlo en hecho. Luego busca **tiempo de resolución** para contrastarlo en el caso de **feedback, coaching y planes de mejora**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **feedback, coaching y planes de mejora**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se diagnosticó antes de atribuir. (2) El plan tuvo apoyo real y plazos. (3) La decisión de extender se justificó con hechos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **performance gap** | diferencia entre estándar acordado y desempeño observado | Cuando milestones logrados es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **PIP** | plan formal de mejora con expectativas y horizonte definidos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Plan de mejora frente a advertencia.** El plan busca que la persona mejore con ayuda; la advertencia disciplinaria es una medida formal por una falta, con reglas propias. No se confunden.
 
-**Frontera de aplicación:** Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos.
+**Límites.** No todo desempeño insuficiente es mejorable con un plan, y a veces la causa es un desajuste entre persona y cargo que se resuelve con un cambio. Los planes mal usados se vuelven una vía lenta a la desvinculación. Las normas laborales sobre evaluación, advertencias, protección de ciertas situaciones y término de la relación de trabajo son específicas de cada jurisdicción y deben verificarse con asesoría antes de actuar. Y esta clase no sustituye atención profesional en situaciones de salud.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre feedback, coaching y planes de mejora |
+| Nivel | Cómo trabaja la mejora |
 |---|---|
-| **Profesional** | usa **feedback, coaching y planes de mejora** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **performance gap** y **PIP** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta milestones logrados con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si feedback, coaching y planes de mejora cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de feedback, coaching y planes de mejora reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **feedback, coaching y planes de mejora** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pide feedback temprano y propone cómo mejorar. |
+| **Jefe / Team Lead** | Diagnostica, escala de forma proporcional y acompaña. |
+| **Gerente** | Revisa que los planes sean genuinos y con proceso. |
+| **CEO / Director** | Protege a la organización de decisiones arbitrarias y a las personas de planes de fachada. |
+| **Founder / Owner** | Aborda temprano lo que antes toleraba por afecto o por falta de tiempo. |
 
 ## 🏢 Caso ejecutivo
 
-Un vendedor lleva tres trimestres bajo cuota. Su pipeline también es bajo, pero el territory cambió y no existen métricas de actividad comparables con pares.
+Un gerente tiene en su equipo a un analista senior cuyo trabajo ha decaído hace un año: entregas tardías, errores y poca participación. Nadie le ha dicho nada formal. El gerente piensa iniciar un plan de mejora «para dejar constancia» y luego desvincularlo. La directora de personas le advierte que el analista tuvo una licencia médica larga hace seis meses y que el historial no tiene evaluaciones recientes. El analista, al enterarse de rumores, dice que «lo quieren sacar».
 
-Entrega un **decision brief de feedback, coaching y planes de mejora** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de mejora o de decisión** que contenga: (a) el diagnóstico de causas con evidencia; (b) lo que se hizo y no se hizo hasta ahora; (c) la conversación inicial con hechos y escucha; (d) el diseño del plan —o por qué no corresponde aún—; (e) las salvaguardas legales y de salud a consultar; (f) la decisión posible y cómo la justificarías.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **feedback, coaching y planes de mejora** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta milestones logrados, reincidencia; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Toma un caso de bajo desempeño y clasifica la causa: claridad, capacidad, recursos o motivación.
+2. Redacta tres hechos con fechas sin adjetivos.
+3. Escribe las metas intermedias y las fechas de un plan de 60 días.
+4. Define el apoyo concreto que ofrecerías y su costo.
+5. Escribe qué señales te harían concluir que el plan es genuino o una pantalla.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar performance gap y PIP como sinónimos | Se pierde la distinción entre “diferencia entre estándar acordado y desempeño observado” y “plan formal de mejora con expectativas y horizonte definidos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar con mejora, extensión justificada o proceso de salida” | Se saltó “documentar ejemplos y estándar” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida y marca el primer supuesto no demostrado. |
-| Optimizar solo milestones logrados | La métrica local sustituyó al resultado del sistema | Contrástala con reincidencia y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre feedback, coaching y planes de mejora | Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos. |
-| No fijar revisión | Una decisión sobre feedback, coaching y planes de mejora se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Evitar la conversación | Incomoda | Feedback temprano y explícito. |
+| Atribuir a la persona | Es la explicación fácil | Diagnosticar causas del sistema primero. |
+| Plan de fachada | Se quiere dejar constancia | Decidir con honestidad si hay una oportunidad real. |
+| Plan sin apoyo | Se exige sin dar medios | Formación, coaching y tiempo. |
+| Sorprender al final | No hubo revisiones | Revisiones regulares con feedback. |
+| Ignorar normas | Se actúa por urgencia | Verificar con asesoría antes de decidir. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **performance gap** y **PIP** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **support** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **documentar ejemplos y estándar → conversar brecha y escuchar contexto** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **milestones logrados** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **feedback, coaching y planes de mejora**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos.**?
+1. ¿Cuáles son las cuatro causas posibles de un desempeño insuficiente?
+2. ¿Cómo escala una respuesta proporcional?
+3. ¿Qué contiene un plan de mejora?
+4. ¿Qué diferencia hay entre un plan genuino y uno de fachada?
+5. ¿Qué resultados posibles tiene el cierre de un plan?
+6. ¿Por qué el feedback debe centrarse en la tarea?
+7. ¿Qué verificaciones se hacen antes de decidir una desvinculación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Claridad, capacidad, recursos o motivación.
+2. Feedback de tarea, coaching, conversación explícita, plan de mejora y decisión de gestión.
+3. Hechos y brecha, expectativas, apoyo y recursos, metas con fechas, medición, revisiones y qué ocurre al final.
+4. El genuino tiene apoyo real y resultado abierto; el de fachada tiene la decisión ya tomada.
+5. Alcanzó lo esperado, avance parcial o no alcanzó, con la decisión correspondiente.
+6. Porque el feedback dirigido a la persona tiende a debilitar el desempeño.
+7. La norma laboral aplicable, las protecciones de ciertas situaciones, el proceso seguido y la documentación, con asesoría.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/067-feedback-coaching-y-planes-de-mejora/`:
 
-- `people-decision-brief.md` con el problema específico de **feedback, coaching y planes de mejora**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **feedback, coaching y planes de mejora** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **performance gap**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un vendedor lleva tres trimestres bajo cuota. Su pipeline también es bajo, pero el territory cambió y no existen métricas de actividad comparables con pares.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el diagnóstico y el plan del caso ejecutivo;
+- `termination-risk-checklist.md` (plantilla [Checklist de riesgo en término de contrato](../../../../templates/termination-risk-checklist.md)) con las verificaciones previas;
+- `decision-journal.md` con las conversaciones, los hechos y el resultado.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- John Boudreau & Peter Ramstad — *Beyond HR* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Talento aplicada al problema de la clase. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9781422104156](https://openlibrary.org/isbn/9781422104156).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **feedback, coaching y planes de mejora** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **feedback, coaching y planes de mejora** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **feedback, coaching y planes de mejora** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **feedback, coaching y planes de mejora** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Avraham N. Kluger & Angelo DeNisi — *The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory* (Psychological Bulletin, 1996). **Uso en esta clase:** foco del feedback y efectos variables. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [DOI 10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254).
+- Douglas Stone & Sheila Heen — *Thanks for the Feedback* (Viking, 2014). **Uso en esta clase:** cómo se recibe el feedback y los tres disparadores. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668).
+- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** estructura de la conversación de coaching. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
+- Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey* (American Psychologist, 2002). **Uso en esta clase:** metas específicas y retroalimentación. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [DOI 10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para reconocer una dificultad. Lectura selectiva sobre **feedback, coaching y planes de mejora**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Feedback, coaching y planes de mejora:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **feedback, coaching y planes de mejora** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Feedback, coaching y planes de mejora:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las normas laborales sobre evaluación, advertencias y término de la relación de trabajo, y las que protegen ciertas situaciones de salud. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **workforce planning** de **headcount** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **capacity gap** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **time-to-productivity** con **build-buy-borrow**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué pasos tiene la planificación de dotación?
+2. ¿Por qué se usan escenarios?
+3. ¿Qué diferencia hay entre una brecha de cantidad y una de capacidades?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una startup proyecta duplicar ventas y pide contratar 40 personas de inmediato. La demanda tiene alta incertidumbre y varios roles tardan seis meses en ser productivos.
+**Caso:** Una empresa de servicios congeló las contrataciones por tres meses por «presión de costos». El área de operaciones perdió a dos personas y tiene 25 % más de trabajo por un contrato nuevo. Los plazos se incumplen, las horas extra suben y dos buenas personas amenazan con irse. El director financiero insiste en mantener la congelación; la gerente de operaciones pide cuatro contrataciones.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **proyectar demanda por escenario → inventariar capacidad y skills → calcular brechas y timing → comparar build-buy-borrow-automate → aprobar hiring plan con triggers**. Debes utilizar o diseñar cómo obtener **capacidad requerida, time-to-hire, time-to-productivity**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de dotación** que contenga: (a) la demanda de trabajo con escenarios; (b) la oferta proyectada con rotación; (c) la brecha en cantidad y capacidades; (d) las opciones comparadas con costo, plazo y riesgo; (e) la propuesta al director financiero con el costo de no actuar; (f) los disparadores de revisión. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las proyecciones de demanda a más de un año son inciertas, y los ratios históricos arrastran ineficiencias.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -1,72 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g65 d-g65" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g65">Ficha visual de la clase 065: Onboarding y primeros 90 días</title>
-<desc id="d-g65">Conceptos: onboarding; time-to-productivity; role clarity; network building; quick win. Método: preparar accesos y contexto antes del ingreso → acordar 30-60-90 outcomes → construir mapa de stakeholders → combinar aprendizaje con entregas pequeñas → revisar ajuste y soporte cada etapa.</desc>
-<defs><marker id="p-g65" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 065 · Onboarding y primeros 90 días</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >onboarding</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso de integración hasta alcanzar contribución y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >pertenencia razonables</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >time-to-productivity</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo para alcanzar desempeño esperado</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >role clarity</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >comprensión de outcomes, autoridad y prioridades</text>
-<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >network building</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desarrollo de relaciones necesarias para ejecutar</text>
-<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >quick win</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado temprano que produce aprendizaje y</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >credibilidad sin riesgo excesivo</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >preparar accesos y contexto antes</text>
-<text x="504" y="373.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >del ingreso</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acordar 30-60-90 outcomes</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >construir mapa de stakeholders</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >combinar aprendizaje con entregas</text>
-<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pequeñas</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisar ajuste y soporte cada etapa</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-productivity</text>
-<rect x="202" y="456.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="215" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="226" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >accesos listos día uno</text>
-<rect x="389.8" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="402.8" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="413.8" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claridad de rol</text>
-<rect x="529.3" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="542.3" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="553.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retención 90 días</text>
-<rect x="682.6" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="695.6" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="706.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >objetivos 30-60-90</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >incorporación, el plan se renegocia explícitamente.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 402.06" width="1040" role="img" aria-labelledby="t-s65 d-s65" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s65">Clase 065 · Qué ayuda a una persona nueva a ajustarse</title>
+<desc id="d-s65">Tres resultados de ajuste del recién llegado según el metaanálisis de Bauer et al. y lo que el jefe puede hacer en los primeros noventa días.</desc>
+<defs><marker id="p-s65" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="402.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 065 · Qué ayuda a una persona nueva a ajustarse</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Bauer et al. (2007) · Watkins (2003)</text>
+<rect x="28" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Claridad del rol</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Resultados esperados por escrito.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Quién decide qué.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Qué significa hacerlo bien en 30, 60</text>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >y 90 días.</text>
+<rect x="362.667" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Autoeficacia</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#1a7f37"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Tareas con éxito posible al inicio.</text>
+<circle cx="384.6666666666667" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="398.667" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Feedback pronto y específico.</text>
+<circle cx="384.6666666666667" cy="208.5" r="4" fill="#1a7f37"/>
+<text x="398.667" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Formación en lo que falta.</text>
+<rect x="697.333" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Aceptación social</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Presentación a quienes necesitará.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un acompañante asignado.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Contacto regular del jefe.</text>
+<rect x="28" y="275" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Bauer y colegas hallaron que la claridad del rol, la autoeficacia y la aceptación social se asocian con mejor ajuste y desempeño.</text>
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Watkins propone un plan de aprendizaje y ganancias tempranas para los primeros noventa días.</text>
+<text x="28" y="361.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los resultados provienen de estudios con calidad variable; el peso de cada factor depende de la persona y de la organización.</text>
 </svg>

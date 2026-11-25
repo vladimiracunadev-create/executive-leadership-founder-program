@@ -5,222 +5,192 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Gestionar desempeño es un ciclo de expectativas, observación, feedback, desarrollo y consecuencias. La evaluación anual es solo una síntesis; esperar doce meses para señalar un problema es una falla de management. La evidencia debe centrarse en outcomes y conductas relacionadas con el rol.
+La evaluación anual de desempeño es uno de los rituales corporativos más criticados: se postergan las conversaciones durante meses, se resumen doce meses en un formulario, se califican personas con escalas que nadie entiende igual y se decide la remuneración sobre la base de impresiones. Y, sin embargo, las organizaciones necesitan **gestionar el desempeño**: acordar qué se espera, ayudar a lograrlo y tomar decisiones justas sobre las personas.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **gestión de desempeño** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la investigación sobre metas de Locke y Latham, sobre retroalimentación de Kluger y DeNisi y en la crítica de las prácticas habituales, y propone un ciclo continuo en lugar de un evento anual. Al terminar sabrás construir un sistema de gestión de desempeño simple, con expectativas claras, conversaciones frecuentes, evidencia registrada y decisiones justificadas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `performance management`, `goal`, `behavior`, `evidence`, `calibration` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** goal attainment, feedback frequency, rating distribution sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** gestión de desempeño de evaluación anual.
+2. **Diseñar** un ciclo con expectativas, conversaciones frecuentes, evidencia, revisión y decisiones.
+3. **Usar** metas específicas y feedback centrado en la tarea.
+4. **Reducir** sesgos de evaluación con criterios, evidencia y calibración.
+5. **Conducir** la conversación de revisión y vincularla a decisiones sobre las personas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define performance management y goal sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con goal attainment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda tu última evaluación; ¿qué te sorprendió y qué sabías ya? |
+| 20–60 min | El ciclo continuo, metas, feedback y sesgos. |
+| 60–105 min | Ejemplo trabajado: rediseñar una evaluación anual. |
+| 105–140 min | Caso ejecutivo: calificaciones que no reflejan el desempeño. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **performance management** | sistema continuo para alinear expectativas y mejorar desempeño | Distingue un hecho compatible y otro que lo refute. |
-| **goal** | resultado esperado con horizonte | Distingue un hecho compatible y otro que lo refute. |
-| **behavior** | forma de actuar relevante para producir resultados y cultura | Distingue un hecho compatible y otro que lo refute. |
-| **evidence** | datos, ejemplos y resultados que sustentan evaluación | Distingue un hecho compatible y otro que lo refute. |
-| **calibration** | discusión entre managers para reducir inconsistencias de criterios | Distingue un hecho compatible y otro que lo refute. |
+| **Gestión de desempeño** | Proceso continuo de acordar expectativas, apoyar, observar, evaluar y decidir sobre el desempeño de las personas. | Hay conversaciones todo el año. |
+| **Evaluación de desempeño** | Juicio formal periódico sobre el desempeño. | Es una parte de la gestión. |
+| **Meta específica y difícil** | Objetivo claro y exigente (Locke y Latham, 2002). | Mejora el desempeño con compromiso y feedback. |
+| **Feedback de tarea** | Información sobre el desempeño en la tarea, más útil que la dirigida a la persona (Kluger y DeNisi, 1996). | Es específico y oportuno. |
+| **Sesgo de evaluación** | Error sistemático por factores ajenos al desempeño: afinidad, halo, recencia. | Las calificaciones favorecen a quien se parece al jefe. |
+| **Calibración** | Revisión conjunta de evaluaciones para homogeneizar criterios. | Los jefes comparan evidencia y criterios. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 066: 1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos](modelo-mental.svg)
+![Un ciclo de gestión del desempeño que se usa todo el año: expectativas, conversaciones frecuentes, evidencia, revisión y decisiones, con retorno al inicio.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gestionar desempeño es un ciclo de expectativas, observación, feedback, desarrollo y consecuencias. La evaluación anual es solo una síntesis; esperar doce meses para señalar un problema es una falla de management. La evidencia debe centrarse en outcomes y conductas relacionadas con el rol.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar.**
+**Cómo leer el diagrama.** Cinco pasos que se repiten. Lo importante está al inicio y en el medio: **expectativas claras** y **conversaciones frecuentes**. La revisión y las decisiones son consecuencia de lo anterior: si las expectativas fueron claras y el feedback frecuente, la revisión no sorprende. Un ciclo que solo existe en el paso cuatro es una evaluación anual.
 
 ## 📖 Desarrollo
 
-### 1. performance management: mecanismo central
+### 1. Por qué fallan las evaluaciones
 
-**performance management** se entiende aquí como **sistema continuo para alinear expectativas y mejorar desempeño**. Esta es la pieza causal o estructural desde la que se inicia **gestión de desempeño**: antes de definir outcomes y conductas al inicio, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una evaluación anual aislada tiene problemas conocidos: se basa en la memoria reciente (sesgo de recencia), mezcla propósitos incompatibles (desarrollo, remuneración y despido), y llega tarde para cambiar el desempeño. Kluger y DeNisi muestran que el feedback ayuda cuando se centra en la tarea y empeora cuando apunta a la persona; una calificación con una etiqueta tiende a hacer lo segundo. Y la tendencia a calificar bien a quien nos cae bien es una constante.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **goal attainment**; regístrala con periodo, unidad, población y baseline.
+### 2. Expectativas claras
 
-Relaciona el mecanismo con **goal**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El ciclo comienza al acordar **qué se espera**: resultados (qué se logrará), conductas (cómo) y desarrollo (qué se aprenderá). Locke y Latham muestran que las metas específicas y exigentes, con compromiso y feedback, mejoran el desempeño. Se escriben, se conversan y se revisan cuando cambian las prioridades. Un cargo bien definido (clase 061) facilita este paso.
 
-### 2. goal: frontera conceptual y error de clasificación
+### 3. Conversaciones frecuentes
 
-**Definición operacional:** resultado esperado con horizonte. Su valor está en distinguirlo de **performance management** y **behavior**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Entre los acuerdos y la revisión, las conversaciones regulares —uno a uno semanal o quincenal (clase 055)— sustituyen la sorpresa: se da feedback sobre la tarea (clase 030), se ajustan metas y se resuelven obstáculos. La literatura de gestión sugiere que las conversaciones frecuentes, cortas y orientadas al futuro son más eficaces que la evaluación retrospectiva. Cada conversación deja una nota breve de los hechos y acuerdos.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **goal** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **feedback frequency** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evidencia
 
-Antes de observar y guardar ejemplos durante el periodo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Para evaluar con justicia se necesita **evidencia registrada durante el año**: resultados cuantitativos, ejemplos de conducta, feedback de clientes o pares, logros y dificultades. Un registro sencillo, mensual, evita depender de la memoria y de la última semana. La evidencia distingue entre lo que la persona logró y lo que se esperaba, y entre su contribución y factores del contexto.
 
-### 3. behavior: operacionalización y medición
+### 5. La revisión
 
-**behavior** significa **forma de actuar relevante para producir resultados y cultura**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una revisión útil es una **conversación** y no la lectura de un formulario: se revisan expectativas, evidencia y logros; se escucha la autoevaluación; se reconoce lo logrado; se conversa sobre brechas; y se acuerda lo que viene. El jefe llega con ejemplos concretos. Si hubo conversaciones frecuentes, no hay sorpresas. Se evita atribuir carácter («falta de iniciativa») y se describe conducta y efecto.
 
-John Whitmore — *Coaching for Performance* orienta este bloque mediante **perspectiva de Coaching aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **rating distribution**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Sesgos y calibración
 
-Al llegar a dar feedback cercano, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los jefes tienden a evaluar con distinta severidad: unos califican alto a todos, otros bajo. Y están sujetos a sesgos de afinidad, halo, recencia y confirmación. Medidas: criterios y evidencia previos, evaluación en varias fuentes cuando corresponde, y **calibración**: los jefes se reúnen a comparar evidencia y criterios para homogeneizar. La calibración no debe forzar distribuciones artificiales; busca consistencia. Y se revisan los resultados por grupos para detectar sesgos sistemáticos.
 
-### 4. evidence: trade-offs y efectos de segundo orden
+### 7. De la revisión a las decisiones
 
-**Definición:** datos, ejemplos y resultados que sustentan evaluación. Este concepto obliga a abandonar la idea de que **gestión de desempeño** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de hacer check-ins y ajustar metas, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Marcus Buckingham & Curt Coffman — *First, Break All the Rules* aporta una lente sobre **rol del manager, fortalezas, expectativas y desempeño individual**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **appeals** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **gestión de desempeño**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **evidence** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. calibration: gobernanza, límites e integración
-
-**calibration** se define como **discusión entre managers para reducir inconsistencias de criterios** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Dave Ulrich — *Human Resource Champions* se utiliza para estudiar **perspectiva de RR.HH. aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar calibrar y cerrar evaluación con próximos pasos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **performance management**, **goal**, **behavior**, **evidence** y **calibration** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **gestión de desempeño** no consiste en sumar cinco definiciones. Empieza por **performance management**, contrasta **goal** con **behavior**, incorpora **evidence** como restricción o mecanismo y usa **calibration** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La revisión alimenta decisiones distintas: **desarrollo** (qué aprenderá), **compensación y promoción** (clase 068), **plan de mejora** (clase 067) y, en último término, **desvinculación** (clase 071). Conviene separar en el tiempo la conversación de desarrollo de la de remuneración, porque mezclarlas inhibe la franqueza. Las decisiones deben justificarse con evidencia y respetar la normativa aplicable, que se verifica con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **gestión de desempeño** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **gestión de desempeño** ayuda a desafiar? |
-| John Whitmore — *Coaching for Performance* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **gestión de desempeño** ayuda a desafiar? |
-| Marcus Buckingham & Curt Coffman — *First, Break All the Rules* | rol del manager, fortalezas, expectativas y desempeño individual | ¿Qué supuesto de **gestión de desempeño** ayuda a desafiar? |
-| Dave Ulrich — *Human Resource Champions* | perspectiva de RR.HH. aplicada al problema de la clase | ¿Qué supuesto de **gestión de desempeño** ayuda a desafiar? |
-
-En **gestión de desempeño**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **performance management**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Locke y Latham (2002) | Metas específicas y difíciles con compromiso y feedback. | No diseña el sistema completo. | ¿Tus metas son específicas y exigentes? |
+| Kluger y DeNisi (1996) | El efecto variable del feedback según su foco. | Es una revisión de estudios, no una guía de evaluación. | ¿Tu evaluación apunta a la tarea o a la persona? |
+| Grove (1983) | La evaluación como responsabilidad del jefe y su vínculo con la gestión. | Escrita en otro contexto. | ¿Cuánto del año se refleja en tu evaluación? |
+| Kahneman, Sibony y Sunstein (2021) | Ruido y sesgos en el juicio de desempeño. | No es un manual de gestión de desempeño. | ¿Cuánto varían tus jefes en la severidad? |
+| Bock (2015) | Calibración y evaluación en una empresa de tecnología. | Relato de una empresa. | ¿Qué parte aplica a tu realidad? |
+| Sutton (2010) | Qué conductas del jefe dañan o elevan el desempeño de otros. | Es divulgación con casos seleccionados. | ¿Qué efecto tiene tu forma de evaluar en el equipo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una analista recibe 'cumple parcialmente' en diciembre por comportamientos que su manager observó desde marzo pero nunca conversó de forma explícita.
+**Situación (hipotética).** Una empresa de 150 personas usa una evaluación anual con una escala de 1 a 5. El 70 % de las personas obtiene 4; los jefes dicen que «no vale la pena discutir». Nadie ve relación entre la calificación y la remuneración.
 
-**Paso 1 — definir outcomes y conductas al inicio.** La gerencia escribe primero el supuesto asociado a **performance management** y evita convertirlo en hecho. Luego busca **goal attainment** para contrastarlo en el caso de **gestión de desempeño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Antes | Después |
+|---|---|---|
+| **Expectativas** | Formulario de objetivos en enero, olvidado. | Tres resultados y dos conductas acordadas por escrito, revisadas trimestralmente. |
+| **Conversaciones** | Una al año. | Uno a uno mensual con una nota breve de hechos y acuerdos. |
+| **Evidencia** | Memoria del jefe. | Registro mensual de resultados y ejemplos. |
+| **Revisión** | Formulario y calificación. | Conversación semestral con ejemplos, autoevaluación y plan. |
+| **Calibración** | No hay. | Reunión de jefes con evidencia; revisión de distribución por área. |
+| **Decisiones** | Remuneración y desarrollo juntos. | Conversación de desarrollo en abril; decisión de remuneración en noviembre. |
 
-**Paso 2 — observar y guardar ejemplos durante el periodo.** La gerencia escribe primero el supuesto asociado a **goal** y evita convertirlo en hecho. Luego busca **feedback frequency** para contrastarlo en el caso de **gestión de desempeño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** La proporción de personas con calificación máxima baja de 70 % a 35 %; en una encuesta, el 68 % dice que «sabe lo que se espera de mí», frente al 41 % anterior.
 
-**Paso 3 — dar feedback cercano.** La gerencia escribe primero el supuesto asociado a **behavior** y evita convertirlo en hecho. Luego busca **rating distribution** para contrastarlo en el caso de **gestión de desempeño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — hacer check-ins y ajustar metas.** La gerencia escribe primero el supuesto asociado a **evidence** y evita convertirlo en hecho. Luego busca **appeals** para contrastarlo en el caso de **gestión de desempeño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — calibrar y cerrar evaluación con próximos pasos.** La gerencia escribe primero el supuesto asociado a **calibration** y evita convertirlo en hecho. Luego busca **performance improvement** para contrastarlo en el caso de **gestión de desempeño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **gestión de desempeño**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se cambió el ciclo, no solo el formulario. (2) La evidencia reemplazó a la memoria. (3) Se separaron desarrollo y remuneración.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **performance management** | sistema continuo para alinear expectativas y mejorar desempeño | Cuando goal attainment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **goal** | resultado esperado con horizonte | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Gestión frente a evaluación.** La evaluación es un momento; la gestión es un ciclo. Puede haber evaluación sin gestión, pero no al revés.
 
-**Frontera de aplicación:** Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar.
+**Límites.** La investigación sobre sistemas de gestión del desempeño es heterogénea y sus conclusiones dependen del contexto. Los ciclos frecuentes aumentan la carga sobre los jefes si no se simplifican. La calibración puede convertirse en un ritual que ajusta personas a una distribución. Y las decisiones sobre las personas —promoción, remuneración, desvinculación— están sujetas a normas y a acuerdos colectivos que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre gestión de desempeño |
+| Nivel | Cómo trabaja el desempeño |
 |---|---|
-| **Profesional** | usa **gestión de desempeño** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **performance management** y **goal** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta goal attainment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si gestión de desempeño cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de gestión de desempeño reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **gestión de desempeño** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Acuerda expectativas, pide feedback y lleva su propia evidencia. |
+| **Jefe / Team Lead** | Conversa con frecuencia, registra y evalúa con ejemplos. |
+| **Gerente** | Calibra con otros jefes y cuida la consistencia entre equipos. |
+| **CEO / Director** | Diseña el sistema, cuida que premie lo que importa y revisa sus sesgos. |
+| **Founder / Owner** | Construye un sistema simple que no dependa de su memoria. |
 
 ## 🏢 Caso ejecutivo
 
-Una analista recibe 'cumple parcialmente' en diciembre por comportamientos que su manager observó desde marzo pero nunca conversó de forma explícita.
+En una empresa de servicios, las calificaciones de desempeño del último año muestran que el área comercial tiene el 80 % de sus personas en la categoría máxima, mientras operaciones solo el 20 %. Las personas de operaciones se quejan de que «los comerciales tienen mejores jefes, no mejor desempeño». La dirección quiere reemplazar la escala por una «curva forzada» que obligue a distribuir. Los jefes comerciales dicen que «sus resultados son realmente mejores».
 
-Entrega un **decision brief de gestión de desempeño** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del sistema de gestión de desempeño** que contenga: (a) el diagnóstico de las diferencias y sus posibles causas; (b) el ciclo completo con expectativas, conversaciones, evidencia, revisión y decisiones; (c) cómo evitarás los sesgos y cómo calibrarás sin forzar una curva; (d) la separación entre desarrollo y remuneración; (e) la capacitación de los jefes; (f) cómo medirás si el sistema mejora el desempeño.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **gestión de desempeño** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta goal attainment, feedback frequency; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta las expectativas de una persona de tu equipo con tres resultados y dos conductas.
+2. Diseña un registro mensual de evidencia de cinco líneas.
+3. Prepara una revisión con tres ejemplos concretos para una persona.
+4. Identifica un sesgo que podrías tener al evaluar y cómo lo comprobarías.
+5. Define cuándo conversarás sobre desarrollo y cuándo sobre remuneración.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar performance management y goal como sinónimos | Se pierde la distinción entre “sistema continuo para alinear expectativas y mejorar desempeño” y “resultado esperado con horizonte” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “calibrar y cerrar evaluación con próximos pasos” | Se saltó “definir outcomes y conductas al inicio” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos y marca el primer supuesto no demostrado. |
-| Optimizar solo goal attainment | La métrica local sustituyó al resultado del sistema | Contrástala con feedback frequency y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre gestión de desempeño | Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar. |
-| No fijar revisión | Una decisión sobre gestión de desempeño se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Evaluar una vez al año | Es la costumbre | Conversaciones frecuentes. |
+| Basarse en la memoria | No se registra | Evidencia mensual. |
+| Calificar la persona | Se usan etiquetas | Describir conducta y efecto. |
+| Mezclar desarrollo y remuneración | Se ahorra tiempo | Separarlos en el tiempo. |
+| Curva forzada | Se quiere diferenciar | Calibración de evidencia sin cuotas artificiales. |
+| Sorprender en la revisión | No hubo feedback | Conversar durante el año. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **performance management** y **goal** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **behavior** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcomes y conductas al inicio → observar y guardar ejemplos durante el periodo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **goal attainment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **gestión de desempeño**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar.**?
+1. ¿Qué diferencia hay entre gestión y evaluación de desempeño?
+2. ¿Cuáles son los cinco pasos del ciclo?
+3. ¿Qué dicen Locke y Latham sobre las metas?
+4. ¿Qué dicen Kluger y DeNisi sobre el foco del feedback?
+5. Nombra tres sesgos de evaluación.
+6. ¿Qué es la calibración y qué riesgo tiene?
+7. ¿Por qué separar desarrollo y remuneración?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La gestión es un ciclo continuo; la evaluación es un juicio periódico dentro de él.
+2. Expectativas, conversaciones frecuentes, evidencia, revisión y decisiones.
+3. Las específicas y difíciles, con compromiso y feedback, mejoran el desempeño.
+4. El centrado en la tarea ayuda; el dirigido a la persona tiende a debilitar.
+5. Afinidad, halo, recencia o confirmación.
+6. Revisión conjunta de evaluaciones para homogeneizar criterios; el riesgo es convertirla en un ajuste a una distribución.
+7. Porque mezclarlas inhibe la franqueza de la conversación de desarrollo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/066-gestion-de-desempeno/`:
 
-- `people-decision-brief.md` con el problema específico de **gestión de desempeño**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **gestión de desempeño** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **performance management**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una analista recibe 'cumple parcialmente' en diciembre por comportamientos que su manager observó desde marzo pero nunca conversó de forma explícita.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el rediseño del caso ejecutivo;
+- `role-scorecard.md` (plantilla [Role scorecard](../../../../templates/role-scorecard.md)) con expectativas y evidencia de una persona;
+- `decision-journal.md` con la calibración y las decisiones.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Dave Ulrich — *Human Resource Champions* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de RR.HH. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780875847191](https://openlibrary.org/isbn/9780875847191).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gestión de desempeño** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gestión de desempeño**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **gestión de desempeño** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **gestión de desempeño** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gestión de desempeño** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey* (American Psychologist, 2002). **Uso en esta clase:** metas específicas y difíciles con compromiso y feedback. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [DOI 10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705).
+- Avraham N. Kluger & Angelo DeNisi — *The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory* (Psychological Bulletin, 1996). **Uso en esta clase:** el efecto variable del feedback según su foco. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [DOI 10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** la evaluación como responsabilidad del jefe. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido y sesgos en el juicio de desempeño. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
+- Laszlo Bock — *Work Rules!* (Twelve, 2015). **Uso en esta clase:** calibración y evaluación en una empresa de tecnología. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9781455554799](https://openlibrary.org/isbn/9781455554799).
+- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas del jefe que dañan o elevan el desempeño. Lectura selectiva sobre **gestión de desempeño**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
 
-> **Regla de fuentes para Gestión de desempeño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gestión de desempeño** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Gestión de desempeño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales sobre evaluación y las que protegen contra la discriminación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,27 +5,28 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir talent system de employee lifecycle mediante evidencia observable."
-  - "Aplicar la secuencia: definir capacidades que exige estrategia → diseñar lifecycle coherente → asignar governance y datos → probar fairness y experiencia → instalar revisión trimestral del sistema."
-  - "Interpretar quality of hire, time-to-productivity, performance distribution sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: construir un sistema de talento con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Mapear el sistema de talento de una organización de la entrada a la salida."
+  - "Diagnosticar su coherencia: qué se declara y qué se hace en cada práctica."
+  - "Priorizar mejoras por impacto, costo y riesgo, empezando por las que condicionan al resto."
+  - "Diseñar un sistema simple y proporcional al tamaño de la organización."
+  - "Medir su efecto con indicadores de personas y de negocio."
 deliverable: "people-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "Robert I. Sutton — *Good Boss, Bad Boss*"
-  - "Kim Scott — *Radical Candor*"
-  - "Michael D. Watkins — *The First 90 Days*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "J. Richard Hackman & Greg R. Oldham — *Motivation through the design of work: test of a theory*"
+  - "Frank L. Schmidt & John E. Hunter — *The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings*"
+  - "Talya N. Bauer, Todd Bodner, Berrin Erdogan, Donald M. Truxillo & Jennifer S. Tucker — *Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods*"
+  - "J. Stacy Adams — *Towards an understanding of inequity*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Dave Ulrich — *Human Resource Champions*"
+  - "John Boudreau & Peter Ramstad — *Beyond HR*"
 limits:
-  - "Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas."
+  - "Los marcos de las clases provienen de investigación de calidad variable y de contextos específicos; su combinación en un sistema es una síntesis de la parte 05, no un modelo validado."
 evidence_signals:
-  - "quality of hire"
-  - "time-to-productivity"
-  - "performance distribution"
-  - "internal mobility"
-  - "regrettable attrition"
+  - "mapa de extremo a extremo"
+  - "coherencia entre lo declarado y lo hecho"
+  - "indicadores de personas"
+  - "dueño y revisión anual del sistema"

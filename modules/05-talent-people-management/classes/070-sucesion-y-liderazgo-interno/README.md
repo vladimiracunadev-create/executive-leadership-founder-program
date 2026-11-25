@@ -5,222 +5,191 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Sucesión reduce riesgo de dependencia y crea continuidad para roles críticos. No es una lista secreta de reemplazos, sino un proceso de identificar posiciones, candidatos, readiness, experiencias de desarrollo y contingencias. Un sucesor potencial no es una promesa de promoción.
+La mayoría de las organizaciones descubre que no tiene sucesor el día en que alguien clave se va. Esa sorpresa es evitable: la sucesión es una decisión que se prepara con años de anticipación y no solo una lista de nombres. Pero la sucesión tiene una trampa: se piensa como un reemplazo del cargo anterior, y se promueve a quien mejor lo hacía sin comprobar que puede hacer el nuevo. Por eso muchas promociones al primer cargo de jefatura fracasan: la persona fue un excelente profesional y es un jefe mediocre.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **sucesión y liderazgo interno** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el modelo de **pasajes de liderazgo** de Charan, Drotter y Noel, que describe seis transiciones y lo que cambia en cada una: las habilidades, el uso del tiempo y los valores. Al terminar sabrás identificar cargos críticos, evaluar a candidatos internos para el pasaje que enfrentarán, diseñar un plan de desarrollo y prepararte para una sucesión de emergencia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `critical role`, `succession slate`, `readiness`, `developmental assignment`, `emergency successor` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** roles sin sucesor, readiness distribution, movilidad interna sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** los seis pasajes de liderazgo y qué cambia en cada uno.
+2. **Identificar** cargos y personas críticas y evaluar el riesgo de vacancia.
+3. **Evaluar** a un candidato para el pasaje que enfrentará, no para el cargo anterior.
+4. **Diseñar** un plan de desarrollo con experiencias que preparen el pasaje.
+5. **Preparar** un plan de sucesión de emergencia y uno planificado.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define critical role y succession slate sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con roles sin sucesor y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿quién te reemplazaría hoy en tu cargo y qué le faltaría? |
+| 20–60 min | Pasajes de liderazgo y mapa de sucesión. |
+| 60–105 min | Ejemplo trabajado: la promoción de un profesional a jefe. |
+| 105–140 min | Caso ejecutivo: el director comercial que se jubila en un año. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **critical role** | rol cuya ausencia causa impacto material y difícil de cubrir | Distingue un hecho compatible y otro que lo refute. |
-| **succession slate** | conjunto de candidatos posibles, no un ganador predeterminado | Distingue un hecho compatible y otro que lo refute. |
-| **readiness** | tiempo y brechas estimadas para asumir el rol | Distingue un hecho compatible y otro que lo refute. |
-| **developmental assignment** | experiencia diseñada para cerrar una brecha | Distingue un hecho compatible y otro que lo refute. |
-| **emergency successor** | persona capaz de sostener continuidad temporal | Distingue un hecho compatible y otro que lo refute. |
+| **Sucesión** | Proceso de preparar personas para ocupar cargos clave cuando queden vacantes. | Hay candidatos identificados y en desarrollo. |
+| **Cargo crítico** | Posición cuya vacancia genera un riesgo material para la organización. | Se prioriza en el plan. |
+| **Pasaje de liderazgo** | Transición a un nivel con nuevas habilidades, uso del tiempo y valores (Charan et al., 2001). | Cambia lo que debe hacerse y lo que debe valorarse. |
+| **Canal de liderazgo (pipeline)** | Secuencia de pasajes por los que avanza un líder en la organización (Charan et al., 2001). | Se puede ver quién está en qué pasaje. |
+| **Sucesión de emergencia** | Plan para reemplazar de inmediato a una persona por salida inesperada. | Hay un interino definido y un plan. |
+| **Preparación (readiness)** | Grado en que un candidato está listo para el siguiente pasaje. | Se evalúa con evidencia, no con antigüedad. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 070: 1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente](modelo-mental.svg)
+![Los pasajes de liderazgo: seis transiciones desde liderarse a sí mismo hasta liderar la empresa, cada una con lo que cambia.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Sucesión reduce riesgo de dependencia y crea continuidad para roles críticos. No es una lista secreta de reemplazos, sino un proceso de identificar posiciones, candidatos, readiness, experiencias de desarrollo y contingencias. Un sucesor potencial no es una promesa de promoción.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria.**
+**Cómo leer el diagrama.** Seis pasajes que ascienden. Cada uno exige **otras habilidades**, **otro uso del tiempo** y **otros valores**. Un error frecuente es evaluar a un candidato por su desempeño en el nivel actual: eso mide qué tan bueno es en lo que ya hace, no qué tan preparado está para lo que viene.
 
 ## 📖 Desarrollo
 
-### 1. critical role: mecanismo central
+### 1. Los seis pasajes
 
-**critical role** se entiende aquí como **rol cuya ausencia causa impacto material y difícil de cubrir**. Esta es la pieza causal o estructural desde la que se inicia **sucesión y liderazgo interno**: antes de identificar roles críticos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Charan, Drotter y Noel describen un canal de liderazgo con seis pasajes: **1)** de liderarse a sí mismo a liderar a otros; **2)** de liderar a otros a liderar jefes; **3)** de jefe de jefes a gerente funcional; **4)** de gerente funcional a gerente de negocio; **5)** de gerente de negocio a gerente de grupo; y **6)** de gerente de grupo a gerente de empresa. En cada uno cambian tres cosas: las **habilidades** requeridas, las **aplicaciones del tiempo** y los **valores de trabajo**. Quien no cambia en las tres dimensiones sigue haciendo el trabajo anterior.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **roles sin sucesor**; regístrala con periodo, unidad, población y baseline.
+### 2. El primer pasaje
 
-Relaciona el mecanismo con **succession slate**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El más frecuente y de mayor fracaso es el primero: de profesional a jefe. El valor ya no está en hacer el trabajo, sino en **lograr que otros lo hagan**; el tiempo se reparte entre planificar, asignar, desarrollar y dar feedback; y los valores pasan de valorar el propio trabajo a valorar el trabajo de otros. Muchos nuevos jefes siguen haciendo el trabajo técnico, no delegan y dejan de lado a su equipo (clases 053 y 054). Prepararlos requiere práctica antes de la promoción.
 
-### 2. succession slate: frontera conceptual y error de clasificación
+### 3. Cargos críticos y riesgo
 
-**Definición operacional:** conjunto de candidatos posibles, no un ganador predeterminado. Su valor está en distinguirlo de **critical role** y **readiness**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un plan de sucesión empieza por identificar los **cargos críticos**: aquellos cuya vacancia produciría un daño material. Para cada uno se evalúan: el **riesgo de salida** (jubilación, oferta externa, desgaste) y el **impacto** de la vacancia. Se identifican **candidatos** internos con su **preparación** (listo ahora, en uno a dos años, en tres a cinco) y las **brechas** a cerrar. También se identifican las personas críticas que no ocupan un cargo de jerarquía, pero tienen conocimiento difícil de reemplazar.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **succession slate** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **readiness distribution** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evaluar la preparación
 
-Antes de definir requisitos futuros del rol, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Evaluar a un candidato para el siguiente pasaje significa preguntar: ¿ha demostrado las **habilidades** del nuevo nivel en pequeña escala?, ¿cómo usa su **tiempo**: se mete en el detalle o delega?, ¿qué **valora**: su propio logro o el del equipo? La evidencia proviene de asignaciones, desempeño anterior y feedback de varias personas. Se evita evaluar por antigüedad, por simpatía o por parecido con quien se va. Las decisiones sobre personas respetan las normas contra la discriminación.
 
-### 3. readiness: operacionalización y medición
+### 5. Desarrollo con experiencias
 
-**readiness** significa **tiempo y brechas estimadas para asumir el rol**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se desarrolla con **experiencias** que ejerciten las habilidades del siguiente pasaje: dirigir un proyecto transversal, un cargo interino, una función nueva, una misión de reestructuración, una responsabilidad de resultados. Se acompañan con **coaching y feedback**, y con **mentoría** de alguien que haya hecho el pasaje. Y se acepta que parte de las personas no desea o no puede dar el pasaje: es legítimo que se queden como profesionales altamente valorados, con carreras especialistas.
 
-Dave Ulrich — *Human Resource Champions* orienta este bloque mediante **perspectiva de RR.HH. aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **movilidad interna**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Sucesión de emergencia
 
-Al llegar a crear slate y evaluar readiness, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Además del plan a futuro, se prevé la salida repentina: enfermedad, renuncia, fallecimiento. Un plan de emergencia define **quién asume interinamente** cada cargo crítico, **qué información** necesita (accesos, relaciones, procesos clave) y **quién decide**. Se mantiene actualizado y se revisa cada año. Contar con documentación de procesos y delegaciones claras reduce la dependencia de personas.
 
-### 4. developmental assignment: trade-offs y efectos de segundo orden
+### 7. Cultura y transparencia
 
-**Definición:** experiencia diseñada para cerrar una brecha. Este concepto obliga a abandonar la idea de que **sucesión y liderazgo interno** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar experiencias reales de desarrollo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Kim Scott — *Radical Candor* aporta una lente sobre **perspectiva de Feedback aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **bus factor** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **sucesión y liderazgo interno**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **developmental assignment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. emergency successor: gobernanza, límites e integración
-
-**emergency successor** se define como **persona capaz de sostener continuidad temporal** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael D. Watkins — *The First 90 Days* se utiliza para estudiar **perspectiva de Transiciones aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar contingencia y cambios semestralmente, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **critical role**, **succession slate**, **readiness**, **developmental assignment** y **emergency successor** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **sucesión y liderazgo interno** no consiste en sumar cinco definiciones. Empieza por **critical role**, contrasta **succession slate** con **readiness**, incorpora **developmental assignment** como restricción o mecanismo y usa **emergency successor** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un plan de sucesión es sensible: no debe prometer cargos, generar rivalidades ni filtrarse de manera descontrolada. Conviene separar la **información confidencial** del plan de la **cultura de desarrollo**, que sí se comunica: todas las personas deben saber que hay oportunidades y criterios. Y el directorio supervisa la sucesión de los cargos más altos (clases 214 y 203). Los candidatos externos también son una opción legítima: la sucesión interna no es un dogma.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **sucesión y liderazgo interno** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **sucesión y liderazgo interno** ayuda a desafiar? |
-| Dave Ulrich — *Human Resource Champions* | perspectiva de RR.HH. aplicada al problema de la clase | ¿Qué supuesto de **sucesión y liderazgo interno** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **sucesión y liderazgo interno** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **sucesión y liderazgo interno** ayuda a desafiar? |
-
-En **sucesión y liderazgo interno**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **critical role**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Charan, Drotter y Noel (2001) | Seis pasajes y sus tres dimensiones de cambio. | Describe empresas grandes y estructuradas. | ¿En qué pasaje está tu candidato? |
+| Watkins (2003) | Transición a un cargo nuevo. | Se centra en quien asume. | ¿Cómo apoyas a quien hace el pasaje? |
+| Drucker (2006) | Decisiones de ubicación de personas. | No trae un modelo de sucesión. | ¿Qué resultados necesita el cargo? |
+| Cappelli (2008) | Hacer o comprar talento, incluida la sucesión. | Se centra en el mercado de Estados Unidos. | ¿Cuándo conviene un candidato externo? |
+| Edmondson (2018) | Cultura para que el desarrollo sea posible. | No trata de sucesión. | ¿Puede un candidato mostrar sus brechas sin riesgo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La directora de operaciones concentra relaciones con proveedores y conocimiento regulatorio. Planea retirarse en 18 meses; nadie ha liderado un cierre completo sin ella.
+**Situación (hipotética).** Una empresa promovió a Andrea, su mejor ejecutiva de ventas, a jefa de un equipo de ocho. A los seis meses, el equipo se queja de que «no la vemos» y de que «nos quita las cuentas importantes». Su desempeño personal sigue alto; el del equipo, bajo.
 
-**Paso 1 — identificar roles críticos.** La gerencia escribe primero el supuesto asociado a **critical role** y evita convertirlo en hecho. Luego busca **roles sin sucesor** para contrastarlo en el caso de **sucesión y liderazgo interno**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Lo que se esperaba en el nuevo pasaje | Lo que ocurre |
+|---|---|---|
+| **Habilidades** | Planificar, asignar, desarrollar, dar feedback. | Hace las ventas ella misma. |
+| **Uso del tiempo** | El 60 % en el equipo. | El 80 % en clientes. |
+| **Valores** | Valorar el éxito de otros. | Valora su propio resultado. |
 
-**Paso 2 — definir requisitos futuros del rol.** La gerencia escribe primero el supuesto asociado a **succession slate** y evita convertirlo en hecho. Luego busca **readiness distribution** para contrastarlo en el caso de **sucesión y liderazgo interno**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Se evaluó la preparación por desempeño en el cargo anterior y no por las habilidades del nuevo.
 
-**Paso 3 — crear slate y evaluar readiness.** La gerencia escribe primero el supuesto asociado a **readiness** y evita convertirlo en hecho. Luego busca **movilidad interna** para contrastarlo en el caso de **sucesión y liderazgo interno**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervención.** (1) Acordar con Andrea un plan de 90 días: delegar cuentas por tramos, uno a uno semanales con cada persona, coaching por un jefe experimentado. (2) Medir el tiempo en el equipo y el desempeño del equipo. (3) Para el futuro: antes de promover, dar una asignación de liderazgo de proyecto durante tres meses y evaluar con las tres dimensiones.
 
-**Paso 4 — asignar experiencias reales de desarrollo.** La gerencia escribe primero el supuesto asociado a **developmental assignment** y evita convertirlo en hecho. Luego busca **bus factor** para contrastarlo en el caso de **sucesión y liderazgo interno**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** A los seis meses, el tiempo con el equipo sube del 20 % al 55 % y la meta del equipo se cumple.
 
-**Paso 5 — revisar contingencia y cambios semestralmente.** La gerencia escribe primero el supuesto asociado a **emergency successor** y evita convertirlo en hecho. Luego busca **vacantes críticas cubiertas** para contrastarlo en el caso de **sucesión y liderazgo interno**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **sucesión y liderazgo interno**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El primer pasaje suele fallar por valores y uso del tiempo. (2) Se puede desarrollar a posteriori, pero es mejor preparar antes. (3) La evaluación debe usar criterios del nuevo nivel.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **critical role** | rol cuya ausencia causa impacto material y difícil de cubrir | Cuando roles sin sucesor es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **succession slate** | conjunto de candidatos posibles, no un ganador predeterminado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sucesión frente a promoción.** La promoción es un movimiento; la sucesión es un sistema que prepara y selecciona. Una buena sucesión reduce el riesgo de promover mal.
 
-**Frontera de aplicación:** Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria.
+**Límites.** El modelo de Charan et al. describe organizaciones grandes y estructuradas, y en otras los pasajes se comprimen o se saltan. Los pasajes son un marco de reflexión, no una descripción exacta de cada empresa. La evaluación de preparación tiene sesgos y la información puede ser incompleta. Y las decisiones sobre promociones y reemplazos están sujetas a normas contra la discriminación y a contratos que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre sucesión y liderazgo interno |
+| Nivel | Cómo trabaja la sucesión |
 |---|---|
-| **Profesional** | usa **sucesión y liderazgo interno** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **critical role** y **succession slate** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta roles sin sucesor con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si sucesión y liderazgo interno cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de sucesión y liderazgo interno reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **sucesión y liderazgo interno** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Documenta su trabajo, comparte conocimiento y piensa en su próximo pasaje. |
+| **Jefe / Team Lead** | Identifica y desarrolla a quien podría reemplazarlo. |
+| **Gerente** | Mantiene un mapa de sucesión de su área y una evaluación con criterios del nuevo nivel. |
+| **CEO / Director** | Lidera la sucesión de su equipo y la supervisa el directorio. |
+| **Founder / Owner** | Pasa de ser el único que sabe a construir un equipo que pueda reemplazarlo. |
 
 ## 🏢 Caso ejecutivo
 
-La directora de operaciones concentra relaciones con proveedores y conocimiento regulatorio. Planea retirarse en 18 meses; nadie ha liderado un cierre completo sin ella.
+El director comercial de una empresa de 500 personas se jubila en catorce meses. Tiene dos candidatos internos: un gerente de ventas muy exitoso, dueño de las mejores cuentas, y una gerente de marketing con visión estratégica pero sin experiencia en ventas. El gerente de ventas dice que «es el heredero natural»; algunos dicen que sería un error. Además, el director comercial es el único que conoce las relaciones con tres clientes clave.
 
-Entrega un **decision brief de sucesión y liderazgo interno** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de sucesión** que contenga: (a) el análisis de los cargos y personas críticos; (b) la evaluación de cada candidato para el pasaje que enfrentará, con evidencia; (c) el plan de desarrollo de ambos con experiencias; (d) cómo transferir las relaciones críticas; (e) el plan de emergencia; (f) cómo evaluarás candidatos externos y cómo comunicarás el proceso.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **sucesión y liderazgo interno** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta roles sin sucesor, readiness distribution; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Identifica los tres cargos críticos de tu área y el riesgo de vacancia de cada uno.
+2. Para una persona, evalúa habilidades, uso del tiempo y valores del siguiente pasaje.
+3. Diseña una asignación de desarrollo para ese pasaje.
+4. Escribe el plan de emergencia de tu propio cargo.
+5. Documenta tres conocimientos críticos que solo tú posees.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar critical role y succession slate como sinónimos | Se pierde la distinción entre “rol cuya ausencia causa impacto material y difícil de cubrir” y “conjunto de candidatos posibles, no un ganador predeterminado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar contingencia y cambios semestralmente” | Se saltó “identificar roles críticos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente y marca el primer supuesto no demostrado. |
-| Optimizar solo roles sin sucesor | La métrica local sustituyó al resultado del sistema | Contrástala con readiness distribution y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre sucesión y liderazgo interno | Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria. |
-| No fijar revisión | Una decisión sobre sucesión y liderazgo interno se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Promover al mejor profesional | Se premia el desempeño pasado | Evaluar para el nuevo pasaje. |
+| Planificar al final | Se posterga | Anticipar de uno a tres años. |
+| Sucesión como lista de nombres | Es fácil | Desarrollar con experiencias. |
+| Depender de una persona | Se acumula conocimiento | Documentar y delegar. |
+| Prometer cargos | Se quiere retener | Hablar de desarrollo, no de promesas. |
+| Excluir candidatos externos | Se considera una cuestión de lealtad | Evaluar todas las opciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **critical role** y **succession slate** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **readiness** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar roles críticos → definir requisitos futuros del rol** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **roles sin sucesor** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **sucesión y liderazgo interno**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria.**?
+1. ¿Cuáles son los seis pasajes de liderazgo?
+2. ¿Qué tres cosas cambian en cada pasaje?
+3. ¿Por qué el primer pasaje suele fallar?
+4. ¿Cómo se evalúa la preparación de un candidato?
+5. ¿Qué incluye un plan de emergencia?
+6. ¿Por qué no se debe promover solo por desempeño en el cargo actual?
+7. ¿Qué límite tiene el modelo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. De liderarse a sí mismo a liderar a otros; a liderar jefes; a gerente funcional; a gerente de negocio; a gerente de grupo; a gerente de empresa.
+2. Las habilidades, el uso del tiempo y los valores.
+3. Porque exige pasar de hacer el trabajo a lograr que otros lo hagan, y muchos siguen haciendo el trabajo técnico.
+4. Con evidencia sobre las habilidades del nuevo nivel, el uso del tiempo y los valores, no por antigüedad ni afinidad.
+5. Quién asume interinamente, qué información necesita y quién decide, revisado cada año.
+6. Porque ese desempeño mide qué tan bien hace el trabajo actual y no su preparación para el nuevo.
+7. Describe organizaciones grandes y estructuradas, y en otras los pasajes se comprimen.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/070-sucesion-y-liderazgo-interno/`:
 
-- `people-decision-brief.md` con el problema específico de **sucesión y liderazgo interno**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **sucesión y liderazgo interno** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **critical role**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La directora de operaciones concentra relaciones con proveedores y conocimiento regulatorio. Planea retirarse en 18 meses; nadie ha liderado un cierre completo sin ella.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el plan de sucesión del caso ejecutivo;
+- `reading-note.md` con una tensión entre Charan et al. y Cappelli;
+- `decision-journal.md` con la evaluación de candidatos y el plan de emergencia.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Dave Ulrich — *Human Resource Champions* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de RR.HH. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9780875847191](https://openlibrary.org/isbn/9780875847191).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **sucesión y liderazgo interno** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **sucesión y liderazgo interno** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **sucesión y liderazgo interno** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sucesión y liderazgo interno** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** los seis pasajes de liderazgo y sus tres dimensiones de cambio. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** transición a un cargo nuevo y apoyo a quien asume. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** decisiones de ubicación de personas por resultados. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter Cappelli — *Talent on Demand* (Harvard Business Press, 2008). **Uso en esta clase:** hacer o comprar talento, incluida la sucesión. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9781422104477](https://openlibrary.org/isbn/9781422104477).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** cultura que hace posible el desarrollo. Lectura selectiva sobre **sucesión y liderazgo interno**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Sucesión y liderazgo interno:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sucesión y liderazgo interno** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Sucesión y liderazgo interno:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas contra la discriminación y las laborales sobre promociones. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

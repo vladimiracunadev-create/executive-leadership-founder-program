@@ -1,67 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g72 d-g72" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g72">Ficha visual de la clase 072: Capstone: construir un sistema de talento</title>
-<desc id="d-g72">Conceptos: talent system; employee lifecycle; talent philosophy; governance; people analytics. Método: definir capacidades que exige estrategia → diseñar lifecycle coherente → asignar governance y datos → probar fairness y experiencia → instalar revisión trimestral del sistema.</desc>
-<defs><marker id="p-g72" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 072 · Capstone: construir un sistema de talento</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >talent system</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto interdependiente de prácticas que atrae,</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desarrolla, evalúa y retiene capacidades</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >employee lifecycle</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >secuencia desde atracción hasta salida</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >talent philosophy</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >principios explícitos sobre desarrollo, desempeño y</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >recompensa</text>
-<circle cx="38" cy="314.24" r="5" fill="#0969da"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >governance</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >roles y decisiones de managers, RR.HH. y ejecutivos</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >people analytics</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >uso responsable de datos para observar patrones del</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >sistema</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir capacidades que exige estrategia</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diseñar lifecycle coherente</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >asignar governance y datos</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >probar fairness y experiencia</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >instalar revisión trimestral del sistema</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quality of hire</text>
-<rect x="167.5" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="180.5" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="191.5" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-productivity</text>
-<rect x="341.5" y="470.36" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="354.5" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="365.5" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >performance distribution</text>
-<rect x="543.1" y="470.36" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="556.1" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="567.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >internal mobility</text>
-<rect x="696.4" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="709.4" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="720.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >regrettable attrition</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo,</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >priorizando claridad y legalidad antes que ceremonias complejas.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 436.56" width="1040" role="img" aria-labelledby="t-s72 d-s72" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s72">Clase 072 · Un sistema de talento: de la entrada a la salida</title>
+<desc id="d-s72">Un sistema de talento en cuatro tramos: entrada, permanencia, desarrollo y salida, con las clases de la parte 05 que cubren cada uno.</desc>
+<defs><marker id="p-s72" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="436.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 072 · Un sistema de talento: de la entrada a la salida</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Integración de la parte 05</text>
+<rect x="28" y="96" width="231" height="197.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H247.0 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Entrada</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Diseño del cargo (061).</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Dotación (062).</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Selección y entrevistas</text>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >(063–064).</text>
+<rect x="279" y="96" width="231" height="197.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M279.0,136 V108 a12,12 0 0 1 12,-12 H498.0 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="295" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Permanencia</text>
+<circle cx="301.0" cy="154" r="4" fill="#1a7f37"/>
+<text x="315" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Onboarding (065).</text>
+<circle cx="301.0" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="315" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Desempeño y feedback</text>
+<text x="315" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >(066–067).</text>
+<circle cx="301.0" cy="225.75" r="4" fill="#1a7f37"/>
+<text x="315" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Compensación (068).</text>
+<rect x="530" y="96" width="231" height="197.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M530.0,136 V108 a12,12 0 0 1 12,-12 H749.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="546" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Desarrollo</text>
+<circle cx="552.0" cy="154" r="4" fill="#bc4c00"/>
+<text x="566" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Aprendizaje (069).</text>
+<circle cx="552.0" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="566" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Sucesión y pasajes (070).</text>
+<circle cx="552.0" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="566" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Movilidad interna.</text>
+<rect x="781" y="96" width="231" height="197.5" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<path d="M781.0,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#59636e"/>
+<text x="797" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Salida</text>
+<circle cx="803.0" cy="154" r="4" fill="#59636e"/>
+<text x="817" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Desvinculación</text>
+<text x="817" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >responsable (071).</text>
+<circle cx="803.0" cy="198.5" r="4" fill="#59636e"/>
+<text x="817" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Documentación y</text>
+<text x="817" y="219.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >aprendizaje.</text>
+<circle cx="803.0" cy="243.0" r="4" fill="#59636e"/>
+<text x="817" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Relación con los que se</text>
+<text x="817" y="264.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >van.</text>
+<rect x="28" y="309.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Cada decisión de talento afecta a las demás: una selección débil exige más desempeño; una compensación incoherente daña el desarrollo.</text>
+<text x="44" y="348.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El sistema se evalúa por la coherencia entre sus partes.</text>
+<text x="28" y="396" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El sistema se ajusta al tamaño y a la normativa; una empresa pequeña puede cumplir cada función con procesos simples.</text>
 </svg>

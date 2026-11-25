@@ -43,10 +43,10 @@
 
 | Métrica | Valor |
 |---|---:|
-| Palabras en las clases | 1.014.379 |
-| Palabras por clase | 2.212–4.681 (mediana 3.639) |
+| Palabras en las clases | 999.407 |
+| Palabras por clase | 2.212–4.681 (mediana 3.628) |
 | Subsecciones de desarrollo por clase | 6–9 |
-| Referencias citadas al cierre de clase | 2.971 |
+| Referencias citadas al cierre de clase | 2.903 |
 | Referencias por clase | 5–17 (mediana 11) |
 | Bibliografía catalogada | 229 obras |
 

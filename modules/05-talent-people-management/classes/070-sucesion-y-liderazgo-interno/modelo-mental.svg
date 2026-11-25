@@ -1,85 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g70 d-g70" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g70">Ficha visual de la clase 070: Sucesión y liderazgo interno</title>
-<desc id="d-g70">Conceptos: critical role; succession slate; readiness; developmental assignment; emergency successor. Método: identificar roles críticos → definir requisitos futuros del rol → crear slate y evaluar readiness → asignar experiencias reales de desarrollo → revisar contingencia y cambios semestralmente.</desc>
-<defs><marker id="p-g70" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 070 · Sucesión y liderazgo interno</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >critical role</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >rol cuya ausencia causa impacto material y difícil de</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cubrir</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >succession slate</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de candidatos posibles, no un ganador</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >predeterminado</text>
-<circle cx="38" cy="256.24" r="5" fill="#0969da"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >readiness</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo y brechas estimadas para asumir el rol</text>
-<circle cx="38" cy="314.24" r="5" fill="#0969da"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >developmental assignment</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >experiencia diseñada para cerrar una brecha</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >emergency successor</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >persona capaz de sostener continuidad temporal</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#0969da"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar roles</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >críticos</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#0969da"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir requisitos</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >futuros del rol</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#0969da"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear slate y</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >evaluar readiness</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#0969da"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >asignar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >experiencias</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >reales de</text>
-<text x="880" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >desarrollo</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#0969da"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >contingencia y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cambios</text>
-<text x="692" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >semestralmente</text>
-<path d="M638,139 L656,139" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g70)"/>
-<path d="M826,139 L844,139" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g70)"/>
-<path d="M929,176 L929,222" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g70)"/>
-<path d="M844,259 L826,259" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g70)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#0969da" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g70)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >roles sin sucesor</text>
-<rect x="181.3" y="456.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="194.3" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="205.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >readiness distribution</text>
-<rect x="369.1" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="382.1" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="393.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >movilidad interna</text>
-<rect x="522.4" y="456.24" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="535.4" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="546.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >bus factor</text>
-<rect x="627.4" y="456.24" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="640.4" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="651.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >vacantes críticas cubiertas</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conviertas confidencialidad en opacidad arbitraria.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 668.56" width="1040" role="img" aria-labelledby="t-s70 d-s70" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s70">Clase 070 · Los pasajes de liderazgo y lo que cambia en cada uno</title>
+<desc id="d-s70">Seis pasajes del canal de liderazgo de Charan, Drotter y Noel, de liderarse a sí mismo a liderar la empresa.</desc>
+<defs><marker id="p-s70" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="668.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 070 · Los pasajes de liderazgo y lo que cambia en cada uno</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Charan, Drotter &amp; Noel (2001)</text>
+<rect x="198" y="96" width="814" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="198" y="96" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<circle cx="230" cy="127.625" r="15" fill="#cf222e"/>
+<text x="230" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >6</text>
+<text x="258" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >De gerente de grupo a gerente de empresa</text>
+<text x="258" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Pensar en el largo plazo y en los interesados externos.</text>
+<rect x="164" y="169.25" width="814" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<rect x="164" y="169.25" width="6" height="63.25" rx="3" fill="#8250df"/>
+<circle cx="196" cy="200.875" r="15" fill="#8250df"/>
+<text x="196" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="224" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >De gerente de negocio a gerente de grupo</text>
+<text x="224" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Gestionar un portafolio y asignar capital entre negocios.</text>
+<rect x="130" y="242.5" width="814" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="130" y="242.5" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="162" cy="274.125" r="15" fill="#bc4c00"/>
+<text x="162" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >De gerente funcional a gerente de negocio</text>
+<text x="190" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Integrar funciones y asumir pérdidas y ganancias.</text>
+<rect x="96" y="315.75" width="814" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="96" y="315.75" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="128" cy="347.375" r="15" fill="#1a7f37"/>
+<text x="128" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >De jefe de jefes a gerente funcional</text>
+<text x="156" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Pensar en la estrategia de la función y colaborar entre funciones.</text>
+<rect x="62" y="389" width="814" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="389.0" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="420.625" r="15" fill="#0969da"/>
+<text x="94" y="425.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="413" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >De liderar a otros a liderar jefes</text>
+<text x="122" y="431" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Seleccionar y desarrollar jefes y dejar el trabajo operativo.</text>
+<rect x="28" y="462.25" width="814" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="462.25" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="493.875" r="15" fill="#59636e"/>
+<text x="60" y="498.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="486.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >De liderarse a sí mismo a liderar a otros</text>
+<text x="88" y="504.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Valorar el trabajo de otros y ayudarles a rendir.</text>
+<rect x="28" y="541.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="563.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Cada pasaje cambia las habilidades, las prioridades de tiempo y los valores. Un error común es promover a alguien por su desempeño en</text>
+<text x="44" y="580.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >el nivel anterior sin comprobar que desea y puede hacer el nuevo trabajo.</text>
+<text x="28" y="628" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El modelo describe un canal típico de empresas grandes; en organizaciones pequeñas los pasajes se comprimen.</text>
 </svg>

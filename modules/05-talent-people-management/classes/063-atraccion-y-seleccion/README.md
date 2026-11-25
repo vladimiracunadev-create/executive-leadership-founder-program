@@ -5,222 +5,191 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Atracción y selección forman un funnel donde cada etapa debe reducir incertidumbre sobre requisitos reales del rol. La marca empleadora atrae; el scorecard filtra; evaluaciones estructuradas comparan; referencias y evidencia de trabajo complementan. El proceso debe ser consistente, inclusivo y legalmente defendible.
+Contratar es la decisión de personas con más consecuencia y la que más se toma por intuición: «tuve una buena sensación», «encaja con el equipo», «se le ve capaz». La investigación sobre selección de personal lleva más de un siglo preguntándose qué métodos predicen realmente el desempeño futuro, y sus respuestas desafían varias costumbres: la entrevista libre predice menos de lo que creemos, los años de experiencia casi nada por sí solos, y las pruebas bien diseñadas bastante más.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **atracción y selección** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa dos metaanálisis centrales: el de Schmidt y Hunter (1998), que resumió décadas de evidencia sobre la validez de distintos métodos, y la **revisión de Sackett y colegas (2022)**, que corrigió a la baja varias estimaciones clásicas. Al terminar sabrás atraer candidatos con un cargo claro, elegir métodos de selección con evidencia y reducir los sesgos del proceso.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `talent funnel`, `selection validity`, `job-relevant evidence`, `adverse impact`, `candidate experience` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** conversiones por etapa, time-to-fill, quality of hire sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** qué significa la validez de un método de selección y cómo se estima.
+2. **Comparar** métodos de selección según su capacidad predictiva y sus riesgos.
+3. **Diseñar** un proceso con varias fuentes de información y criterios previos.
+4. **Atraer** candidatos adecuados con un aviso claro y honesto.
+5. **Reducir** sesgos y evitar discriminación en el proceso.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define talent funnel y selection validity sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con conversiones por etapa y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una contratación que salió mal; ¿qué señal ignoraste o sobrevaloraste? |
+| 20–60 min | Validez de los métodos y el cambio de la revisión de 2022. |
+| 60–105 min | Ejemplo trabajado: diseño del proceso para un cargo de ventas. |
+| 105–140 min | Caso ejecutivo: un candidato brillante que «cae bien». |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **talent funnel** | etapas desde awareness hasta oferta aceptada | Distingue un hecho compatible y otro que lo refute. |
-| **selection validity** | grado en que un método predice desempeño relevante | Distingue un hecho compatible y otro que lo refute. |
-| **job-relevant evidence** | evidencia directamente relacionada con tareas o competencias del rol | Distingue un hecho compatible y otro que lo refute. |
-| **adverse impact** | efecto desproporcionado de un proceso sobre un grupo | Distingue un hecho compatible y otro que lo refute. |
-| **candidate experience** | experiencia del postulante que afecta reputación y aceptación | Distingue un hecho compatible y otro que lo refute. |
+| **Validez predictiva** | Relación entre el puntaje en un método de selección y el desempeño posterior (Schmidt y Hunter, 1998). | Se estima comparando puntajes con desempeño. |
+| **Metaanálisis** | Combinación estadística de muchos estudios para estimar un efecto promedio. | Los resultados son promedios, no garantías. |
+| **Sobrecorrección por restricción de rango** | Error en que se ajustan al alza las validez al suponer que los contratados son más homogéneos de lo que son (Sackett et al., 2022). | Explica por qué se revisaron a la baja ciertas estimaciones. |
+| **Entrevista estructurada** | Entrevista con preguntas, escala y criterios definidos de antemano (Levashina et al., 2014). | Todos los candidatos reciben las mismas preguntas. |
+| **Muestra de trabajo** | Tarea representativa del cargo que el candidato realiza. | Se evalúa lo que se hará, no lo que se dice. |
+| **Impacto adverso** | Efecto desigual de un método sobre grupos protegidos. | Se revisa por grupos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 063: 1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación](modelo-mental.svg)
+![Qué métodos de selección predicen el desempeño: entrevista estructurada, muestra de trabajo, capacidad cognitiva general, entrevista no estructurada y años de experiencia, con su aporte y su cuidado.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Atracción y selección forman un funnel donde cada etapa debe reducir incertidumbre sobre requisitos reales del rol. La marca empleadora atrae; el scorecard filtra; evaluaciones estructuradas comparan; referencias y evidencia de trabajo complementan. El proceso debe ser consistente, inclusivo y legalmente defendible.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales.**
+**Cómo leer el diagrama.** Cada fila es un método con lo que se sabe de su capacidad predictiva y el cuidado que exige. Los dos primeros —entrevista estructurada y muestra de trabajo— combinan buena validez con relación directa con el cargo. Los dos últimos explican por qué la entrevista libre y los años de experiencia, por sí solos, pesan menos de lo que la costumbre les atribuye.
 
 ## 📖 Desarrollo
 
-### 1. talent funnel: mecanismo central
+### 1. Qué quiere decir «validez»
 
-**talent funnel** se entiende aquí como **etapas desde awareness hasta oferta aceptada**. Esta es la pieza causal o estructural desde la que se inicia **atracción y selección**: antes de definir scorecard y criterios antes de publicar, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un método de selección es **válido** si quienes obtienen mejores puntajes tienden a desempeñarse mejor después. Se estima con estudios que relacionan puntajes de selección con medidas de desempeño. Un metaanálisis combina muchos estudios. Schmidt y Hunter (1998) reunieron resultados de décadas y concluyeron, entre otras cosas, que las muestras de trabajo, las pruebas de capacidad cognitiva general y las entrevistas estructuradas tenían las mayores validez, mientras la experiencia sin más y la entrevista libre predecían menos. Fue una de las referencias más citadas del campo.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **conversiones por etapa**; regístrala con periodo, unidad, población y baseline.
+### 2. La revisión de 2022
 
-Relaciona el mecanismo con **selection validity**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Sackett y colegas argumentaron que muchas estimaciones clásicas habían sido **sobrecorregidas** por un ajuste estadístico (la corrección por restricción de rango) que suponía una variación mayor entre candidatos de la que realmente existe. Al corregirlo, varias validez bajaron —en particular la de las pruebas cognitivas— y la **entrevista estructurada** pasó a ser el método con mayor validez estimada. La lección práctica es doble: la evidencia puede revisarse, y la conclusión de que **estructurar importa** sale reforzada.
 
-### 2. selection validity: frontera conceptual y error de clasificación
+### 3. Qué métodos usar
 
-**Definición operacional:** grado en que un método predice desempeño relevante. Su valor está en distinguirlo de **talent funnel** y **job-relevant evidence**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una combinación sensata: **entrevista estructurada** (clase 064), una **muestra de trabajo** cuando el cargo la permite, y, según el cargo, pruebas de capacidad o de conocimiento específico con criterio sobre su impacto adverso. Las **referencias** aportan si se preguntan con estructura. La **experiencia** informa sobre lo que la persona ha hecho, pero conviene preguntar qué logró, no cuánto tiempo estuvo. Y ningún método debe usarse solo: la combinación ayuda a corregir los errores de cada uno.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **selection validity** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-to-fill** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Atraer antes de seleccionar
 
-Antes de atraer en canales adecuados, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Se selecciona entre quienes se postulan: un aviso confuso atrae candidatos equivocados. Un buen aviso comunica el propósito del cargo, los resultados esperados, las condiciones (remuneración o rango, modalidad, ubicación) y el proceso. Conviene ser **honesto** sobre lo difícil: presentar un cargo de manera exagerada atrae a quienes se irán al descubrir la realidad. Bock describe cómo, en su experiencia, la calidad del flujo de candidatos importa tanto como la del proceso.
 
-### 3. job-relevant evidence: operacionalización y medición
+### 5. Criterios antes que candidatos
 
-**job-relevant evidence** significa **evidencia directamente relacionada con tareas o competencias del rol**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Antes de ver a la primera persona, se definen los **criterios**: qué resultados y competencias distinguen un buen desempeño en este cargo (clase 061), y cómo se evaluarán. Si los criterios se definen después de conocer a los candidatos, se ajustan para justificar la preferencia. Un puntaje por criterio, asignado con evidencia, permite comparar y documentar. Un *role scorecard* ordena esta tarea.
 
-Dave Ulrich — *Human Resource Champions* orienta este bloque mediante **perspectiva de RR.HH. aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **quality of hire**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Sesgos y equidad
 
-Al llegar a usar screening consistente, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El proceso de selección es vulnerable a sesgos: afinidad («se parece a mí»), halo (una cualidad domina el juicio), primera impresión y confirmación. Se reducen con **estructura**, evaluaciones independientes antes de discutir, criterios previos y revisión de resultados por grupos. Además, las decisiones de selección están sujetas a normas contra la discriminación, que deben verificarse con asesoría. Evaluar rasgos no relacionados con el cargo —edad, género, origen, estado civil— es ilegítimo y, muchas veces, ilegal.
 
-### 4. adverse impact: trade-offs y efectos de segundo orden
+### 7. La experiencia del candidato
 
-**Definición:** efecto desproporcionado de un proceso sobre un grupo. Este concepto obliga a abandonar la idea de que **atracción y selección** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de combinar entrevistas y muestras de trabajo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John Whitmore — *Coaching for Performance* aporta una lente sobre **perspectiva de Coaching aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **offer acceptance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **atracción y selección**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **adverse impact** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. candidate experience: gobernanza, límites e integración
-
-**candidate experience** se define como **experiencia del postulante que afecta reputación y aceptación** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* se utiliza para estudiar **perspectiva de Sucesión aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar registrar decisión y revisar calidad de contratación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **talent funnel**, **selection validity**, **job-relevant evidence**, **adverse impact** y **candidate experience** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **atracción y selección** no consiste en sumar cinco definiciones. Empieza por **talent funnel**, contrasta **selection validity** con **job-relevant evidence**, incorpora **adverse impact** como restricción o mecanismo y usa **candidate experience** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un proceso es también una comunicación con las personas: la forma en que se trata a quienes no son elegidos afecta la reputación de la organización y la disposición de futuros candidatos. Buenas prácticas: informar plazos, responder a todos, dar feedback breve a quienes llegaron a la etapa final y cuidar la confidencialidad. Y se evalúa el proceso: ¿los contratados rinden?, ¿cuánto dura?, ¿quiénes abandonan y por qué?
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **atracción y selección** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **atracción y selección** ayuda a desafiar? |
-| Dave Ulrich — *Human Resource Champions* | perspectiva de RR.HH. aplicada al problema de la clase | ¿Qué supuesto de **atracción y selección** ayuda a desafiar? |
-| John Whitmore — *Coaching for Performance* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **atracción y selección** ayuda a desafiar? |
-| Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* | perspectiva de Sucesión aplicada al problema de la clase | ¿Qué supuesto de **atracción y selección** ayuda a desafiar? |
-
-En **atracción y selección**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **talent funnel**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Schmidt y Hunter (1998) | Validez de métodos de selección y su utilidad. | Algunas estimaciones fueron revisadas. | ¿Qué método usas más y qué dice la evidencia? |
+| Sackett et al. (2022) | Revisión de las estimaciones y reforzamiento de la entrevista estructurada. | Es un debate técnico en curso. | ¿Qué conclusión cambia con la revisión? |
+| Levashina et al. (2014) | Qué hace estructurada una entrevista y su efecto. | No trata de otros métodos. | ¿Qué parte de tu entrevista es estructurada? |
+| Bock (2015) | Selección y atracción en una empresa de tecnología. | Un relato de una empresa. | ¿Qué aprendes de su proceso? |
+| Kahneman, Sibony y Sunstein (2021) | Ruido y variación entre evaluadores. | No se limita a selección. | ¿Cuánto varían tus evaluadores entre sí? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo cambia criterios durante entrevistas según cada candidato y termina seleccionando a quien 'generó mejor química', pese a que nadie puede explicar contra qué estándar comparó.
+**Situación (hipotética).** Una empresa busca un ejecutivo de cuentas. Hasta ahora, el proceso fue: revisión de CV, una conversación con el gerente y una oferta. De los últimos seis contratados, dos se fueron antes de seis meses y tres rinden por debajo de lo esperado.
 
-**Paso 1 — definir scorecard y criterios antes de publicar.** La gerencia escribe primero el supuesto asociado a **talent funnel** y evita convertirlo en hecho. Luego busca **conversiones por etapa** para contrastarlo en el caso de **atracción y selección**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Proceso anterior | Proceso nuevo |
+|---|---|---|
+| **Aviso** | «Se busca vendedor dinámico.» | Propósito, resultados a 12 meses (cuota, retención), rango de remuneración y proceso. |
+| **Criterios** | Informales. | Cuatro criterios con evidencia: descubrimiento del cliente, negociación, orden en el seguimiento, aprendizaje. |
+| **Filtro** | CV. | Preguntas breves por escrito sobre un caso de ventas. |
+| **Entrevista** | Libre, un entrevistador. | Estructurada, dos entrevistadores que puntúan por separado. |
+| **Muestra de trabajo** | No. | Simulación de una llamada de descubrimiento y un plan de cuenta en 24 horas. |
+| **Referencias** | Una llamada informal. | Dos referencias con las mismas preguntas. |
+| **Decisión** | Impresión del gerente. | Puntajes por criterio, discusión y registro de la razón. |
 
-**Paso 2 — atraer en canales adecuados.** La gerencia escribe primero el supuesto asociado a **selection validity** y evita convertirlo en hecho. Luego busca **time-to-fill** para contrastarlo en el caso de **atracción y selección**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** En el año siguiente, de seis contratados con el proceso nuevo, ninguno renuncia antes de los seis meses y cuatro superan la cuota del primer año.
 
-**Paso 3 — usar screening consistente.** La gerencia escribe primero el supuesto asociado a **job-relevant evidence** y evita convertirlo en hecho. Luego busca **quality of hire** para contrastarlo en el caso de **atracción y selección**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — combinar entrevistas y muestras de trabajo.** La gerencia escribe primero el supuesto asociado a **adverse impact** y evita convertirlo en hecho. Luego busca **offer acceptance** para contrastarlo en el caso de **atracción y selección**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — registrar decisión y revisar calidad de contratación.** La gerencia escribe primero el supuesto asociado a **candidate experience** y evita convertirlo en hecho. Luego busca **adverse impact** para contrastarlo en el caso de **atracción y selección**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **atracción y selección**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se combinaron métodos con evidencia. (2) Los criterios precedieron a los candidatos. (3) Se registró la razón de la decisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **talent funnel** | etapas desde awareness hasta oferta aceptada | Cuando conversiones por etapa es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **selection validity** | grado en que un método predice desempeño relevante | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Selección frente a atracción.** La atracción amplía el conjunto de candidatos; la selección escoge entre ellos. Ambas necesitan un cargo claro.
 
-**Frontera de aplicación:** Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales.
+**Límites.** Los metaanálisis ofrecen promedios; la validez en un cargo concreto puede ser distinta, y la revisión de 2022 muestra que las estimaciones son discutibles. Las pruebas cognitivas pueden tener impacto adverso sobre ciertos grupos y su uso requiere criterio y asesoría. Las leyes sobre no discriminación y protección de datos personales de los candidatos deben verificarse en la fuente vigente. Y ningún método elimina el error: se reduce.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre atracción y selección |
+| Nivel | Cómo trabaja la selección |
 |---|---|
-| **Profesional** | usa **atracción y selección** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **talent funnel** y **selection validity** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta conversiones por etapa con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si atracción y selección cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de atracción y selección reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **atracción y selección** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Participa como entrevistador y puntúa con criterios. |
+| **Jefe / Team Lead** | Define criterios y conduce un proceso estructurado. |
+| **Gerente** | Diseña procesos de selección y revisa sus resultados. |
+| **CEO / Director** | Se asegura de que las contrataciones críticas usen evidencia y evita decidir por afinidad. |
+| **Founder / Owner** | Contrata a las primeras personas con criterios, sabiendo que cada error pesa. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo cambia criterios durante entrevistas según cada candidato y termina seleccionando a quien 'generó mejor química', pese a que nadie puede explicar contra qué estándar comparó.
+Una empresa busca un gerente comercial. Un candidato, muy carismático, lleva diez años en la industria y cae muy bien en la entrevista con el director. Sus referencias son entusiastas pero vagas. Otro candidato, más reservado, tiene resultados verificables y dio la mejor respuesta en la simulación. El director dice: «con el primero se me conectó el instinto». El proceso no tiene criterios por escrito.
 
-Entrega un **decision brief de atracción y selección** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de proceso de selección** que contenga: (a) los criterios y cómo se evidenciarán; (b) los métodos a usar y su justificación según la evidencia; (c) cómo evitarás que la afinidad y el carisma sesguen la decisión; (d) cómo comparar a los dos candidatos con los mismos criterios; (e) las salvaguardas contra discriminación; (f) cómo evaluarás el proceso tras contratar.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **atracción y selección** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta conversiones por etapa, time-to-fill; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta los cuatro criterios de un cargo y cómo los evidenciarías.
+2. Evalúa tu último proceso: ¿qué métodos usó y cuáles no tuvieron evidencia?
+3. Diseña una muestra de trabajo de una hora para un cargo.
+4. Reescribe un aviso de empleo con propósito, resultados y condiciones.
+5. Define cómo evaluarás a los entrevistadores y el proceso en seis meses.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar talent funnel y selection validity como sinónimos | Se pierde la distinción entre “etapas desde awareness hasta oferta aceptada” y “grado en que un método predice desempeño relevante” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar decisión y revisar calidad de contratación” | Se saltó “definir scorecard y criterios antes de publicar” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación y marca el primer supuesto no demostrado. |
-| Optimizar solo conversiones por etapa | La métrica local sustituyó al resultado del sistema | Contrástala con time-to-fill y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre atracción y selección | Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales. |
-| No fijar revisión | Una decisión sobre atracción y selección se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir por «feeling» | Se confía en la intuición | Criterios previos y puntaje por criterio. |
+| Entrevista libre | Es la costumbre | Entrevista estructurada. |
+| Valorar los años de experiencia | Son fáciles de ver | Preguntar por logros y conductas. |
+| Aviso confuso o exagerado | Se quiere atraer más | Propósito, resultados y condiciones honestos. |
+| Un solo entrevistador | Se ahorra tiempo | Dos evaluaciones independientes. |
+| No evaluar el proceso | Se da por bueno | Revisar el desempeño y la rotación de los contratados. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **talent funnel** y **selection validity** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **job-relevant evidence** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir scorecard y criterios antes de publicar → atraer en canales adecuados** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **conversiones por etapa** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **atracción y selección**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales.**?
+1. ¿Qué significa validez predictiva?
+2. ¿Qué corrigió la revisión de Sackett et al. y qué método salió reforzado?
+3. ¿Por qué los años de experiencia predicen poco por sí solos?
+4. ¿Por qué se definen los criterios antes de ver a los candidatos?
+5. Nombra tres sesgos del proceso de selección y una forma de reducirlos.
+6. ¿Qué debe contener un buen aviso?
+7. ¿Qué límite tienen los metaanálisis?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Que quienes obtienen mejores puntajes tienden a desempeñarse mejor después.
+2. La sobrecorrección por restricción de rango; salió reforzada la entrevista estructurada.
+3. Porque miden tiempo y no aprendizaje ni logros.
+4. Para que los criterios no se ajusten después a la preferencia.
+5. Afinidad, halo y confirmación; se reducen con estructura, evaluaciones independientes y criterios previos.
+6. Propósito, resultados esperados, condiciones y proceso, con honestidad.
+7. Ofrecen promedios, y la validez en un cargo concreto puede ser distinta; las estimaciones pueden revisarse.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/063-atraccion-y-seleccion/`:
 
-- `people-decision-brief.md` con el problema específico de **atracción y selección**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **atracción y selección** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **talent funnel**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo cambia criterios durante entrevistas según cada candidato y termina seleccionando a quien 'generó mejor química', pese a que nadie puede explicar contra qué estándar comparó.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el diseño del caso ejecutivo;
+- `role-scorecard.md` (plantilla [Role scorecard](../../../../templates/role-scorecard.md)) con los criterios;
+- `decision-journal.md` con la evaluación del proceso.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Dave Ulrich — *Human Resource Champions* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de RR.HH. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9780875847191](https://openlibrary.org/isbn/9780875847191).
-- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
-- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **atracción y selección** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **atracción y selección**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **atracción y selección** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **atracción y selección** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **atracción y selección** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Frank L. Schmidt & John E. Hunter — *The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings* (Psychological Bulletin, 1998). **Uso en esta clase:** validez y utilidad de los métodos de selección. Lectura selectiva sobre **atracción y selección**. **Localizador:** [DOI 10.1037/0033-2909.124.2.262](https://doi.org/10.1037/0033-2909.124.2.262).
+- Paul R. Sackett, Charlene Zhang, Christopher M. Berry & Filip Lievens — *Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range* (Journal of Applied Psychology, 2022). **Uso en esta clase:** revisión de las estimaciones de validez y reforzamiento de la entrevista estructurada. Lectura selectiva sobre **atracción y selección**. **Localizador:** [DOI 10.1037/apl0000994](https://doi.org/10.1037/apl0000994).
+- Julia Levashina, Christopher J. Hartwell, Frederick P. Morgeson & Michael A. Campion — *The Structured Employment Interview: Narrative and Quantitative Review of the Research Literature* (Personnel Psychology, 2013). **Uso en esta clase:** qué hace estructurada una entrevista y su efecto. Lectura selectiva sobre **atracción y selección**. **Localizador:** [DOI 10.1111/peps.12052](https://doi.org/10.1111/peps.12052).
+- Laszlo Bock — *Work Rules!* (Twelve, 2015). **Uso en esta clase:** atracción y selección en una empresa de tecnología. **Localizador:** [ISBN-13 9781455554799](https://openlibrary.org/isbn/9781455554799).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido y variación entre evaluadores. Lectura selectiva sobre **atracción y selección**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
 
-> **Regla de fuentes para Atracción y selección:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **atracción y selección** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Atracción y selección:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas contra la discriminación y de protección de datos personales. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

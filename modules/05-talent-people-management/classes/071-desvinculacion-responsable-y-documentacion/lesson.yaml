@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir causal de término de due process mediante evidencia observable."
-  - "Aplicar la secuencia: revisar hechos, documentación y fundamento → consultar RR.HH./legal antes de comunicar → preparar conversación breve y digna → ejecutar offboarding y seguridad → comunicar al equipo sin divulgar información privada."
-  - "Interpretar errores de acceso post-salida, reclamos, documentación completa sin atribuir causalidad automática."
-  - "Resolver el caso de desvinculación responsable y documentación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir una decisión de desvinculación fundada de una improvisada."
+  - "Documentar hechos, expectativas, apoyo ofrecido y resultado de forma verificable."
+  - "Identificar qué debe verificarse con asesoría antes de actuar."
+  - "Conducir la conversación de término con claridad y dignidad."
+  - "Gestionar la comunicación al equipo, la transición y el aprendizaje posterior."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
-  - "John Boudreau & Peter Ramstad — *Beyond HR*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng — *Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo (texto vigente)*"
+  - "Avraham N. Kluger & Angelo DeNisi — *The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory*"
+  - "Douglas Stone & Sheila Heen — *Thanks for the Feedback*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
 limits:
-  - "La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada."
+  - "Esta clase no es asesoría legal: las causales, avisos, indemnizaciones y formalidades se verifican en la fuente vigente y con un asesor."
 evidence_signals:
-  - "errores de acceso post-salida"
-  - "reclamos"
-  - "documentación completa"
-  - "knowledge transfer"
-  - "impacto en equipo"
+  - "documentación contemporánea"
+  - "verificación legal previa"
+  - "conversación digna"
+  - "revisión sin culpas"

@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Onboarding reduce el tiempo entre firma y contribución segura. Los primeros 90 días deben cubrir contexto, relaciones, herramientas, expectativas, quick wins y aprendizaje del sistema. El error habitual es confundir onboarding con trámites de la primera semana.
+Una organización puede gastar meses en encontrar a la persona adecuada y después dejarla sola el primer día: sin computador, sin saber a quién preguntar, con una agenda vacía y un correo de bienvenida. Los primeros meses determinan si alguien se ajusta, rinde y se queda; y gran parte de lo que ocurre es responsabilidad del jefe y de la organización, no de la persona nueva.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **onboarding y primeros 90 días** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el metaanálisis de Bauer y colegas sobre el ajuste de los recién llegados —qué factores lo favorecen y qué resultados produce— y el enfoque de Michael Watkins sobre la transición en los primeros noventa días. Al terminar sabrás diseñar un onboarding con claridad de rol, aprendizaje guiado y relaciones, y conducir una transición propia o de otra persona con un plan de 30, 60 y 90 días.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `onboarding`, `time-to-productivity`, `role clarity`, `network building`, `quick win` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** time-to-productivity, accesos listos día uno, claridad de rol sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** qué factores favorecen el ajuste de una persona nueva según el metaanálisis de Bauer y colegas.
+2. **Diseñar** un onboarding con preparación previa, primer día, primeras semanas y revisión a los noventa días.
+3. **Definir** expectativas y ganancias tempranas a 30, 60 y 90 días.
+4. **Organizar** el apoyo: jefe, acompañante, red de relaciones.
+5. **Medir** la efectividad del onboarding y corregirlo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define onboarding y time-to-productivity sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con time-to-productivity y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda tu primer mes en tu último trabajo; ¿qué te ayudó y qué te faltó? |
+| 20–60 min | Factores de ajuste y estructura del onboarding. |
+| 60–105 min | Ejemplo trabajado: plan de 30, 60 y 90 días para una persona nueva. |
+| 105–140 min | Caso ejecutivo: una persona excelente que se va a los cuatro meses. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **onboarding** | proceso de integración hasta alcanzar contribución y pertenencia razonables | Distingue un hecho compatible y otro que lo refute. |
-| **time-to-productivity** | tiempo para alcanzar desempeño esperado | Distingue un hecho compatible y otro que lo refute. |
-| **role clarity** | comprensión de outcomes, autoridad y prioridades | Distingue un hecho compatible y otro que lo refute. |
-| **network building** | desarrollo de relaciones necesarias para ejecutar | Distingue un hecho compatible y otro que lo refute. |
-| **quick win** | resultado temprano que produce aprendizaje y credibilidad sin riesgo excesivo | Distingue un hecho compatible y otro que lo refute. |
+| **Onboarding** | Proceso mediante el cual una persona nueva adquiere los conocimientos, las conductas y las relaciones para desempeñarse en su cargo. | Tiene un plan, un responsable y fechas. |
+| **Socialización organizacional** | Proceso por el cual los recién llegados aprenden las normas y el rol de la organización (Bauer et al., 2007). | La persona aprende cómo se hacen las cosas aquí. |
+| **Claridad del rol** | Comprensión de lo que se espera del cargo (Bauer et al., 2007). | Sabe qué resultados se le piden. |
+| **Autoeficacia** | Confianza en la propia capacidad de desempeñar las tareas (Bauer et al., 2007). | Siente que puede hacerlo. |
+| **Aceptación social** | Sentirse parte del grupo y valorado (Bauer et al., 2007). | Tiene relaciones de trabajo y pertenencia. |
+| **Ganancia temprana** | Resultado visible logrado pronto que da credibilidad (Watkins, 2003). | Un logro concreto en los primeros meses. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 065: 1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa](modelo-mental.svg)
+![Qué ayuda a una persona nueva a ajustarse: claridad del rol, autoeficacia y aceptación social, con lo que el jefe puede hacer en cada uno durante los primeros noventa días.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Onboarding reduce el tiempo entre firma y contribución segura. Los primeros 90 días deben cubrir contexto, relaciones, herramientas, expectativas, quick wins y aprendizaje del sistema. El error habitual es confundir onboarding con trámites de la primera semana.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente.**
+**Cómo leer el diagrama.** Tres columnas, tres resultados de ajuste que la investigación asocia con mejor desempeño y permanencia. Debajo de cada uno, lo que puede hacer el jefe: dar claridad con resultados esperados por escrito, construir confianza con tareas que permitan éxito y feedback pronto, y fomentar la pertenencia con presentaciones, un acompañante y contacto regular.
 
 ## 📖 Desarrollo
 
-### 1. onboarding: mecanismo central
+### 1. Qué dice la investigación
 
-**onboarding** se entiende aquí como **proceso de integración hasta alcanzar contribución y pertenencia razonables**. Esta es la pieza causal o estructural desde la que se inicia **onboarding y primeros 90 días**: antes de preparar accesos y contexto antes del ingreso, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Bauer y colegas hicieron un metaanálisis sobre el **ajuste de los recién llegados** y encontraron que tres resultados —claridad del rol, autoeficacia y aceptación social— se asocian con mejor desempeño, mayor satisfacción y menor intención de irse. Entre los factores que los favorecen están la información que recibe la persona, la conducta proactiva y el apoyo del jefe y de los compañeros. Las tácticas de socialización estructuradas (secuencias, apoyo, información clara) se asocian con mejores ajustes que dejar que cada uno se las arregle.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **time-to-productivity**; regístrala con periodo, unidad, población y baseline.
+### 2. Antes del primer día
 
-Relaciona el mecanismo con **time-to-productivity**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El onboarding comienza al aceptar la oferta. Antes de que llegue: confirmar fecha y condiciones; preparar el puesto, accesos y equipo; informar al equipo; designar un **acompañante**; y enviar un breve plan con la primera semana. La persona que llega y encuentra todo listo comprende que importa. La que encuentra desorden concluye que no.
 
-### 2. time-to-productivity: frontera conceptual y error de clasificación
+### 3. Los primeros días
 
-**Definición operacional:** tiempo para alcanzar desempeño esperado. Su valor está en distinguirlo de **onboarding** y **role clarity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El primer día no es para papeleo; es para **pertenencia y claridad**. Qué hacer: recibirla personalmente, presentarla, almorzar con el equipo, explicar la semana, recordar el propósito del equipo y mostrar cómo su cargo se conecta con él. La primera semana, tareas pequeñas con éxito posible, reuniones con las personas clave y una conversación sobre expectativas (clase 051). Evita llenar la agenda de capacitaciones masivas sin contexto.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **time-to-productivity** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **accesos listos día uno** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Un plan de 30, 60 y 90 días
 
-Antes de acordar 30-60-90 outcomes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Watkins propone que, en la transición, la persona **aprenda** rápido, construya **relaciones** y logre **ganancias tempranas**. Un plan por tramos: **30 días**, aprender: entender el negocio, las personas, los procesos, las expectativas; **60 días**, contribuir: asumir tareas con apoyo y lograr algún resultado pequeño; **90 días**, responsabilizarse: tomar un resultado propio y presentar un plan. Se acuerda por escrito y se revisa en conversaciones regulares con el jefe.
 
-### 3. role clarity: operacionalización y medición
+### 5. Claridad del rol
 
-**role clarity** significa **comprensión de outcomes, autoridad y prioridades**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un recién llegado necesita saber: qué se espera, cómo se medirá, quién decide qué, con quién trabaja y qué significa hacerlo bien en cada etapa. Es el trabajo de las clases 050, 051 y 061 aplicado a una persona. Una conversación inicial, y de nuevo a los 30 días, con una pregunta clave: «¿qué no te ha quedado claro de lo que se espera de ti?».
 
-Kim Scott — *Radical Candor* orienta este bloque mediante **perspectiva de Feedback aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **claridad de rol**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Feedback y apoyo social
 
-Al llegar a construir mapa de stakeholders, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La autoeficacia se construye con **éxitos tempranos y feedback pronto**: asignar tareas alcanzables, observar y reconocer lo que sale bien, corregir con prontitud y sin dramatismo. La aceptación social se favorece con un acompañante o «par de apoyo», presentaciones a los equipos con quienes interactuará y actividades de contacto. El jefe mantiene contacto frecuente: en las primeras semanas, un uno a uno semanal (clase 055).
 
-### 4. network building: trade-offs y efectos de segundo orden
+### 7. Evaluar el onboarding
 
-**Definición:** desarrollo de relaciones necesarias para ejecutar. Este concepto obliga a abandonar la idea de que **onboarding y primeros 90 días** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de combinar aprendizaje con entregas pequeñas, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* aporta una lente sobre **perspectiva de Sucesión aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **retención 90 días** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **onboarding y primeros 90 días**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **network building** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. quick win: gobernanza, límites e integración
-
-**quick win** se define como **resultado temprano que produce aprendizaje y credibilidad sin riesgo excesivo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert I. Sutton — *Good Boss, Bad Boss* se utiliza para estudiar **conductas concretas de buenos jefes y reducción de daño organizacional** y contrastar la recomendación final. Al ejecutar revisar ajuste y soporte cada etapa, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **onboarding**, **time-to-productivity**, **role clarity**, **network building** y **quick win** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **onboarding y primeros 90 días** no consiste en sumar cinco definiciones. Empieza por **onboarding**, contrasta **time-to-productivity** con **role clarity**, incorpora **network building** como restricción o mecanismo y usa **quick win** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Para saber si funciona: preguntas de **pulso** a los 30, 60 y 90 días a la persona nueva («¿tienes claro lo que se espera?, ¿tienes lo que necesitas?, ¿con quién cuentas?»), medición del tiempo hasta la autonomía, desempeño a los 90 y 180 días, y **rotación temprana**. Si alguien se va antes de seis meses, se analiza el proceso: ¿qué señal temprana se perdió? Un mal onboarding suele pagarse con una nueva contratación.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **onboarding y primeros 90 días** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **onboarding y primeros 90 días** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **onboarding y primeros 90 días** ayuda a desafiar? |
-| Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* | perspectiva de Sucesión aplicada al problema de la clase | ¿Qué supuesto de **onboarding y primeros 90 días** ayuda a desafiar? |
-| Robert I. Sutton — *Good Boss, Bad Boss* | conductas concretas de buenos jefes y reducción de daño organizacional | ¿Qué supuesto de **onboarding y primeros 90 días** ayuda a desafiar? |
-
-En **onboarding y primeros 90 días**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **onboarding**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Bauer et al. (2007) | Factores y resultados del ajuste del recién llegado. | Es un metaanálisis con estudios de calidad variable. | ¿Qué factor falta en tu onboarding? |
+| Watkins (2003) | Transición en los primeros noventa días, aprendizaje y ganancias tempranas. | Se centra en líderes que asumen un nuevo cargo. | ¿Qué plan tiene la persona para sus primeros 90 días? |
+| Bock (2015) | Prácticas de onboarding en una empresa de tecnología. | Relato de una empresa. | ¿Qué aplicaría tu organización? |
+| Grove (1983) | Uso del uno a uno para transferir conocimiento. | No trata de onboarding. | ¿Cuántos uno a uno tendrás en el primer mes? |
+| Edmondson (2018) | Seguridad psicológica para preguntar. | No trata de plan. | ¿La persona nueva puede preguntar sin temor? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un senior entra a una empresa y recibe equipo, políticas y una lista de reuniones. A los 45 días aún no sabe qué decisiones puede tomar ni cómo se mide éxito.
+**Situación (hipotética).** Una empresa contrata a Camila como analista de datos. Su jefe, Rodrigo, prepara el plan.
 
-**Paso 1 — preparar accesos y contexto antes del ingreso.** La gerencia escribe primero el supuesto asociado a **onboarding** y evita convertirlo en hecho. Luego busca **time-to-productivity** para contrastarlo en el caso de **onboarding y primeros 90 días**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tramo | Aprender | Contribuir | Resultado esperado |
+|---|---|---|---|
+| **Antes del día 1** | Accesos, equipo, plan de la primera semana, acompañante (Julio). | — | Todo listo. |
+| **Semana 1** | Presentaciones con cinco personas clave; revisión de los datos principales. | Una tarea pequeña: limpiar una tabla. | Éxito temprano y feedback. |
+| **Día 30** | Entiende el proceso, las fuentes y las necesidades de dos áreas. | Entrega un informe breve con apoyo. | Claridad del rol: lista de lo que se espera. |
+| **Día 60** | Profundiza en dos modelos. | Asume el informe mensual de una área. | Informe validado por el área. |
+| **Día 90** | Ha trabajado con cuatro equipos. | Presenta un plan para mejorar una métrica clave. | Una ganancia temprana: reducir en 20 % el tiempo de preparación de un informe. |
 
-**Paso 2 — acordar 30-60-90 outcomes.** La gerencia escribe primero el supuesto asociado a **time-to-productivity** y evita convertirlo en hecho. Luego busca **accesos listos día uno** para contrastarlo en el caso de **onboarding y primeros 90 días**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Seguimiento.** Uno a uno semanal el primer mes, quincenal después. Preguntas de pulso a los 30, 60 y 90 días. Revisión de desempeño a los 90 días con el criterio de «¿asumió un resultado propio?».
 
-**Paso 3 — construir mapa de stakeholders.** La gerencia escribe primero el supuesto asociado a **role clarity** y evita convertirlo en hecho. Luego busca **claridad de rol** para contrastarlo en el caso de **onboarding y primeros 90 días**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — combinar aprendizaje con entregas pequeñas.** La gerencia escribe primero el supuesto asociado a **network building** y evita convertirlo en hecho. Luego busca **retención 90 días** para contrastarlo en el caso de **onboarding y primeros 90 días**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar ajuste y soporte cada etapa.** La gerencia escribe primero el supuesto asociado a **quick win** y evita convertirlo en hecho. Luego busca **objetivos 30-60-90** para contrastarlo en el caso de **onboarding y primeros 90 días**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **onboarding y primeros 90 días**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El plan atiende claridad, autoeficacia y aceptación social. (2) Hay ganancias tempranas concretas. (3) Se mide el proceso.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **onboarding** | proceso de integración hasta alcanzar contribución y pertenencia razonables | Cuando time-to-productivity es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **time-to-productivity** | tiempo para alcanzar desempeño esperado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Onboarding frente a inducción.** La inducción es el conjunto de actividades informativas del ingreso; el onboarding es el proceso completo de ajuste, que dura meses.
 
-**Frontera de aplicación:** Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente.
+**Límites.** Los factores del metaanálisis son asociaciones: no garantizan que aplicarlos producirá los resultados. El plan de 30, 60 y 90 días de Watkins está pensado para líderes en transición y se adapta con criterio a otros cargos. Un onboarding perfecto no compensa una selección errónea ni un cargo mal diseñado. Y las exigencias legales sobre inducción en seguridad, contratos y entrega de documentos se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre onboarding y primeros 90 días |
+| Nivel | Cómo trabaja el onboarding |
 |---|---|
-| **Profesional** | usa **onboarding y primeros 90 días** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **onboarding** y **time-to-productivity** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta time-to-productivity con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si onboarding y primeros 90 días cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de onboarding y primeros 90 días reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **onboarding y primeros 90 días** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Como recién llegado, pregunta, pide claridad y construye relaciones. |
+| **Jefe / Team Lead** | Prepara el plan, acompaña y mide. |
+| **Gerente** | Estandariza el onboarding de su área y revisa la rotación temprana. |
+| **CEO / Director** | Define el onboarding de líderes y vigila la transición de su propio equipo. |
+| **Founder / Owner** | Integra a las primeras personas cuando hay poco proceso: lo diseña de forma simple. |
 
 ## 🏢 Caso ejecutivo
 
-Un senior entra a una empresa y recibe equipo, políticas y una lista de reuniones. A los 45 días aún no sabe qué decisiones puede tomar ni cómo se mide éxito.
+Una empresa contrató a una ingeniera con excelente currículum. El primer día encontró su puesto sin preparar y a su jefe en un viaje; durante tres semanas hizo capacitaciones masivas sin conocer a su equipo; recibió su primera tarea el día 25. A los cuatro meses renunció diciendo que «no entendió qué se esperaba de ella». El jefe dice que «tenía que ser más proactiva».
 
-Entrega un **decision brief de onboarding y primeros 90 días** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de onboarding** que contenga: (a) el diagnóstico de lo que falló, con los tres factores de ajuste; (b) la preparación previa y el primer día; (c) el plan de 30, 60 y 90 días con ganancias tempranas; (d) el apoyo: jefe, acompañante y red; (e) las preguntas de pulso y el seguimiento; (f) cómo evaluarás si el onboarding funciona.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **onboarding y primeros 90 días** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta time-to-productivity, accesos listos día uno; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe un plan de 30, 60 y 90 días para una persona nueva de tu equipo.
+2. Define una ganancia temprana para el día 90.
+3. Redacta cinco preguntas de pulso para el día 30.
+4. Designa un acompañante y escribe qué le pedirás.
+5. Revisa la rotación temprana de los últimos dos años y qué proceso falló.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar onboarding y time-to-productivity como sinónimos | Se pierde la distinción entre “proceso de integración hasta alcanzar contribución y pertenencia razonables” y “tiempo para alcanzar desempeño esperado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar ajuste y soporte cada etapa” | Se saltó “preparar accesos y contexto antes del ingreso” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa y marca el primer supuesto no demostrado. |
-| Optimizar solo time-to-productivity | La métrica local sustituyó al resultado del sistema | Contrástala con accesos listos día uno y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre onboarding y primeros 90 días | Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente. |
-| No fijar revisión | Una decisión sobre onboarding y primeros 90 días se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Dejar a la persona sola | Se asume proactividad | Plan, acompañante y uno a uno. |
+| Primer día de papeleo | Es un trámite | Pertenencia y claridad. |
+| Capacitaciones masivas sin contexto | Se quiere cubrir todo | Aprendizaje guiado con tareas reales. |
+| Esperar demasiado para dar trabajo | Se quiere preparar | Tareas pequeñas desde la primera semana. |
+| No medir | Se da por hecho | Preguntas de pulso y rotación temprana. |
+| Culpar a la persona | Es fácil | Revisar el proceso. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **onboarding** y **time-to-productivity** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **role clarity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar accesos y contexto antes del ingreso → acordar 30-60-90 outcomes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **time-to-productivity** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **onboarding y primeros 90 días**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente.**?
+1. ¿Qué tres resultados de ajuste identifican Bauer y colegas?
+2. ¿Qué se prepara antes del primer día?
+3. ¿Qué tres tramos tiene el plan de Watkins?
+4. ¿Qué es una ganancia temprana?
+5. ¿Cómo se fomenta la aceptación social?
+6. ¿Cómo se evalúa el onboarding?
+7. ¿Qué límite tienen los factores del metaanálisis?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Claridad del rol, autoeficacia y aceptación social.
+2. Accesos y equipo, plan de la primera semana, informar al equipo y un acompañante.
+3. Aprender, contribuir y responsabilizarse, a 30, 60 y 90 días.
+4. Un resultado visible logrado pronto que da credibilidad.
+5. Con presentaciones, un acompañante, contacto regular y pertenencia al equipo.
+6. Con preguntas de pulso, tiempo hasta la autonomía, desempeño posterior y rotación temprana.
+7. Son asociaciones, no garantías de que aplicarlos produzca los resultados.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/065-onboarding-y-primeros-90-dias/`:
 
-- `risk-governance-brief.md` con el problema específico de **onboarding y primeros 90 días**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **onboarding y primeros 90 días** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **onboarding**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un senior entra a una empresa y recibe equipo, políticas y una lista de reuniones. A los 45 días aún no sabe qué decisiones puede tomar ni cómo se mide éxito.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan de onboarding del caso ejecutivo;
+- `one-on-one.md` (plantilla [One-on-one](../../../../templates/one-on-one.md)) con la estructura del seguimiento;
+- `decision-journal.md` con el pulso a 30, 60 y 90 días.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **onboarding y primeros 90 días** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **onboarding y primeros 90 días** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **onboarding y primeros 90 días** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **onboarding y primeros 90 días** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Talya N. Bauer, Todd Bodner, Berrin Erdogan, Donald M. Truxillo & Jennifer S. Tucker — *Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods* (Journal of Applied Psychology, 2007). **Uso en esta clase:** factores y resultados del ajuste del recién llegado. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [DOI 10.1037/0021-9010.92.3.707](https://doi.org/10.1037/0021-9010.92.3.707).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** transición de los primeros noventa días y ganancias tempranas. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
+- Laszlo Bock — *Work Rules!* (Twelve, 2015). **Uso en esta clase:** prácticas de onboarding en una empresa de tecnología. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9781455554799](https://openlibrary.org/isbn/9781455554799).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** el uno a uno como transferencia de conocimiento. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para preguntar. Lectura selectiva sobre **onboarding y primeros 90 días**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Onboarding y primeros 90 días:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **onboarding y primeros 90 días** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Onboarding y primeros 90 días:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones de inducción en seguridad y de contrato. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,222 +5,191 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Upskilling efectivo parte de brechas estratégicas y oportunidades de práctica, no de catálogo de cursos. La organización debe decidir qué capacidades construir internamente, quién necesita nivel básico o experto y cómo se demostrará transferencia al trabajo.
+Las organizaciones gastan mucho en capacitación y obtienen poco cambio en lo que las personas hacen. La razón es conocida por quienes estudian el aprendizaje: **asistir a un curso no es aprender**, y aprender no es lo mismo que cambiar una conducta en el trabajo. Para que una capacidad nueva se instale hace falta práctica en el límite de lo que la persona puede, retroalimentación pronta, repetición espaciada y oportunidades reales de aplicarla.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **aprendizaje y upskilling** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa la investigación sobre práctica deliberada de Anders Ericsson, los principios de aprendizaje que sintetizan Ambrose y colegas y las conclusiones de Brown, Roediger y McDaniel sobre aprendizaje efectivo. Al terminar sabrás diagnosticar brechas de capacidades, diseñar un plan de aprendizaje con práctica y transferencia, y evaluar si cambió algo que importe.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `upskilling`, `reskilling`, `skill taxonomy`, `learning path`, `transferencia` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** skill assessments, transferencia a proyectos, movilidad interna sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** capacitación, aprendizaje y cambio de conducta.
+2. **Describir** los rasgos de la práctica deliberada.
+3. **Aplicar** principios de aprendizaje: conocimiento previo, práctica, retroalimentación y recuperación.
+4. **Diseñar** un plan de upskilling con objetivo, práctica, transferencia y medición.
+5. **Evaluar** el efecto de una intervención de aprendizaje en el trabajo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define upskilling y reskilling sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con skill assessments y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un curso del que no aplicaste nada y otro que sí cambió lo que haces; ¿qué los diferenció? |
+| 20–60 min | Práctica deliberada y principios de aprendizaje. |
+| 60–105 min | Ejemplo trabajado: un plan de upskilling en análisis de datos. |
+| 105–140 min | Caso ejecutivo: un programa de capacitación masivo sin efecto. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **upskilling** | profundización de capacidades para responsabilidades actuales o crecientes | Distingue un hecho compatible y otro que lo refute. |
-| **reskilling** | desarrollo de capacidades para un rol distinto | Distingue un hecho compatible y otro que lo refute. |
-| **skill taxonomy** | lenguaje común para describir capacidades | Distingue un hecho compatible y otro que lo refute. |
-| **learning path** | secuencia de aprendizaje y práctica hacia un estándar | Distingue un hecho compatible y otro que lo refute. |
-| **transferencia** | uso efectivo de la capacidad en trabajo real | Distingue un hecho compatible y otro que lo refute. |
+| **Upskilling** | Desarrollo de capacidades que una persona necesita para su cargo actual o próximo. | Hay una capacidad objetivo y evidencia de dominio. |
+| **Práctica deliberada** | Práctica diseñada para mejorar un aspecto específico, al límite de la capacidad, con retroalimentación inmediata (Ericsson y Pool, 2016). | Es exigente, repetida y con corrección. |
+| **Conocimiento previo** | Lo que la persona ya sabe y condiciona lo que aprende (Ambrose et al., 2010). | Se explora antes de enseñar. |
+| **Práctica de recuperación** | Intentar recordar lo aprendido, en lugar de releerlo (Brown et al., 2014). | Se evalúa sin mirar los apuntes. |
+| **Práctica espaciada** | Repetir con intervalos de tiempo en vez de concentrar todo (Brown et al., 2014). | Hay sesiones repartidas. |
+| **Transferencia** | Aplicación de lo aprendido a situaciones reales. | Cambia lo que se hace en el trabajo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 069: 1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral](modelo-mental.svg)
+![Aprender una capacidad nueva en el trabajo en cinco pasos: brecha, objetivo al límite, práctica con feedback, transferencia y medición.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Upskilling efectivo parte de brechas estratégicas y oportunidades de práctica, no de catálogo de cursos. La organización debe decidir qué capacidades construir internamente, quién necesita nivel básico o experto y cómo se demostrará transferencia al trabajo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar.**
+**Cómo leer el diagrama.** El aprendizaje no es un evento sino una secuencia: se identifica la **brecha**, se fija un objetivo exigente pero alcanzable, se **practica con feedback**, se **transfiere** a un trabajo real y se **mide** el cambio. Un curso suele cubrir solo el tercer paso, sin práctica ni transferencia, y por eso su efecto es bajo.
 
 ## 📖 Desarrollo
 
-### 1. upskilling: mecanismo central
+### 1. Capacitación no es aprendizaje
 
-**upskilling** se entiende aquí como **profundización de capacidades para responsabilidades actuales o crecientes**. Esta es la pieza causal o estructural desde la que se inicia **aprendizaje y upskilling**: antes de mapear capacidades críticas futuras, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una asistencia al curso se mide fácil; el aprendizaje, no. Y el cambio de conducta en el trabajo depende de factores adicionales: si la persona tiene la oportunidad de aplicar lo aprendido, si su jefe lo apoya y si el entorno lo permite. Por eso conviene definir el **resultado esperado en el trabajo** —qué hará distinto la persona— antes de elegir la actividad de aprendizaje.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **skill assessments**; regístrala con periodo, unidad, población y baseline.
+### 2. Práctica deliberada
 
-Relaciona el mecanismo con **reskilling**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Ericsson, estudiando a expertos en música, deporte y ajedrez, concluyó que el alto desempeño no resulta de la mera experiencia sino de una **práctica deliberada**: tareas diseñadas para mejorar aspectos específicos, un poco más allá de lo que la persona hace con comodidad, con **retroalimentación inmediata** y con repetición. Suele requerir un buen guía o mentor. No es agradable ni siempre divertida. En el trabajo, se traduce en asignaciones que estiran, con alguien que observe y dé feedback.
 
-### 2. reskilling: frontera conceptual y error de clasificación
+### 3. Principios de aprendizaje
 
-**Definición operacional:** desarrollo de capacidades para un rol distinto. Su valor está en distinguirlo de **upskilling** y **skill taxonomy**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Ambrose y colegas resumen siete principios con base en la investigación. Entre los más útiles para quien diseña aprendizaje: el **conocimiento previo** puede ayudar o interferir, y conviene activarlo y corregirlo; la **organización** del conocimiento influye en cómo se recupera y aplica; la **motivación** y el valor percibido de la tarea orientan el esfuerzo; la **práctica dirigida con retroalimentación** es clave; y el aprendiz se beneficia de desarrollar su **autorregulación** (monitorear su propio aprendizaje).
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **reskilling** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **transferencia a proyectos** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Estrategias que funcionan
 
-Antes de diagnosticar nivel actual, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Brown, Roediger y McDaniel sintetizan estrategias respaldadas por la investigación: la **práctica de recuperación** (intentar recordar, no releer), la **práctica espaciada** (repartir en el tiempo), la **intercalación** de temas (mezclar tipos de problemas) y la elaboración (explicar con palabras propias). Se sienten más difíciles que releer o repetir seguido, y precisamente por eso funcionan: la dificultad deseable fortalece el aprendizaje. Muchas prácticas habituales de capacitación —una jornada intensiva única— son poco eficaces.
 
-### 3. skill taxonomy: operacionalización y medición
+### 5. Aprender en el trabajo
 
-**skill taxonomy** significa **lenguaje común para describir capacidades**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La mayor parte del aprendizaje de un adulto ocurre en el trabajo. Medios útiles: **asignaciones de desarrollo** (tareas nuevas con apoyo), **rotaciones**, **proyectos**, **mentoría**, **coaching** (clase 054), **comunidades de práctica** y **retroalimentación** (clase 030). Un modelo popular propone distribuciones fijas entre experiencia, relaciones y formación, pero esas proporciones carecen de respaldo sólido y no deben usarse como regla: lo importante es combinar experiencia, apoyo y formación según la capacidad.
 
-Robert I. Sutton — *Good Boss, Bad Boss* orienta este bloque mediante **conductas concretas de buenos jefes y reducción de daño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **movilidad interna**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Diseñar un plan
 
-Al llegar a priorizar brechas por impacto, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Pasos: **1)** definir la **capacidad objetivo** por resultados en el trabajo; **2)** diagnosticar la **brecha** con evidencia, no solo con autoevaluación; **3)** fijar un **objetivo** al límite de la capacidad, con criterios; **4)** elegir **actividades** que incluyan práctica con feedback y recuperación espaciada; **5)** planificar la **transferencia**: una situación real y apoyo del jefe; **6)** definir cómo se **medirá** el cambio. Un plan para un trimestre suele ser más realista que uno anual.
 
-### 4. learning path: trade-offs y efectos de segundo orden
+### 7. Medir el efecto
 
-**Definición:** secuencia de aprendizaje y práctica hacia un estándar. Este concepto obliga a abandonar la idea de que **aprendizaje y upskilling** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de combinar estudio, práctica y coaching, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John Boudreau & Peter Ramstad — *Beyond HR* aporta una lente sobre **perspectiva de Talento aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **tiempo hasta competencia** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **aprendizaje y upskilling**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **learning path** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. transferencia: gobernanza, límites e integración
-
-**transferencia** se define como **uso efectivo de la capacidad en trabajo real** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John Whitmore — *Coaching for Performance* se utiliza para estudiar **perspectiva de Coaching aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar validar transferencia con evidencia laboral, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **upskilling**, **reskilling**, **skill taxonomy**, **learning path** y **transferencia** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **aprendizaje y upskilling** no consiste en sumar cinco definiciones. Empieza por **upskilling**, contrasta **reskilling** con **skill taxonomy**, incorpora **learning path** como restricción o mecanismo y usa **transferencia** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se evalúa en varios niveles: **reacción** (satisfacción, poco informativa), **aprendizaje** (qué saben o pueden hacer), **conducta** (qué hacen distinto en el trabajo), y **resultados** (qué cambia en el desempeño). El más difícil y relevante es la conducta: se observa con indicadores de trabajo, feedback del jefe y de pares. Si no hay cambio, se examina si faltó práctica, oportunidad de aplicar o apoyo, antes de culpar a la persona.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **aprendizaje y upskilling** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **aprendizaje y upskilling** ayuda a desafiar? |
-| Robert I. Sutton — *Good Boss, Bad Boss* | conductas concretas de buenos jefes y reducción de daño organizacional | ¿Qué supuesto de **aprendizaje y upskilling** ayuda a desafiar? |
-| John Boudreau & Peter Ramstad — *Beyond HR* | perspectiva de Talento aplicada al problema de la clase | ¿Qué supuesto de **aprendizaje y upskilling** ayuda a desafiar? |
-| John Whitmore — *Coaching for Performance* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **aprendizaje y upskilling** ayuda a desafiar? |
-
-En **aprendizaje y upskilling**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **upskilling**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ericsson y Pool (2016) | Práctica deliberada. | Parte de la evidencia es de dominios con reglas claras. | ¿Qué práctica estira a la persona? |
+| Ambrose et al. (2010) | Principios de aprendizaje con base en investigación. | No es específico de la empresa. | ¿Qué conocimiento previo debes explorar? |
+| Brown, Roediger y McDaniel (2014) | Estrategias de recuperación y espaciado. | Se centra en el aprendizaje académico. | ¿Qué parte de tu capacitación es recuperación? |
+| Whitmore (1992) | Coaching para facilitar el aprendizaje. | No cubre formación. | ¿Qué pregunta ayuda a la persona a reflexionar? |
+| Charan, Drotter y Noel (2001) | Desarrollo para pasajes de liderazgo. | Se centra en líderes. | ¿Qué capacidad exige el próximo pasaje? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa compra 5.000 licencias de cursos de IA y mide éxito por horas vistas. Seis meses después nadie puede mostrar cambios en procesos o decisiones.
+**Situación (hipotética).** Una empresa necesita que sus analistas comerciales usen análisis de datos para proponer precios. El área de personas ofreció un curso de dos días; seis meses después, casi nadie lo usa.
 
-**Paso 1 — mapear capacidades críticas futuras.** La gerencia escribe primero el supuesto asociado a **upskilling** y evita convertirlo en hecho. Luego busca **skill assessments** para contrastarlo en el caso de **aprendizaje y upskilling**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Plan de upskilling |
+|---|---|
+| **Capacidad objetivo** | Proponer ajustes de precio con análisis de sensibilidad en dos cuentas por trimestre. |
+| **Brecha** | Tres de ocho analistas la manejan; evidencia: un ejercicio práctico con datos reales. |
+| **Objetivo al límite** | Para cada persona: un análisis de sensibilidad completo sobre una cuenta real en seis semanas. |
+| **Práctica con feedback** | Sesiones semanales de una hora con un mentor; cada analista presenta su avance y recibe feedback de tarea. |
+| **Recuperación y espaciado** | Cada semana, un problema nuevo resuelto sin consultar apuntes; repaso a las dos y seis semanas. |
+| **Transferencia** | Un caso real revisado por el gerente comercial; el jefe protege dos horas semanales. |
+| **Medición** | Número de propuestas con análisis, cambios de precio y margen; feedback del gerente. |
 
-**Paso 2 — diagnosticar nivel actual.** La gerencia escribe primero el supuesto asociado a **reskilling** y evita convertirlo en hecho. Luego busca **transferencia a proyectos** para contrastarlo en el caso de **aprendizaje y upskilling**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** A los tres meses, siete de ocho analistas presentan propuestas con análisis; el margen de las cuentas revisadas sube 1,5 puntos.
 
-**Paso 3 — priorizar brechas por impacto.** La gerencia escribe primero el supuesto asociado a **skill taxonomy** y evita convertirlo en hecho. Luego busca **movilidad interna** para contrastarlo en el caso de **aprendizaje y upskilling**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — combinar estudio, práctica y coaching.** La gerencia escribe primero el supuesto asociado a **learning path** y evita convertirlo en hecho. Luego busca **tiempo hasta competencia** para contrastarlo en el caso de **aprendizaje y upskilling**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — validar transferencia con evidencia laboral.** La gerencia escribe primero el supuesto asociado a **transferencia** y evita convertirlo en hecho. Luego busca **uso de capacidades nuevas** para contrastarlo en el caso de **aprendizaje y upskilling**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **aprendizaje y upskilling**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se definió el resultado en el trabajo antes de la actividad. (2) Hubo práctica con feedback y recuperación. (3) El jefe protegió el tiempo y se midió la conducta.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **upskilling** | profundización de capacidades para responsabilidades actuales o crecientes | Cuando skill assessments es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **reskilling** | desarrollo de capacidades para un rol distinto | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Capacitación frente a desarrollo.** La capacitación transmite conocimientos específicos; el desarrollo prepara a la persona para responsabilidades futuras, e incluye experiencias, relaciones y reflexión.
 
-**Frontera de aplicación:** No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar.
+**Límites.** La práctica deliberada se estudió sobre todo en dominios con reglas y medidas claras, y su generalización a tareas de gestión es una extrapolación. Las estrategias de recuperación y espaciado provienen de investigación educativa. Y el aprendizaje depende del contexto: no ocurre si el entorno no permite aplicar lo aprendido o penaliza los errores. Las obligaciones de capacitación en seguridad y las normas sobre franquicias de capacitación se verifican en su fuente vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre aprendizaje y upskilling |
+| Nivel | Cómo trabaja el aprendizaje |
 |---|---|
-| **Profesional** | usa **aprendizaje y upskilling** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **upskilling** y **reskilling** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta skill assessments con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si aprendizaje y upskilling cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de aprendizaje y upskilling reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **aprendizaje y upskilling** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Diseña su propia práctica y pide feedback. |
+| **Jefe / Team Lead** | Asigna tareas que estiran y protege el tiempo para practicar. |
+| **Gerente** | Planifica el desarrollo de capacidades de su área según la estrategia. |
+| **CEO / Director** | Invierte en capacidades críticas y evalúa su efecto en el negocio. |
+| **Founder / Owner** | Aprende constantemente y desarrolla a su equipo con recursos limitados. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa compra 5.000 licencias de cursos de IA y mide éxito por horas vistas. Seis meses después nadie puede mostrar cambios en procesos o decisiones.
+Una empresa invirtió USD 120.000 en un programa de liderazgo digital de dos días para 80 gerentes. En las evaluaciones inmediatas, el 92 % lo calificó bien; seis meses después, una encuesta muestra que el 85 % no usa nada de lo aprendido. Los jefes dicen que «no hay tiempo». El director quiere repetir el programa con otro proveedor.
 
-Entrega un **decision brief de aprendizaje y upskilling** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de upskilling** que contenga: (a) el diagnóstico de por qué no hubo cambio; (b) la capacidad objetivo definida por resultados en el trabajo; (c) el diseño con práctica, feedback, recuperación espaciada y transferencia; (d) el papel de los jefes; (e) cómo medirás reacción, aprendizaje, conducta y resultados; (f) qué decidirás sobre el presupuesto restante.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **aprendizaje y upskilling** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta skill assessments, transferencia a proyectos; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Define una capacidad que necesitas por resultados en el trabajo, no por un curso.
+2. Diagnostica tu brecha con evidencia (un ejercicio real).
+3. Diseña tres sesiones espaciadas de práctica con feedback.
+4. Define cómo aplicarás lo aprendido en una situación real.
+5. Elige el indicador de conducta que revisarás a los tres meses.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar upskilling y reskilling como sinónimos | Se pierde la distinción entre “profundización de capacidades para responsabilidades actuales o crecientes” y “desarrollo de capacidades para un rol distinto” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “validar transferencia con evidencia laboral” | Se saltó “mapear capacidades críticas futuras” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral y marca el primer supuesto no demostrado. |
-| Optimizar solo skill assessments | La métrica local sustituyó al resultado del sistema | Contrástala con transferencia a proyectos y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre aprendizaje y upskilling | No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar. |
-| No fijar revisión | Una decisión sobre aprendizaje y upskilling se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Medir asistencia | Es fácil | Medir conducta y resultados. |
+| Jornada intensiva única | Es cómoda | Espaciar la práctica. |
+| Releer en lugar de recuperar | Se siente productivo | Practicar la recuperación. |
+| Sin oportunidad de aplicar | No se piensa en el entorno | Definir la situación de transferencia. |
+| Sin apoyo del jefe | Se delega a personas | Comprometer al jefe y proteger tiempo. |
+| Usar proporciones fijas de aprendizaje | Parecen científicas | Combinar según la capacidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **upskilling** y **reskilling** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **skill taxonomy** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear capacidades críticas futuras → diagnosticar nivel actual** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **skill assessments** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **aprendizaje y upskilling**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar.**?
+1. ¿Qué diferencia hay entre capacitación y cambio de conducta?
+2. ¿Qué rasgos tiene la práctica deliberada?
+3. ¿Qué estrategias de aprendizaje respaldan Brown, Roediger y McDaniel?
+4. ¿Qué cuatro niveles de evaluación del aprendizaje se pueden usar?
+5. ¿Qué papel tiene el jefe?
+6. ¿Por qué no usar proporciones fijas de experiencia, relaciones y formación?
+7. ¿Qué límite tiene la evidencia de práctica deliberada?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La capacitación es la actividad; el cambio de conducta es lo que la persona hace distinto en el trabajo, y depende de la oportunidad y el apoyo.
+2. Está diseñada para un aspecto específico, al límite de la capacidad, con retroalimentación inmediata y repetición.
+3. Práctica de recuperación, práctica espaciada, intercalación y elaboración.
+4. Reacción, aprendizaje, conducta y resultados.
+5. Protege el tiempo, da oportunidades de aplicar y feedback sobre la conducta.
+6. Porque carecen de respaldo sólido; importa combinar según la capacidad.
+7. Se estudió sobre todo en dominios con reglas y medidas claras; su extensión a la gestión es una extrapolación.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/069-aprendizaje-y-upskilling/`:
 
-- `leadership-decision-brief.md` con el problema específico de **aprendizaje y upskilling**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **aprendizaje y upskilling** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **upskilling**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa compra 5.000 licencias de cursos de IA y mide éxito por horas vistas. Seis meses después nadie puede mostrar cambios en procesos o decisiones.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Ericsson y Brown, Roediger y McDaniel;
+- `decision-journal.md` con la medición de conducta y el ajuste.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- John Boudreau & Peter Ramstad — *Beyond HR* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Talento aplicada al problema de la clase. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9781422104156](https://openlibrary.org/isbn/9781422104156).
-- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **aprendizaje y upskilling** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **aprendizaje y upskilling** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **aprendizaje y upskilling** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **aprendizaje y upskilling** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** práctica deliberada. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
+- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** principios de aprendizaje con base en investigación. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** práctica de recuperación y espaciada. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
+- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** coaching para facilitar el aprendizaje. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
+- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** desarrollo para los pasajes de liderazgo. Lectura selectiva sobre **aprendizaje y upskilling**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
 
-> **Regla de fuentes para Aprendizaje y upskilling:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **aprendizaje y upskilling** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Aprendizaje y upskilling:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones de capacitación en seguridad. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

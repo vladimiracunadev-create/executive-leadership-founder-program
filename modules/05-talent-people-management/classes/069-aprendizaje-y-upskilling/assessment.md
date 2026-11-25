@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **upskilling** de **reskilling** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **skill taxonomy** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **learning path** con **transferencia**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre capacitación y cambio de conducta?
+2. ¿Qué rasgos tiene la práctica deliberada?
+3. ¿Qué estrategias de aprendizaje respaldan Brown, Roediger y McDaniel?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa compra 5.000 licencias de cursos de IA y mide éxito por horas vistas. Seis meses después nadie puede mostrar cambios en procesos o decisiones.
+**Caso:** Una empresa invirtió USD 120.000 en un programa de liderazgo digital de dos días para 80 gerentes. En las evaluaciones inmediatas, el 92 % lo calificó bien; seis meses después, una encuesta muestra que el 85 % no usa nada de lo aprendido. Los jefes dicen que «no hay tiempo». El director quiere repetir el programa con otro proveedor.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear capacidades críticas futuras → diagnosticar nivel actual → priorizar brechas por impacto → combinar estudio, práctica y coaching → validar transferencia con evidencia laboral**. Debes utilizar o diseñar cómo obtener **skill assessments, transferencia a proyectos, movilidad interna**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de upskilling** que contenga: (a) el diagnóstico de por qué no hubo cambio; (b) la capacidad objetivo definida por resultados en el trabajo; (c) el diseño con práctica, feedback, recuperación espaciada y transferencia; (d) el papel de los jefes; (e) cómo medirás reacción, aprendizaje, conducta y resultados; (f) qué decidirás sobre el presupuesto restante. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La práctica deliberada se estudió sobre todo en dominios con reglas y medidas claras, y su generalización a tareas de gestión es una extrapolación.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

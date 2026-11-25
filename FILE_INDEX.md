@@ -5,7 +5,7 @@
 
 **Todo el texto versionado del repositorio, en un listado plano y ordenado.**
 
-[![Archivos](https://img.shields.io/badge/archivos-1464-7c5cff?style=flat-square)](FILE_INDEX.md)
+[![Archivos](https://img.shields.io/badge/archivos-1466-7c5cff?style=flat-square)](FILE_INDEX.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__file__index.py-007c83?style=flat-square)](tools/build_file_index.py)
 [![Se edita](https://img.shields.io/badge/se%20edita-nunca%20a%20mano-8b0000?style=flat-square)](MANIFEST.md)
 
@@ -26,7 +26,7 @@
 | `.md` | 832 |
 | `.yaml` | 289 |
 | `.svg` | 288 |
-| `.py` | 32 |
+| `.py` | 34 |
 | `.yml` | 8 |
 | `(sin extensión)` | 6 |
 | `.json` | 4 |
@@ -2533,6 +2533,7 @@
 
 ### `tools/`
 
+- `_anadir_fuente.py`
 - `_registrar.py`
 - `autorar_clase.py`
 - `build_diagrams.py`
@@ -2550,6 +2551,7 @@
 - `diagramas_parte02.py`
 - `diagramas_parte03.py`
 - `diagramas_parte04.py`
+- `diagramas_parte05.py`
 - `diagramas_spec.py`
 - `inventario.py`
 - `portal_extra.py`

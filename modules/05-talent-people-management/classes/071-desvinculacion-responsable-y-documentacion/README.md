@@ -5,222 +5,188 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Una desvinculación responsable separa decisión de negocio o desempeño, proceso legal, comunicación humana y continuidad operativa. El manager debe basarse en hechos, coordinar con RR.HH./legal, evitar humillación, proteger privacidad y asegurar transferencia de activos y accesos.
+Poner término a una relación de trabajo es una de las decisiones más difíciles de un jefe y una de las más riesgosas: para la persona, que pierde su ingreso y su rutina; para el equipo, que observa cómo se trata a quien se va; y para la organización, que puede enfrentar un litigio si el proceso fue deficiente. Se hace mal de dos maneras: tarde, tras meses de tolerar el problema, y con improvisación, sin hechos documentados ni conocimiento de las normas.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **desvinculación responsable y documentación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase trata la desvinculación como un proceso de **responsabilidad**: decidir con evidencia, verificar la norma aplicable con asesoría, comunicar con dignidad, cuidar a quien se va y a quienes se quedan, y aprender para no repetir el error. La base conceptual es la de las cuatro formas de justicia de Colquitt y colegas. **Las causales, plazos, avisos, indemnizaciones y formalidades dependen de la normativa vigente de cada jurisdicción**: esta clase no las explica ni las interpreta, y remite a las fuentes oficiales y a la asesoría laboral.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `causal de término`, `due process`, `finiquito`, `offboarding`, `knowledge transfer` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** errores de acceso post-salida, reclamos, documentación completa sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** una decisión de desvinculación fundada de una improvisada.
+2. **Documentar** hechos, expectativas, apoyo ofrecido y resultado de forma verificable.
+3. **Identificar** qué debe verificarse con asesoría antes de actuar.
+4. **Conducir** la conversación de término con claridad y dignidad.
+5. **Gestionar** la comunicación al equipo, la transición y el aprendizaje posterior.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define causal de término y due process sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con errores de acceso post-salida y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda cómo se trató a alguien que dejó tu organización; ¿qué mensaje recibió el equipo? |
+| 20–60 min | Decisión, documentación, verificaciones y conversación. |
+| 60–105 min | Ejemplo trabajado: un término tras un plan de mejora sin resultado. |
+| 105–140 min | Caso ejecutivo: una desvinculación por reestructuración. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **causal de término** | fundamento legal o contractual del fin de relación según jurisdicción | Distingue un hecho compatible y otro que lo refute. |
-| **due process** | procedimiento y oportunidad de respuesta exigible según caso | Distingue un hecho compatible y otro que lo refute. |
-| **finiquito** | documento de cierre de obligaciones laborales en sistemas donde aplica | Distingue un hecho compatible y otro que lo refute. |
-| **offboarding** | proceso de salida administrativa, operativa y de seguridad | Distingue un hecho compatible y otro que lo refute. |
-| **knowledge transfer** | traspaso planificado de información crítica | Distingue un hecho compatible y otro que lo refute. |
+| **Desvinculación** | Término de la relación de trabajo por decisión de la organización o de la persona. | Hay una decisión, un proceso y una comunicación. |
+| **Desvinculación responsable** | Término decidido con evidencia, proceso verificado, trato digno y cuidado de quienes se quedan. | Se puede explicar y defender. |
+| **Documentación** | Registro de hechos, expectativas, apoyo y resultados que sustenta la decisión. | Está fechada y es verificable. |
+| **Justicia procedimental** | Percepción de que el proceso fue justo (Colquitt et al., 2001). | Hubo oportunidad de mejora y criterios conocidos. |
+| **Justicia interpersonal** | Percepción de que se trató a la persona con respeto (Colquitt et al., 2001). | La conversación fue digna. |
+| **Verificación legal** | Revisión de la norma aplicable por un asesor antes de actuar. | Está registrada antes de la comunicación. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 071: 1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada](modelo-mental.svg)
+![Una desvinculación responsable, paso a paso: causa documentada, proceso verificado con asesoría, conversación digna, apoyo y logística, comunicación al equipo y aprendizaje.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Una desvinculación responsable separa decisión de negocio o desempeño, proceso legal, comunicación humana y continuidad operativa. El manager debe basarse en hechos, coordinar con RR.HH./legal, evitar humillación, proteger privacidad y asegurar transferencia de activos y accesos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada.**
+**Cómo leer el diagrama.** Seis pasos, con un orden que importa: la **causa documentada** y el **proceso verificado con asesoría** ocurren **antes** de la conversación. Después vienen el trato (conversación, apoyo, comunicación al equipo) y el aprendizaje. El paso rojo —verificar la norma— es el que más a menudo se omite por urgencia y el más caro cuando se omite.
 
 ## 📖 Desarrollo
 
-### 1. causal de término: mecanismo central
+### 1. Cuándo y por qué
 
-**causal de término** se entiende aquí como **fundamento legal o contractual del fin de relación según jurisdicción**. Esta es la pieza causal o estructural desde la que se inicia **desvinculación responsable y documentación**: antes de revisar hechos, documentación y fundamento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una desvinculación puede deberse a **desempeño** insuficiente tras un proceso de mejora (clase 067), a una **conducta** grave, a una **reestructuración** o a decisiones de la persona. Cada causa tiene un proceso y consecuencias distintas. Antes de decidir, el jefe se pregunta: ¿qué se intentó?, ¿la persona sabía lo que se esperaba?, ¿hay alternativas razonables, como un cambio de cargo?, ¿la decisión sería la misma con otra persona en esa situación? La coherencia con casos similares es parte de la justicia del proceso.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **errores de acceso post-salida**; regístrala con periodo, unidad, población y baseline.
+### 2. Documentar
 
-Relaciona el mecanismo con **due process**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La documentación es el sustento de la decisión: **hechos** con fechas y ejemplos; las **expectativas** comunicadas; el **apoyo** ofrecido (formación, coaching, plazos); el **resultado**; y las conversaciones sostenidas. Se escribe con lenguaje descriptivo, sin juicios sobre la persona, y se conserva con confidencialidad. Se redacta **cuando ocurren los hechos**, no después de decidir. Una documentación improvisada tras la decisión pierde credibilidad y puede perjudicar a la organización.
 
-### 2. due process: frontera conceptual y error de clasificación
+### 3. Verificar con asesoría
 
-**Definición operacional:** procedimiento y oportunidad de respuesta exigible según caso. Su valor está en distinguirlo de **causal de término** y **finiquito**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Las normas sobre término de la relación de trabajo —causales, aviso previo, formalidades de la comunicación, indemnizaciones, finiquito, protecciones especiales de ciertas situaciones y personas, plazos para acciones— son **específicas de cada jurisdicción y cambian**. Esta clase no las interpreta. La práctica correcta es consultar a un asesor laboral antes de comunicar la decisión y contrastar con las fuentes oficiales vigentes, como el texto del Código del Trabajo y la orientación de la autoridad laboral. Un error de forma puede tener consecuencias costosas.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **due process** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **reclamos** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La justicia del proceso
 
-Antes de consultar rr.hh./legal antes de comunicar, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Colquitt y colegas muestran que las personas evalúan cuatro cosas: el resultado, el proceso, el trato y la explicación. Aplicado a una desvinculación: **procedimental** —criterios conocidos, oportunidad de mejorar, decisión consistente—; **interpersonal** —respeto y dignidad—; **informacional** —razones veraces y claras—; **distributiva** —un trato final proporcionado—. También las evalúan quienes se quedan: cómo se trata a quien se va es un mensaje sobre cómo se los tratará.
 
-### 3. finiquito: operacionalización y medición
+### 5. La conversación
 
-**finiquito** significa **documento de cierre de obligaciones laborales en sistemas donde aplica**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La conversación de término se prepara y es breve. Principios: en **privado**, con alguien de apoyo (por ejemplo, de personas) y **en un momento adecuado**; el jefe da la noticia **desde el inicio**, sin rodeos; expresa los **hechos y la razón** sin recapitular toda la historia; **reconoce** la emoción sin discutir la decisión; explica los **pasos siguientes** (documentos, pagos, devolución de equipos, referencias) y entrega la información por escrito. Evita frases como «es por tu bien» o «esto me duele más a mí». No se negocia la decisión en esa conversación.
 
-Marcus Buckingham & Curt Coffman — *First, Break All the Rules* orienta este bloque mediante **rol del manager, fortalezas, expectativas y desempeño individual**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **documentación completa**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Apoyo y logística
 
-Al llegar a preparar conversación breve y digna, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La organización cuida detalles que importan: la **transición** de las tareas, el **acceso** a sistemas, la **devolución** de equipos y la entrega de pertenencias, con respeto; el **cumplimiento** de pagos y documentos en los plazos; la **referencia** que se dará; y, cuando corresponda, apoyo de reubicación o asesoría. Despedir con respeto, sin humillaciones públicas, ni escoltas innecesarias, es una responsabilidad. Se aplica el mismo cuidado a la seguridad de la información de la organización, sin presumir mala fe.
 
-### 4. offboarding: trade-offs y efectos de segundo orden
+### 7. Equipo y aprendizaje
 
-**Definición:** proceso de salida administrativa, operativa y de seguridad. Este concepto obliga a abandonar la idea de que **desvinculación responsable y documentación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de ejecutar offboarding y seguridad, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John Boudreau & Peter Ramstad — *Beyond HR* aporta una lente sobre **perspectiva de Talento aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **knowledge transfer** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **desvinculación responsable y documentación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **offboarding** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. knowledge transfer: gobernanza, límites e integración
-
-**knowledge transfer** se define como **traspaso planificado de información crítica** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John Whitmore — *Coaching for Performance* se utiliza para estudiar **perspectiva de Coaching aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar comunicar al equipo sin divulgar información privada, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **causal de término**, **due process**, **finiquito**, **offboarding** y **knowledge transfer** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **desvinculación responsable y documentación** no consiste en sumar cinco definiciones. Empieza por **causal de término**, contrasta **due process** con **finiquito**, incorpora **offboarding** como restricción o mecanismo y usa **knowledge transfer** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El equipo se entera por un mensaje **breve y respetuoso**: que la persona dejó la organización, desde qué fecha, quién asume sus responsabilidades y cómo se manejarán los clientes o proyectos. No se dan detalles personales ni se comentan las razones. Después, el jefe conversa con las personas afectadas y escucha lo que preocupa. Y se hace una **revisión sin culpas**: ¿qué falló antes —en la selección, el onboarding, el apoyo, las expectativas— que habría podido evitar esta situación? Aprender evita repetir el ciclo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **desvinculación responsable y documentación** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **desvinculación responsable y documentación** ayuda a desafiar? |
-| Marcus Buckingham & Curt Coffman — *First, Break All the Rules* | rol del manager, fortalezas, expectativas y desempeño individual | ¿Qué supuesto de **desvinculación responsable y documentación** ayuda a desafiar? |
-| John Boudreau & Peter Ramstad — *Beyond HR* | perspectiva de Talento aplicada al problema de la clase | ¿Qué supuesto de **desvinculación responsable y documentación** ayuda a desafiar? |
-| John Whitmore — *Coaching for Performance* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **desvinculación responsable y documentación** ayuda a desafiar? |
-
-En **desvinculación responsable y documentación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **causal de término**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Colquitt et al. (2001) | Las cuatro dimensiones de justicia. | No trata de normas laborales. | ¿Qué dimensión descuidarías al despedir? |
+| Código del Trabajo (texto vigente) | La norma de la jurisdicción de la clase. | Requiere interpretación experta. | ¿Qué parte verificarías con asesoría? |
+| Kluger y DeNisi (1996) | Feedback centrado en la tarea previo al término. | No trata del término. | ¿Hubo feedback previo suficiente? |
+| Stone y Heen (2014) | Cómo recibe la persona información difícil. | No es un manual jurídico. | ¿Qué disparador se activará? |
+| Edmondson (2018) | Cultura que permite aprender de los casos difíciles. | No trata del término. | ¿Qué aprenderá la organización? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un manager quiere despedir hoy a un colaborador por 'mala actitud'. Existen quejas informales, pero expectativas y feedback previo están mal documentados.
+**Situación (hipotética).** Un jefe, Pablo, concluye el proceso con Marcos, analista, que tras un plan de mejora de 60 días y una extensión de 30 no alcanzó las metas acordadas. La documentación existe: expectativas del 3 de marzo, tres revisiones con acuerdos, formación ofrecida y un mentor asignado.
 
-**Paso 1 — revisar hechos, documentación y fundamento.** La gerencia escribe primero el supuesto asociado a **causal de término** y evita convertirlo en hecho. Luego busca **errores de acceso post-salida** para contrastarlo en el caso de **desvinculación responsable y documentación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Qué hace Pablo |
+|---|---|
+| **Causa documentada** | Reúne la documentación: hechos, expectativas, apoyo y resultados por fecha. |
+| **Proceso verificado** | Consulta al asesor laboral: la causal, las formalidades, los plazos y los documentos; verifica que no haya situaciones protegidas. |
+| **Conversación** | En privado, con la persona de personas. «Marcos, hemos decidido poner término a tu contrato. Las metas acordadas no se alcanzaron y ya conversamos los resultados en las tres revisiones.» Escucha, reconoce su reacción y entrega por escrito los pasos siguientes. |
+| **Apoyo y logística** | Acuerda cómo entregará su trabajo, cuándo devolverá el equipo y cuándo recibirá sus documentos y pagos; ofrece una carta de referencia sobre hechos. |
+| **Equipo** | Mensaje breve: «Marcos deja la empresa desde hoy. Sus tareas pasarán a Ana y a Luis. Gracias por su colaboración». |
+| **Aprendizaje** | Revisión sin culpas: la selección no evaluó la capacidad de análisis; se ajusta la prueba. |
 
-**Paso 2 — consultar RR.HH./legal antes de comunicar.** La gerencia escribe primero el supuesto asociado a **due process** y evita convertirlo en hecho. Luego busca **reclamos** para contrastarlo en el caso de **desvinculación responsable y documentación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 3 — preparar conversación breve y digna.** La gerencia escribe primero el supuesto asociado a **finiquito** y evita convertirlo en hecho. Luego busca **documentación completa** para contrastarlo en el caso de **desvinculación responsable y documentación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — ejecutar offboarding y seguridad.** La gerencia escribe primero el supuesto asociado a **offboarding** y evita convertirlo en hecho. Luego busca **knowledge transfer** para contrastarlo en el caso de **desvinculación responsable y documentación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — comunicar al equipo sin divulgar información privada.** La gerencia escribe primero el supuesto asociado a **knowledge transfer** y evita convertirlo en hecho. Luego busca **impacto en equipo** para contrastarlo en el caso de **desvinculación responsable y documentación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **desvinculación responsable y documentación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La verificación legal precedió a la conversación. (2) La comunicación fue digna y breve. (3) Se aprendió del proceso.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **causal de término** | fundamento legal o contractual del fin de relación según jurisdicción | Cuando errores de acceso post-salida es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **due process** | procedimiento y oportunidad de respuesta exigible según caso | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Desvinculación frente a sanción disciplinaria.** La primera termina la relación; la segunda corrige una conducta dentro de ella. Tienen reglas distintas.
 
-**Frontera de aplicación:** La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada.
+**Límites.** Esta clase no es asesoría legal: las causales, avisos, indemnizaciones y formalidades se verifican en la fuente vigente y con un asesor. La documentación bien hecha no sustituye la verificación legal. Algunas situaciones —licencias médicas, embarazo, fuero sindical, denuncias de acoso, entre otras— pueden tener protecciones especiales que impiden o condicionan el término. Y en una reestructuración, las reglas y la comunicación son distintas a las de un término por desempeño.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre desvinculación responsable y documentación |
+| Nivel | Cómo participa en una desvinculación |
 |---|---|
-| **Profesional** | usa **desvinculación responsable y documentación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **causal de término** y **due process** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta errores de acceso post-salida con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si desvinculación responsable y documentación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de desvinculación responsable y documentación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **desvinculación responsable y documentación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Si es afectado, conoce sus derechos y pide información; si es colega, respeta la dignidad. |
+| **Jefe / Team Lead** | Documenta, consulta y conduce la conversación con dignidad. |
+| **Gerente** | Revisa el proceso y asegura coherencia y legalidad. |
+| **CEO / Director** | Establece estándares de trato y supervisa los términos de personas clave. |
+| **Founder / Owner** | Enfrenta la desvinculación de quien conoce y verifica la norma antes de actuar. |
 
 ## 🏢 Caso ejecutivo
 
-Un manager quiere despedir hoy a un colaborador por 'mala actitud'. Existen quejas informales, pero expectativas y feedback previo están mal documentados.
+Una empresa de servicios reestructura un área y elimina 12 puestos de 60. La gerente de personas quiere comunicarlo por un correo masivo el viernes a las 17:00 «para evitar escenas». Una de las personas afectadas está con licencia médica; otra es dirigente sindical; otra fue recién promovida. Los jefes no saben qué decir. El gerente general dice: «Hagamos rápido y pidamos disculpas después».
 
-Entrega un **decision brief de desvinculación responsable y documentación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de desvinculación responsable** que contenga: (a) los criterios de selección de los puestos y su justificación; (b) las verificaciones legales y qué situaciones protegidas revisarás con asesoría; (c) la secuencia de comunicación: a los afectados, a los jefes, al equipo restante; (d) la conversación individual y el material de apoyo; (e) el apoyo y la logística de la transición; (f) el cuidado de quienes se quedan y la revisión posterior.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **desvinculación responsable y documentación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta errores de acceso post-salida, reclamos; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta la documentación de un caso con hechos, fechas, apoyo y resultado.
+2. Escribe qué verificarías con asesoría antes de comunicar una decisión.
+3. Prepara el guion de cuatro frases de una conversación de término.
+4. Diseña el mensaje al equipo sin detalles personales.
+5. Define tres preguntas para la revisión sin culpas posterior.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar causal de término y due process como sinónimos | Se pierde la distinción entre “fundamento legal o contractual del fin de relación según jurisdicción” y “procedimiento y oportunidad de respuesta exigible según caso” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “comunicar al equipo sin divulgar información privada” | Se saltó “revisar hechos, documentación y fundamento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada y marca el primer supuesto no demostrado. |
-| Optimizar solo errores de acceso post-salida | La métrica local sustituyó al resultado del sistema | Contrástala con reclamos y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre desvinculación responsable y documentación | La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada. |
-| No fijar revisión | Una decisión sobre desvinculación responsable y documentación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Documentar después de decidir | Se improvisa | Registrar los hechos cuando ocurren. |
+| No consultar la norma | Urgencia | Verificar con asesoría antes de comunicar. |
+| Comunicar por correo masivo | Se evita la incomodidad | Conversación individual y digna. |
+| Prolongar la conversación | Se quiere explicar todo | Breve y clara; los pasos por escrito. |
+| Revelar razones al equipo | Se quiere justificar | Mensaje breve sin detalles personales. |
+| No aprender | Se cierra el caso | Revisión sin culpas del proceso. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **causal de término** y **due process** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **finiquito** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **revisar hechos, documentación y fundamento → consultar RR.HH./legal antes de comunicar** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **errores de acceso post-salida** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **desvinculación responsable y documentación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada.**?
+1. ¿Qué debe contener la documentación de una desvinculación?
+2. ¿Por qué se verifica la norma antes de la conversación?
+3. ¿Qué dimensiones de justicia aplican a una desvinculación?
+4. ¿Cómo debe ser la conversación de término?
+5. ¿Qué se comunica al equipo?
+6. ¿Qué situaciones pueden tener protecciones especiales?
+7. ¿Qué límite tiene esta clase?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Hechos con fechas, expectativas comunicadas, apoyo ofrecido, resultados y las conversaciones sostenidas, en lenguaje descriptivo.
+2. Porque las causales, avisos y formalidades son específicos y un error de forma puede ser costoso.
+3. Distributiva, procedimental, interpersonal e informacional.
+4. En privado, breve, clara desde el inicio, con respeto, sin negociar la decisión y con los pasos por escrito.
+5. Un mensaje breve y respetuoso: que la persona dejó la organización, desde cuándo, quién asume sus tareas, sin detalles personales.
+6. Por ejemplo licencias médicas, embarazo, fuero sindical o denuncias de acoso, según la normativa vigente.
+7. No es asesoría legal: las normas se verifican en la fuente vigente y con un asesor.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/071-desvinculacion-responsable-y-documentacion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **desvinculación responsable y documentación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **desvinculación responsable y documentación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **causal de término**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un manager quiere despedir hoy a un colaborador por 'mala actitud'. Existen quejas informales, pero expectativas y feedback previo están mal documentados.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `termination-risk-checklist.md` (plantilla [Checklist de riesgo en término de contrato](../../../../templates/termination-risk-checklist.md)) con las verificaciones;
+- `decision-journal.md` con la documentación, la comunicación y el aprendizaje.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- John Boudreau & Peter Ramstad — *Beyond HR* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Talento aplicada al problema de la clase. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9781422104156](https://openlibrary.org/isbn/9781422104156).
-- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
-- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **desvinculación responsable y documentación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **desvinculación responsable y documentación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **desvinculación responsable y documentación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **desvinculación responsable y documentación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng — *Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research* (Journal of Applied Psychology, 2001). **Uso en esta clase:** las cuatro dimensiones de justicia aplicadas al término de la relación. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [DOI 10.1037/0021-9010.86.3.425](https://doi.org/10.1037/0021-9010.86.3.425).
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo (texto vigente)*. **Uso en esta clase:** texto vigente del Código del Trabajo para verificar causales, avisos y formalidades con asesoría. **Fuente primaria:** <https://www.bcn.cl/leychile/navegar?idNorma=207436>.
+- Avraham N. Kluger & Angelo DeNisi — *The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory* (Psychological Bulletin, 1996). **Uso en esta clase:** feedback centrado en la tarea previo a una decisión. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [DOI 10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254).
+- Douglas Stone & Sheila Heen — *Thanks for the Feedback* (Viking, 2014). **Uso en esta clase:** cómo se recibe una información difícil. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** aprendizaje organizacional de los casos difíciles. Lectura selectiva sobre **desvinculación responsable y documentación**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Desvinculación responsable y documentación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **desvinculación responsable y documentación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Desvinculación responsable y documentación:** las obras anteriores estructuran las perspectivas de esta materia; **las normas laborales sobre término de la relación de trabajo son específicas de cada jurisdicción, cambian y deben comprobarse en su fuente primaria vigente y con asesoría laboral antes de actuar**. Los ejemplos y casos son hipotéticos. Esta clase no sustituye asesoría legal. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

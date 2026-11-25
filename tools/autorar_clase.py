@@ -35,9 +35,33 @@ def _senales_actuales(y: str) -> list[str]:
     return [re.sub(r'^\s+-\s+"?(.*?)"?\s*$', r"\1", f) for f in m.group(1).splitlines() if f.strip()]
 
 
+def _expandir_fuentes(t: str) -> str:
+    """Convierte `- @@prefijo-de-id:: uso` en la cita canónica tomada del registro."""
+    sys.path.insert(0, str(RAIZ / "tools"))
+    import sources_registry as reg
+    entradas = reg.cargar()["entries"]
+
+    def buscar(pref: str) -> dict:
+        c = [e for e in entradas if e["id"].startswith(pref)]
+        if len(c) != 1:
+            raise SystemExit(f"prefijo de fuente ambiguo o inexistente: {pref!r} ({len(c)} coincidencias)")
+        return c[0]
+
+    def sustituir(m: re.Match) -> str:
+        e = buscar(m.group(1).strip())
+        emisor, obra = e["cited_as"].split(" — ", 1)
+        return f"- {emisor} — *{obra}*. **Uso en esta clase:** {m.group(2).strip()}."
+
+    return re.sub(r"^- @@([a-z0-9\-]+)::\s*(.+?)\.?[ \t]*$", sustituir, t, flags=re.M)
+
+
 def autorar(cid: int, senales: list[str] | None) -> None:
     d = next(RAIZ.glob(f"modules/*/classes/{cid:03d}-*"))
     t = (d / "README.md").read_text(encoding="utf-8")
+    expandido = _expandir_fuentes(t)
+    if expandido != t:
+        (d / "README.md").write_text(expandido, encoding="utf-8", newline="\n")
+        t = expandido
     y = (d / "lesson.yaml").read_text(encoding="utf-8")
     cab = y.split("objectives:")[0]
     if "authoring:" not in cab:

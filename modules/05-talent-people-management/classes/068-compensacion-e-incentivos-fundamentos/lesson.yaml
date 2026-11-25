@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir total rewards de pay band mediante evidencia observable."
-  - "Aplicar la secuencia: definir filosofía de compensación → benchmarkear sin delegar decisión al mercado → construir bandas y criterios → diseñar variable con guardrails → auditar equidad y gaming."
-  - "Interpretar compa-ratio, pay gaps, turnover por compensación sin atribuir causalidad automática."
-  - "Resolver el caso de compensación e incentivos: fundamentos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar la teoría de la equidad y cómo se juzga una compensación."
+  - "Describir qué hallaron Deci y colegas sobre recompensas y motivación intrínseca."
+  - "Anticipar efectos no deseados de un incentivo, como el caso de la multa."
+  - "Distinguir remuneración fija, variable y reconocimiento no monetario, y su función."
+  - "Diseñar un esquema de compensación simple, coherente y comunicable."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
-  - "Dave Ulrich — *Human Resource Champions*"
-  - "Kim Scott — *Radical Candor*"
+  - "J. Stacy Adams — *Towards an understanding of inequity*"
+  - "Edward L. Deci, Richard Koestner & Richard M. Ryan — *A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation*"
+  - "Uri Gneezy & Aldo Rustichini — *A Fine is a Price*"
+  - "Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being*"
+  - "Daniel H. Pink — *Drive*"
 limits:
-  - "Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local."
+  - "Los experimentos sobre recompensas se hicieron sobre todo en entornos de laboratorio y educativos; su aplicación a la remuneración laboral debe hacerse con prudencia, y hay debate sobre la generalidad del efecto."
 evidence_signals:
-  - "compa-ratio"
-  - "pay gaps"
-  - "turnover por compensación"
-  - "variable versus outcome"
-  - "gaming o reclamos"
+  - "efecto del incentivo anticipado"
+  - "equidad interna y externa revisada"
+  - "indicadores de cantidad y calidad"
+  - "criterios de cálculo comunicados"

@@ -316,6 +316,10 @@
         "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
         "modules/04-team-leadership/classes/056-reuniones-que-deciden",
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
+        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
+        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
+        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
+        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
@@ -360,18 +364,7 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
@@ -645,6 +638,8 @@
         "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
         "modules/04-team-leadership/classes/056-reuniones-que-deciden",
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
+        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
@@ -953,6 +948,7 @@
       "locator": "https://www.bcn.cl/leychile/navegar?idNorma=207436",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama"
       ],
       "status": "verificada"
@@ -1541,7 +1537,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento"
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
+        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos"
       ],
       "status": "verificada",
       "authority": "Riverhead Books"
@@ -1592,10 +1589,7 @@
       "locator": "https://openlibrary.org/isbn/9780875847191",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno"
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -2404,18 +2398,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
@@ -3055,11 +3037,7 @@
       "locator": "https://openlibrary.org/isbn/9781422104156",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -3208,11 +3186,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
+        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
+        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling"
       ],
       "status": "verificada",
       "authority": "Ediciones Paidos Iberica"
@@ -3308,12 +3283,7 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
         "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
         "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento"
       ],
       "status": "verificada",
       "authority": "PAN MACMILLAN U.K"
@@ -3436,18 +3406,7 @@
       "locator": "https://openlibrary.org/isbn/9780684852867",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados"
       ],
       "status": "verificada",
       "authority": "Simon and Schuster"
@@ -3640,18 +3599,6 @@
       "locator": "https://openlibrary.org/isbn/9781398606654",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales"
       ],
@@ -3693,6 +3640,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
+        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
+        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
@@ -3724,11 +3673,8 @@
         "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal",
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
+        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
@@ -4332,18 +4278,7 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
@@ -4652,6 +4587,9 @@
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
         "modules/04-team-leadership/classes/053-delegacion-por-resultados",
+        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
+        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
+        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
         "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
@@ -4869,11 +4807,10 @@
       "locator": "https://openlibrary.org/isbn/9780787951726",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
+        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
+        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
+        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
@@ -4895,18 +4832,6 @@
       "locator": "https://openlibrary.org/isbn/9780072469943",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama"
       ],
       "status": "verificada",
@@ -5278,13 +5203,7 @@
       "locator": "https://openlibrary.org/isbn/9780446556088",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno"
       ],
       "status": "verificada",
       "authority": "Business Plus"
@@ -5833,18 +5752,7 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
@@ -6331,18 +6239,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
-        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
-        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
-        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
@@ -6764,7 +6660,10 @@
       "locator": "https://doi.org/10.1037/0033-2909.119.2.254",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable"
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
+        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
+        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
       ],
       "status": "verificada"
     },
@@ -6805,7 +6704,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
+        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
       ],
       "status": "verificada"
     },
@@ -6826,7 +6726,9 @@
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion"
+        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
+        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
+        "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
       ],
       "status": "verificada"
     },
@@ -6865,7 +6767,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento"
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
+        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos"
       ],
       "status": "verificada"
     },
@@ -7100,7 +7003,9 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion"
+        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
+        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora"
       ],
       "status": "verificada"
     },
@@ -7176,6 +7081,255 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/04-team-leadership/classes/056-reuniones-que-deciden"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "j-richard-hackman-greg-r-oldham-motivation-through-the-design-of-work-test-of-a",
+      "type": "paper",
+      "authors": [
+        "Hackman, J. Richard",
+        "Oldham, Greg R."
+      ],
+      "title": "Motivation through the design of work: test of a theory",
+      "cited_as": "J. Richard Hackman & Greg R. Oldham — Motivation through the design of work: test of a theory",
+      "authority": "Organizational Behavior and Human Performance",
+      "published": "1976",
+      "doi": "10.1016/0030-5073(76)90016-7",
+      "locator": "https://doi.org/10.1016/0030-5073(76)90016-7",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "frederick-p-morgeson-stephen-e-humphrey-the-work-design-questionnaire-wdq-develo",
+      "type": "paper",
+      "authors": [
+        "Morgeson, Frederick P.",
+        "Humphrey, Stephen E."
+      ],
+      "title": "The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work",
+      "cited_as": "Frederick P. Morgeson & Stephen E. Humphrey — The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work",
+      "authority": "Journal of Applied Psychology",
+      "published": "2006",
+      "doi": "10.1037/0021-9010.91.6.1321",
+      "locator": "https://doi.org/10.1037/0021-9010.91.6.1321",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "frank-l-schmidt-john-e-hunter-the-validity-and-utility-of-selection-methods-in-p",
+      "type": "paper",
+      "authors": [
+        "Schmidt, Frank L.",
+        "Hunter, John E."
+      ],
+      "title": "The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings",
+      "cited_as": "Frank L. Schmidt & John E. Hunter — The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings",
+      "authority": "Psychological Bulletin",
+      "published": "1998",
+      "doi": "10.1037/0033-2909.124.2.262",
+      "locator": "https://doi.org/10.1037/0033-2909.124.2.262",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
+        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "paul-r-sackett-charlene-zhang-christopher-m-berry-filip-lievens-revisiting-meta",
+      "type": "paper",
+      "authors": [
+        "Sackett, Paul R.",
+        "Zhang, Charlene",
+        "Berry, Christopher M.",
+        "Lievens, Filip"
+      ],
+      "title": "Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range",
+      "cited_as": "Paul R. Sackett, Charlene Zhang, Christopher M. Berry & Filip Lievens — Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range",
+      "authority": "Journal of Applied Psychology",
+      "published": "2022",
+      "doi": "10.1037/apl0000994",
+      "locator": "https://doi.org/10.1037/apl0000994",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
+        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "julia-levashina-christopher-j-hartwell-frederick-p-morgeson-michael-a-campion-th",
+      "type": "paper",
+      "authors": [
+        "Levashina, Julia",
+        "Hartwell, Christopher J.",
+        "Morgeson, Frederick P.",
+        "Campion, Michael A."
+      ],
+      "title": "The Structured Employment Interview: Narrative and Quantitative Review of the Research Literature",
+      "cited_as": "Julia Levashina, Christopher J. Hartwell, Frederick P. Morgeson & Michael A. Campion — The Structured Employment Interview: Narrative and Quantitative Review of the Research Literature",
+      "authority": "Personnel Psychology",
+      "published": "2013",
+      "doi": "10.1111/peps.12052",
+      "locator": "https://doi.org/10.1111/peps.12052",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
+        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "talya-n-bauer-todd-bodner-berrin-erdogan-donald-m-truxillo-jennifer-s-tucker-new",
+      "type": "paper",
+      "authors": [
+        "Bauer, Talya N.",
+        "Bodner, Todd",
+        "Erdogan, Berrin",
+        "Truxillo, Donald M.",
+        "Tucker, Jennifer S."
+      ],
+      "title": "Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods",
+      "cited_as": "Talya N. Bauer, Todd Bodner, Berrin Erdogan, Donald M. Truxillo & Jennifer S. Tucker — Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods",
+      "authority": "Journal of Applied Psychology",
+      "published": "2007",
+      "doi": "10.1037/0021-9010.92.3.707",
+      "locator": "https://doi.org/10.1037/0021-9010.92.3.707",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "uri-gneezy-aldo-rustichini-a-fine-is-a-price",
+      "type": "paper",
+      "authors": [
+        "Gneezy, Uri",
+        "Rustichini, Aldo"
+      ],
+      "title": "A Fine is a Price",
+      "cited_as": "Uri Gneezy & Aldo Rustichini — A Fine is a Price",
+      "authority": "The Journal of Legal Studies",
+      "published": "2000",
+      "doi": "10.1086/468061",
+      "locator": "https://doi.org/10.1086/468061",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "edward-l-deci-richard-koestner-richard-m-ryan-a-meta-analytic-review-of-experime",
+      "type": "paper",
+      "authors": [
+        "Deci, Edward L.",
+        "Koestner, Richard",
+        "Ryan, Richard M."
+      ],
+      "title": "A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation",
+      "cited_as": "Edward L. Deci, Richard Koestner & Richard M. Ryan — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation",
+      "authority": "Psychological Bulletin",
+      "published": "1999",
+      "doi": "10.1037/0033-2909.125.6.627",
+      "locator": "https://doi.org/10.1037/0033-2909.125.6.627",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "j-stacy-adams-towards-an-understanding-of-inequity",
+      "type": "paper",
+      "authors": [
+        "Adams, J. Stacy"
+      ],
+      "title": "Towards an understanding of inequity",
+      "cited_as": "J. Stacy Adams — Towards an understanding of inequity",
+      "authority": "The Journal of Abnormal and Social Psychology",
+      "published": "1963",
+      "doi": "10.1037/h0040968",
+      "locator": "https://doi.org/10.1037/h0040968",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
+        "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "peter-cappelli-talent-on-demand",
+      "type": "book",
+      "authors": [
+        "Cappelli, Peter"
+      ],
+      "title": "Talent on Demand",
+      "cited_as": "Peter Cappelli — Talent on Demand",
+      "authority": "Harvard Business Press",
+      "published": "2008",
+      "isbn13": "9781422104477",
+      "locator": "https://openlibrary.org/isbn/9781422104477",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
+        "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "laszlo-bock-work-rules",
+      "type": "book",
+      "authors": [
+        "Bock, Laszlo"
+      ],
+      "title": "Work Rules!",
+      "cited_as": "Laszlo Bock — Work Rules!",
+      "authority": "Twelve",
+      "published": "2015",
+      "isbn13": "9781455554799",
+      "locator": "https://openlibrary.org/isbn/9781455554799",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
+        "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
+        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
+        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
+        "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "daniel-kahneman-olivier-sibony-cass-r-sunstein-noise",
+      "type": "book",
+      "authors": [
+        "Kahneman, Daniel",
+        "Sibony, Olivier",
+        "Sunstein, Cass R."
+      ],
+      "title": "Noise",
+      "cited_as": "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — Noise",
+      "authority": "Little, Brown Spark",
+      "published": "2021",
+      "isbn13": "9780316451383",
+      "locator": "https://openlibrary.org/isbn/9780316451383",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
+        "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno"
       ],
       "status": "verificada"
     }

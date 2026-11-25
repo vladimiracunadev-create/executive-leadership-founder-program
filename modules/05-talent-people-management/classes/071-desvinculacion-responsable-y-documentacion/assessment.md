@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **causal de término** de **due process** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **finiquito** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **offboarding** con **knowledge transfer**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué debe contener la documentación de una desvinculación?
+2. ¿Por qué se verifica la norma antes de la conversación?
+3. ¿Qué dimensiones de justicia aplican a una desvinculación?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un manager quiere despedir hoy a un colaborador por 'mala actitud'. Existen quejas informales, pero expectativas y feedback previo están mal documentados.
+**Caso:** Una empresa de servicios reestructura un área y elimina 12 puestos de 60. La gerente de personas quiere comunicarlo por un correo masivo el viernes a las 17:00 «para evitar escenas». Una de las personas afectadas está con licencia médica; otra es dirigente sindical; otra fue recién promovida. Los jefes no saben qué decir. El gerente general dice: «Hagamos rápido y pidamos disculpas después».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **revisar hechos, documentación y fundamento → consultar RR.HH./legal antes de comunicar → preparar conversación breve y digna → ejecutar offboarding y seguridad → comunicar al equipo sin divulgar información privada**. Debes utilizar o diseñar cómo obtener **errores de acceso post-salida, reclamos, documentación completa**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de desvinculación responsable** que contenga: (a) los criterios de selección de los puestos y su justificación; (b) las verificaciones legales y qué situaciones protegidas revisarás con asesoría; (c) la secuencia de comunicación: a los afectados, a los jefes, al equipo restante; (d) la conversación individual y el material de apoyo; (e) el apoyo y la logística de la transición; (f) el cuidado de quienes se quedan y la revisión posterior. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Esta clase no es asesoría legal: las causales, avisos, indemnizaciones y formalidades se verifican en la fuente vigente y con un asesor.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

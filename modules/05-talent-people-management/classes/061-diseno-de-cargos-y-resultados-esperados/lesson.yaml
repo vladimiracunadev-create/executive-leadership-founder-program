@@ -5,27 +5,27 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir job architecture de outcome del cargo mediante evidencia observable."
-  - "Aplicar la secuencia: definir problema de negocio del rol → escribir 3–5 outcomes → identificar decisiones y interfaces → derivar competencias y nivel → validar scorecard con manager y stakeholders."
-  - "Interpretar tiempo para cubrir vacante, calidad de contratación, claridad de expectativas sin atribuir causalidad automática."
-  - "Resolver el caso de diseño de cargos y resultados esperados con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "people-decision-brief.md"
+  - "Distinguir cargo, tarea y resultado esperado."
+  - "Describir las cinco características centrales de un puesto y su efecto motivacional."
+  - "Redactar un cargo con propósito, resultados, decisiones y relaciones."
+  - "Detectar cargos mal diseñados: sobrecarga, conflicto de rol, falta de autonomía."
+  - "Rediseñar un cargo sin romper el proceso del que forma parte."
+deliverable: "role-scorecard.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
+  - "J. Richard Hackman & Greg R. Oldham — *Motivation through the design of work: test of a theory*"
+  - "Frederick P. Morgeson & Stephen E. Humphrey — *The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work*"
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Laszlo Bock — *Work Rules!*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
   - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
-  - "John Boudreau & Peter Ramstad — *Beyond HR*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
 limits:
-  - "Una descripción perfecta no arregla un diseño organizacional incoherente. Si varios roles compiten por el mismo outcome, primero corrige derechos de decisión."
+  - "El modelo de Hackman y Oldham es de los años setenta, y los estudios posteriores encuentran efectos moderados y dependientes de la persona y del contexto."
 evidence_signals:
-  - "tiempo para cubrir vacante"
-  - "calidad de contratación"
-  - "claridad de expectativas"
-  - "retrabajo por rol"
-  - "promociones inconsistentes"
+  - "propósito y resultados del cargo"
+  - "cinco características evaluadas"
+  - "decisiones y relaciones definidas"
+  - "carga verificada con quien lo ocupa"

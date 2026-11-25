@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Planificar dotación traduce estrategia y demanda en capacidades, no simplemente en headcount. Debe distinguir volumen, skills, productividad, timing, rotación y alternativas como automatización o proveedores. Contratar demasiado pronto consume caja; demasiado tarde quema al equipo y pierde oportunidades.
+Las organizaciones contratan por urgencia: cuando alguien renuncia, cuando un proyecto se atrasa, cuando una gerente dice que «no damos abasto». Esa dinámica produce dos males opuestos y frecuentes: dotación insuficiente que quema a las personas y dotación excesiva que consume margen. **Planificar la dotación** es decidir con anticipación cuántas personas y con qué capacidades se necesitan, y cómo se obtienen: formándolas, contratándolas, subcontratando, redistribuyendo o automatizando.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **planificación de dotación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el enfoque de Peter Cappelli, que propone gestionar el talento como un problema de incertidumbre y riesgo y no como un cálculo exacto, y la noción de Mankins y Garton de que lo escaso es a menudo la energía y no solo el número de personas. Al terminar sabrás estimar demanda, oferta y brecha, y elegir entre las opciones para cerrarla.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `workforce planning`, `headcount`, `capacity gap`, `time-to-productivity`, `build-buy-borrow` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** capacidad requerida, time-to-hire, time-to-productivity sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estimar** la demanda de trabajo a partir de la estrategia y los volúmenes esperados.
+2. **Analizar** la oferta interna: capacidades, rotación y tiempos de reemplazo.
+3. **Calcular** la brecha en cantidad y en capacidades, con escenarios.
+4. **Elegir** entre desarrollar, contratar, subcontratar, redistribuir y automatizar.
+5. **Construir** un plan de dotación con fechas, presupuesto y revisión.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define workforce planning y headcount sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con capacidad requerida y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas contrataciones de tu área fueron urgentes en el último año? ¿Qué las habría anticipado? |
+| 20–60 min | Demanda, oferta, brecha y opciones. |
+| 60–105 min | Ejemplo trabajado: dotación de un equipo de atención en crecimiento. |
+| 105–140 min | Caso ejecutivo: un área sobrecargada y una empresa que quiere congelar contrataciones. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **workforce planning** | proceso de proyectar demanda y oferta de capacidades | Distingue un hecho compatible y otro que lo refute. |
-| **headcount** | número de personas, insuficiente sin skills y productividad | Distingue un hecho compatible y otro que lo refute. |
-| **capacity gap** | diferencia entre capacidad requerida y disponible | Distingue un hecho compatible y otro que lo refute. |
-| **time-to-productivity** | tiempo desde contratación hasta contribución esperada | Distingue un hecho compatible y otro que lo refute. |
-| **build-buy-borrow** | elección entre desarrollar, contratar o acceder temporalmente a una capacidad | Distingue un hecho compatible y otro que lo refute. |
+| **Planificación de dotación** | Proceso de determinar qué personas y capacidades necesita la organización, cuándo y cómo obtenerlas. | Existe un plan con escenarios y fechas. |
+| **Demanda de trabajo** | Cantidad y tipo de trabajo que la estrategia exige. | Se expresa en volumen, capacidad o horas. |
+| **Oferta interna** | Personas disponibles con sus capacidades, considerando rotación y jubilaciones. | Se proyecta por período. |
+| **Brecha** | Diferencia entre demanda y oferta, en cantidad y en capacidades. | Se calcula por escenario. |
+| **Hacer o comprar talento** | Decisión entre desarrollar internamente o contratar afuera (Cappelli, 2008). | Se compara costo, plazo y riesgo. |
+| **Escenario** | Supuesto alternativo de demanda u oferta. | Se prevén al menos tres: bajo, base y alto. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 062: 1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers](modelo-mental.svg)
+![De la estrategia a la dotación que se necesita: demanda de trabajo, oferta interna, brecha, opciones y plan, con revisión ante cambios.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Planificar dotación traduce estrategia y demanda en capacidades, no simplemente en headcount. Debe distinguir volumen, skills, productividad, timing, rotación y alternativas como automatización o proveedores. Contratar demasiado pronto consume caja; demasiado tarde quema al equipo y pierde oportunidades.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso.**
+**Cómo leer el diagrama.** Cinco pasos que se repiten: primero qué trabajo hay que hacer, luego quiénes pueden hacerlo, después la brecha. Solo entonces se eligen **opciones** para cerrarla, y se decide un plan con fecha y presupuesto. El retorno indica que el plan vive: se revisa cuando cambia la estrategia o la demanda.
 
 ## 📖 Desarrollo
 
-### 1. workforce planning: mecanismo central
+### 1. Por qué planificar
 
-**workforce planning** se entiende aquí como **proceso de proyectar demanda y oferta de capacidades**. Esta es la pieza causal o estructural desde la que se inicia **planificación de dotación**: antes de proyectar demanda por escenario, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Contratar por urgencia es caro: se paga más, se elige peor y la persona llega a un equipo ya sobrecargado. Cappelli observa que muchas empresas pasaron de una planificación rígida de largo plazo a una gestión reactiva, y propone un camino intermedio: **planes flexibles** que reconocen la incertidumbre, con anticipación para lo previsible y capacidad de reacción para lo imprevisto. Planificar no es predecir con exactitud; es reducir la sorpresa.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **capacidad requerida**; regístrala con periodo, unidad, población y baseline.
+### 2. Demanda
 
-Relaciona el mecanismo con **headcount**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La demanda sale de la estrategia y de los volúmenes: ventas esperadas, proyectos comprometidos, nuevos servicios, requisitos regulatorios. Se traduce a **capacidad necesaria**: horas, personas equivalentes, competencias. Se usan **ratios** razonables (clientes por ejecutivo, tickets por analista) con una advertencia: los ratios históricos incorporan las ineficiencias pasadas. Conviene estimar con tres escenarios —bajo, base, alto— y señalar qué supuestos los separan.
 
-### 2. headcount: frontera conceptual y error de clasificación
+### 3. Oferta
 
-**Definición operacional:** número de personas, insuficiente sin skills y productividad. Su valor está en distinguirlo de **workforce planning** y **capacity gap**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La oferta interna es la dotación actual **más** lo que se espera que cambie: renuncias previstas (con la rotación histórica), jubilaciones, promociones, licencias, movimientos. Además de cuántos, importa **qué saben hacer**: una brecha de capacidades puede coexistir con exceso de personas. Mankins y Garton añaden una dimensión: no todas las horas pagadas son horas productivas; la energía y el tiempo realmente disponibles son menores que la dotación formal.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **headcount** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-to-hire** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Brecha
 
-Antes de inventariar capacidad y skills, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La brecha se calcula **por período y por capacidad**: «faltan tres analistas de datos en el segundo trimestre» o «sobran dos coordinadores desde enero». Una brecha de personas se distingue de una de capacidades: la primera se cierra con volumen; la segunda, con formación o contratación específica. Y se calcula para cada escenario, con el costo de equivocarse en cada dirección: quedarse corto y sobrecargar, o pasarse y sostener un costo fijo.
 
-### 3. capacity gap: operacionalización y medición
+### 5. Opciones para cerrarla
 
-**capacity gap** significa **diferencia entre capacidad requerida y disponible**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cappelli enmarca la decisión como **hacer o comprar** talento. Las opciones: **desarrollar** internamente (más lento, retiene conocimiento); **contratar** (más rápido en capacidades nuevas, riesgo de ajuste); **subcontratar o usar capacidad externa** (flexible, menos control); **redistribuir** (mover trabajo o personas entre áreas); **automatizar o rediseñar** el trabajo (reduce la necesidad); o **no hacer** (priorizar menos). Se comparan por costo, plazo, riesgo y efecto en la cultura.
 
-Robert I. Sutton — *Good Boss, Bad Boss* orienta este bloque mediante **conductas concretas de buenos jefes y reducción de daño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **time-to-productivity**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El plan
 
-Al llegar a calcular brechas y timing, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un plan práctico incluye: la **brecha por escenario**, la **opción elegida** para cada brecha, las **fechas** de inicio del proceso (considerando que contratar y formar toman tiempo), el **presupuesto**, el **responsable** y los **disparadores** de revisión (por ejemplo, si las ventas superan un umbral, se activa la contratación). Los disparadores permiten reaccionar con orden ante lo imprevisto.
 
-### 4. time-to-productivity: trade-offs y efectos de segundo orden
+### 7. Cuidado con los efectos
 
-**Definición:** tiempo desde contratación hasta contribución esperada. Este concepto obliga a abandonar la idea de que **planificación de dotación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar build-buy-borrow-automate, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Kim Scott — *Radical Candor* aporta una lente sobre **perspectiva de Feedback aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **coste total por rol** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **planificación de dotación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **time-to-productivity** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. build-buy-borrow: gobernanza, límites e integración
-
-**build-buy-borrow** se define como **elección entre desarrollar, contratar o acceder temporalmente a una capacidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael D. Watkins — *The First 90 Days* se utiliza para estudiar **perspectiva de Transiciones aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar aprobar hiring plan con triggers, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **workforce planning**, **headcount**, **capacity gap**, **time-to-productivity** y **build-buy-borrow** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **planificación de dotación** no consiste en sumar cinco definiciones. Empieza por **workforce planning**, contrasta **headcount** con **capacity gap**, incorpora **time-to-productivity** como restricción o mecanismo y usa **build-buy-borrow** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una congelación de contrataciones sin análisis traslada la carga a quienes quedan. Una expansión sin demanda firme crea costos fijos. Y los cambios de dotación afectan a personas: despidos, reubicaciones y contrataciones están sujetos a normas laborales que se verifican con asesoría. La clase 071 trata la desvinculación y la 065 el ingreso: la planificación define cuántas veces se recorrerán esos procesos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **planificación de dotación** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **planificación de dotación** ayuda a desafiar? |
-| Robert I. Sutton — *Good Boss, Bad Boss* | conductas concretas de buenos jefes y reducción de daño organizacional | ¿Qué supuesto de **planificación de dotación** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **planificación de dotación** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **planificación de dotación** ayuda a desafiar? |
-
-En **planificación de dotación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **workforce planning**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Cappelli (2008) | Gestión del talento bajo incertidumbre y decisión de hacer o comprar. | Su ejemplo es el mercado de Estados Unidos. | ¿Qué parte de tu dotación depende de supuestos inciertos? |
+| Mankins y Garton (2017) | Energía y tiempo reales frente a dotación formal. | Es una obra de consultoría. | ¿Cuántas horas pagadas son productivas? |
+| Drucker (2006) | La asignación del tiempo y de las personas a lo que importa. | No trae un método de proyección. | ¿Qué resultados justifican cada puesto? |
+| Charan, Drotter y Noel (2001) | Cómo se prepara la oferta interna de líderes. | Se centra en líderes. | ¿Quiénes pueden ocupar los cargos críticos? |
+| Bock (2015) | Reclutamiento y planificación en una empresa de tecnología. | Es un relato de una empresa. | ¿Qué parte de su enfoque aplica a tu escala? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup proyecta duplicar ventas y pide contratar 40 personas de inmediato. La demanda tiene alta incertidumbre y varios roles tardan seis meses en ser productivos.
+**Situación (hipotética).** Una empresa de servicios espera crecer la cartera de clientes: el escenario bajo +10 %, el base +25 % y el alto +40 % en 12 meses. Su equipo de atención tiene 20 personas; la rotación histórica es de 20 % anual; cada persona atiende 80 clientes.
 
-**Paso 1 — proyectar demanda por escenario.** La gerencia escribe primero el supuesto asociado a **workforce planning** y evita convertirlo en hecho. Luego busca **capacidad requerida** para contrastarlo en el caso de **planificación de dotación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Bajo | Base | Alto |
+|---|---|---|---|
+| **Clientes proyectados** | 1.760 | 2.000 | 2.240 |
+| **Dotación necesaria (80 clientes por persona)** | 22 | 25 | 28 |
+| **Oferta a 12 meses (20 − 4 renuncias, reponibles)** | 16 + reposición | 16 + reposición | 16 + reposición |
+| **Brecha, sin reposiciones** | 6 | 9 | 12 |
 
-**Paso 2 — inventariar capacidad y skills.** La gerencia escribe primero el supuesto asociado a **headcount** y evita convertirlo en hecho. Luego busca **time-to-hire** para contrastarlo en el caso de **planificación de dotación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opciones.** (1) Reposición de las 4 renuncias esperadas: contratar con anticipación. (2) Aumentar la atención por persona con un portal de autoservicio: reduce la necesidad en 2 a 3 personas. (3) Subcontratar un tramo en temporada alta. (4) Formar a dos analistas internos de otra área.
 
-**Paso 3 — calcular brechas y timing.** La gerencia escribe primero el supuesto asociado a **capacity gap** y evita convertirlo en hecho. Luego busca **time-to-productivity** para contrastarlo en el caso de **planificación de dotación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Plan.** Contratar 4 reposiciones y 2 personas adicionales en el primer semestre (cubre el escenario bajo y parte del base); autoservicio en el primer trimestre; **disparador**: si los clientes superan los 1.900, activar la contratación del segundo grupo y el contrato de subcontratación.
 
-**Paso 4 — comparar build-buy-borrow-automate.** La gerencia escribe primero el supuesto asociado a **time-to-productivity** y evita convertirlo en hecho. Luego busca **coste total por rol** para contrastarlo en el caso de **planificación de dotación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — aprobar hiring plan con triggers.** La gerencia escribe primero el supuesto asociado a **build-buy-borrow** y evita convertirlo en hecho. Luego busca **utilización y burnout** para contrastarlo en el caso de **planificación de dotación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **planificación de dotación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se planificó con tres escenarios. (2) Se combinaron opciones. (3) Los disparadores permiten reaccionar sin decidir a ciegas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **workforce planning** | proceso de proyectar demanda y oferta de capacidades | Cuando capacidad requerida es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **headcount** | número de personas, insuficiente sin skills y productividad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Planificar frente a presupuestar.** El presupuesto asigna dinero; la planificación de dotación decide capacidades y fechas. Deben alinearse, pero no son lo mismo.
 
-**Frontera de aplicación:** La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso.
+**Límites.** Las proyecciones de demanda a más de un año son inciertas, y los ratios históricos arrastran ineficiencias. Los estudios de Cappelli reflejan la realidad de ciertos mercados. Una buena planificación no reemplaza el juicio sobre la cultura y el riesgo de sobrecarga. Y las medidas de dotación están sujetas a normas laborales y acuerdos colectivos que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre planificación de dotación |
+| Nivel | Cómo trabaja la dotación |
 |---|---|
-| **Profesional** | usa **planificación de dotación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **workforce planning** y **headcount** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta capacidad requerida con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si planificación de dotación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de planificación de dotación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **planificación de dotación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Informa su carga real y los riesgos de capacidad. |
+| **Jefe / Team Lead** | Anticipa necesidades de su equipo con datos de demanda y carga. |
+| **Gerente** | Construye el plan de dotación de su área con escenarios. |
+| **CEO / Director** | Alinea la dotación con la estrategia y decide entre hacer o comprar talento. |
+| **Founder / Owner** | Decide cada contratación con caja limitada y la planifica con escenarios. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup proyecta duplicar ventas y pide contratar 40 personas de inmediato. La demanda tiene alta incertidumbre y varios roles tardan seis meses en ser productivos.
+Una empresa de servicios congeló las contrataciones por tres meses por «presión de costos». El área de operaciones perdió a dos personas y tiene 25 % más de trabajo por un contrato nuevo. Los plazos se incumplen, las horas extra suben y dos buenas personas amenazan con irse. El director financiero insiste en mantener la congelación; la gerente de operaciones pide cuatro contrataciones.
 
-Entrega un **decision brief de planificación de dotación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de dotación** que contenga: (a) la demanda de trabajo con escenarios; (b) la oferta proyectada con rotación; (c) la brecha en cantidad y capacidades; (d) las opciones comparadas con costo, plazo y riesgo; (e) la propuesta al director financiero con el costo de no actuar; (f) los disparadores de revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **planificación de dotación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta capacidad requerida, time-to-hire; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Estima la demanda de tu área para los próximos doce meses en tres escenarios.
+2. Calcula la oferta con la rotación histórica y las salidas previstas.
+3. Identifica una brecha de capacidades y una de cantidad, y cómo cerrarías cada una.
+4. Compara dos opciones para una brecha con costo, plazo y riesgo.
+5. Define dos disparadores que activarían una contratación.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar workforce planning y headcount como sinónimos | Se pierde la distinción entre “proceso de proyectar demanda y oferta de capacidades” y “número de personas, insuficiente sin skills y productividad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “aprobar hiring plan con triggers” | Se saltó “proyectar demanda por escenario” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers y marca el primer supuesto no demostrado. |
-| Optimizar solo capacidad requerida | La métrica local sustituyó al resultado del sistema | Contrástala con time-to-hire y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre planificación de dotación | La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso. |
-| No fijar revisión | Una decisión sobre planificación de dotación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Contratar por urgencia | Falta de anticipación | Planificar con escenarios. |
+| Usar ratios históricos sin crítica | Es fácil | Revisar eficiencias y cambios. |
+| Ignorar la rotación | Se supone estabilidad | Proyectar salidas con datos. |
+| Confundir cantidad con capacidad | Se cuenta personas | Analizar brechas por competencia. |
+| Congelar sin analizar | Se busca recorte rápido | Medir el costo de no cubrir. |
+| Plan sin revisión | Se archiva | Definir disparadores. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **workforce planning** y **headcount** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **capacity gap** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **proyectar demanda por escenario → inventariar capacidad y skills** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **capacidad requerida** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **planificación de dotación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso.**?
+1. ¿Qué pasos tiene la planificación de dotación?
+2. ¿Por qué se usan escenarios?
+3. ¿Qué diferencia hay entre una brecha de cantidad y una de capacidades?
+4. Nombra cuatro opciones para cerrar una brecha.
+5. ¿Qué es un disparador de revisión?
+6. ¿Por qué los ratios históricos pueden engañar?
+7. ¿Qué límite tienen las proyecciones de demanda?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Demanda de trabajo, oferta interna, brecha, opciones y plan.
+2. Porque la demanda es incierta y conviene preparar respuestas para el caso bajo, base y alto.
+3. La de cantidad se cierra con volumen; la de capacidades, con formación o contratación específica.
+4. Desarrollar, contratar, subcontratar, redistribuir o automatizar.
+5. Una condición medible que activa una decisión prevista, como contratar si las ventas superan un umbral.
+6. Porque arrastran las ineficiencias del pasado.
+7. A más de un año son inciertas y dependen de supuestos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/062-planificacion-de-dotacion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **planificación de dotación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **planificación de dotación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **workforce planning**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup proyecta duplicar ventas y pide contratar 40 personas de inmediato. La demanda tiene alta incertidumbre y varios roles tardan seis meses en ser productivos.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Cappelli y Mankins y Garton;
+- `decision-journal.md` con los supuestos de demanda y los disparadores.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **planificación de dotación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **planificación de dotación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **planificación de dotación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **planificación de dotación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **planificación de dotación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter Cappelli — *Talent on Demand* (Harvard Business Press, 2008). **Uso en esta clase:** gestión del talento bajo incertidumbre y decisión de hacer o comprar talento. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9781422104477](https://openlibrary.org/isbn/9781422104477).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** energía y tiempo reales frente a dotación formal. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** asignación del tiempo y de las personas a lo que importa. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** preparación de la oferta interna de líderes. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
+- Laszlo Bock — *Work Rules!* (Twelve, 2015). **Uso en esta clase:** reclutamiento y planificación en una empresa de tecnología. Lectura selectiva sobre **planificación de dotación**. **Localizador:** [ISBN-13 9781455554799](https://openlibrary.org/isbn/9781455554799).
 
-> **Regla de fuentes para Planificación de dotación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **planificación de dotación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Planificación de dotación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales sobre contratación y término de la relación de trabajo. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,222 +5,197 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-El capstone de talento integra job design, workforce planning, selección, onboarding, desempeño, desarrollo, compensación, sucesión y salida en un sistema coherente. Si cada práctica optimiza una cosa distinta, el sistema envía señales contradictorias a las personas.
+Un sistema de talento es el conjunto de decisiones y prácticas con que una organización **atrae, selecciona, integra, evalúa, compensa, desarrolla y despide** a sus personas. Cada práctica por separado puede ser buena y el conjunto, incoherente: se selecciona con rigor y se evalúa por afinidad; se predica desarrollo y se premia solo el resultado inmediato; se habla de equidad y se negocia cada remuneración en privado. La incoherencia es el mayor enemigo del sistema, porque las personas aprenden de lo que se hace y no de lo que se declara.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: construir un sistema de talento** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 05: diseño de cargos (061), dotación (062), selección y entrevistas (063–064), onboarding (065), desempeño y mejora (066–067), compensación (068), aprendizaje (069), sucesión (070) y desvinculación (071). Se apoya en los marcos de cada clase y en una idea central: **el sistema se evalúa por la coherencia entre sus partes y por sus resultados en las personas y en el negocio**. Al terminar sabrás diagnosticar un sistema de talento, priorizar las mejoras y construir un plan con evidencia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `talent system`, `employee lifecycle`, `talent philosophy`, `governance`, `people analytics` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** quality of hire, time-to-productivity, performance distribution sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** el sistema de talento de una organización de la entrada a la salida.
+2. **Diagnosticar** su coherencia: qué se declara y qué se hace en cada práctica.
+3. **Priorizar** mejoras por impacto, costo y riesgo, empezando por las que condicionan al resto.
+4. **Diseñar** un sistema simple y proporcional al tamaño de la organización.
+5. **Medir** su efecto con indicadores de personas y de negocio.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define talent system y employee lifecycle sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con quality of hire y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe con cinco frases cómo contratas, evalúas y desarrollas hoy. ¿Qué incoherencias ves? |
+| 20–60 min | Marco del sistema y diagnóstico de coherencia. |
+| 60–105 min | Ejemplo trabajado: el sistema de talento de una empresa de 120 personas. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–170 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **talent system** | conjunto interdependiente de prácticas que atrae, desarrolla, evalúa y retiene capacidades | Distingue un hecho compatible y otro que lo refute. |
-| **employee lifecycle** | secuencia desde atracción hasta salida | Distingue un hecho compatible y otro que lo refute. |
-| **talent philosophy** | principios explícitos sobre desarrollo, desempeño y recompensa | Distingue un hecho compatible y otro que lo refute. |
-| **governance** | roles y decisiones de managers, RR.HH. y ejecutivos | Distingue un hecho compatible y otro que lo refute. |
-| **people analytics** | uso responsable de datos para observar patrones del sistema | Distingue un hecho compatible y otro que lo refute. |
+| **Sistema de talento** | Conjunto de prácticas de entrada, permanencia, desarrollo y salida de las personas, coherentes con la estrategia. | Se puede describir de extremo a extremo. |
+| **Coherencia** | Alineación entre lo que la organización declara, lo que premia y lo que hace en sus prácticas. | Las partes no se contradicen. |
+| **Palanca de entrada** | Decisión que condiciona todo lo posterior: cargo y selección. | Una selección débil exige más desempeño y mejora. |
+| **Indicador de personas** | Medida de resultados sobre las personas: rotación temprana, desempeño, clima, equidad. | Se calcula con regularidad. |
+| **Proporcionalidad** | Ajuste del sistema al tamaño y al riesgo de la organización. | Procesos simples en una empresa pequeña. |
+| **Revisión del sistema** | Evaluación periódica de la efectividad y la coherencia. | Hay una fecha y un responsable. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 072: 1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema](modelo-mental.svg)
+![Un sistema de talento de la entrada a la salida: entrada, permanencia, desarrollo y salida, con las clases de la parte 05 que cubren cada tramo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El capstone de talento integra job design, workforce planning, selección, onboarding, desempeño, desarrollo, compensación, sucesión y salida en un sistema coherente. Si cada práctica optimiza una cosa distinta, el sistema envía señales contradictorias a las personas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas.**
+**Cómo leer el diagrama.** Cuatro tramos que recorre una persona: **entrada** (cargo, dotación, selección), **permanencia** (onboarding, desempeño, compensación), **desarrollo** (aprendizaje, sucesión) y **salida** (desvinculación y su documentación). Cada decisión afecta a las demás: una selección débil recarga la gestión del desempeño; una compensación incoherente daña el desarrollo. El sistema se evalúa mirando las uniones entre tramos.
 
 ## 📖 Desarrollo
 
-### 1. talent system: mecanismo central
+### 1. Mirar el sistema completo
 
-**talent system** se entiende aquí como **conjunto interdependiente de prácticas que atrae, desarrolla, evalúa y retiene capacidades**. Esta es la pieza causal o estructural desde la que se inicia **capstone: construir un sistema de talento**: antes de definir capacidades que exige estrategia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Casi todos los problemas de personas que se atribuyen a individuos tienen una causa en el sistema: personas que no rinden porque el cargo estaba mal definido, que se van porque no hubo onboarding, que no se desarrollan porque la evaluación es solo anual, que desconfían porque nadie sabe cómo se decide la remuneración. Mirar el sistema de extremo a extremo evita tratar síntomas. El punto de partida es describirlo: ¿cómo entra, permanece, se desarrolla y sale una persona aquí?
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **quality of hire**; regístrala con periodo, unidad, población y baseline.
+### 2. Diagnosticar la coherencia
 
-Relaciona el mecanismo con **employee lifecycle**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Para cada práctica se compara lo **declarado** con lo **real**. Ejemplos de preguntas: ¿se dice que se valora la colaboración y se premia solo el resultado individual?, ¿se declara desarrollo interno y los cargos críticos se llenan siempre desde afuera?, ¿se dice que la evaluación es objetiva y no hay criterios escritos?, ¿se dice que se cuida a las personas y las desvinculaciones se hacen por correo? La incoherencia enseña más que el discurso. Se valida con datos y con la voz de las personas.
 
-### 2. employee lifecycle: frontera conceptual y error de clasificación
+### 3. Empezar por lo que condiciona
 
-**Definición operacional:** secuencia desde atracción hasta salida. Su valor está en distinguirlo de **talent system** y **talent philosophy**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Hay prácticas con efecto en cascada. **Cargo y selección** condicionan todo lo demás: una persona mal seleccionada exigirá más tiempo de feedback, planes de mejora y, quizá, desvinculación (clases 061 a 064). El **onboarding** condiciona la permanencia (065). El **desempeño** condiciona las decisiones de compensación, desarrollo y salida (066 a 068). Por eso, ante recursos limitados, se mejora primero la entrada y la claridad de expectativas.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **employee lifecycle** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-to-productivity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Proporcionalidad
 
-Antes de diseñar lifecycle coherente, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El sistema se ajusta al tamaño. Una empresa de 15 personas no necesita un comité de calibración ni un mapa de sucesión con 9 casillas; necesita cargos claros, un proceso de selección con criterios, un onboarding de dos semanas, conversaciones mensuales, una regla simple de compensación y asesoría laboral confiable. Una de 1.500 necesita sistemas, datos y gobierno. El error común es copiar el sistema de una gran empresa o no tener ninguno.
 
-### 3. talent philosophy: operacionalización y medición
+### 5. Datos y personas
 
-**talent philosophy** significa **principios explícitos sobre desarrollo, desempeño y recompensa**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se mide con indicadores sencillos: **rotación temprana** (primeros 6 a 12 meses), **tiempo de contratación**, **desempeño de los contratados** a los 6 y 12 meses, **cumplimiento de conversaciones** de desempeño, **equidad de compensación** por grupos, **movilidad interna** y **clima** (por ejemplo, seguridad psicológica, clase 042). Se complementa con la voz de las personas: encuestas breves y conversaciones. Y se interpretan con cuidado: un indicador sin contexto engaña.
 
-Robert I. Sutton — *Good Boss, Bad Boss* orienta este bloque mediante **conductas concretas de buenos jefes y reducción de daño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **performance distribution**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Equidad, ética y cumplimiento
 
-Al llegar a asignar governance y datos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Todo el sistema opera dentro de marcos legales y éticos: no discriminación en selección y compensación; protección de datos personales de candidatos y trabajadores; normas sobre jornada, contratos, evaluación y término de la relación de trabajo; y derechos colectivos. Estas normas **son específicas de cada jurisdicción y cambian**: se verifican con asesoría y en fuentes oficiales vigentes. El sistema debe poder defender cada decisión con evidencia y proceso.
 
-### 4. governance: trade-offs y efectos de segundo orden
+### 7. Gobierno y mejora
 
-**Definición:** roles y decisiones de managers, RR.HH. y ejecutivos. Este concepto obliga a abandonar la idea de que **capstone: construir un sistema de talento** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de probar fairness y experiencia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Kim Scott — *Radical Candor* aporta una lente sobre **perspectiva de Feedback aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **internal mobility** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: construir un sistema de talento**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **governance** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. people analytics: gobernanza, límites e integración
-
-**people analytics** se define como **uso responsable de datos para observar patrones del sistema** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael D. Watkins — *The First 90 Days* se utiliza para estudiar **perspectiva de Transiciones aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar instalar revisión trimestral del sistema, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **talent system**, **employee lifecycle**, **talent philosophy**, **governance** y **people analytics** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: construir un sistema de talento** no consiste en sumar cinco definiciones. Empieza por **talent system**, contrasta **employee lifecycle** con **talent philosophy**, incorpora **governance** como restricción o mecanismo y usa **people analytics** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Alguien debe ser dueño del sistema: una persona o función responsable de su coherencia y su revisión. Se revisa al menos una vez al año con datos: ¿qué funciona, qué no, qué cambió en la estrategia? Se priorizan unas pocas mejoras y se evalúan. Los jefes necesitan formación para ejecutar el sistema; si no, depende de la buena voluntad individual. Y la dirección debe ser coherente: no puede eximirse de las reglas que exige.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **capstone: construir un sistema de talento** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **capstone: construir un sistema de talento** ayuda a desafiar? |
-| Robert I. Sutton — *Good Boss, Bad Boss* | conductas concretas de buenos jefes y reducción de daño organizacional | ¿Qué supuesto de **capstone: construir un sistema de talento** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **capstone: construir un sistema de talento** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **capstone: construir un sistema de talento** ayuda a desafiar? |
-
-En **capstone: construir un sistema de talento**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **talent system**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Hackman y Oldham (1976) | Diseño del puesto como base de la motivación. | Es de los años setenta. | ¿Qué cargos del sistema están mal diseñados? |
+| Schmidt y Hunter (1998) y Sackett et al. (2022) | Qué métodos de selección predicen el desempeño. | Son promedios. | ¿Qué métodos usas? |
+| Bauer et al. (2007) | Ajuste del recién llegado. | No trata de la permanencia posterior. | ¿Cómo mides el ajuste? |
+| Adams (1963) | Equidad percibida. | No define criterios de remuneración. | ¿Qué comparaciones hacen tus equipos? |
+| Charan, Drotter y Noel (2001) | Pasajes de liderazgo para la sucesión. | Organizaciones grandes. | ¿Qué cargos críticos no tienen sucesor? |
+| Ulrich (1997) | Roles de la función de personas: socio estratégico, experto administrativo, defensor de los empleados y agente de cambio. | Es un marco de los años noventa. | ¿Quién es el dueño de tu sistema? |
+| Boudreau y Ramstad (2007) | Decisiones de talento basadas en evidencia sobre su efecto en el negocio. | Es un marco de consultoría. | ¿Qué decisión de talento medirías por su efecto en el negocio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa de 150 personas crecerá a 300. Hoy contrata por referencias del founder, no tiene niveles ni performance system y ajusta salarios caso a caso.
+**Situación (hipotética).** Una empresa de servicios de 120 personas crece rápido. Rotación del 28 % anual, 40 % en el primer año; el área de personas hace «lo que se puede». Los jefes se quejan de que «no encontramos gente buena» y las personas, de que «no sabemos cómo nos evalúan».
 
-**Paso 1 — definir capacidades que exige estrategia.** La gerencia escribe primero el supuesto asociado a **talent system** y evita convertirlo en hecho. Luego busca **quality of hire** para contrastarlo en el caso de **capstone: construir un sistema de talento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tramo | Diagnóstico de coherencia | Mejora priorizada |
+|---|---|---|
+| **Cargo y selección** | Descripciones por tareas; entrevistas libres; decisión del jefe. | Scorecards con resultados; entrevista estructurada de dos evaluadores. |
+| **Onboarding** | Un día de papeleo. | Plan de 30, 60 y 90 días y acompañante. |
+| **Desempeño** | Evaluación anual de un formulario; sin criterios. | Expectativas escritas y uno a uno mensual; revisión semestral. |
+| **Compensación** | Negociación individual al ingreso; brechas de hasta 20 % en el mismo cargo. | Bandas por cargo y revisión de equidad. |
+| **Desarrollo y sucesión** | Sin plan; los cargos de jefatura se llenan por urgencia. | Mapa de cargos críticos y un programa de entrada a jefatura. |
+| **Salida** | Términos por correo y sin documentación previa. | Protocolo con documentación, asesoría y conversación presencial. |
 
-**Paso 2 — diseñar lifecycle coherente.** La gerencia escribe primero el supuesto asociado a **employee lifecycle** y evita convertirlo en hecho. Luego busca **time-to-productivity** para contrastarlo en el caso de **capstone: construir un sistema de talento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Priorización.** Primero (trimestre 1): cargos, selección y onboarding, que condicionan la rotación temprana. Después (trimestre 2): desempeño y compensación. Luego (trimestre 3): desarrollo, sucesión y protocolo de salida.
 
-**Paso 3 — asignar governance y datos.** La gerencia escribe primero el supuesto asociado a **talent philosophy** y evita convertirlo en hecho. Luego busca **performance distribution** para contrastarlo en el caso de **capstone: construir un sistema de talento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Indicadores.** Rotación temprana de 40 % a 20 % en 12 meses; tiempo de contratación de 60 a 40 días; porcentaje de personas que dice «sé cómo me evalúan» de 38 % a 75 %.
 
-**Paso 4 — probar fairness y experiencia.** La gerencia escribe primero el supuesto asociado a **governance** y evita convertirlo en hecho. Luego busca **internal mobility** para contrastarlo en el caso de **capstone: construir un sistema de talento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — instalar revisión trimestral del sistema.** La gerencia escribe primero el supuesto asociado a **people analytics** y evita convertirlo en hecho. Luego busca **regrettable attrition** para contrastarlo en el caso de **capstone: construir un sistema de talento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: construir un sistema de talento**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se diagnosticó por tramo y por coherencia. (2) Se priorizó lo que condiciona. (3) Hay indicadores con metas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **talent system** | conjunto interdependiente de prácticas que atrae, desarrolla, evalúa y retiene capacidades | Cuando quality of hire es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **employee lifecycle** | secuencia desde atracción hasta salida | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sistema frente a procesos sueltos.** Un proceso suelto mejora una práctica; el sistema mejora las uniones entre ellas. Mejorar una parte sin mirar el sistema puede empeorar otra.
 
-**Frontera de aplicación:** Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas.
+**Límites.** Los marcos de las clases provienen de investigación de calidad variable y de contextos específicos; su combinación en un sistema es una síntesis de la parte 05, no un modelo validado. Los indicadores de personas son sensibles a factores externos como el mercado de trabajo. Y las normas laborales, de protección de datos y de no discriminación deben verificarse en fuentes oficiales vigentes y con asesoría; esta clase no las sustituye.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: construir un sistema de talento |
+| Nivel | Cómo participa en el sistema |
 |---|---|
-| **Profesional** | usa **capstone: construir un sistema de talento** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **talent system** y **employee lifecycle** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta quality of hire con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: construir un sistema de talento cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: construir un sistema de talento reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: construir un sistema de talento** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Conoce las reglas del sistema y señala incoherencias. |
+| **Jefe / Team Lead** | Ejecuta con rigor las prácticas del sistema en su equipo. |
+| **Gerente** | Es dueño de la coherencia del sistema en su área y revisa sus indicadores. |
+| **CEO / Director** | Fija los principios, asigna un dueño y se somete a las mismas reglas. |
+| **Founder / Owner** | Construye un sistema mínimo y deliberado antes de que el tamaño lo exija. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa de 150 personas crecerá a 300. Hoy contrata por referencias del founder, no tiene niveles ni performance system y ajusta salarios caso a caso.
+Una empresa de tecnología de 300 personas tiene cinco años y creció desordenadamente. Hay cuatro formas distintas de contratar según el área, una evaluación anual que casi nadie respeta, bonos negociados caso a caso y desvinculaciones que a veces llegan «de sorpresa». Dos ejecutivos clave renunciaron por «falta de claridad». La directora de personas debe presentar al directorio un plan de 12 meses. El gerente general dice: «Necesitamos un sistema, pero sin burocracia».
 
-Entrega un **decision brief de capstone: construir un sistema de talento** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan integrado de sistema de talento** que contenga: (a) el mapa de extremo a extremo y el diagnóstico de coherencia; (b) las prioridades por trimestre con su justificación; (c) el diseño de cada práctica en versión proporcional; (d) los indicadores y sus metas; (e) las salvaguardas legales y éticas y a quién consultarás; (f) el gobierno del sistema y la formación de los jefes; (g) cómo evitarás la burocracia; (h) qué evidencia te haría cambiar el plan.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: construir un sistema de talento** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta quality of hire, time-to-productivity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja el sistema de talento de tu organización de la entrada a la salida.
+2. Para tres prácticas, compara lo declarado con lo que realmente ocurre.
+3. Elige la práctica que más condiciona a las demás y justifica.
+4. Define cinco indicadores y cómo los calcularías.
+5. Escribe qué verificarías con asesoría laboral antes de implementar tu plan.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar talent system y employee lifecycle como sinónimos | Se pierde la distinción entre “conjunto interdependiente de prácticas que atrae, desarrolla, evalúa y retiene capacidades” y “secuencia desde atracción hasta salida” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “instalar revisión trimestral del sistema” | Se saltó “definir capacidades que exige estrategia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema y marca el primer supuesto no demostrado. |
-| Optimizar solo quality of hire | La métrica local sustituyó al resultado del sistema | Contrástala con time-to-productivity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: construir un sistema de talento | Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas. |
-| No fijar revisión | Una decisión sobre capstone: construir un sistema de talento se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mejorar una práctica aislada | Es lo visible | Mirar las uniones entre tramos. |
+| Copiar el sistema de una gran empresa | Se busca un modelo | Ajustar al tamaño y riesgo. |
+| Predicar y no practicar | Se declara cultura | Comparar lo declarado con lo real. |
+| Empezar por la salida | Es el problema urgente | Empezar por cargo, selección y onboarding. |
+| Medir sin contexto | Se usan números sueltos | Complementar con la voz de las personas. |
+| Sistema sin dueño | Se supone que se sostiene solo | Asignar un responsable y una revisión anual. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **talent system** y **employee lifecycle** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **talent philosophy** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir capacidades que exige estrategia → diseñar lifecycle coherente** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **quality of hire** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: construir un sistema de talento**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas.**?
+1. ¿Cuáles son los cuatro tramos de un sistema de talento?
+2. ¿Qué es la coherencia y cómo se diagnostica?
+3. ¿Por qué se empieza por el cargo y la selección?
+4. ¿Qué significa proporcionalidad?
+5. Nombra cuatro indicadores de personas.
+6. ¿Qué marcos legales deben verificarse y con quién?
+7. ¿Qué límite tiene esta síntesis?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Entrada, permanencia, desarrollo y salida.
+2. Alineación entre lo declarado, lo premiado y lo hecho; se diagnostica comparando lo declarado con lo real, con datos y la voz de las personas.
+3. Porque condicionan todo lo posterior: una selección débil recarga el desempeño, el plan de mejora y la salida.
+4. Ajustar el sistema al tamaño y al riesgo de la organización.
+5. Por ejemplo rotación temprana, tiempo de contratación, desempeño a 6 y 12 meses y equidad de compensación.
+6. No discriminación, protección de datos, normas sobre contratos, jornada, evaluación y término de la relación de trabajo; con asesoría laboral y en fuentes oficiales vigentes.
+7. Es una síntesis docente de marcos de calidad variable, no un modelo validado.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/072-capstone-construir-un-sistema-de-talento/`:
 
-- `people-decision-brief.md` con el problema específico de **capstone: construir un sistema de talento**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: construir un sistema de talento** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **talent system**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa de 150 personas crecerá a 300. Hoy contrata por referencias del founder, no tiene niveles ni performance system y ajusta salarios caso a caso.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el plan integrado del caso ejecutivo;
+- `role-scorecard.md` (plantilla [Role scorecard](../../../../templates/role-scorecard.md)) con un cargo y sus criterios de selección y evaluación;
+- `reading-note.md` con una tensión entre dos fuentes de la parte;
+- `decision-journal.md` con las prioridades, los indicadores y las verificaciones.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: construir un sistema de talento** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: construir un sistema de talento** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: construir un sistema de talento** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: construir un sistema de talento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- J. Richard Hackman & Greg R. Oldham — *Motivation through the design of work: test of a theory* (Organizational Behavior and Human Performance, 1976). **Uso en esta clase:** diseño del puesto como base de la motivación. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [DOI 10.1016/0030-5073(76)90016-7](https://doi.org/10.1016/0030-5073(76)90016-7).
+- Frank L. Schmidt & John E. Hunter — *The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings* (Psychological Bulletin, 1998). **Uso en esta clase:** validez de los métodos de selección. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [DOI 10.1037/0033-2909.124.2.262](https://doi.org/10.1037/0033-2909.124.2.262).
+- Talya N. Bauer, Todd Bodner, Berrin Erdogan, Donald M. Truxillo & Jennifer S. Tucker — *Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods* (Journal of Applied Psychology, 2007). **Uso en esta clase:** ajuste del recién llegado. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [DOI 10.1037/0021-9010.92.3.707](https://doi.org/10.1037/0021-9010.92.3.707).
+- J. Stacy Adams — *Towards an understanding of inequity* (The Journal of Abnormal and Social Psychology, 1963). **Uso en esta clase:** equidad percibida en la compensación. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [DOI 10.1037/h0040968](https://doi.org/10.1037/h0040968).
+- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** pasajes de liderazgo para la sucesión. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
+- Dave Ulrich — *Human Resource Champions* (Harvard Business School Press, 1997). **Uso en esta clase:** roles de la función de personas en el gobierno del sistema. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9780875847191](https://openlibrary.org/isbn/9780875847191).
+- John Boudreau & Peter Ramstad — *Beyond HR* (Harvard Business School Press, 2007). **Uso en esta clase:** decisiones de talento basadas en evidencia sobre su efecto en el negocio. Lectura selectiva sobre **capstone: construir un sistema de talento**. **Localizador:** [ISBN-13 9781422104156](https://openlibrary.org/isbn/9781422104156).
 
-> **Regla de fuentes para Capstone: construir un sistema de talento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: construir un sistema de talento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: construir un sistema de talento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado —no discriminación, protección de datos, contratos, jornada, evaluación y término de la relación de trabajo— debe comprobarse nuevamente en su fuente primaria vigente y con asesoría. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

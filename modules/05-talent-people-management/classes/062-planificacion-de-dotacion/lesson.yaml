@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir workforce planning de headcount mediante evidencia observable."
-  - "Aplicar la secuencia: proyectar demanda por escenario → inventariar capacidad y skills → calcular brechas y timing → comparar build-buy-borrow-automate → aprobar hiring plan con triggers."
-  - "Interpretar capacidad requerida, time-to-hire, time-to-productivity sin atribuir causalidad automática."
-  - "Resolver el caso de planificación de dotación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estimar la demanda de trabajo a partir de la estrategia y los volúmenes esperados."
+  - "Analizar la oferta interna: capacidades, rotación y tiempos de reemplazo."
+  - "Calcular la brecha en cantidad y en capacidades, con escenarios."
+  - "Elegir entre desarrollar, contratar, subcontratar, redistribuir y automatizar."
+  - "Construir un plan de dotación con fechas, presupuesto y revisión."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
-  - "Raymond Noe et al. — *Human Resource Management*"
-  - "Robert I. Sutton — *Good Boss, Bad Boss*"
-  - "Kim Scott — *Radical Candor*"
-  - "Michael D. Watkins — *The First 90 Days*"
-  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "Peter Cappelli — *Talent on Demand*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Laszlo Bock — *Work Rules!*"
 limits:
-  - "La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso."
+  - "Las proyecciones de demanda a más de un año son inciertas, y los ratios históricos arrastran ineficiencias."
 evidence_signals:
-  - "capacidad requerida"
-  - "time-to-hire"
-  - "time-to-productivity"
-  - "coste total por rol"
-  - "utilización y burnout"
+  - "demanda con tres escenarios"
+  - "brecha por capacidad y cantidad"
+  - "opciones comparadas"
+  - "disparadores de revisión"

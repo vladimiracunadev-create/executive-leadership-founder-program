@@ -1,70 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g61 d-g61" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g61">Ficha visual de la clase 061: Diseño de cargos y resultados esperados</title>
-<desc id="d-g61">Conceptos: job architecture; outcome del cargo; competencia; nivel; scorecard. Método: definir problema de negocio del rol → escribir 3–5 outcomes → identificar decisiones y interfaces → derivar competencias y nivel → validar scorecard con manager y stakeholders.</desc>
-<defs><marker id="p-g61" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 061 · Diseño de cargos y resultados esperados</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >job architecture</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estructura de familias, niveles y expectativas de roles</text>
-<circle cx="38" cy="170" r="5" fill="#0969da"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >outcome del cargo</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado por el cual el rol existe</text>
-<circle cx="38" cy="228" r="5" fill="#0969da"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >competencia</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad observable necesaria para producir el outcome</text>
-<circle cx="38" cy="286" r="5" fill="#0969da"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >nivel</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >amplitud de complejidad, autonomía e impacto esperada</text>
-<circle cx="38" cy="344" r="5" fill="#0969da"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >scorecard</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto corto de outcomes y competencias usados para</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >seleccionar y evaluar</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir problema de negocio del rol</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >escribir 3–5 outcomes</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar decisiones y interfaces</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >derivar competencias y nivel</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >validar scorecard con manager y</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stakeholders</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo para cubrir vacante</text>
-<rect x="243.4" y="442.12" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="256.4" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="267.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >calidad de contratación</text>
-<rect x="438.1" y="442.12" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="451.1" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="462.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claridad de expectativas</text>
-<rect x="639.7" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="652.7" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="663.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retrabajo por rol</text>
-<rect x="793" y="442.12" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="806" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="817" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >promociones inconsistentes</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una descripción perfecta no arregla un diseño organizacional incoherente. Si varios roles compiten por el mismo outcome, primero</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >corrige derechos de decisión.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 473.81" width="1040" role="img" aria-labelledby="t-s61 d-s61" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s61">Clase 061 · Cómo el diseño del cargo produce motivación</title>
+<desc id="d-s61">Modelo de características del puesto: cinco características centrales producen tres estados psicológicos y de ellos resultados personales y laborales.</desc>
+<defs><marker id="p-s61" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="473.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 061 · Cómo el diseño del cargo produce motivación</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Hackman &amp; Oldham (1976) · Morgeson &amp; Humphrey (2006)</text>
+<rect x="28" y="96" width="314.667" height="234.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Cinco características del cargo</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Variedad de habilidades.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Identidad de la tarea: hacer algo</text>
+<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >completo.</text>
+<circle cx="50.0" cy="225.75" r="4" fill="#0969da"/>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Significado: efecto en otras</text>
+<text x="64" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >personas.</text>
+<circle cx="50.0" cy="270.25" r="4" fill="#0969da"/>
+<text x="64" y="274.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Autonomía para decidir cómo.</text>
+<circle cx="50.0" cy="297.5" r="4" fill="#0969da"/>
+<text x="64" y="301.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Retroalimentación del propio trabajo.</text>
+<rect x="362.667" y="96" width="314.667" height="234.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#8250df"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Tres estados psicológicos</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#8250df"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Percibir el trabajo como</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >significativo.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#8250df"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Sentirse responsable de los</text>
+<text x="398.667" y="219.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resultados.</text>
+<circle cx="384.6666666666667" cy="243.0" r="4" fill="#8250df"/>
+<text x="398.667" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Conocer los resultados reales.</text>
+<rect x="697.333" y="96" width="314.667" height="234.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Resultados</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#1a7f37"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Motivación interna y satisfacción.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Desempeño de calidad.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#1a7f37"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Menor ausentismo y rotación.</text>
+<rect x="28" y="346.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="368.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El diseño del cargo es una palanca de gestión: cambiar el trabajo puede motivar más que cambiar a la persona. Morgeson y Humphrey</text>
+<text x="44" y="386" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >amplían el modelo con más dimensiones, incluidas las sociales.</text>
+<text x="28" y="433.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El efecto depende de la necesidad de crecimiento de cada persona y de que el cargo pueda rediseñarse sin romper el proceso.</text>
 </svg>

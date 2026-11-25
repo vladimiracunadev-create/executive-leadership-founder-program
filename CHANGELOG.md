@@ -39,6 +39,11 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 05 completa** (061–072): diseño de cargos (Hackman y Oldham), dotación (Cappelli),
+  selección (Schmidt y Hunter; Sackett et al.), entrevistas estructuradas (Levashina et
+  al.), onboarding (Bauer et al.), desempeño, plan de mejora, compensación (Adams; Deci et
+  al.; Gneezy y Rustichini), aprendizaje (Ericsson), sucesión (Charan et al.),
+  desvinculación responsable y el capstone del sistema de talento.
 - **La parte 04 completa** (049–060): equipo real (Katzenbach y Smith; Hackman), propósito
   y metas (Locke y Latham), roles (Rizzo et al.), confianza (Lencioni), delegación
   (Grove), coaching (Whitmore), uno a uno, reuniones (Rogelberg), reconocimiento,

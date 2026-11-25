@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 05 — Gestión de talento y personas  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Las entrevistas estructuradas mejoran comparabilidad al usar preguntas ligadas a competencias, criterios de puntuación y múltiples evaluadores calibrados. Preguntar lo mismo no basta: se necesitan anchors sobre qué evidencia corresponde a un nivel alto, medio o bajo.
+La entrevista es el método de selección más usado y el peor ejecutado. Quien entrevista suele decidir en los primeros minutos y dedica el resto a confirmar su impresión, pregunta distinto a cada candidato y recuerda mal lo que oyó. La entrevista **estructurada** corrige esto con un diseño: mismas preguntas, relacionadas con el cargo, con una escala de evaluación y con puntajes registrados antes de discutir.
 
-La salida de esta parte es **diseñar un sistema de talento desde el cargo hasta la salida responsable**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **entrevistas estructuradas** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Se apoya en la revisión de Levashina y colegas sobre la investigación en entrevistas estructuradas, en la experiencia que cuenta Laszlo Bock sobre su aplicación en una empresa de tecnología y en el análisis de Kahneman, Sibony y Sunstein sobre el **ruido**: la variación indeseada entre evaluadores que miran el mismo caso. Al terminar sabrás diseñar una entrevista estructurada, conducirla y combinar las evaluaciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `entrevista estructurada`, `behavioral question`, `situational question`, `scoring anchor`, `inter-rater reliability` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** dispersión entre entrevistadores, predicción de desempeño, preguntas omitidas sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** los componentes que hacen estructurada una entrevista.
+2. **Diseñar** preguntas basadas en conductas pasadas y en situaciones hipotéticas.
+3. **Construir** una escala de puntaje con descripciones ancla.
+4. **Conducir** la entrevista y registrar evidencia sin interpretar.
+5. **Combinar** evaluaciones independientes y documentar la decisión.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define entrevista estructurada y behavioral question sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con dispersión entre entrevistadores y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma tu última entrevista y anota qué preguntaste y qué decidió tu impresión. |
+| 20–60 min | Componentes, tipos de pregunta y el problema del ruido. |
+| 60–105 min | Ejemplo trabajado: guía de entrevista para un cargo de coordinación. |
+| 105–140 min | Caso ejecutivo: tres entrevistadores con tres opiniones. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **entrevista estructurada** | entrevista con preguntas, secuencia y scoring predeterminados | Distingue un hecho compatible y otro que lo refute. |
-| **behavioral question** | pregunta sobre conducta pasada en contexto relevante | Distingue un hecho compatible y otro que lo refute. |
-| **situational question** | escenario hipotético que evalúa razonamiento | Distingue un hecho compatible y otro que lo refute. |
-| **scoring anchor** | ejemplo que describe evidencias de cada puntuación | Distingue un hecho compatible y otro que lo refute. |
-| **inter-rater reliability** | consistencia entre evaluadores | Distingue un hecho compatible y otro que lo refute. |
+| **Entrevista estructurada** | Entrevista con contenido y evaluación estandarizados: mismas preguntas, mismos criterios, puntaje por respuesta (Levashina et al., 2014). | Se puede comparar entre candidatos. |
+| **Pregunta conductual** | Pide una situación pasada real: «cuéntame una vez en que…». | La respuesta es un hecho verificable. |
+| **Pregunta situacional** | Plantea una situación hipotética del cargo y pregunta qué haría. | Se evalúa el razonamiento. |
+| **Escala con anclas** | Puntaje con descripciones de respuestas débiles, medias y fuertes. | Dos evaluadores asignan el mismo puntaje. |
+| **Ruido** | Variación indeseada en los juicios de distintos evaluadores ante el mismo caso (Kahneman et al., 2021). | Los evaluadores discrepan sin razón sistemática. |
+| **Evaluación independiente** | Cada evaluador puntúa antes de conocer la opinión de los demás. | Los puntajes se registran por separado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 064: 1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia](modelo-mental.svg)
+![Cómo se arma una entrevista estructurada: analizar el cargo, preguntas basadas en conducta, escala con anclas, evaluar por separado y decidir combinando.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Las entrevistas estructuradas mejoran comparabilidad al usar preguntas ligadas a competencias, criterios de puntuación y múltiples evaluadores calibrados. Preguntar lo mismo no basta: se necesitan anchors sobre qué evidencia corresponde a un nivel alto, medio o bajo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez.**
+**Cómo leer el diagrama.** Cinco pasos que ocurren **antes y después** de la conversación: el diseño (analizar el cargo, escribir preguntas, construir la escala) y la decisión (evaluar por separado, combinar). La estructura vive en estas decisiones previas, no en un guion rígido durante la entrevista.
 
 ## 📖 Desarrollo
 
-### 1. entrevista estructurada: mecanismo central
+### 1. Por qué estructurar
 
-**entrevista estructurada** se entiende aquí como **entrevista con preguntas, secuencia y scoring predeterminados**. Esta es la pieza causal o estructural desde la que se inicia **entrevistas estructuradas**: antes de seleccionar competencias del scorecard, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Levashina y colegas revisaron décadas de investigación sobre entrevistas estructuradas y encontraron que se asocian con mejor predicción del desempeño y menos sesgos que las entrevistas libres. Identificaron componentes que pueden variar: la base de las preguntas (análisis del cargo), la estandarización de las preguntas, el uso de escalas de evaluación, la evaluación independiente y la documentación. A mayor estructura en estos elementos, mejores resultados en general. No es un método único sino un conjunto de decisiones de diseño.
 
-La lectura rectora de este bloque es Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. Su aporte se usa para examinar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **dispersión entre entrevistadores**; regístrala con periodo, unidad, población y baseline.
+### 2. El ruido
 
-Relaciona el mecanismo con **behavioral question**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Kahneman, Sibony y Sunstein distinguen el **sesgo** (error sistemático en una dirección) del **ruido** (variación entre juicios que deberían ser iguales). Ante un mismo candidato, dos entrevistadores pueden puntuar muy distinto sin ninguna razón consistente: el humor del día, el orden de los candidatos, la primera impresión. Su recomendación general es la **higiene de decisiones**: evaluar por separado, estructurar el juicio en dimensiones y retrasar la intuición global hasta tener los datos. La entrevista estructurada es un ejemplo.
 
-### 2. behavioral question: frontera conceptual y error de clasificación
+### 3. Analizar el cargo y fijar dimensiones
 
-**Definición operacional:** pregunta sobre conducta pasada en contexto relevante. Su valor está en distinguirlo de **entrevista estructurada** y **situational question**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se parte del cargo (clase 061): ¿qué resultados y qué conductas distinguen un buen desempeño? De ahí salen **de tres a cinco dimensiones** a evaluar, por ejemplo: resolución de problemas, colaboración, orientación al cliente, aprendizaje. Cada dimensión se evalúa con una o dos preguntas. Más dimensiones diluyen el juicio y alargan el proceso.
 
-Contrasta el problema con Raymond Noe et al. — *Human Resource Management*, que aporta una mirada sobre **selección, desarrollo, evaluación, compensación y gestión estratégica de personas**. Formula dos mini-casos: uno que sí satisface la definición de **behavioral question** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **predicción de desempeño** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Preguntas conductuales y situacionales
 
-Antes de crear preguntas conductuales y situacionales, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **pregunta conductual** parte de que el comportamiento pasado en situaciones similares predice el futuro: «cuéntame una situación en que tuviste que convencer a alguien con una visión opuesta; ¿qué hiciste?, ¿qué resultado hubo?». Se profundiza con sondeos estándar (situación, acción, resultado). La **situacional** plantea un caso: «si el cliente exige un plazo imposible, ¿qué harías?». Ambas funcionan; la primera suele ser más rica en evidencia, la segunda sirve cuando el candidato tiene poca experiencia.
 
-### 3. situational question: operacionalización y medición
+### 5. Escala con anclas
 
-**situational question** significa **escenario hipotético que evalúa razonamiento**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Para cada pregunta se escribe, antes de entrevistar, **cómo se ve** una respuesta débil, media y fuerte, con ejemplos. «Fuerte: describe una situación concreta, su acción específica, el resultado medible y lo que aprendió.» «Débil: habla en general, atribuye el resultado al equipo sin explicar su rol.» Las anclas hacen comparables las evaluaciones y reducen la discrecionalidad. Se puntúa de 1 a 5, registrando evidencia textual.
 
-John Boudreau & Peter Ramstad — *Beyond HR* orienta este bloque mediante **perspectiva de Talento aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **preguntas omitidas**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Conducir la entrevista
 
-Al llegar a definir anchors antes de entrevistar, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un procedimiento: **presentarse** y explicar el formato; **hacer las mismas preguntas** en el mismo orden; **sondear** con preguntas estándar; **tomar notas** de hechos y palabras, no de impresiones; **dejar espacio** para preguntas del candidato; y **no puntuar durante** la conversación, sino al terminar cada pregunta, sin discutir con los demás. Se evita opinar sobre el candidato delante de él y salirse del guion salvo para aclarar.
 
-### 4. scoring anchor: trade-offs y efectos de segundo orden
+### 7. Combinar y decidir
 
-**Definición:** ejemplo que describe evidencias de cada puntuación. Este concepto obliga a abandonar la idea de que **entrevistas estructuradas** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de puntuar independientemente antes de debatir, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael D. Watkins — *The First 90 Days* aporta una lente sobre **perspectiva de Transiciones aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **tiempo de debrief** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **entrevistas estructuradas**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **scoring anchor** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. inter-rater reliability: gobernanza, límites e integración
-
-**inter-rater reliability** se define como **consistencia entre evaluadores** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Marcus Buckingham & Curt Coffman — *First, Break All the Rules* se utiliza para estudiar **rol del manager, fortalezas, expectativas y desempeño individual** y contrastar la recomendación final. Al ejecutar calibrar discrepancias y guardar evidencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **entrevista estructurada**, **behavioral question**, **situational question**, **scoring anchor** y **inter-rater reliability** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **entrevistas estructuradas** no consiste en sumar cinco definiciones. Empieza por **entrevista estructurada**, contrasta **behavioral question** con **situational question**, incorpora **scoring anchor** como restricción o mecanismo y usa **inter-rater reliability** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Cada evaluador entrega sus puntajes **antes** de la reunión. Se comparan, se discuten las diferencias grandes con referencia a la evidencia y se llega a un puntaje por dimensión y total. La decisión final puede usar una **regla** (el mayor puntaje total sobre un mínimo) o un juicio informado por los puntajes; si el juicio se aparta del puntaje, se **documenta por qué**. Después, se revisa si los puntajes predijeron el desempeño: es la forma de mejorar el instrumento.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **entrevistas estructuradas** ayuda a desafiar? |
-| Raymond Noe et al. — *Human Resource Management* | selección, desarrollo, evaluación, compensación y gestión estratégica de personas | ¿Qué supuesto de **entrevistas estructuradas** ayuda a desafiar? |
-| John Boudreau & Peter Ramstad — *Beyond HR* | perspectiva de Talento aplicada al problema de la clase | ¿Qué supuesto de **entrevistas estructuradas** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **entrevistas estructuradas** ayuda a desafiar? |
-| Marcus Buckingham & Curt Coffman — *First, Break All the Rules* | rol del manager, fortalezas, expectativas y desempeño individual | ¿Qué supuesto de **entrevistas estructuradas** ayuda a desafiar? |
-
-En **entrevistas estructuradas**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **entrevista estructurada**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Levashina et al. (2014) | Componentes y efectos de la estructura de la entrevista. | Es una revisión; los componentes se combinan de modos variados. | ¿Qué componente falta en tu entrevista? |
+| Kahneman, Sibony y Sunstein (2021) | Ruido y higiene de decisiones. | Es un tratado general, no solo de selección. | ¿Cuánto varían tus entrevistadores? |
+| Bock (2015) | Cómo aplicó una empresa de tecnología entrevistas estructuradas. | Relato de una empresa. | ¿Qué aplicaría tu organización? |
+| Schmidt y Hunter (1998) | Validez de los métodos de selección. | Estimaciones revisadas después. | ¿Dónde se ubica la entrevista? |
+| Sackett et al. (2022) | Revisión con la entrevista estructurada como el método de mayor validez. | Debate técnico en curso. | ¿Qué cambió respecto de la costumbre? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Tres entrevistadores evalúan liderazgo. Uno valora carisma, otro experiencia de años y otro respuestas técnicas; todos ponen notas sin rubric común.
+**Situación (hipotética).** Un equipo busca un coordinador de operaciones. Define cuatro dimensiones y prepara la guía.
 
-**Paso 1 — seleccionar competencias del scorecard.** La gerencia escribe primero el supuesto asociado a **entrevista estructurada** y evita convertirlo en hecho. Luego busca **dispersión entre entrevistadores** para contrastarlo en el caso de **entrevistas estructuradas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Pregunta | Anclas (resumen) |
+|---|---|---|
+| **Resolución de problemas** | «Cuéntame un problema operativo complejo que resolviste: ¿cómo lo diagnosticaste y qué resultado tuvo?» | 5: diagnóstico con datos, solución y resultado medido; 3: solución sin datos; 1: no describe una acción propia. |
+| **Colaboración** | «Describe una vez en que dependías de otra área que no cumplía. ¿Qué hiciste?» | 5: aborda con hechos y logra un acuerdo; 3: escala sin conversar; 1: culpa a la otra área. |
+| **Priorización** | «Si recibes tres pedidos urgentes y solo puedes hacer uno, ¿cómo decides?» | 5: criterios claros, consulta y comunica; 3: decide por intuición; 1: intenta hacer todo. |
+| **Aprendizaje** | «Cuéntame un error tuyo reciente y qué cambiaste después.» | 5: error específico, causa reconocida, cambio verificable; 1: no reconoce errores. |
 
-**Paso 2 — crear preguntas conductuales y situacionales.** La gerencia escribe primero el supuesto asociado a **behavioral question** y evita convertirlo en hecho. Luego busca **predicción de desempeño** para contrastarlo en el caso de **entrevistas estructuradas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Proceso.** Dos entrevistadores, que puntúan por separado. La candidata A obtiene 4, 5, 3, 4 (16/20) del primero y 4, 4, 3, 4 (15/20) del segundo; el candidato B, 5, 3, 4, 2 (14) y 5, 3, 3, 2 (13). La discusión se centra en las diferencias de evidencia en «priorización» de A.
 
-**Paso 3 — definir anchors antes de entrevistar.** La gerencia escribe primero el supuesto asociado a **situational question** y evita convertirlo en hecho. Luego busca **preguntas omitidas** para contrastarlo en el caso de **entrevistas estructuradas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** Se escoge a A, y se anota que las diferencias de puntaje en una dimensión se resolvieron con evidencia.
 
-**Paso 4 — puntuar independientemente antes de debatir.** La gerencia escribe primero el supuesto asociado a **scoring anchor** y evita convertirlo en hecho. Luego busca **tiempo de debrief** para contrastarlo en el caso de **entrevistas estructuradas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — calibrar discrepancias y guardar evidencia.** La gerencia escribe primero el supuesto asociado a **inter-rater reliability** y evita convertirlo en hecho. Luego busca **sesgos detectados** para contrastarlo en el caso de **entrevistas estructuradas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **entrevistas estructuradas**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Mismas preguntas y anclas para todos. (2) Evaluación independiente. (3) Decisión con puntajes y razón registrada.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **entrevista estructurada** | entrevista con preguntas, secuencia y scoring predeterminados | Cuando dispersión entre entrevistadores es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **behavioral question** | pregunta sobre conducta pasada en contexto relevante | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Estructurada frente a rígida.** Estructurar no es leer un guion sin escuchar; permite sondear. Lo que se estandariza es lo que se evalúa y cómo.
 
-**Frontera de aplicación:** Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez.
+**Límites.** La estructura mejora la predicción en promedio, pero no elimina el sesgo: las preguntas y las anclas pueden reflejar los valores de quien las escribe. Hay cargos donde un solo tipo de entrevista no es suficiente. Los candidatos con poca experiencia en entrevistas pueden verse perjudicados por preguntas conductuales. Y se debe verificar con asesoría que las preguntas no se refieran a rasgos protegidos por las normas contra la discriminación.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre entrevistas estructuradas |
+| Nivel | Cómo participa en entrevistas |
 |---|---|
-| **Profesional** | usa **entrevistas estructuradas** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **entrevista estructurada** y **behavioral question** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta dispersión entre entrevistadores con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si entrevistas estructuradas cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de entrevistas estructuradas reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **entrevistas estructuradas** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrevista con guía y puntúa por separado. |
+| **Jefe / Team Lead** | Diseña la guía con dimensiones y anclas. |
+| **Gerente** | Forma a entrevistadores y revisa la calidad de las decisiones. |
+| **CEO / Director** | Entrevista a candidatos críticos con la misma disciplina. |
+| **Founder / Owner** | Evita entrevistar solo por afinidad a quienes serán sus primeras personas. |
 
 ## 🏢 Caso ejecutivo
 
-Tres entrevistadores evalúan liderazgo. Uno valora carisma, otro experiencia de años y otro respuestas técnicas; todos ponen notas sin rubric común.
+Tres entrevistadores —gerente, jefe de área y una colega— ven al mismo candidato. El gerente: «excelente, lo contrataría ya». El jefe: «no me convenció, muy vendedor». La colega: «bien, pero no sé». Nadie tomó notas y cada uno hizo preguntas distintas. El proceso debe cerrarse el viernes, y el candidato tiene otra oferta.
 
-Entrega un **decision brief de entrevistas estructuradas** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **guía de entrevista estructurada** que contenga: (a) las dimensiones del cargo y su justificación; (b) las preguntas con sondeos; (c) la escala con anclas; (d) el protocolo de conducción y notas; (e) el método para combinar evaluaciones y documentar la decisión; (f) cómo manejarás el caso de los tres entrevistadores y el plazo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **entrevistas estructuradas** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta dispersión entre entrevistadores, predicción de desempeño; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta tres preguntas conductuales para un cargo y sus anclas.
+2. Prueba la escala con otra persona: ¿puntúan igual?
+3. Conduce una entrevista con tu guía y anota solo hechos.
+4. Define cómo se combinarán dos evaluaciones y qué hacer si difieren mucho.
+5. Revisa tus preguntas para que no refieran a rasgos protegidos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar entrevista estructurada y behavioral question como sinónimos | Se pierde la distinción entre “entrevista con preguntas, secuencia y scoring predeterminados” y “pregunta sobre conducta pasada en contexto relevante” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “calibrar discrepancias y guardar evidencia” | Se saltó “seleccionar competencias del scorecard” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia y marca el primer supuesto no demostrado. |
-| Optimizar solo dispersión entre entrevistadores | La métrica local sustituyó al resultado del sistema | Contrástala con predicción de desempeño y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre entrevistas estructuradas | Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez. |
-| No fijar revisión | Una decisión sobre entrevistas estructuradas se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Preguntas distintas a cada candidato | Se improvisa | Las mismas preguntas y el mismo orden. |
+| Puntuar sin anclas | Es más rápido | Describir respuestas débiles, medias y fuertes. |
+| Discutir antes de puntuar | Se busca consenso | Evaluar por separado primero. |
+| Notas con impresiones | Se interpreta | Registrar hechos y palabras. |
+| Demasiadas dimensiones | Se quiere cubrirlo todo | De tres a cinco. |
+| No revisar la predicción | Se da por bueno | Comparar puntajes con desempeño posterior. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **entrevista estructurada** y **behavioral question** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **situational question** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **seleccionar competencias del scorecard → crear preguntas conductuales y situacionales** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **dispersión entre entrevistadores** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **entrevistas estructuradas**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez.**?
+1. ¿Qué componentes hacen estructurada una entrevista?
+2. ¿Qué es el ruido y por qué importa en la selección?
+3. ¿Qué diferencia hay entre pregunta conductual y situacional?
+4. ¿Qué es una escala con anclas?
+5. ¿Por qué se puntúa antes de discutir con los demás?
+6. ¿Qué haces si el juicio final se aparta del puntaje?
+7. ¿Qué límite tiene la entrevista estructurada?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Preguntas basadas en el cargo, estandarizadas, con escala de evaluación, evaluación independiente y documentación.
+2. La variación indeseada entre evaluadores ante un mismo candidato; reduce la validez de la decisión.
+3. La conductual pide una situación pasada real; la situacional plantea un caso hipotético y pregunta qué haría.
+4. Un puntaje con descripciones de respuestas débiles, medias y fuertes.
+5. Para evitar que unos influyan en otros y reducir el ruido.
+6. Se documenta por qué.
+7. Mejora la predicción en promedio, pero no elimina el sesgo y requiere cuidado con preguntas que afecten a grupos protegidos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/064-entrevistas-estructuradas/`:
 
-- `leadership-decision-brief.md` con el problema específico de **entrevistas estructuradas**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **entrevistas estructuradas** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **entrevista estructurada**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Tres entrevistadores evalúan liderazgo. Uno valora carisma, otro experiencia de años y otro respuestas técnicas; todos ponen notas sin rubric común.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la guía y el plan del caso ejecutivo;
+- `role-scorecard.md` (plantilla [Role scorecard](../../../../templates/role-scorecard.md)) con las dimensiones y anclas;
+- `decision-journal.md` con los puntajes y la razón de la decisión.
 
 ## 📗 Fuentes y verificación
 
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- Raymond Noe et al. — *Human Resource Management* (Irwin/McGraw-Hill, 2002). **Uso en esta clase:** selección, desarrollo, evaluación, compensación y gestión estratégica de personas. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9780072469943](https://openlibrary.org/isbn/9780072469943).
-- John Boudreau & Peter Ramstad — *Beyond HR* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Talento aplicada al problema de la clase. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9781422104156](https://openlibrary.org/isbn/9781422104156).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Marcus Buckingham & Curt Coffman — *First, Break All the Rules* (Simon and Schuster, 1999). **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867).
-- Robert I. Sutton — *Good Boss, Bad Boss* (Business Plus, 2010). **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **entrevistas estructuradas** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **entrevistas estructuradas**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **entrevistas estructuradas** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **entrevistas estructuradas** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **entrevistas estructuradas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Julia Levashina, Christopher J. Hartwell, Frederick P. Morgeson & Michael A. Campion — *The Structured Employment Interview: Narrative and Quantitative Review of the Research Literature* (Personnel Psychology, 2013). **Uso en esta clase:** componentes y efectos de la estructura de la entrevista. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [DOI 10.1111/peps.12052](https://doi.org/10.1111/peps.12052).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido en los juicios y higiene de decisiones. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
+- Laszlo Bock — *Work Rules!* (Twelve, 2015). **Uso en esta clase:** aplicación de entrevistas estructuradas en una empresa de tecnología. **Localizador:** [ISBN-13 9781455554799](https://openlibrary.org/isbn/9781455554799).
+- Frank L. Schmidt & John E. Hunter — *The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings* (Psychological Bulletin, 1998). **Uso en esta clase:** validez de los métodos de selección. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [DOI 10.1037/0033-2909.124.2.262](https://doi.org/10.1037/0033-2909.124.2.262).
+- Paul R. Sackett, Charlene Zhang, Christopher M. Berry & Filip Lievens — *Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range* (Journal of Applied Psychology, 2022). **Uso en esta clase:** revisión de la validez con la entrevista estructurada como método de mayor validez. Lectura selectiva sobre **entrevistas estructuradas**. **Localizador:** [DOI 10.1037/apl0000994](https://doi.org/10.1037/apl0000994).
 
-> **Regla de fuentes para Entrevistas estructuradas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **entrevistas estructuradas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Entrevistas estructuradas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas contra la discriminación. Los ejemplos y casos son hipotéticos, con puntajes ilustrativos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

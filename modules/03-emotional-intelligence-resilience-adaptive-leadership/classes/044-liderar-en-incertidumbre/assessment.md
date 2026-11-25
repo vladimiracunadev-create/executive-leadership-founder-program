@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **ambigüedad** de **incertidumbre** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **orientación** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **trigger** con **cadencia de actualización**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre riesgo, incertidumbre y ambigüedad?
+2. ¿Por qué Weick dice que el sentido se construye actuando?
+3. Nombra tres de las siete propiedades del sentido.
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Tras un cambio regulatorio, una startup no sabe si su mercado estará abierto en seis meses. El CEO debe conservar caja y foco sin prometer una fecha que nadie puede conocer.
+**Caso:** Una empresa de transporte espera que la autoridad publique una nueva regulación sobre emisiones de su flota. Se dice que podría llegar en 6 meses, con requisitos aún desconocidos, desde límites moderados hasta la exigencia de renovar el 30 % de la flota. Tiene que decidir hoy si firma un contrato de compra de 40 camiones con un proveedor que ofrece un descuento si se cierra este mes.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **declarar qué se sabe y no → definir norte y no microplan falso → establecer decisiones reversibles → crear triggers y cadencia → actualizar narrativa cuando cambia evidencia**. Debes utilizar o diseñar cómo obtener **forecast ranges, decisiones reversibles, frecuencia de actualización**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de decisión en incertidumbre** que contenga: (a) qué es riesgo, incertidumbre y ambigüedad en la situación; (b) el relato plausible y las señales que lo cambiarían; (c) las acciones acotadas y reversibles posibles; (d) el mensaje al equipo con lo que se sabe y lo que no; (e) cuándo la decisión no debe diferirse; (f) la fecha de revisión. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La construcción de sentido es una teoría interpretativa sin estimaciones cuantitativas, y la decisión por reconocimiento de Klein se basa en entrevistas con expertos en dominios con retroalimentación; en dominios donde la retroalimentación es lenta o engañosa, la intuición es menos confiable, como muestra Kahneman.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

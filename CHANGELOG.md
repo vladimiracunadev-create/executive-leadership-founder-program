@@ -39,7 +39,13 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
-- **Catorce fuentes verificadas** (DOI e ISBN comprobados) entran al registro.
+- **La parte 03 completa también** (037–048): autoconciencia (Goleman), regulación (Gross),
+  empatía y exigencia (Scott), motivación (Ryan y Deci), resiliencia (Masten y
+  Bonanno), seguridad psicológica (Edmondson), técnico y adaptativo (Heifetz),
+  construcción de sentido (Weick), dilemas (Kidder), inmunidad al cambio (Kegan y
+  Lahey), agotamiento y recuperación (Maslach; Sonnentag y Fritz) y el capstone de
+  crisis humana, cada una con su diagrama a medida.
+- **Veintisiete fuentes verificadas** (DOI e ISBN comprobados) entran al registro.
 - Una clase con `authoring: manual` en su `lesson.yaml` no la regenera
   `deep_curriculum_builder.py`.
 - Nuevos `tools/diagramas_clase.py` y `tools/build_diagrams.py` (con `--check` en

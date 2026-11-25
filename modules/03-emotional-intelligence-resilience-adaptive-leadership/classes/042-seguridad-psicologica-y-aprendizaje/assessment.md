@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **seguridad psicológica** de **voice** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **learning behavior** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **accountability** con **silencio organizacional**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cómo define Edmondson la seguridad psicológica?
+2. ¿Qué paradoja observó en los equipos de hospital?
+3. ¿Cuál es la cadena entre seguridad y desempeño?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** En una reunión todos asienten al plan del director. Después, tres managers dicen en privado que la fecha es imposible, pero nadie quiso ser quien 'pusiera problemas'.
+**Caso:** Una empresa de logística descubre que un error de configuración llevaba seis semanas generando entregas duplicadas. Un analista lo había notado hace un mes y lo comentó con un compañero, pero no lo reportó porque «la última vez que alguien avisó de un problema lo señalaron como el culpable». El costo supera los USD 300.000. El gerente general quiere «identificar al responsable».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **observar cuándo la gente calla → modelar falibilidad y preguntas → responder productivamente a malas noticias → separar error de negligencia → mantener estándares y seguimiento**. Debes utilizar o diseñar cómo obtener **near misses reportados, preguntas y disenso, errores ocultos**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de seguridad psicológica** que contenga: (a) un diagnóstico del clima con evidencia; (b) cómo responderás al error sin buscar un culpable y qué sí exigirás; (c) las conductas del liderazgo que cambiarás; (d) las prácticas que instalarás; (e) cómo medirás la seguridad y qué resultado te alertaría; (f) cómo mantendrás los estándares. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Seguridad psicológica no protege conducta abusiva, bajo desempeño deliberado ni ausencia de accountability. El espacio para hablar debe coexistir con consecuencias claras y justas.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El estudio de Edmondson de 1999 fue en equipos concretos y su relación con el desempeño depende de la tarea; la seguridad psicológica es una condición necesaria, no suficiente.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

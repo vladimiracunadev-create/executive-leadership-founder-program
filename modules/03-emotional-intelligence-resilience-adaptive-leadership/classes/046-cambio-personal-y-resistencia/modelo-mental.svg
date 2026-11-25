@@ -1,85 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g46 d-g46" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g46">Ficha visual de la clase 046: Cambio personal y resistencia</title>
-<desc id="d-g46">Conceptos: resistencia; pérdida percibida; adopción; readiness; sensemaking. Método: segmentar grupos y pérdidas → escuchar objeciones como datos → distinguir falta de skill, voluntad o confianza → diseñar apoyo y participación → medir adopción por conducta y resultado.</desc>
-<defs><marker id="p-g46" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 046 · Cambio personal y resistencia</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 03 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >resistencia</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conducta que retrasa, evita o modifica un cambio</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >propuesto</text>
-<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pérdida percibida</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estatus, control, competencia o seguridad que la</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >persona cree amenazada</text>
-<circle cx="38" cy="256.24" r="5" fill="#1a7f37"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >adopción</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >uso sostenido de nueva práctica que produce el outcome</text>
-<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >readiness</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad y disposición para comenzar la transición</text>
-<circle cx="38" cy="372.24" r="5" fill="#1a7f37"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >sensemaking</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso de construir significado sobre qué cambia y por</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >qué</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >segmentar grupos y</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >pérdidas</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >escuchar</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >objeciones como</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >datos</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >distinguir falta</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >de skill, voluntad</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >o confianza</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#1a7f37"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >diseñar apoyo y</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >participación</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#1a7f37"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >medir adopción por</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >conducta y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resultado</text>
-<path d="M638,139 L656,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g46)"/>
-<path d="M826,139 L844,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g46)"/>
-<path d="M929,176 L929,222" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g46)"/>
-<path d="M844,259 L826,259" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g46)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#1a7f37" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g46)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#1a7f37"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >uso sostenido</text>
-<rect x="153.7" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="166.7" cy="483.36" r="3.5" fill="#1a7f37"/>
-<text x="177.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >nuevas conductas</text>
-<rect x="300.1" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="313.1" cy="483.36" r="3.5" fill="#1a7f37"/>
-<text x="324.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >preguntas repetidas</text>
-<rect x="467.2" y="470.36" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="480.2" cy="483.36" r="3.5" fill="#1a7f37"/>
-<text x="491.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >workarounds</text>
-<rect x="579.1" y="470.36" width="233" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="592.1" cy="483.36" r="3.5" fill="#1a7f37"/>
-<text x="603.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >rendimiento durante transición</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No toda resistencia debe ser vencida: puede revelar riesgos reales del diseño. Escuchar no implica aceptar veto, pero sí probar si el</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cambio necesita corrección.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-046 d-046" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-046">Por qué no cambio aunque quiero: el mapa de inmunidad</title>
+<desc id="d-046">Mapa de cuatro columnas: compromiso de mejora, lo que hago o dejo de hacer, compromisos en competencia con su miedo y gran supuesto; y las etapas del cambio personal.</desc>
+<defs><marker id="p-046" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 046 · Resistencia: lo que protege el statu quo</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Kegan &amp; Lahey (2009) · Prochaska &amp; DiClemente (1983)</text>
+<rect x="28" y="92" width="232" height="200" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M28,130 V104 a12,12 0 0 1 12,-12 H248 a12,12 0 0 1 12,12 V130 Z" fill="#1a7f37"/>
+<text x="42" y="116" font-size="12" font-weight="800" fill="#ffffff" text-anchor="start" >1 · Compromiso de mejora</text>
+<text x="42" y="152" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="42" y="170" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >Delegar más y confiar en mi</text>
+<text x="42" y="187.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >equipo.</text>
+<path d="M263,192 L281,192" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-046)"/>
+<rect x="284" y="92" width="232" height="200" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M284,130 V104 a12,12 0 0 1 12,-12 H504 a12,12 0 0 1 12,12 V130 Z" fill="#0969da"/>
+<text x="298" y="116" font-size="12" font-weight="800" fill="#ffffff" text-anchor="start" >2 · Lo que hago o dejo de hacer</text>
+<text x="298" y="152" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="298" y="170" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >Reviso todo antes de</text>
+<text x="298" y="187.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >enviarlo. Reasigno tareas ya</text>
+<text x="298" y="205.88" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >delegadas.</text>
+<path d="M519,192 L537,192" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-046)"/>
+<rect x="540" y="92" width="232" height="200" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M540,130 V104 a12,12 0 0 1 12,-12 H760 a12,12 0 0 1 12,12 V130 Z" fill="#bc4c00"/>
+<text x="554" y="116" font-size="12" font-weight="800" fill="#ffffff" text-anchor="start" >3 · Compromisos en competencia</text>
+<text x="554" y="152" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="554" y="170" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >No quiero que algo salga mal</text>
+<text x="554" y="187.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >con mi nombre. Miedo:</text>
+<text x="554" y="205.88" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >parecer descuidado.</text>
+<path d="M775,192 L793,192" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-046)"/>
+<rect x="796" y="92" width="232" height="200" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<path d="M796,130 V104 a12,12 0 0 1 12,-12 H1016 a12,12 0 0 1 12,12 V130 Z" fill="#cf222e"/>
+<text x="810" y="116" font-size="12" font-weight="800" fill="#ffffff" text-anchor="start" >4 · Gran supuesto</text>
+<text x="810" y="152" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="810" y="170" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >«Si no superviso, el trabajo</text>
+<text x="810" y="187.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >bajará de nivel y se notará</text>
+<text x="810" y="205.88" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >en mí.»</text>
+<text x="28" y="330" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">ETAPAS DEL CAMBIO PERSONAL</text>
+<rect x="28" y="346" width="185.6" height="84" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.5" />
+<rect x="28.0" y="346" width="185.6" height="8" rx="4" fill="#1a7f37" fill-opacity="0.25"/>
+<text x="40" y="378" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Precontemplación</text>
+<text x="40" y="396" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >No ve el problema</text>
+<rect x="227.6" y="346" width="185.6" height="84" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.5" />
+<rect x="227.6" y="346" width="185.6" height="8" rx="4" fill="#1a7f37" fill-opacity="0.43"/>
+<text x="239.6" y="378" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Contemplación</text>
+<text x="239.6" y="396" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo evalúa, aún sin</text>
+<text x="239.6" y="411.87" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >decidir</text>
+<rect x="427.2" y="346" width="185.6" height="84" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.5" />
+<rect x="427.2" y="346" width="185.6" height="8" rx="4" fill="#1a7f37" fill-opacity="0.61"/>
+<text x="439.2" y="378" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Preparación</text>
+<text x="439.2" y="396" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Planea y prueba</text>
+<rect x="626.8" y="346" width="185.6" height="84" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.5" />
+<rect x="626.8" y="346" width="185.6" height="8" rx="4" fill="#1a7f37" fill-opacity="0.79"/>
+<text x="638.8" y="378" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Acción</text>
+<text x="638.8" y="396" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Cambia la conducta</text>
+<rect x="826.4" y="346" width="185.6" height="84" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.5" />
+<rect x="826.4" y="346" width="185.6" height="8" rx="4" fill="#1a7f37" fill-opacity="0.97"/>
+<text x="838.4" y="378" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Mantenimiento</text>
+<text x="838.4" y="396" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Sostiene y previene</text>
+<text x="838.4" y="411.87" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >recaídas</text>
+<rect x="28" y="446" width="984" height="82" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="468" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Si el gran supuesto parece obvio, se pone a prueba con un experimento pequeño y seguro: delegar una tarea de bajo riesgo y observar qué</text>
+<text x="44" y="485.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >ocurre. La resistencia es protección, no pereza.</text>
+<text x="28" y="566" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El ejemplo es ilustrativo. Las etapas surgieron del estudio de cambio de conductas de salud y se aplican con cautela al trabajo.</text>
 </svg>

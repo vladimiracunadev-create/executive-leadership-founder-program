@@ -1,83 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620.24" width="1040" role="img" aria-labelledby="t-g38 d-g38" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g38">Ficha visual de la clase 038: Autorregulación y respuesta bajo presión</title>
-<desc id="d-g38">Conceptos: activación; impulso; pausa; reencuadre; regulación. Método: reconocer señal corporal y trigger → nombrar emoción y objetivo → crear pausa física o temporal → elegir reencuadre y respuesta → revisar después si la respuesta produjo el resultado.</desc>
-<defs><marker id="p-g38" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="620.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 038 · Autorregulación y respuesta bajo presión</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 03 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >activación</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >nivel fisiológico y emocional que modifica atención y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conducta</text>
-<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >impulso</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acción automática favorecida por el estado emocional</text>
-<circle cx="38" cy="242.12" r="5" fill="#1a7f37"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pausa</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >interrupción breve que permite volver a elegir</text>
-<circle cx="38" cy="300.12" r="5" fill="#1a7f37"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reencuadre</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >interpretación alternativa que cambia respuesta posible</text>
-<circle cx="38" cy="358.12" r="5" fill="#1a7f37"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >regulación</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >modificación deliberada de intensidad, duración o</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >expresión emocional</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >reconocer señal</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >corporal y trigger</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >nombrar emoción y</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >objetivo</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear pausa física</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >o temporal</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#1a7f37"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >elegir reencuadre</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y respuesta</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#1a7f37"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar después si</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >la respuesta</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >produjo el</text>
-<text x="692" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resultado</text>
-<path d="M638,139 L656,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g38)"/>
-<path d="M826,139 L844,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g38)"/>
-<path d="M929,176 L929,222" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g38)"/>
-<path d="M844,259 L826,259" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g38)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#1a7f37" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g38)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >interrupciones impulsivas</text>
-<rect x="236.5" y="456.24" width="233" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="249.5" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="260.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >correos enviados en activación</text>
-<rect x="479.5" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="492.5" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="503.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conflictos escalados</text>
-<rect x="653.5" y="456.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="666.5" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="677.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo de recuperación</text>
-<rect x="28" y="488.24" width="288.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="501.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones revertidas al día siguiente</text>
-<rect x="28" y="534.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="534.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="554.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="572.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa</text>
-<text x="48" y="589.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mejora elección, no obliga a ser pasivo.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-038 d-038" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-038">Cinco puntos donde se puede regular una emoción</title>
+<desc id="d-038">Línea de tiempo de una emoción con cinco familias de estrategias según Gross: elegir la situación, modificarla, dirigir la atención, reinterpretar y modular la respuesta; las primeras actúan antes de que la emoción se genere.</desc>
+<defs><marker id="p-038" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 038 · Regular a tiempo, no solo contenerse</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Gross (1998)</text>
+<path d="M40,150 H1000" stroke="#59636e" stroke-width="3" marker-end="url(#p-038)"/>
+<text x="40" y="130" font-size="11.5" font-weight="700" fill="#1a7f37" text-anchor="start" >ANTES de que la emoción se genere</text>
+<text x="1000" y="130" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="end" >DESPUÉS: la emoción ya está en marcha</text>
+<circle cx="123.0" cy="150" r="14" fill="#1a7f37"/>
+<text x="123" y="155" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<rect x="28" y="184" width="190" height="220" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<text x="42" y="212" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Elegir la situación</text>
+<text x="42" y="234" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Acercarte o evitar lo</text>
+<text x="42" y="251.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >que sabes que te</text>
+<text x="42" y="268.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >desborda: preparar una</text>
+<text x="42" y="285.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >reunión, no responder</text>
+<text x="42" y="303" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >de noche.</text>
+<circle cx="327.0" cy="150" r="14" fill="#1a7f37"/>
+<text x="327" y="155" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<rect x="232" y="184" width="190" height="220" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<text x="246" y="212" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Modificar la situación</text>
+<text x="246" y="234" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cambiar lo que se</text>
+<text x="246" y="251.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >puede: dividir la</text>
+<text x="246" y="268.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >tarea, pedir más</text>
+<text x="246" y="285.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >tiempo, cambiar el</text>
+<text x="246" y="303" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >lugar.</text>
+<circle cx="531.0" cy="150" r="14" fill="#0969da"/>
+<text x="531" y="155" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<rect x="436" y="184" width="190" height="220" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<text x="450" y="212" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Dirigir la atención</text>
+<text x="450" y="234" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Mover el foco: a la</text>
+<text x="450" y="251.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >tarea, a otro aspecto,</text>
+<text x="450" y="268.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >a una pausa de</text>
+<text x="450" y="285.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >respiración.</text>
+<circle cx="735.0" cy="150" r="14" fill="#0969da"/>
+<text x="735" y="155" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<rect x="640" y="184" width="190" height="220" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<text x="654" y="212" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Reinterpretar</text>
+<text x="654" y="234" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cambiar el significado:</text>
+<text x="654" y="251.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >«no me ataca, necesita</text>
+<text x="654" y="268.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >datos». Cambia la</text>
+<text x="654" y="285.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >emoción desde su</text>
+<text x="654" y="303" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >origen.</text>
+<circle cx="939.0" cy="150" r="14" fill="#cf222e"/>
+<text x="939" y="155" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<rect x="844" y="184" width="190" height="220" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<text x="858" y="212" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Modular la respuesta</text>
+<text x="858" y="234" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Actuar sobre la</text>
+<text x="858" y="251.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >expresión: suprimir,</text>
+<text x="858" y="268.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >pausar. Es lo último y</text>
+<text x="858" y="285.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >lo más costoso.</text>
+<rect x="28" y="424" width="500" height="110" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<text x="46" y="448" font-size="11.5" font-weight="700" fill="#1a7f37" text-anchor="start" letter-spacing="1.2">LO QUE SUGIERE LA REVISIÓN</text>
+<text x="46" y="468" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Las estrategias que actúan antes (reinterpretar) cambian la</text>
+<text x="46" y="485.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >experiencia y la conducta; suprimir la expresión reduce lo que se</text>
+<text x="46" y="502.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ve, pero no necesariamente lo que se siente, y tiene costos.</text>
+<rect x="548" y="424" width="464" height="110" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<text x="566" y="448" font-size="11.5" font-weight="700" fill="#0969da" text-anchor="start" letter-spacing="1.2">CÓMO SE USA EN LA CLASE</text>
+<text x="566" y="468" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Antes de una situación de presión, decide en cuál de los</text>
+<text x="566" y="485.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cinco puntos intervendrás y qué harás.</text>
+<text x="28" y="570" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El modelo de Gross es una revisión teórica; los efectos dependen de la persona y del contexto.</text>
 </svg>

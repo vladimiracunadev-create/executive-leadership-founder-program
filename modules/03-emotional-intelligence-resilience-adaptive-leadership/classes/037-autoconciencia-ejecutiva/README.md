@@ -10,217 +10,185 @@
 
 ## 🎯 Propósito
 
-La autoconciencia ejecutiva consiste en observar patrones propios de pensamiento, emoción e impacto antes de que otros paguen su costo. Incluye reconocer triggers, fortalezas sobreutilizadas, sesgos y diferencias entre intención e impacto. Se apoya en feedback, reflexión y datos conductuales, no solo en autoimagen.
+Casi todos creemos conocernos bien. Los estudios sobre juicio muestran que solemos equivocarnos justo donde más seguros estamos, y las organizaciones lo confirman: el directivo que no ve su efecto sobre los demás es el último en enterarse. La autoconciencia no es introspección prolongada ni autoindulgencia; es la capacidad de **verse con exactitud**: qué siento, qué hago bien, dónde me equivoco y cómo me perciben.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **autoconciencia ejecutiva** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa el modelo de inteligencia emocional de Daniel Goleman, en el que la autoconciencia es el primer dominio, y la noción de «punto ciego» de Stone y Heen sobre lo que otros ven en nosotros y nosotros no. Al terminar sabrás reconocer una emoción mientras ocurre, contrastar tu autoimagen con evidencia externa y diseñar un mecanismo para recibir información sobre tu efecto en otros.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `trigger`, `self-schema`, `impacto`, `fortaleza sobreutilizada`, `feedback 360` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** feedback convergente, reacciones repetidas, conductas bajo presión sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** autoconciencia emocional, autoevaluación exacta y confianza en uno mismo según el modelo de Goleman.
+2. **Reconocer** una emoción mientras ocurre y nombrarla con precisión.
+3. **Identificar** tus puntos ciegos y las fuentes de información que pueden revelarlos.
+4. **Reconocer** sesgos que distorsionan la autoevaluación, como el exceso de confianza.
+5. **Diseñar** un mecanismo regular para obtener feedback sobre tu efecto en otros.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define trigger y self-schema sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con feedback convergente y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: escribe tres rasgos que crees que otros ven en ti; guarda la lista. |
+| 20–60 min | El modelo de Goleman, el cuadrante de conocimiento y los sesgos de autoevaluación. |
+| 60–105 min | Ejemplo trabajado: contraste entre la autoimagen y la visión de otros. |
+| 105–140 min | Caso ejecutivo: un director que no ve su efecto en el equipo. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **trigger** | estímulo que activa una respuesta emocional recurrente | Distingue un hecho compatible y otro que lo refute. |
-| **self-schema** | historia que una persona mantiene sobre sí misma | Distingue un hecho compatible y otro que lo refute. |
-| **impacto** | efecto observable de una conducta sobre otros | Distingue un hecho compatible y otro que lo refute. |
-| **fortaleza sobreutilizada** | capacidad útil que llevada al extremo se vuelve riesgo | Distingue un hecho compatible y otro que lo refute. |
-| **feedback 360** | percepción estructurada desde múltiples relaciones | Distingue un hecho compatible y otro que lo refute. |
+| **Inteligencia emocional** | Conjunto de capacidades de reconocer y manejar las propias emociones y las de otros, que Goleman (1996) organiza en cinco dominios. | Se aplica a decisiones concretas, no es un rasgo vago. |
+| **Autoconciencia emocional** | Reconocer una emoción en el momento en que ocurre y entender su efecto (Goleman, 1996). | Puedes decir «estoy irritado y por eso respondí seco». |
+| **Autoevaluación exacta** | Conocer las propias fortalezas y límites con realismo. | Tu valoración coincide, en lo esencial, con la evidencia. |
+| **Punto ciego** | Lo que otros ven en ti y tú no (Stone y Heen, 2014). | Alguien describe una conducta tuya que te sorprende. |
+| **Exceso de confianza** | Tendencia a sobreestimar la exactitud de los propios juicios (Kahneman, 2011). | Estás más seguro de lo que tus aciertos justifican. |
+| **Feedback sobre el efecto** | Información de otros sobre cómo tu conducta los afecta. | Es específica y proviene de varias personas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 037: 1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar](modelo-mental.svg)
+![Lo que sé de mí y lo que otros ven de mí: un cuadrante con lo visible y conocido, el punto ciego, lo reservado y lo aún desconocido.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La autoconciencia ejecutiva consiste en observar patrones propios de pensamiento, emoción e impacto antes de que otros paguen su costo. Incluye reconocer triggers, fortalezas sobreutilizadas, sesgos y diferencias entre intención e impacto. Se apoya en feedback, reflexión y datos conductuales, no solo en autoimagen.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad.**
+**Cómo leer el diagrama.** Las cuatro zonas dependen de dos preguntas: ¿lo sé yo? y ¿lo ven los demás? La zona de mayor riesgo para un directivo es el **punto ciego**, porque su cargo hace que menos personas se lo digan. Se reduce con feedback específico. La zona **reservada** se reduce decidiendo qué compartir para que otros te conozcan.
 
 ## 📖 Desarrollo
 
-### 1. trigger: mecanismo central
+### 1. Qué es autoconciencia
 
-**trigger** se entiende aquí como **estímulo que activa una respuesta emocional recurrente**. Esta es la pieza causal o estructural desde la que se inicia **autoconciencia ejecutiva**: antes de identificar momentos de alta reactividad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Goleman organiza la inteligencia emocional en cinco dominios: autoconciencia, autorregulación, motivación, empatía y habilidades sociales. La autoconciencia es la base, porque sin reconocer lo que sentimos no podemos regularlo. Incluye tres capacidades: reconocer las propias emociones y su efecto, evaluarse con realismo y tener una confianza fundada en las propias capacidades.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **feedback convergente**; regístrala con periodo, unidad, población y baseline.
+### 2. Reconocer una emoción mientras ocurre
 
-Relaciona el mecanismo con **self-schema**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La emoción se manifiesta primero en el cuerpo y en el pensamiento: tensión, un pensamiento repetido, un impulso de responder. Reconocerla en ese momento abre un margen para decidir qué hacer. Una práctica útil es **nombrar** con precisión: «estoy frustrado porque el plazo cambió sin consulta» es más útil que «estoy mal». Nombrar no elimina la emoción, pero la separa de la acción inmediata.
 
-### 2. self-schema: frontera conceptual y error de clasificación
+### 3. Por qué nos equivocamos al evaluarnos
 
-**Definición operacional:** historia que una persona mantiene sobre sí misma. Su valor está en distinguirlo de **trigger** y **impacto**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Kahneman muestra que nuestros juicios sobre nosotros mismos están sujetos a los mismos sesgos que los demás: tendemos a sobreestimar la exactitud de lo que creemos saber y a explicar nuestros errores por circunstancias y los de otros por carácter. En un directivo estos sesgos se refuerzan: tiene menos feedback, más validación y más decisiones que le dan la razón.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **self-schema** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **reacciones repetidas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Los puntos ciegos
 
-Antes de registrar conducta e impacto, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Stone y Heen llaman punto ciego a lo que otros ven en nosotros y nosotros no: el efecto de un tono, un hábito o una omisión. Son difíciles de detectar por definición. La vía principal es la información de otros, específica, de varias fuentes y recibida sin defensa. Un patrón repetido por más de una persona merece atención aunque no lo reconozcas.
 
-### 3. impacto: operacionalización y medición
+### 5. Cómo pedir información sobre tu efecto
 
-**impacto** significa **efecto observable de una conducta sobre otros**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Preguntas generales («¿cómo lo hago?») producen respuestas corteses. Funcionan mejor preguntas concretas a personas que te observan: «¿qué hago en las reuniones que hace más difícil que hables?», «¿qué una cosa te gustaría que hiciera distinto?». Pide a tres o cuatro personas con perspectivas distintas, agradece, resume y no discutas. La clase 030 desarrolla cómo recibir feedback.
 
-Adam Grant — *Think Again* orienta este bloque mediante **perspectiva de Aprendizaje aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **conductas bajo presión**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Fortalezas, límites y confianza
 
-Al llegar a comparar autoevaluación con feedback externo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una autoevaluación exacta incluye fortalezas: subestimarlas también es un error. La confianza fundada se apoya en evidencia de lo que has logrado y en el conocimiento de lo que aún no sabes. Un directivo con autoconciencia puede decir «esto no lo sé» o «aquí necesito ayuda» sin sentir que pierde autoridad.
 
-### 4. fortaleza sobreutilizada: trade-offs y efectos de segundo orden
+### 7. Un hábito sostenible
 
-**Definición:** capacidad útil que llevada al extremo se vuelve riesgo. Este concepto obliga a abandonar la idea de que **autoconciencia ejecutiva** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de detectar patrones y fortalezas sobreutilizadas, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ronald A. Heifetz — *Leadership Without Easy Answers* aporta una lente sobre **perspectiva de Liderazgo adaptativo aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **gap entre intención e impacto** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **autoconciencia ejecutiva**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **fortaleza sobreutilizada** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. feedback 360: gobernanza, límites e integración
-
-**feedback 360** se define como **percepción estructurada desde múltiples relaciones** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Angela Duckworth — *Grit* se utiliza para estudiar **perspectiva de Resiliencia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar seleccionar una conducta para experimentar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **trigger**, **self-schema**, **impacto**, **fortaleza sobreutilizada** y **feedback 360** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **autoconciencia ejecutiva** no consiste en sumar cinco definiciones. Empieza por **trigger**, contrasta **self-schema** con **impacto**, incorpora **fortaleza sobreutilizada** como restricción o mecanismo y usa **feedback 360** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La autoconciencia se entrena con prácticas breves y regulares: un registro semanal de tres situaciones en que reaccionaste de forma que no querías, con la emoción y lo que la desencadenó; una conversación trimestral con un par de confianza; una revisión de decisiones que salieron mal. La finalidad no es el autoanálisis sino cambiar una conducta concreta.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **autoconciencia ejecutiva** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **autoconciencia ejecutiva** ayuda a desafiar? |
-| Adam Grant — *Think Again* | perspectiva de Aprendizaje aplicada al problema de la clase | ¿Qué supuesto de **autoconciencia ejecutiva** ayuda a desafiar? |
-| Ronald A. Heifetz — *Leadership Without Easy Answers* | perspectiva de Liderazgo adaptativo aplicada al problema de la clase | ¿Qué supuesto de **autoconciencia ejecutiva** ayuda a desafiar? |
-| Angela Duckworth — *Grit* | perspectiva de Resiliencia aplicada al problema de la clase | ¿Qué supuesto de **autoconciencia ejecutiva** ayuda a desafiar? |
-
-En **autoconciencia ejecutiva**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **trigger**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Goleman (1996) | El modelo de cinco dominios de la inteligencia emocional. | Algunas afirmaciones sobre su peso en el éxito han sido discutidas. | ¿Qué emoción reconoces peor en ti? |
+| Goleman, Boyatzis y McKee (2002) | Cómo la autoconciencia del líder afecta al equipo. | Es un texto de gestión, con ejemplos seleccionados. | ¿Qué estado transmites? |
+| Stone y Heen (2014) | Los puntos ciegos y cómo recibir información. | No mide la exactitud de la autoevaluación. | ¿Qué te dirían tres personas que no ves? |
+| Kahneman (2011) | Sesgos de juicio y exceso de confianza. | No es una guía de liderazgo. | ¿Dónde estás más seguro que tus aciertos? |
+| Klein (1999) | Cómo la experiencia entrena el juicio. | No trata de emociones. | ¿Cuándo tu intuición se basa en experiencia y cuándo en deseo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un gerente se considera 'directo y claro'; tres equipos describen que interrumpe y cierra debate antes de escuchar. Su intención de velocidad genera silencio y errores ocultos.
+**Situación (hipotética).** Un gerente de operaciones, Andrés, cree que su estilo es «directo y eficiente». Escribió tres rasgos: «claro, exigente, justo». Pide a cuatro personas dos preguntas: «¿qué hago que ayuda a que el equipo funcione?» y «¿qué hago que lo dificulta?».
 
-**Paso 1 — identificar momentos de alta reactividad.** La gerencia escribe primero el supuesto asociado a **trigger** y evita convertirlo en hecho. Luego busca **feedback convergente** para contrastarlo en el caso de **autoconciencia ejecutiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Fuente | Lo que ven en Andrés |
+|---|---|
+| Par de finanzas | «Claro y rápido para decidir. A veces decide sin consultar a quien debería ejecutar.» |
+| Jefa de turno | «Exigente. Cuando se enoja, el equipo deja de traerle los problemas.» |
+| Analista | «Justo. Pero interrumpe y no siempre escucha hasta el final.» |
+| Su jefe | «Muy bueno en resultados. Me preocupa la rotación en su área.» |
 
-**Paso 2 — registrar conducta e impacto.** La gerencia escribe primero el supuesto asociado a **self-schema** y evita convertirlo en hecho. Luego busca **reacciones repetidas** para contrastarlo en el caso de **autoconciencia ejecutiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Tres de cuatro coinciden en un patrón: cuando Andrés se irrita, la información deja de llegarle. Ese es su **punto ciego**: él cree ser «directo»; otros ven que su reacción corta el flujo de problemas.
 
-**Paso 3 — comparar autoevaluación con feedback externo.** La gerencia escribe primero el supuesto asociado a **impacto** y evita convertirlo en hecho. Luego busca **conductas bajo presión** para contrastarlo en el caso de **autoconciencia ejecutiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Plan.** Andrés registra durante tres semanas las situaciones en que se irrita, la emoción y lo que hizo. Define una práctica: respirar y pedir un resumen antes de responder. Vuelve a preguntar en dos meses.
 
-**Paso 4 — detectar patrones y fortalezas sobreutilizadas.** La gerencia escribe primero el supuesto asociado a **fortaleza sobreutilizada** y evita convertirlo en hecho. Luego busca **gap entre intención e impacto** para contrastarlo en el caso de **autoconciencia ejecutiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — seleccionar una conducta para experimentar.** La gerencia escribe primero el supuesto asociado a **feedback 360** y evita convertirlo en hecho. Luego busca **progreso de una conducta objetivo** para contrastarlo en el caso de **autoconciencia ejecutiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **autoconciencia ejecutiva**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La autoimagen era parcialmente cierta. (2) El dato valioso vino de coincidencias entre fuentes. (3) El plan apunta a una conducta, no a un rasgo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **trigger** | estímulo que activa una respuesta emocional recurrente | Cuando feedback convergente es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **self-schema** | historia que una persona mantiene sobre sí misma | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Autoconciencia frente a autocrítica.** La autoconciencia es exactitud; la autocrítica excesiva distorsiona tanto como la complacencia y suele paralizar.
 
-**Frontera de aplicación:** La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad.
+**Límites.** El modelo de Goleman es de uso muy extendido, pero algunas afirmaciones sobre el peso de la inteligencia emocional en el éxito profesional han sido objeto de debate, y los instrumentos de medición varían en calidad. El feedback de otros también contiene sesgos y deseos de agradar o de dañar. Triangula varias fuentes y valora los patrones, no los comentarios aislados.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre autoconciencia ejecutiva |
+| Nivel | Cómo trabaja la autoconciencia |
 |---|---|
-| **Profesional** | usa **autoconciencia ejecutiva** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **trigger** y **self-schema** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta feedback convergente con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si autoconciencia ejecutiva cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de autoconciencia ejecutiva reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **autoconciencia ejecutiva** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reconoce sus reacciones y pide feedback concreto a pares. |
+| **Jefe / Team Lead** | Es consciente de que su estado de ánimo afecta al equipo y revisa su efecto. |
+| **Gerente** | Mantiene canales para que le lleguen verdades incómodas. |
+| **CEO / Director** | Reconoce que su cargo filtra la información y busca fuentes independientes. |
+| **Founder / Owner** | Distingue entre su convicción y los datos, y escucha a socios y clientes. |
 
 ## 🏢 Caso ejecutivo
 
-Un gerente se considera 'directo y claro'; tres equipos describen que interrumpe y cierra debate antes de escuchar. Su intención de velocidad genera silencio y errores ocultos.
+Un director de producto lleva dos años con resultados sobresalientes. En una evaluación de 360 grados, sus pares y su equipo lo describen como «brillante pero inaccesible»; tres personas clave pidieron traslado en el último año. Él considera que se trata de mala voluntad de personas «poco comprometidas». Su jefe le propone un coaching.
 
-Entrega un **decision brief de autoconciencia ejecutiva** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de autoconciencia** que contenga: (a) tus hipótesis sobre el patrón y las evidencias que las sustentan o refutan; (b) los sesgos que podrían distorsionar tu lectura; (c) las fuentes de feedback que usarás y las preguntas concretas; (d) la práctica de reconocimiento de emociones; (e) la conducta que cambiarás y cómo se medirá; (f) cuándo y cómo volverás a preguntar.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **autoconciencia ejecutiva** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta feedback convergente, reacciones repetidas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Compara la lista de rasgos de la recuperación con lo que te digan tres personas.
+2. Registra durante una semana las situaciones en que reaccionaste de forma que no querías, con la emoción.
+3. Escribe dos preguntas concretas para pedir feedback sobre tu efecto.
+4. Identifica un sesgo que podría afectar tu autoevaluación y cómo lo comprobarás.
+5. Define una conducta a cambiar y cómo sabrás si cambió.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar trigger y self-schema como sinónimos | Se pierde la distinción entre “estímulo que activa una respuesta emocional recurrente” y “historia que una persona mantiene sobre sí misma” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “seleccionar una conducta para experimentar” | Se saltó “identificar momentos de alta reactividad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar y marca el primer supuesto no demostrado. |
-| Optimizar solo feedback convergente | La métrica local sustituyó al resultado del sistema | Contrástala con reacciones repetidas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre autoconciencia ejecutiva | La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad. |
-| No fijar revisión | Una decisión sobre autoconciencia ejecutiva se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confiar solo en la introspección | Se cree que uno se conoce | Contrastar con otros. |
+| Pedir feedback general | Se evita lo incómodo | Preguntas concretas a varias personas. |
+| Defenderse al recibirlo | Se activa un disparador | Agradecer, resumir y reflexionar. |
+| Autocrítica excesiva | Se confunde con exactitud | Reconocer también las fortalezas. |
+| Analizar sin cambiar | El análisis es cómodo | Definir una conducta y medirla. |
+| Desestimar patrones | Se atribuyen a mala voluntad | Valorar lo que repiten varias fuentes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **trigger** y **self-schema** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **impacto** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar momentos de alta reactividad → registrar conducta e impacto** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **feedback convergente** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **autoconciencia ejecutiva**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad.**?
+1. ¿Cuáles son los tres componentes de la autoconciencia en el modelo de Goleman?
+2. ¿Qué es un punto ciego y cuál es la principal vía para reducirlo?
+3. ¿Por qué un directivo es más propenso a tener puntos ciegos?
+4. ¿Qué diferencia hay entre nombrar una emoción con precisión y solo sentirla?
+5. Formula una pregunta concreta para pedir feedback sobre tu efecto.
+6. ¿Qué sesgo describe Kahneman que distorsiona la autoevaluación?
+7. ¿Qué límite tiene el modelo de Goleman?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Reconocer las propias emociones y su efecto, evaluarse con exactitud y tener confianza fundada en las propias capacidades.
+2. Lo que otros ven en ti y tú no; se reduce con feedback específico de varias fuentes.
+3. Porque recibe menos feedback y más validación.
+4. Nombrar abre un margen entre la emoción y la acción; solo sentirla tiende a conducir a una reacción inmediata.
+5. Por ejemplo: «¿Qué hago en las reuniones que hace más difícil que hables?».
+6. El exceso de confianza: sobreestimar la exactitud de los propios juicios.
+7. Algunas afirmaciones sobre su peso en el éxito profesional son discutidas, y los instrumentos de medición varían.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/037-autoconciencia-ejecutiva/`:
 
-- `risk-governance-brief.md` con el problema específico de **autoconciencia ejecutiva**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **autoconciencia ejecutiva** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **trigger**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un gerente se considera 'directo y claro'; tres equipos describen que interrumpe y cierra debate antes de escuchar. Su intención de velocidad genera silencio y errores ocultos.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan de autoconciencia del caso ejecutivo;
+- `reading-note.md` con una tensión entre Goleman y Stone y Heen;
+- `decision-journal.md` con el registro de reacciones, el feedback recibido y la conducta que cambiaste.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Adam Grant — *Think Again* (PENGUIN US, 2021). **Uso en esta clase:** perspectiva de Aprendizaje aplicada al problema de la clase. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749).
-- Ronald A. Heifetz — *Leadership Without Easy Answers* (Belknap Press of Harvard University Press, 1994). **Uso en esta clase:** perspectiva de Liderazgo adaptativo aplicada al problema de la clase. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780674518582](https://openlibrary.org/isbn/9780674518582).
-- Angela Duckworth — *Grit* (Collins, 2018). **Uso en esta clase:** perspectiva de Resiliencia aplicada al problema de la clase. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9781443442329](https://openlibrary.org/isbn/9781443442329).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **autoconciencia ejecutiva** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **autoconciencia ejecutiva** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **autoconciencia ejecutiva** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **autoconciencia ejecutiva** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** el modelo de cinco dominios y la autoconciencia como base. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el efecto del estado emocional del líder en el equipo. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
+- Douglas Stone & Sheila Heen — *Thanks for the Feedback* (Viking, 2014). **Uso en esta clase:** los puntos ciegos y cómo recibir información sobre uno mismo. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668).
+- Daniel Kahneman — *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011). **Uso en esta clase:** sesgos de juicio y exceso de confianza. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780374275631](https://openlibrary.org/isbn/9780374275631).
+- Gary Klein — *Sources of Power* (The MIT Press, 1999). **Uso en esta clase:** cómo la experiencia entrena el juicio. Lectura selectiva sobre **autoconciencia ejecutiva**. **Localizador:** [ISBN-13 9780262611466](https://openlibrary.org/isbn/9780262611466).
 
-> **Regla de fuentes para Autoconciencia ejecutiva:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **autoconciencia ejecutiva** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Autoconciencia ejecutiva:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

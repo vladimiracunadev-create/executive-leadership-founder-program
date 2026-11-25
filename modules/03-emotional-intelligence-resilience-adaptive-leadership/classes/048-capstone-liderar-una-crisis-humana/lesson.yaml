@@ -5,30 +5,27 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir crisis humana de estabilización mediante evidencia observable."
-  - "Aplicar la secuencia: proteger seguridad inmediata → activar protocolo y responsables → separar hechos de rumores → comunicar lo necesario con empatía → hacer seguimiento y aprender sin revictimizar."
-  - "Interpretar tiempo de respuesta, personas protegidas, rumores sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: liderar una crisis humana con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Conducir un conflicto público con trabajadores con diálogo, proporcionalidad y ausencia de represalia."
+  - "Priorizar la seguridad y el cuidado de las personas en las primeras horas."
+  - "Reconocer un reclamo sin aceptar ni rechazar su contenido y abrir un cauce de diálogo."
+  - "Separar lo negociable de lo que es una obligación legal, con asesoría."
+  - "Evitar represalias y cuidar la justicia del proceso, del trato y de la explicación."
+  - "Integrar autorregulación, escucha, estándar, incertidumbre, ética y lectura adaptativa en un plan."
+  - "Cerrar con acuerdos, seguimiento y revisión sin culpas."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Daniel Goleman — *Emotional Intelligence*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
-  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory*"
+  - "Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng — *Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research*"
+  - "Ronald A. Heifetz, Alexander Grashow & Marty Linsky — *The Practice of Adaptive Leadership*"
   - "Amy C. Edmondson — *The Fearless Organization*"
-  - "Daniel H. Pink — *Drive*"
+  - "James J. Gross — *The Emerging Field of Emotion Regulation: An Integrative Review*"
 limits:
-  - "En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia."
+  - "Las primeras 72 horas son una guía docente, no una norma; cada situación tiene plazos y obligaciones propias."
 evidence_signals:
-  - "tiempo de respuesta"
-  - "personas protegidas"
-  - "rumores"
-  - "cumplimiento de protocolo"
-  - "acciones de seguimiento"
-  - "grievance response time"
-  - "non-retaliation record"
+  - "primera respuesta en las primeras horas"
+  - "cuatro justicias cubiertas"
+  - "sin represalias documentado"
+  - "acuerdos y seguimiento cumplidos"

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **resiliencia** de **robustez** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **adaptabilidad** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **buffer** con **antifragilidad**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cómo define Masten la resiliencia y qué dos condiciones requiere?
+2. ¿Qué diferencia hay entre resiliencia y recuperación según Bonanno?
+3. ¿Qué significa «magia ordinaria»?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un área depende de una especialista que resuelve todos los cierres críticos. Cuando se ausenta dos semanas, el equipo descubre que no hay documentación ni segundo responsable.
+**Caso:** Una empresa de tecnología reestructuró un área: se eliminaron 18 de 60 puestos. Los 42 que quedan tienen más trabajo, información parcial y desconfianza. Tres personas clave anunciaron su salida. La gerente general dice: «necesitamos un equipo más resiliente» y propone un taller de dos horas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir funciones críticas → identificar shocks plausibles y puntos únicos → crear buffers o alternativas → practicar respuesta y aprendizaje → rediseñar vulnerabilidades descubiertas**. Debes utilizar o diseñar cómo obtener **tiempo de recuperación, single points of failure, capacidad de reserva**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de apoyo a la adaptación** que contenga: (a) las trayectorias esperables y cómo las reconocerás sin etiquetar; (b) los procesos que protegerás: relaciones, claridad, sentido y recursos; (c) qué cambiarás en las condiciones de trabajo; (d) qué harás con quienes se deterioran de forma prolongada; (e) cómo aprenderá la organización del episodio; (f) qué evidencia te diría que el taller no era la respuesta. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las trayectorias de Bonanno se describen en poblaciones, no predicen a una persona.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

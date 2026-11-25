@@ -31,8 +31,9 @@ RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ / "tools"))
 import diagramas_clase  # noqa: E402
 import diagramas_parte02  # noqa: E402
+import diagramas_parte03  # noqa: E402
 
-DIAGRAMAS = {**diagramas_clase.DIAGRAMAS, **diagramas_parte02.DIAGRAMAS}
+DIAGRAMAS = {**diagramas_clase.DIAGRAMAS, **diagramas_parte02.DIAGRAMAS, **diagramas_parte03.DIAGRAMAS}
 
 INI = "<!-- modelo:inicio -->"
 FIN = "<!-- modelo:fin -->"

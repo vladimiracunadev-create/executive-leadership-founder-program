@@ -5,27 +5,27 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir motivación intrínseca de motivación extrínseca mediante evidencia observable."
-  - "Aplicar la secuencia: diagnosticar qué fricción reduce energía → separar problema de capacidad, claridad e incentivo → dar autonomía proporcional a competencia → conectar tarea con resultado y stakeholder → revisar equidad y consecuencias del sistema."
-  - "Interpretar engagement segmentado, rotación evitable, aprendizaje y autonomía sin atribuir causalidad automática."
-  - "Resolver el caso de motivación y propósito con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir las tres necesidades de la teoría de la autodeterminación y el continuo de motivación."
+  - "Diagnosticar qué necesidad no se satisface en un caso concreto de baja motivación."
+  - "Diseñar condiciones de autonomía, competencia y vínculo en un equipo."
+  - "Usar incentivos externos sin desplazar la motivación propia."
+  - "Aplicar el principio de progreso para sostener la motivación diaria."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being*"
+  - "Daniel H. Pink — *Drive*"
+  - "Teresa M. Amabile & Steven J. Kramer — *The Progress Principle*"
   - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
   - "Amy C. Edmondson — *The Fearless Organization*"
-  - "Daniel H. Pink — *Drive*"
-  - "Adam Grant — *Think Again*"
-  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
 limits:
-  - "Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza."
+  - "La teoría de la autodeterminación tiene amplio respaldo, pero se ha estudiado sobre todo en educación, salud y trabajo en entornos específicos; los resultados varían por cultura."
 evidence_signals:
-  - "engagement segmentado"
-  - "rotación evitable"
-  - "aprendizaje y autonomía"
-  - "calidad sin supervisión"
-  - "percepción de equidad"
+  - "necesidad frustrada identificada"
+  - "incentivo informativo o controlador"
+  - "avance visible esta semana"
+  - "condición cambiada y su efecto"

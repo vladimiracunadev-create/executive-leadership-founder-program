@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **resistencia** de **pérdida percibida** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **adopción** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **readiness** con **sensemaking**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es un compromiso en competencia?
+2. ¿Cuáles son las cuatro columnas del mapa de inmunidad?
+3. ¿Por qué se trata el gran supuesto como hipótesis?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Se implementa un nuevo CRM. Vendedores veteranos mantienen planillas paralelas porque creen que el sistema hará visible su cartera y reducirá autonomía.
+**Caso:** Una directora general quiere cambiar su estilo: decide rápido y en solitario, y su equipo directivo ha dejado de traerle problemas. Se comprometió a consultar antes de decidir, pero lo olvida cuando hay presión. Dice que «no tiene tiempo para consultar». En el último trimestre tomó dos decisiones que su equipo habría podido mejorar, con un costo de USD 150.000.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **segmentar grupos y pérdidas → escuchar objeciones como datos → distinguir falta de skill, voluntad o confianza → diseñar apoyo y participación → medir adopción por conducta y resultado**. Debes utilizar o diseñar cómo obtener **uso sostenido, nuevas conductas, preguntas repetidas**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **mapa de inmunidad y plan de cambio** que contenga: (a) las cuatro columnas con tu mejor hipótesis; (b) la etapa del cambio en que estás; (c) el gran supuesto y un experimento seguro con su señal de refutación; (d) el apoyo que pedirás y a quién; (e) cómo medirás el avance; (f) qué harás ante una recaída. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No toda resistencia debe ser vencida: puede revelar riesgos reales del diseño. Escuchar no implica aceptar veto, pero sí probar si el cambio necesita corrección.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El mapa de inmunidad es un método de consultoría y desarrollo que se apoya en estudios de caso, con poca evaluación experimental independiente.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

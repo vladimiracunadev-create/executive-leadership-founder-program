@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir problema técnico de desafío adaptativo mediante evidencia observable."
-  - "Aplicar la secuencia: diagnosticar qué parte es técnica y cuál adaptativa → mapear pérdidas y grupos afectados → regular tensión sin eliminarla → devolver trabajo a quienes deben aprender → proteger voces marginales y revisar adaptación."
-  - "Interpretar adopción real, conductas nuevas, resistencia por grupo sin atribuir causalidad automática."
-  - "Resolver el caso de problemas técnicos versus adaptativos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir un problema técnico de uno adaptativo con criterios observables."
+  - "Explicar por qué un problema adaptativo no se resuelve con autoridad y experticia."
+  - "Reconocer la resistencia al cambio como pérdida, no como terquedad."
+  - "Aplicar la alternancia entre la pista de baile y el balcón."
+  - "Diseñar una intervención que devuelva el trabajo a quienes deben hacerlo, a un ritmo que puedan soportar."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Daniel Goleman — *Emotional Intelligence*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Amy C. Edmondson — *The Fearless Organization*"
-  - "Brené Brown — *Dare to Lead*"
-  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
+  - "Ronald A. Heifetz, Alexander Grashow & Marty Linsky — *The Practice of Adaptive Leadership*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
   - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Donella H. Meadows — *Thinking in Systems*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
 limits:
-  - "No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural."
+  - "La distinción es una herramienta de diagnóstico, no una clasificación estricta: casi todo problema contiene ambos componentes, y calificar algo de «adaptativo» puede usarse para justificar no actuar o para culpar a las personas."
 evidence_signals:
-  - "adopción real"
-  - "conductas nuevas"
-  - "resistencia por grupo"
-  - "pérdidas reconocidas"
-  - "dependencia de expertos"
+  - "componente técnico y adaptativo separados"
+  - "pérdida identificada"
+  - "trabajo devuelto al equipo"
+  - "ritmo del cambio regulado"

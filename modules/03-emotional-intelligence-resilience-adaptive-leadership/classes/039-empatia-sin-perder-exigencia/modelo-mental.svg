@@ -1,64 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g39 d-g39" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g39">Ficha visual de la clase 039: Empatía sin perder exigencia</title>
-<desc id="d-g39">Conceptos: empatía cognitiva; empatía afectiva; compasión; exigencia; boundary. Método: escuchar contexto antes de concluir → validar experiencia sin confirmar toda interpretación → reafirmar estándar y propósito → co-diseñar apoyo proporcional → seguir desempeño y ajustar.</desc>
-<defs><marker id="p-g39" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 039 · Empatía sin perder exigencia</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 03 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >empatía cognitiva</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >comprensión de la perspectiva del otro</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >empatía afectiva</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resonancia emocional con su experiencia</text>
-<circle cx="38" cy="228" r="5" fill="#1a7f37"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >compasión</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >motivación por aliviar sufrimiento cuando es apropiado</text>
-<circle cx="38" cy="286" r="5" fill="#1a7f37"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >exigencia</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >claridad sobre estándar, fecha y consecuencia</text>
-<circle cx="38" cy="344" r="5" fill="#1a7f37"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >boundary</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límite que protege responsabilidades y evita rescate</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >impropio</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >escuchar contexto antes de concluir</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >validar experiencia sin confirmar toda interpretación</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >reafirmar estándar y propósito</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >co-diseñar apoyo proporcional</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seguir desempeño y ajustar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claridad de expectativas</text>
-<rect x="229.6" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="242.6" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="253.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >apoyos utilizados</text>
-<rect x="382.9" y="442.12" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="395.9" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="406.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resultados después de apoyo</text>
-<rect x="605.2" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="618.2" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="629.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependencia creada</text>
-<rect x="765.4" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="778.4" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="789.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >percepción de justicia</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La empatía sin límites puede producir inequidad y dependencia; la exigencia sin comprensión puede perder talento y humanidad. La</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >solución requiere criterios transparentes y ajustes temporales proporcionales.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 580" width="1040" role="img" aria-labelledby="t-039 d-039" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-039">Interesarse por la persona y desafiarla directamente</title>
+<desc id="d-039">Cuadrante de dos ejes, interesarse personalmente y desafiar de forma directa, con cuatro posturas: franqueza radical, empatía ruinosa, agresión odiosa e insinceridad manipuladora.</desc>
+<defs><marker id="p-039" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="580" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 039 · Empatía sin perder exigencia</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Scott (2017) · Goleman (1996)</text>
+<text x="305" y="86" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >PREOCUPARSE POR LA PERSONA:  poco</text>
+<text x="647" y="86" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >mucho</text>
+<text transform="translate(116,181.0) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">DESAFIAR: mucho</text>
+<text transform="translate(116,363.0) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">DESAFIAR: poco</text>
+<rect x="140" y="96" width="330" height="170" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="140" y="96" width="330" height="34" rx="12" fill="#bc4c00"/>
+<text x="156" y="119" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Agresión odiosa</text>
+<text x="156" y="154" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Dice lo directo sin importarle la persona:</text>
+<text x="156" y="171.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >«esto es un desastre».</text>
+<rect x="482" y="96" width="330" height="170" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="482" y="96" width="330" height="34" rx="12" fill="#1a7f37"/>
+<text x="498" y="119" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Franqueza radical</text>
+<text x="498" y="154" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Dice lo difícil porque le importa: «esto</text>
+<text x="498" y="171.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >no está a tu nivel; te muestro por qué».</text>
+<rect x="140" y="278" width="330" height="170" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="140" y="278" width="330" height="34" rx="12" fill="#59636e"/>
+<text x="156" y="301" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Insinceridad manipuladora</text>
+<text x="156" y="336" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Ni se involucra ni dice lo que piensa:</text>
+<text x="156" y="353.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >halaga o calla.</text>
+<rect x="482" y="278" width="330" height="170" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="482" y="278" width="330" height="34" rx="12" fill="#cf222e"/>
+<text x="498" y="301" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Empatía ruinosa</text>
+<text x="498" y="336" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cuida tanto la relación que evita decir lo</text>
+<text x="498" y="353.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >que ayudaría.</text>
+<text x="840" y="480" font-size="1" font-weight="400" fill="#1f2328" text-anchor="start" ></text>
+<rect x="28" y="478" width="984" height="62" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="500" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Goleman describe la empatía como percibir y comprender las emociones de otros; la exigencia viene de los estándares. Ambas se</text>
+<text x="44" y="517.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >necesitan: la empatía sin estándar no ayuda, y el estándar sin empatía no se escucha.</text>
+<text x="28" y="566" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El cuadrante es un marco práctico de la autora, no el resultado de una medición; sirve para revisar cómo se da un mensaje difícil.</text>
 </svg>

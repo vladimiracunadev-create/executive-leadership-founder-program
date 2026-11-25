@@ -10,217 +10,185 @@
 
 ## 🎯 Propósito
 
-Motivación y propósito se sostienen cuando el trabajo ofrece significado, autonomía adecuada, competencia y conexión, pero también depende de condiciones básicas, justicia e incentivos. Ninguna teoría aislada explica a todas las personas. El manager diseña contexto y remueve fricción; no 'inyecta motivación'.
+«Motivar» al equipo suele significar ofrecer incentivos o pronunciar discursos. Ambos funcionan menos de lo que se espera, y a veces empeoran lo que pretendían mejorar. La investigación sobre motivación muestra que las personas se mueven mejor cuando se satisfacen tres necesidades básicas: sentir que **eligen** lo que hacen, sentirse **competentes** y sentirse **conectadas** con otras. Un líder no motiva a nadie; **crea condiciones** donde la motivación propia aparece.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **motivación y propósito** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa la teoría de la autodeterminación de Ryan y Deci, el análisis de Pink sobre autonomía, maestría y propósito y la investigación de Amabile y Kramer sobre el papel del progreso. Al terminar sabrás diagnosticar qué necesidad falla en una persona o equipo, diseñar condiciones de trabajo que la atiendan y usar incentivos sin dañar la motivación propia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `motivación intrínseca`, `motivación extrínseca`, `autonomía`, `competencia`, `propósito` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** engagement segmentado, rotación evitable, aprendizaje y autonomía sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** las tres necesidades de la teoría de la autodeterminación y el continuo de motivación.
+2. **Diagnosticar** qué necesidad no se satisface en un caso concreto de baja motivación.
+3. **Diseñar** condiciones de autonomía, competencia y vínculo en un equipo.
+4. **Usar** incentivos externos sin desplazar la motivación propia.
+5. **Aplicar** el principio de progreso para sostener la motivación diaria.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define motivación intrínseca y motivación extrínseca sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con engagement segmentado y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un trabajo que hiciste con ganas y otro que hiciste por obligación; ¿qué cambió? |
+| 20–60 min | La teoría de la autodeterminación y el continuo de motivación. |
+| 60–105 min | Ejemplo trabajado: diagnóstico de un equipo desmotivado. |
+| 105–140 min | Caso ejecutivo: rediseñar el trabajo de un área de soporte. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **motivación intrínseca** | energía asociada al interés o satisfacción de la actividad | Distingue un hecho compatible y otro que lo refute. |
-| **motivación extrínseca** | conducta influida por recompensas o consecuencias externas | Distingue un hecho compatible y otro que lo refute. |
-| **autonomía** | grado de elección sobre cómo ejecutar dentro de límites | Distingue un hecho compatible y otro que lo refute. |
-| **competencia** | percepción y evidencia de capacidad creciente | Distingue un hecho compatible y otro que lo refute. |
-| **propósito** | conexión entre trabajo y un resultado considerado significativo | Distingue un hecho compatible y otro que lo refute. |
+| **Motivación intrínseca** | Hacer algo por la satisfacción de hacerlo (Ryan y Deci, 2000). | La persona lo haría sin recompensa externa. |
+| **Motivación extrínseca** | Hacer algo por una consecuencia separable de la actividad (Ryan y Deci, 2000). | La conducta depende de premios o castigos. |
+| **Autonomía** | Necesidad de sentir que la propia conducta es elegida y es expresión de uno mismo (Ryan y Deci, 2000). | La persona tiene voz sobre cómo hacer su trabajo. |
+| **Competencia** | Necesidad de sentirse eficaz en lo que se hace (Ryan y Deci, 2000). | Siente que avanza y domina. |
+| **Vínculo** | Necesidad de sentirse conectado con otros (Ryan y Deci, 2000). | Siente pertenencia y valoración. |
+| **Principio de progreso** | De todos los factores que alimentan la vida laboral, el más potente es avanzar en un trabajo con sentido (Amabile y Kramer, 2011). | Los pequeños avances se notan y se reconocen. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 040: 1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema](modelo-mental.svg)
+![Tres necesidades y un continuo de motivación: autonomía, competencia y vínculo, y el continuo desde la ausencia de motivación hasta la motivación intrínseca.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Motivación y propósito se sostienen cuando el trabajo ofrece significado, autonomía adecuada, competencia y conexión, pero también depende de condiciones básicas, justicia e incentivos. Ninguna teoría aislada explica a todas las personas. El manager diseña contexto y remueve fricción; no 'inyecta motivación'.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza.**
+**Cómo leer el diagrama.** A la izquierda, las tres necesidades cuya satisfacción favorece la motivación autónoma. A la derecha, el continuo: cuanto más a la derecha, más la persona hace lo que hace porque lo valora; cuanto más a la izquierda, más lo hace por presión o recompensa. El líder no puede mover a nadie, pero sí puede cambiar las condiciones que desplazan la motivación hacia un lado u otro.
 
 ## 📖 Desarrollo
 
-### 1. motivación intrínseca: mecanismo central
+### 1. Motivar es crear condiciones
 
-**motivación intrínseca** se entiende aquí como **energía asociada al interés o satisfacción de la actividad**. Esta es la pieza causal o estructural desde la que se inicia **motivación y propósito**: antes de diagnosticar qué fricción reduce energía, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La teoría de la autodeterminación sostiene que las personas tienen tendencia al crecimiento y a la implicación, y que esa tendencia se favorece o se frustra según el entorno. Un jefe no «motiva» a otro como quien enciende una luz; ofrece o quita las condiciones en que la motivación se sostiene. Por eso hablar de motivar es menos útil que preguntar: *¿qué condiciones de este trabajo están ayudando o dañando la motivación de esta persona?*
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **engagement segmentado**; regístrala con periodo, unidad, población y baseline.
+### 2. Las tres necesidades
 
-Relaciona el mecanismo con **motivación extrínseca**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La **autonomía** no es hacer lo que uno quiera; es sentir que lo que se hace se elige y tiene sentido. Se favorece dando voz sobre cómo se trabaja, explicando razones, ofreciendo opciones. La **competencia** es sentirse eficaz: requiere desafíos al alcance, feedback informativo y oportunidad de dominar. El **vínculo** es sentirse parte y valorado: se favorece con trato respetuoso, interés genuino y pertenencia al equipo. Si una de las tres falla, la motivación sufre aunque las demás estén bien.
 
-### 2. motivación extrínseca: frontera conceptual y error de clasificación
+### 3. Un continuo, no una dicotomía
 
-**Definición operacional:** conducta influida por recompensas o consecuencias externas. Su valor está en distinguirlo de **motivación intrínseca** y **autonomía**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La teoría no divide entre motivación «buena» e «incentivos malos». Distingue grados de autonomía: la **ausencia de motivación**, la **externa** (se hace por premio o castigo), la **introyectada** (se hace para evitar culpa o ganar aprobación), la **identificada** (se hace porque se valora su resultado) y la **intrínseca** (se hace por interés). Las actividades que no interesan por sí mismas pueden vivirse de forma autónoma si la persona comprende su sentido y las integra a sus valores.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **motivación extrínseca** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **rotación evitable** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Incentivos: cuándo ayudan y cuándo dañan
 
-Antes de separar problema de capacidad, claridad e incentivo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Pink, apoyándose en esta investigación, argumenta que para tareas rutinarias y bien definidas, los incentivos externos funcionan; para tareas que requieren creatividad y juicio, pueden ser contraproducentes si se perciben como control. La implicación práctica es que **cómo** se usa el incentivo importa: informar sobre la competencia («lo hiciste bien») sostiene la motivación; controlar la conducta («si lo haces, recibes») tiende a desplazarla. Explica los criterios, evita sorpresas y no uses la recompensa como sustituto del sentido.
 
-### 3. autonomía: operacionalización y medición
+### 5. Autonomía, maestría y propósito
 
-**autonomía** significa **grado de elección sobre cómo ejecutar dentro de límites**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Pink resume el hallazgo en tres palabras: **autonomía** (dirigir la propia tarea), **maestría** (el deseo de mejorar) y **propósito** (servir algo mayor que uno mismo). Son una lectura de divulgación de la teoría, útil para conversar con equipos. Un propósito no se declara en una pared; se experimenta cuando la persona ve a quién beneficia su trabajo y por qué importa.
 
-Amy C. Edmondson — *The Fearless Organization* orienta este bloque mediante **seguridad psicológica, aprendizaje, voz y manejo productivo del error**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **aprendizaje y autonomía**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El principio de progreso
 
-Al llegar a dar autonomía proporcional a competencia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Amabile y Kramer analizaron miles de entradas de diarios de trabajadores del conocimiento y concluyeron que el factor que más favorecía una buena «vida interior laboral» era el **progreso en un trabajo con sentido**, incluso pequeño. Los líderes pueden favorecerlo eliminando obstáculos, definiendo objetivos claros, dando recursos y haciendo visibles los avances. Y pueden dañarlo con cambios constantes de prioridad, trabajo que parece no llevar a ningún lado o reconocimiento ausente.
 
-### 4. competencia: trade-offs y efectos de segundo orden
+### 7. Diagnosticar antes de intervenir
 
-**Definición:** percepción y evidencia de capacidad creciente. Este concepto obliga a abandonar la idea de que **motivación y propósito** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de conectar tarea con resultado y stakeholder, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Daniel H. Pink — *Drive* aporta una lente sobre **perspectiva de Motivación aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **calidad sin supervisión** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **motivación y propósito**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **competencia** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. propósito: gobernanza, límites e integración
-
-**propósito** se define como **conexión entre trabajo y un resultado considerado significativo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Adam Grant — *Think Again* se utiliza para estudiar **perspectiva de Aprendizaje aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar equidad y consecuencias del sistema, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **motivación intrínseca**, **motivación extrínseca**, **autonomía**, **competencia** y **propósito** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **motivación y propósito** no consiste en sumar cinco definiciones. Empieza por **motivación intrínseca**, contrasta **motivación extrínseca** con **autonomía**, incorpora **competencia** como restricción o mecanismo y usa **propósito** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Ante una persona o equipo con baja motivación, pregunta: ¿pierde **autonomía** (microgestión, decisiones impuestas)?, ¿pierde **competencia** (tareas muy fáciles o imposibles, falta de feedback)?, ¿pierde **vínculo** (aislamiento, trato injusto)?, ¿falta **sentido** (no sabe para qué)?, ¿o hay un problema de **condiciones** (sobrecarga, incentivos contradictorios)? La respuesta orienta la intervención. No siempre es un problema de la persona.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **motivación y propósito** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **motivación y propósito** ayuda a desafiar? |
-| Amy C. Edmondson — *The Fearless Organization* | seguridad psicológica, aprendizaje, voz y manejo productivo del error | ¿Qué supuesto de **motivación y propósito** ayuda a desafiar? |
-| Daniel H. Pink — *Drive* | perspectiva de Motivación aplicada al problema de la clase | ¿Qué supuesto de **motivación y propósito** ayuda a desafiar? |
-| Adam Grant — *Think Again* | perspectiva de Aprendizaje aplicada al problema de la clase | ¿Qué supuesto de **motivación y propósito** ayuda a desafiar? |
-
-En **motivación y propósito**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **motivación intrínseca**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ryan y Deci (2000) | Tres necesidades y continuo de motivación. | Es una teoría general, no una guía de gestión. | ¿Qué necesidad está frustrada en tu equipo? |
+| Pink (2009) | Autonomía, maestría y propósito, y los límites de los incentivos. | Divulgación; simplifica la investigación. | ¿Qué incentivo podría estar desplazando motivación propia? |
+| Amabile y Kramer (2011) | El principio de progreso. | Se basa en diarios de equipos concretos. | ¿Qué avance de esta semana hiciste visible? |
+| Goleman, Boyatzis y McKee (2002) | Cómo el líder influye en la motivación por su estilo. | No usa la teoría de la autodeterminación. | ¿Qué estilo usas y qué efecto tiene? |
+| Edmondson (2018) | Seguridad psicológica como condición de la implicación. | No trata de incentivos. | ¿Qué cuesta a tu equipo proponer algo? |
+| Christensen et al. (2017) | Cómo los factores de higiene se distinguen de lo que motiva de verdad. | Es una obra de reflexión personal y de gestión. | ¿Qué de tu trabajo es higiene y qué es motivación? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo recibe bonos agresivos por volumen y un discurso semanal de propósito. Aun así, la calidad cae porque el incentivo premia exactamente la conducta que el mensaje intenta desalentar.
+**Situación (hipotética).** Un jefe de soporte observa que su equipo, antes comprometido, ahora hace lo mínimo. Introdujo hace seis meses un bono por tickets cerrados y reportes diarios de productividad.
 
-**Paso 1 — diagnosticar qué fricción reduce energía.** La gerencia escribe primero el supuesto asociado a **motivación intrínseca** y evita convertirlo en hecho. Luego busca **engagement segmentado** para contrastarlo en el caso de **motivación y propósito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Necesidad | Qué cambió | Efecto |
+|---|---|---|
+| **Autonomía** | El bono por tickets define cómo priorizar; los reportes diarios controlan el ritmo. | Se percibe control: «hago lo que mide el bono». |
+| **Competencia** | Se cierran tickets simples para sumar puntos; los complejos se evitan. | Menos oportunidades de dominar. |
+| **Vínculo** | El ranking individual reemplazó el reconocimiento al equipo. | Menos colaboración. |
+| **Sentido** | Nadie explica qué efecto tiene el soporte en los clientes. | Se pierde el propósito. |
 
-**Paso 2 — separar problema de capacidad, claridad e incentivo.** La gerencia escribe primero el supuesto asociado a **motivación extrínseca** y evita convertirlo en hecho. Luego busca **rotación evitable** para contrastarlo en el caso de **motivación y propósito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervención.** El jefe (1) cambia el bono individual por una meta de equipo ligada a satisfacción del cliente; (2) devuelve a cada persona la decisión sobre cómo organizar su día; (3) crea un espacio semanal para casos complejos con reconocimiento de quienes los resuelven; (4) comparte cada semana un caso de cliente donde el soporte hizo la diferencia; (5) elimina el reporte diario y deja uno semanal.
 
-**Paso 3 — dar autonomía proporcional a competencia.** La gerencia escribe primero el supuesto asociado a **autonomía** y evita convertirlo en hecho. Luego busca **aprendizaje y autonomía** para contrastarlo en el caso de **motivación y propósito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — conectar tarea con resultado y stakeholder.** La gerencia escribe primero el supuesto asociado a **competencia** y evita convertirlo en hecho. Luego busca **calidad sin supervisión** para contrastarlo en el caso de **motivación y propósito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar equidad y consecuencias del sistema.** La gerencia escribe primero el supuesto asociado a **propósito** y evita convertirlo en hecho. Luego busca **percepción de equidad** para contrastarlo en el caso de **motivación y propósito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **motivación y propósito**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El incentivo, mal diseñado, desplazó la motivación propia. (2) El diagnóstico fue por necesidad, no por culpa de las personas. (3) Cada medida apunta a una condición.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **motivación intrínseca** | energía asociada al interés o satisfacción de la actividad | Cuando engagement segmentado es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **motivación extrínseca** | conducta influida por recompensas o consecuencias externas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Motivación frente a compromiso.** El compromiso incluye la conducta sostenida y la identificación con la organización; la motivación es una condición para ello. Un equipo motivado por una tarea puede no estar comprometido con la empresa.
 
-**Frontera de aplicación:** Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza.
+**Límites.** La teoría de la autodeterminación tiene amplio respaldo, pero se ha estudiado sobre todo en educación, salud y trabajo en entornos específicos; los resultados varían por cultura. Los libros de divulgación simplifican los hallazgos. Los incentivos externos no son «malos»: en tareas rutinarias funcionan y un salario justo es una condición, no un motivador. Y ninguna estrategia reemplaza condiciones decentes de trabajo.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre motivación y propósito |
+| Nivel | Cómo trabaja la motivación |
 |---|---|
-| **Profesional** | usa **motivación y propósito** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **motivación intrínseca** y **motivación extrínseca** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta engagement segmentado con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si motivación y propósito cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de motivación y propósito reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **motivación y propósito** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Diseña su trabajo para tener avances visibles y pide el sentido de lo que hace. |
+| **Jefe / Team Lead** | Da voz, feedback informativo y reconoce el progreso. |
+| **Gerente** | Diseña incentivos que no controlen y evita cambios constantes de prioridad. |
+| **CEO / Director** | Cuida que la estrategia dé sentido al trabajo y que los sistemas de incentivos no lo desplacen. |
+| **Founder / Owner** | Convive con la tentación de motivar con urgencia; construye propósito compartido con su equipo. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo recibe bonos agresivos por volumen y un discurso semanal de propósito. Aun así, la calidad cae porque el incentivo premia exactamente la conducta que el mensaje intenta desalentar.
+Una empresa de servicios financieros tiene un área de operaciones que procesa solicitudes. La rotación subió del 12 % al 30 % en un año. Introdujo metas diarias individuales y pantallas con el ranking. Los clientes se quejan de respuestas apresuradas; el equipo dice que «nadie escucha». La directora quiere subir el bono.
 
-Entrega un **decision brief de motivación y propósito** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico y plan de motivación** que contenga: (a) el análisis por necesidad —autonomía, competencia, vínculo y sentido— con la evidencia; (b) las condiciones que cambiarás y por qué; (c) cómo rediseñarás los incentivos sin controlar la conducta; (d) cómo harás visible el progreso; (e) cómo medirás el efecto; (f) qué evidencia te haría concluir que el problema son las condiciones y no las personas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **motivación y propósito** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta engagement segmentado, rotación evitable; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige a una persona de tu equipo y evalúa qué necesidad está más satisfecha y cuál menos.
+2. Revisa un incentivo que usas: ¿informa sobre la competencia o controla la conducta?
+3. Identifica un avance pequeño de esta semana y haz que se vea.
+4. Escribe el sentido de una tarea rutinaria de tu área: ¿quién se beneficia?
+5. Define una condición que cambiarás y cómo sabrás si ayudó.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar motivación intrínseca y motivación extrínseca como sinónimos | Se pierde la distinción entre “energía asociada al interés o satisfacción de la actividad” y “conducta influida por recompensas o consecuencias externas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar equidad y consecuencias del sistema” | Se saltó “diagnosticar qué fricción reduce energía” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema y marca el primer supuesto no demostrado. |
-| Optimizar solo engagement segmentado | La métrica local sustituyó al resultado del sistema | Contrástala con rotación evitable y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre motivación y propósito | Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza. |
-| No fijar revisión | Una decisión sobre motivación y propósito se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Subir el bono ante la desmotivación | Se supone que el dinero resuelve | Diagnosticar la necesidad que falla. |
+| Controlar para «motivar» | Se confunde seguimiento con apoyo | Dar voz y feedback informativo. |
+| Cambios constantes de prioridad | Se reacciona al entorno | Proteger el foco y hacer visible el avance. |
+| Propósito como eslogan | Se declara sin experiencia | Mostrar a quién beneficia el trabajo. |
+| Ranking individual | Se busca competencia | Metas de equipo y reconocimiento a la colaboración. |
+| Culpar a la persona | Es lo más visible | Revisar las condiciones primero. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **motivación intrínseca** y **motivación extrínseca** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **autonomía** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **diagnosticar qué fricción reduce energía → separar problema de capacidad, claridad e incentivo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **engagement segmentado** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **motivación y propósito**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza.**?
+1. ¿Cuáles son las tres necesidades de la teoría de la autodeterminación?
+2. ¿Qué es el continuo de motivación y qué extremos tiene?
+3. ¿Cuándo pueden los incentivos externos dañar la motivación?
+4. ¿Qué es el principio de progreso?
+5. Da un ejemplo de feedback informativo y otro de controlador.
+6. ¿Por qué «motivar» es menos útil que «crear condiciones»?
+7. ¿Qué límite tiene la divulgación de Pink?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Autonomía, competencia y vínculo.
+2. Va de la ausencia de motivación, pasando por la externa, la introyectada y la identificada, hasta la intrínseca; crece la autonomía.
+3. Cuando se perciben como control y la tarea exige creatividad o juicio.
+4. De los factores de la vida laboral, el más potente es avanzar en un trabajo con sentido, incluso con pequeños logros.
+5. Informativo: «el análisis de costos fue claro y cambió la decisión». Controlador: «si cierras 30 tickets, recibes el bono».
+6. Porque la motivación no se enciende desde fuera; las condiciones la favorecen o la frustran.
+7. Es divulgación: simplifica la investigación.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/040-motivacion-y-proposito/`:
 
-- `leadership-decision-brief.md` con el problema específico de **motivación y propósito**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **motivación y propósito** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **motivación intrínseca**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo recibe bonos agresivos por volumen y un discurso semanal de propósito. Aun así, la calidad cae porque el incentivo premia exactamente la conducta que el mensaje intenta desalentar.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diagnóstico y el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Ryan y Deci y Pink;
+- `decision-journal.md` con las condiciones que cambiaste y su efecto.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica, aprendizaje, voz y manejo productivo del error. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
-- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** perspectiva de Motivación aplicada al problema de la clase. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
-- Adam Grant — *Think Again* (PENGUIN US, 2021). **Uso en esta clase:** perspectiva de Aprendizaje aplicada al problema de la clase. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **motivación y propósito** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **motivación y propósito**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **motivación y propósito** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **motivación y propósito** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **motivación y propósito** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being* (American Psychologist, 2000). **Uso en esta clase:** las tres necesidades y el continuo de motivación. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [DOI 10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68).
+- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** autonomía, maestría y propósito, y los límites de los incentivos. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
+- Teresa M. Amabile & Steven J. Kramer — *The Progress Principle* (Harvard Business Review Press, 2011). **Uso en esta clase:** el principio de progreso. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781422198575](https://openlibrary.org/isbn/9781422198575).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el efecto del estilo del líder en la motivación. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica como condición de la implicación. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Clayton Christensen et al. — *How Will You Measure Your Life?* (Harvard Business Review Press, 2017). **Uso en esta clase:** factores de higiene y factores que motivan. Lectura selectiva sobre **motivación y propósito**. **Localizador:** [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565).
 
-> **Regla de fuentes para Motivación y propósito:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **motivación y propósito** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Motivación y propósito:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

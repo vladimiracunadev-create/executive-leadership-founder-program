@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir seguridad psicológica de voice mediante evidencia observable."
-  - "Aplicar la secuencia: observar cuándo la gente calla → modelar falibilidad y preguntas → responder productivamente a malas noticias → separar error de negligencia → mantener estándares y seguimiento."
-  - "Interpretar near misses reportados, preguntas y disenso, errores ocultos sin atribuir causalidad automática."
-  - "Resolver el caso de seguridad psicológica y aprendizaje con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir seguridad psicológica y distinguirla de comodidad, confianza y amabilidad."
+  - "Explicar la cadena entre la conducta del líder, la seguridad, el aprendizaje y el desempeño."
+  - "Ubicar a un equipo en el cuadrante de seguridad y estándares."
+  - "Reconocer las conductas que construyen o destruyen la seguridad."
+  - "Diseñar prácticas concretas para construirla sin reducir la exigencia."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Daniel Goleman — *Emotional Intelligence*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
-  - "Daniel H. Pink — *Drive*"
-  - "Adam Grant — *Think Again*"
-  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
+  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
+  - "Kim Scott — *Radical Candor*"
+  - "Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected*"
 limits:
-  - "Seguridad psicológica no protege conducta abusiva, bajo desempeño deliberado ni ausencia de accountability. El espacio para hablar debe coexistir con consecuencias claras y justas."
+  - "El estudio de Edmondson de 1999 fue en equipos concretos y su relación con el desempeño depende de la tarea; la seguridad psicológica es una condición necesaria, no suficiente."
 evidence_signals:
-  - "near misses reportados"
-  - "preguntas y disenso"
-  - "errores ocultos"
-  - "tiempo para escalar problemas"
-  - "calidad con autonomía"
+  - "preguntas de seguridad al equipo"
+  - "conducta del líder ante un error"
+  - "errores reportados a tiempo"
+  - "estándares mantenidos"

@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Autorregulación no es reprimir emociones; es crear espacio entre activación y acción para elegir una respuesta acorde al objetivo. Bajo presión, la fisiología estrecha atención y aumenta respuestas habituales. Técnicas de pausa, etiquetado, reencuadre y preparación de triggers permiten conservar capacidad ejecutiva.
+Bajo presión, casi todos decimos o hacemos cosas que no haríamos con calma. Para quien dirige, el costo es mayor: un correo escrito con rabia, una frase dicha en una reunión o un silencio hostil se interpretan como señal de la empresa y no como una reacción personal. «Controlarse» suena a contenerse, y la investigación muestra que contenerse es una de las formas menos eficaces de regular una emoción.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **autorregulación y respuesta bajo presión** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa el modelo de proceso de regulación emocional de James Gross, que distingue **cinco puntos** donde se puede intervenir en el curso de una emoción, y concluye que las estrategias que actúan antes de que la emoción se despliegue por completo suelen funcionar mejor que las que actúan sobre su expresión. Al terminar sabrás elegir una estrategia para una situación de presión y preparar de antemano qué harás.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `activación`, `impulso`, `pausa`, `reencuadre`, `regulación` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** interrupciones impulsivas, correos enviados en activación, conflictos escalados sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** los cinco puntos del proceso de regulación emocional de Gross.
+2. **Distinguir** estrategias previas a la emoción de estrategias sobre la respuesta.
+3. **Explicar** por qué suprimir la expresión no equivale a regular la emoción y qué costos tiene.
+4. **Preparar** un plan para una situación de presión: situación, atención, interpretación y respuesta.
+5. **Diseñar** una práctica de recuperación inmediata para usar en el momento.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define activación y impulso sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con interrupciones impulsivas y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda la última vez que reaccionaste mal bajo presión; ¿en qué momento pudiste intervenir? |
+| 20–60 min | El proceso de Gross y las cinco familias de estrategias. |
+| 60–105 min | Ejemplo trabajado: una reunión tensa con un plan en cinco puntos. |
+| 105–140 min | Caso ejecutivo: una crisis con un cliente. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **activación** | nivel fisiológico y emocional que modifica atención y conducta | Distingue un hecho compatible y otro que lo refute. |
-| **impulso** | acción automática favorecida por el estado emocional | Distingue un hecho compatible y otro que lo refute. |
-| **pausa** | interrupción breve que permite volver a elegir | Distingue un hecho compatible y otro que lo refute. |
-| **reencuadre** | interpretación alternativa que cambia respuesta posible | Distingue un hecho compatible y otro que lo refute. |
-| **regulación** | modificación deliberada de intensidad, duración o expresión emocional | Distingue un hecho compatible y otro que lo refute. |
+| **Regulación emocional** | Procesos por los cuales influimos en qué emociones tenemos, cuándo las tenemos y cómo las vivimos y expresamos (Gross, 1998). | Se puede decir qué hiciste para influir en la emoción. |
+| **Selección de la situación** | Acercarse o evitar situaciones según la emoción que se espera. | Preparas o evitas el contexto que te desborda. |
+| **Modificación de la situación** | Cambiar la situación para alterar su efecto emocional. | Pides más tiempo, divides la tarea. |
+| **Despliegue de la atención** | Dirigir la atención hacia o lejos de aspectos de la situación. | Mueves el foco a la tarea o haces una pausa. |
+| **Cambio cognitivo (reevaluación)** | Cambiar el significado de la situación para modificar su efecto emocional. | «No me ataca, necesita datos.» |
+| **Modulación de la respuesta** | Actuar sobre la expresión de la emoción ya generada, por ejemplo suprimirla. | Contienes el gesto, la voz o la frase. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 038: 1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado](modelo-mental.svg)
+![Cinco puntos donde se puede regular una emoción: elegir la situación, modificarla, dirigir la atención, reinterpretar y modular la respuesta, de las estrategias previas a las posteriores.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Autorregulación no es reprimir emociones; es crear espacio entre activación y acción para elegir una respuesta acorde al objetivo. Bajo presión, la fisiología estrecha atención y aumenta respuestas habituales. Técnicas de pausa, etiquetado, reencuadre y preparación de triggers permiten conservar capacidad ejecutiva.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo.**
+**Cómo leer el diagrama.** La línea del tiempo va de izquierda a derecha: a la izquierda están las estrategias que actúan **antes** de que la emoción se despliegue; a la derecha, la que actúa sobre la respuesta cuando la emoción ya está en marcha. La clase propone preparar los puntos 1 a 4 antes de la situación y dejar el 5 para lo que no se pudo anticipar.
 
 ## 📖 Desarrollo
 
-### 1. activación: mecanismo central
+### 1. Qué es regular una emoción
 
-**activación** se entiende aquí como **nivel fisiológico y emocional que modifica atención y conducta**. Esta es la pieza causal o estructural desde la que se inicia **autorregulación y respuesta bajo presión**: antes de reconocer señal corporal y trigger, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Gross define la regulación emocional como el conjunto de procesos con que influimos sobre qué emociones tenemos, cuándo las tenemos y cómo las vivimos y expresamos. No es eliminar emociones: las emociones informan. Se trata de que no dirijan la conducta cuando no conviene. Y se puede hacer de manera automática o consciente; la clase trabaja la consciente.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **interrupciones impulsivas**; regístrala con periodo, unidad, población y baseline.
+### 2. Los cinco puntos
 
-Relaciona el mecanismo con **impulso**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Gross propone que una emoción se genera por una secuencia: una situación, la atención que le damos, la forma en que la interpretamos y la respuesta que produce. En cada paso existe una familia de estrategias: **selección de la situación**, **modificación de la situación**, **despliegue de la atención**, **cambio cognitivo** y **modulación de la respuesta**. Las cuatro primeras son «centradas en los antecedentes», porque actúan antes de que la respuesta emocional se instale; la última se centra en la respuesta.
 
-### 2. impulso: frontera conceptual y error de clasificación
+### 3. Antes de la situación: elegir y modificar
 
-**Definición operacional:** acción automática favorecida por el estado emocional. Su valor está en distinguirlo de **activación** y **pausa**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El primer nivel es el más subestimado: **preparar**. Si sabes que una reunión te irrita, puedes llegar con los datos, convocar con una agenda clara, evitar discutir un tema delicado por mensaje o acordar quién modera. Modificar la situación incluye pedir más tiempo, dividir una tarea o sumar a una persona que equilibre. Parecen decisiones logísticas y son regulación emocional anticipada.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **impulso** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **correos enviados en activación** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Durante la situación: atención y reinterpretación
 
-Antes de nombrar emoción y objetivo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **despliegue de la atención** consiste en mover el foco: de la ofensa a la tarea, de la amenaza a lo que puedes controlar, o a una pausa respiratoria. El **cambio cognitivo** modifica el significado: «ese comentario me ataca» puede reinterpretarse como «necesita información que no tiene». Esta reevaluación actúa en el origen de la emoción y, según la revisión de Gross, tiende a reducir tanto la experiencia como la expresión sin costos añadidos.
 
-### 3. pausa: operacionalización y medición
+### 5. Cuando ya está en marcha: la respuesta
 
-**pausa** significa **interrupción breve que permite volver a elegir**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La **modulación de la respuesta** —suprimir el gesto, la voz o la frase— actúa cuando la emoción ya se generó. Según la revisión de Gross, la supresión de la expresión reduce lo que se ve, pero no necesariamente lo que se siente, y tiene costos: exige un esfuerzo sostenido, puede deteriorar la memoria de lo ocurrido y aumenta la activación fisiológica. No significa que sea inútil: a veces es lo único posible en el momento. Pero no debe ser la estrategia principal.
 
-Clayton Christensen et al. — *How Will You Measure Your Life?* orienta este bloque mediante **perspectiva de Autoliderazgo aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **conflictos escalados**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Una práctica para el momento
 
-Al llegar a crear pausa física o temporal, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una secuencia breve para usar en la situación: **pausa** (respiración lenta, un par de segundos antes de responder), **nombrar** la emoción («estoy irritado»), **preguntar** («¿qué significado le estoy dando?»), **elegir** una respuesta alineada con tu objetivo. Si la emoción es muy intensa, se pide una pausa con fecha: «necesito pensarlo; te respondo mañana a las diez».
 
-### 4. reencuadre: trade-offs y efectos de segundo orden
+### 7. Cuando el problema es de fondo
 
-**Definición:** interpretación alternativa que cambia respuesta posible. Este concepto obliga a abandonar la idea de que **autorregulación y respuesta bajo presión** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de elegir reencuadre y respuesta, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ronald Heifetz & Marty Linsky — *Leadership on the Line* aporta una lente sobre **distinción entre problemas técnicos y desafíos adaptativos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **tiempo de recuperación** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **autorregulación y respuesta bajo presión**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **reencuadre** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. regulación: gobernanza, límites e integración
-
-**regulación** se define como **modificación deliberada de intensidad, duración o expresión emocional** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Amy C. Edmondson — *The Fearless Organization* se utiliza para estudiar **seguridad psicológica, aprendizaje, voz y manejo productivo del error** y contrastar la recomendación final. Al ejecutar revisar después si la respuesta produjo el resultado, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **activación**, **impulso**, **pausa**, **reencuadre** y **regulación** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **autorregulación y respuesta bajo presión** no consiste en sumar cinco definiciones. Empieza por **activación**, contrasta **impulso** con **pausa**, incorpora **reencuadre** como restricción o mecanismo y usa **regulación** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La autorregulación individual no resuelve entornos que producen presión crónica y sin sentido. Si la misma situación te desborda cada semana, la intervención es de nivel 1 y 2: cambiar la situación. La clase 047 trata los límites de la sostenibilidad personal.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **autorregulación y respuesta bajo presión** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **autorregulación y respuesta bajo presión** ayuda a desafiar? |
-| Clayton Christensen et al. — *How Will You Measure Your Life?* | perspectiva de Autoliderazgo aplicada al problema de la clase | ¿Qué supuesto de **autorregulación y respuesta bajo presión** ayuda a desafiar? |
-| Ronald Heifetz & Marty Linsky — *Leadership on the Line* | distinción entre problemas técnicos y desafíos adaptativos | ¿Qué supuesto de **autorregulación y respuesta bajo presión** ayuda a desafiar? |
-| Amy C. Edmondson — *The Fearless Organization* | seguridad psicológica, aprendizaje, voz y manejo productivo del error | ¿Qué supuesto de **autorregulación y respuesta bajo presión** ayuda a desafiar? |
-
-En **autorregulación y respuesta bajo presión**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **activación**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Gross (1998) | El proceso de regulación y las cinco familias de estrategias. | Es una revisión teórica con experimentos de laboratorio. | ¿En qué punto sueles intervenir? |
+| Goleman (1996) | Autorregulación como dominio de la inteligencia emocional. | Con menos precisión conceptual que Gross. | ¿Qué emoción te cuesta más? |
+| Goleman, Boyatzis y McKee (2002) | Cómo el estado del líder se transmite. | No distingue estrategias. | ¿Qué estado contagias bajo presión? |
+| Kahneman (2011) | Cómo el pensamiento rápido decide bajo estrés. | No trata de regulación. | ¿Qué decisión tomaste rápido y lamentaste? |
+| Klein (1999) | Decidir bajo presión de tiempo con experiencia. | Supone experiencia previa. | ¿Cuándo confiar en la reacción inmediata? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un cliente cuestiona públicamente la competencia del equipo. El gerente siente impulso de defenderse y culpar a otra área frente a todos.
+**Situación (hipotética).** Una gerente, Paula, debe presentar mañana a la dirección el atraso de un proyecto. El año pasado, un director la interrumpió con dureza en una presentación similar. Siente tensión desde ahora.
 
-**Paso 1 — reconocer señal corporal y trigger.** La gerencia escribe primero el supuesto asociado a **activación** y evita convertirlo en hecho. Luego busca **interrupciones impulsivas** para contrastarlo en el caso de **autorregulación y respuesta bajo presión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Punto de Gross | Qué hace Paula |
+|---|---|
+| **1. Elegir la situación** | Pide a su jefe que el atraso se presente en la reunión de seguimiento y no en el comité general, con tiempo reservado. |
+| **2. Modificar la situación** | Envía el resumen con anticipación y propone una agenda de tres puntos. |
+| **3. Dirigir la atención** | Se prepara con una pregunta: «¿qué decisión necesito de ellos?». Si siente tensión, vuelve a esa pregunta. |
+| **4. Reinterpretar** | Reformula: «una interrupción dura probablemente expresa una preocupación por el plazo, no un juicio sobre mí». |
+| **5. Modular la respuesta** | Si igual se irrita, hace una pausa de dos segundos, respira y responde con un dato. |
 
-**Paso 2 — nombrar emoción y objetivo.** La gerencia escribe primero el supuesto asociado a **impulso** y evita convertirlo en hecho. Luego busca **correos enviados en activación** para contrastarlo en el caso de **autorregulación y respuesta bajo presión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** El director interrumpe, Paula pausa, resume su preocupación («le preocupa el plazo con el cliente; esto es lo que haremos») y la conversación se centra en la decisión.
 
-**Paso 3 — crear pausa física o temporal.** La gerencia escribe primero el supuesto asociado a **pausa** y evita convertirlo en hecho. Luego busca **conflictos escalados** para contrastarlo en el caso de **autorregulación y respuesta bajo presión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — elegir reencuadre y respuesta.** La gerencia escribe primero el supuesto asociado a **reencuadre** y evita convertirlo en hecho. Luego busca **tiempo de recuperación** para contrastarlo en el caso de **autorregulación y respuesta bajo presión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar después si la respuesta produjo el resultado.** La gerencia escribe primero el supuesto asociado a **regulación** y evita convertirlo en hecho. Luego busca **decisiones revertidas al día siguiente** para contrastarlo en el caso de **autorregulación y respuesta bajo presión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **autorregulación y respuesta bajo presión**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cuatro de los cinco puntos se prepararon antes. (2) La reinterpretación cambió la emoción desde el origen. (3) La modulación de la respuesta fue el último recurso, no el primero.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **activación** | nivel fisiológico y emocional que modifica atención y conducta | Cuando interrupciones impulsivas es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **impulso** | acción automática favorecida por el estado emocional | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Regular frente a reprimir.** Regular es elegir cómo responder a lo que se siente; reprimir es negarlo. La segunda estrategia tiene costos si se convierte en hábito.
 
-**Frontera de aplicación:** Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo.
+**Límites.** La revisión de Gross es un marco teórico y gran parte de la evidencia proviene de experimentos con estudiantes y tareas de laboratorio; los efectos varían según la persona, la cultura y la situación. Además, la reevaluación no es adecuada cuando la situación es realmente amenazante: reinterpretar un riesgo real como inofensivo es un error. Y la regulación individual no reemplaza el cambio de condiciones de trabajo que generan presión excesiva.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre autorregulación y respuesta bajo presión |
+| Nivel | Cómo regula |
 |---|---|
-| **Profesional** | usa **autorregulación y respuesta bajo presión** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **activación** y **impulso** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta interrupciones impulsivas con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si autorregulación y respuesta bajo presión cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de autorregulación y respuesta bajo presión reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **autorregulación y respuesta bajo presión** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Se prepara para reuniones difíciles y pausa antes de responder por escrito. |
+| **Jefe / Team Lead** | Cuida su estado ante el equipo y evita decidir con una emoción intensa. |
+| **Gerente** | Anticipa las situaciones de presión de su área y modifica las condiciones. |
+| **CEO / Director** | Sabe que su reacción se amplifica y diseña rutinas que protejan su juicio. |
+| **Founder / Owner** | Ante la presión financiera, usa las estrategias previas para no decidir con miedo. |
 
 ## 🏢 Caso ejecutivo
 
-Un cliente cuestiona públicamente la competencia del equipo. El gerente siente impulso de defenderse y culpar a otra área frente a todos.
+Un cliente importante amenaza con terminar un contrato por una falla de servicio. El gerente de cuentas recibe el correo un viernes a las 19:30. Siente rabia: la falla fue de otro proveedor. Tiene la tentación de responder de inmediato, con firmeza, copiando a la dirección. El lunes tiene una reunión con el cliente.
 
-Entrega un **decision brief de autorregulación y respuesta bajo presión** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de autorregulación** que contenga: (a) los cinco puntos aplicados a esta situación; (b) qué harás en los próximos 30 minutos; (c) qué reinterpretaciones son realistas y cuáles serían un autoengaño; (d) cómo preparas la reunión del lunes; (e) qué señal te indica que no debes decidir todavía; (f) cómo reconstruirás la relación si respondes mal.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **autorregulación y respuesta bajo presión** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta interrupciones impulsivas, correos enviados en activación; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Aplica los cinco puntos a una situación de presión que enfrentarás esta semana.
+2. Escribe tres cosas que puedes preparar antes de esa situación (puntos 1 y 2).
+3. Escribe una reinterpretación realista de una situación que te irrita.
+4. Define tu pausa: qué haces en los dos primeros segundos.
+5. Escribe una frase para pedir tiempo sin evadir: «necesito pensarlo; te respondo…».
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar activación y impulso como sinónimos | Se pierde la distinción entre “nivel fisiológico y emocional que modifica atención y conducta” y “acción automática favorecida por el estado emocional” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar después si la respuesta produjo el resultado” | Se saltó “reconocer señal corporal y trigger” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado y marca el primer supuesto no demostrado. |
-| Optimizar solo interrupciones impulsivas | La métrica local sustituyó al resultado del sistema | Contrástala con correos enviados en activación y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre autorregulación y respuesta bajo presión | Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo. |
-| No fijar revisión | Una decisión sobre autorregulación y respuesta bajo presión se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Contenerse como única estrategia | Se asocia a madurez | Preparar la situación y reinterpretar. |
+| Reinterpretar una amenaza real | Se quiere calmar | Distinguir interpretación de negación. |
+| Responder de inmediato | Se siente urgencia | Pausar o pedir tiempo con fecha. |
+| No prepararse | Se confía en el momento | Anticipar las situaciones previsibles. |
+| Ignorar el entorno | Se culpa a la persona | Cambiar las condiciones que generan presión. |
+| Regular para no sentir | Se ve la emoción como un defecto | Aceptar la emoción y elegir la respuesta. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **activación** y **impulso** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **pausa** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **reconocer señal corporal y trigger → nombrar emoción y objetivo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **interrupciones impulsivas** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **autorregulación y respuesta bajo presión**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo.**?
+1. ¿Cuáles son los cinco puntos del proceso de regulación de Gross?
+2. ¿Qué diferencia hay entre estrategias centradas en los antecedentes y centradas en la respuesta?
+3. ¿Qué costos asocia la revisión de Gross a suprimir la expresión?
+4. Da un ejemplo de modificación de la situación y de despliegue de la atención.
+5. ¿Cuándo no es adecuada la reevaluación?
+6. ¿Qué secuencia breve usarías en el momento de la presión?
+7. ¿Qué límite tiene la evidencia de Gross?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Selección de la situación, modificación de la situación, despliegue de la atención, cambio cognitivo y modulación de la respuesta.
+2. Las primeras actúan antes de que la respuesta emocional se instale; las segundas, sobre la expresión de una emoción ya generada.
+3. Reduce lo que se ve pero no necesariamente lo que se siente, exige esfuerzo, puede afectar la memoria y aumenta la activación fisiológica.
+4. Modificar: pedir más tiempo o dividir la tarea. Atención: mover el foco a la tarea o hacer una pausa respiratoria.
+5. Cuando la situación es realmente amenazante: reinterpretar un riesgo real como inofensivo es un error.
+6. Pausa, nombrar la emoción, preguntar qué significado le doy y elegir la respuesta; si es muy intensa, pedir una pausa con fecha.
+7. Proviene sobre todo de experimentos de laboratorio, y los efectos varían según la persona, la cultura y la situación.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/038-autorregulacion-y-respuesta-bajo-presion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **autorregulación y respuesta bajo presión**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **autorregulación y respuesta bajo presión** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **activación**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un cliente cuestiona públicamente la competencia del equipo. El gerente siente impulso de defenderse y culpar a otra área frente a todos.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de autorregulación del caso ejecutivo;
+- `reading-note.md` con una tensión entre Gross y Goleman;
+- `decision-journal.md` con la situación, los puntos que aplicaste y el resultado.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Clayton Christensen et al. — *How Will You Measure Your Life?* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Autoliderazgo aplicada al problema de la clase. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica, aprendizaje, voz y manejo productivo del error. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
-- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** perspectiva de Motivación aplicada al problema de la clase. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **autorregulación y respuesta bajo presión** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **autorregulación y respuesta bajo presión** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **autorregulación y respuesta bajo presión** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **autorregulación y respuesta bajo presión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- James J. Gross — *The Emerging Field of Emotion Regulation: An Integrative Review* (Review of General Psychology, 1998). **Uso en esta clase:** el proceso de regulación emocional y sus cinco familias de estrategias. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [DOI 10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271).
+- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** la autorregulación como dominio de la inteligencia emocional. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** cómo el estado del líder se transmite al equipo. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
+- Daniel Kahneman — *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011). **Uso en esta clase:** cómo decide el pensamiento rápido bajo estrés. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9780374275631](https://openlibrary.org/isbn/9780374275631).
+- Gary Klein — *Sources of Power* (The MIT Press, 1999). **Uso en esta clase:** decidir bajo presión de tiempo con experiencia. Lectura selectiva sobre **autorregulación y respuesta bajo presión**. **Localizador:** [ISBN-13 9780262611466](https://openlibrary.org/isbn/9780262611466).
 
-> **Regla de fuentes para Autorregulación y respuesta bajo presión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **autorregulación y respuesta bajo presión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Autorregulación y respuesta bajo presión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. Esta clase no sustituye atención profesional de salud mental. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

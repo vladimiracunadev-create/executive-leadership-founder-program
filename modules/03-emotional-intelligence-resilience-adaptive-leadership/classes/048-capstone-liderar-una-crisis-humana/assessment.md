@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **crisis humana** de **estabilización** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **triage** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **confidencialidad** con **aftercare**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué se comunica primero en una crisis humana según Coombs?
+2. ¿Qué significa reconocer un reclamo sin aceptarlo ni rechazarlo?
+3. ¿Qué es negociable y qué no en un conflicto con trabajadores?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Durante una actividad laboral ocurre un incidente grave que afecta a una colaboradora y genera especulación interna. La jefatura debe actuar antes de tener todos los hechos.
+**Caso:** Una empresa de servicios anuncia por correo el cierre de una sucursal con 38 personas, con efecto en 30 días. Un delegado difunde el correo en redes y un medio local pide una declaración. Hay rumores de que se despedirá sin indemnización completa. El gerente de personas es un amigo antiguo de la jefa de la sucursal, a quien se le atribuye «haber ocultado el cierre». El sindicato nacional pide una reunión urgente. Tú eres el gerente general; es lunes a las 8:00.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **proteger seguridad inmediata → activar protocolo y responsables → separar hechos de rumores → comunicar lo necesario con empatía → hacer seguimiento y aprender sin revictimizar**. Debes utilizar o diseñar cómo obtener **tiempo de respuesta, personas protegidas, rumores**. Elige entre las tres respuestas defendibles al conflicto con trabajadores, sustenta la elección y explica sus consecuencias. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan integrado de conducción de crisis** que contenga: (a) tu regulación inicial y qué prepararás antes de hablar; (b) las acciones de 0–6 horas y la comunicación a los afectados; (c) el diálogo con los trabajadores: interlocutores, lo negociable y lo legal; (d) cómo cubrirás las cuatro justicias; (e) la gestión del dilema del gerente de personas y de la jefa de sucursal; (f) qué es técnico y qué adaptativo; (g) incertidumbre: qué sabes, qué no y cuándo informarás; (h) el cierre, el seguimiento y la revisión sin culpas; (i) cómo cuidarás tu energía y la del equipo. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las primeras 72 horas son una guía docente, no una norma; cada situación tiene plazos y obligaciones propias.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

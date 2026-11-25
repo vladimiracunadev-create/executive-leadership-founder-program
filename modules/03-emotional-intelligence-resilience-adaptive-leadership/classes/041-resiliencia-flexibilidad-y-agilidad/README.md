@@ -10,217 +10,182 @@
 
 ## 🎯 Propósito
 
-Resiliencia combina recuperación, adaptación y aprendizaje frente a adversidad; no es aguantar indefinidamente un sistema dañino. A nivel organizacional, se fortalece con redundancia selectiva, relaciones, capacidad de improvisar y mecanismos que permiten absorber shocks sin depender de una persona heroica.
+La palabra *resiliencia* se usa en las empresas como una exigencia: «necesitamos gente resiliente», que equivale a pedir que las personas soporten más. Esa lectura es injusta y además errónea respecto de lo que la investigación describe. La resiliencia no es dureza ni una cualidad rara de unos pocos; es el resultado de procesos ordinarios, entre ellos las relaciones, la capacidad de resolver problemas y el sentido, y mucho más frecuente de lo que se supone.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **resiliencia, flexibilidad y agilidad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa el trabajo de Ann Masten, que describe la resiliencia como «magia ordinaria», y el de George Bonanno, que distingue **resiliencia** de **recuperación** a partir de las trayectorias de personas ante eventos adversos. Se completa con la noción de compromiso con la resiliencia de Weick y Sutcliffe para organizaciones. Al terminar sabrás diferenciar las trayectorias, evitar tratar como falla personal lo esperable y diseñar prácticas individuales y de equipo que aumenten la capacidad de adaptación.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `resiliencia`, `robustez`, `adaptabilidad`, `buffer`, `antifragilidad` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** tiempo de recuperación, single points of failure, capacidad de reserva sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** resiliencia y distinguirla de recuperación, dureza y simple resistencia.
+2. **Describir** las trayectorias tras un evento adverso y lo que implican para el liderazgo.
+3. **Identificar** procesos que sostienen la capacidad de adaptación: relaciones, resolución de problemas, sentido y recursos.
+4. **Diferenciar** resiliencia individual de resiliencia organizacional.
+5. **Diseñar** prácticas de equipo que apoyen la adaptación tras un revés.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define resiliencia y robustez sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con tiempo de recuperación y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un revés profesional; ¿cómo evolucionó tu funcionamiento en las semanas siguientes? |
+| 20–60 min | Resiliencia, trayectorias y procesos ordinarios. |
+| 60–105 min | Ejemplo trabajado: un equipo tras la pérdida de un cliente clave. |
+| 105–140 min | Caso ejecutivo: apoyar a un equipo después de una reestructuración. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **resiliencia** | capacidad de recuperar función y adaptarse después de perturbación | Distingue un hecho compatible y otro que lo refute. |
-| **robustez** | capacidad de resistir cambio sin perder función | Distingue un hecho compatible y otro que lo refute. |
-| **adaptabilidad** | capacidad de cambiar conducta o estructura según contexto | Distingue un hecho compatible y otro que lo refute. |
-| **buffer** | reserva de tiempo, capacidad o recursos que absorbe variabilidad | Distingue un hecho compatible y otro que lo refute. |
-| **antifragilidad** | propiedad de ciertos sistemas que mejoran mediante estrés limitado y aprendizaje | Distingue un hecho compatible y otro que lo refute. |
+| **Resiliencia** | Patrón de adaptación positiva en el contexto de adversidad significativa (Masten, 2001). | Funcionamiento relativamente estable tras un evento adverso. |
+| **Recuperación** | Período de disfunción seguido de retorno gradual al nivel previo (Bonanno, 2004). | Cae y vuelve en un tiempo. |
+| **Trayectoria** | Curso del funcionamiento de una persona en el tiempo tras un evento adverso (Bonanno, 2004). | Se describe como estable, de recuperación o crónica. |
+| **Magia ordinaria** | Idea de que la resiliencia procede de sistemas adaptativos comunes, no de cualidades extraordinarias (Masten, 2001). | Se apoya en relaciones, capacidad cognitiva y sentido. |
+| **Flexibilidad** | Capacidad de ajustar la conducta ante cambios del entorno (criterio de la clase). | Cambia de enfoque cuando lo anterior deja de funcionar. |
+| **Compromiso con la resiliencia (organizacional)** | Capacidad de una organización de contener y recuperarse de errores y sorpresas (Weick y Sutcliffe, 2015). | Aprende de los fallos y mantiene el funcionamiento. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 041: 1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas](modelo-mental.svg)
+![Resiliencia y recuperación son trayectorias distintas: tras un evento adverso, el funcionamiento se mantiene estable, cae y vuelve, o permanece deteriorado.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Resiliencia combina recuperación, adaptación y aprendizaje frente a adversidad; no es aguantar indefinidamente un sistema dañino. A nivel organizacional, se fortalece con redundancia selectiva, relaciones, capacidad de improvisar y mecanismos que permiten absorber shocks sin depender de una persona heroica.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material.**
+**Cómo leer el diagrama.** La línea punteada marca el evento adverso. La trayectoria verde muestra **resiliencia**: el funcionamiento se mantiene relativamente estable. La azul, **recuperación**: cae y vuelve gradualmente. La roja, **deterioro crónico**. Las tres son reacciones humanas; la más frecuente, según Bonanno, es la primera. La implicancia directiva es no tratar como debilidad la reacción esperable ni exigir que nadie «se sobreponga».
 
 ## 📖 Desarrollo
 
-### 1. resiliencia: mecanismo central
+### 1. Qué es resiliencia
 
-**resiliencia** se entiende aquí como **capacidad de recuperar función y adaptarse después de perturbación**. Esta es la pieza causal o estructural desde la que se inicia **resiliencia, flexibilidad y agilidad**: antes de definir funciones críticas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Masten la define como un patrón de adaptación positiva en el contexto de una adversidad significativa. Hay dos condiciones: **adversidad** real y **adaptación** positiva. No es una cualidad fija: se manifiesta en un contexto y puede variar con el tiempo. Una persona puede ser resiliente ante un cambio de trabajo y vulnerable ante una pérdida personal.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **tiempo de recuperación**; regístrala con periodo, unidad, población y baseline.
+### 2. «Magia ordinaria»
 
-Relaciona el mecanismo con **robustez**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El título del trabajo de Masten resume su hallazgo: la resiliencia no proviene, en general, de cualidades extraordinarias sino de **procesos adaptativos comunes**: relaciones de apoyo, capacidad de resolver problemas, regulación de las emociones, sentido de eficacia y de significado, y recursos de la comunidad. Esto cambia la pregunta para quien dirige: no «¿quién es resiliente?» sino «¿qué condiciones fortalecen esos procesos en mi equipo?».
 
-### 2. robustez: frontera conceptual y error de clasificación
+### 3. Resiliencia y recuperación
 
-**Definición operacional:** capacidad de resistir cambio sin perder función. Su valor está en distinguirlo de **resiliencia** y **adaptabilidad**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Bonanno distingue dos cosas que suelen confundirse. En la **recuperación**, el funcionamiento se deteriora durante un tiempo y luego vuelve al nivel previo. En la **resiliencia**, el funcionamiento permanece relativamente estable, aun con malestar pasajero. Según su revisión, una parte considerable de las personas ante eventos adversos sigue la segunda trayectoria, mucho más frecuente de lo que se supone. Eso no significa que quien se deteriora haya hecho algo mal.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **robustez** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **single points of failure** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Qué hace el líder
 
-Antes de identificar shocks plausibles y puntos únicos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El líder no crea resiliencia en otros, pero puede **proteger los procesos** que la sostienen: mantener relaciones de apoyo en el equipo, dar claridad sobre lo que viene, ofrecer recursos, reconocer el impacto sin dramatizar, evitar cambios innecesarios mientras el equipo absorbe uno grande y permitir la recuperación. También puede dañarlos: la sobrecarga, la incertidumbre prolongada sin información y la exigencia de «seguir como si nada».
 
-### 3. adaptabilidad: operacionalización y medición
+### 5. Flexibilidad y agilidad
 
-**adaptabilidad** significa **capacidad de cambiar conducta o estructura según contexto**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La resiliencia se apoya en la **flexibilidad**: cambiar de enfoque cuando el anterior deja de funcionar. En el trabajo, se traduce en probar alternativas, revisar supuestos y ajustar planes. Es una disposición que se entrena: revisar el plan tras un revés, preguntar «¿qué podemos controlar?» y actuar sobre eso. La **agilidad** organizacional es la versión colectiva: ciclos cortos de aprendizaje y decisiones cerca de quien tiene la información.
 
-Ronald Heifetz & Marty Linsky — *Leadership on the Line* orienta este bloque mediante **distinción entre problemas técnicos y desafíos adaptativos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **capacidad de reserva**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Resiliencia organizacional
 
-Al llegar a crear buffers o alternativas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Weick y Sutcliffe describen en las organizaciones de alta confiabilidad un **compromiso con la resiliencia**: aceptan que habrá errores y sorpresas, y se organizan para contenerlos y aprender de ellos. Prácticas típicas: entrenar la improvisación ante lo inesperado, mantener capacidad de reserva, desplazar la decisión hacia quien más sabe del problema y tratar los fallos pequeños como información.
 
-### 4. buffer: trade-offs y efectos de segundo orden
+### 7. Cuando «resiliencia» se usa mal
 
-**Definición:** reserva de tiempo, capacidad o recursos que absorbe variabilidad. Este concepto obliga a abandonar la idea de que **resiliencia, flexibilidad y agilidad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de practicar respuesta y aprendizaje, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Angela Duckworth — *Grit* aporta una lente sobre **perspectiva de Resiliencia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **simulacros** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **resiliencia, flexibilidad y agilidad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **buffer** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. antifragilidad: gobernanza, límites e integración
-
-**antifragilidad** se define como **propiedad de ciertos sistemas que mejoran mediante estrés limitado y aprendizaje** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Brené Brown — *Dare to Lead* se utiliza para estudiar **perspectiva de Liderazgo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar rediseñar vulnerabilidades descubiertas, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **resiliencia**, **robustez**, **adaptabilidad**, **buffer** y **antifragilidad** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **resiliencia, flexibilidad y agilidad** no consiste en sumar cinco definiciones. Empieza por **resiliencia**, contrasta **robustez** con **adaptabilidad**, incorpora **buffer** como restricción o mecanismo y usa **antifragilidad** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Pedir resiliencia sin cambiar las condiciones convierte un problema de la organización en una carga individual. Si el equipo se agota por sobrecarga estructural, la respuesta es revisar la carga, no entrenar más resiliencia. La clase 047 trata los límites de la sostenibilidad.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **resiliencia, flexibilidad y agilidad** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **resiliencia, flexibilidad y agilidad** ayuda a desafiar? |
-| Ronald Heifetz & Marty Linsky — *Leadership on the Line* | distinción entre problemas técnicos y desafíos adaptativos | ¿Qué supuesto de **resiliencia, flexibilidad y agilidad** ayuda a desafiar? |
-| Angela Duckworth — *Grit* | perspectiva de Resiliencia aplicada al problema de la clase | ¿Qué supuesto de **resiliencia, flexibilidad y agilidad** ayuda a desafiar? |
-| Brené Brown — *Dare to Lead* | perspectiva de Liderazgo aplicada al problema de la clase | ¿Qué supuesto de **resiliencia, flexibilidad y agilidad** ayuda a desafiar? |
-
-En **resiliencia, flexibilidad y agilidad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **resiliencia**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Masten (2001) | La resiliencia como proceso ordinario. | Se centra en el desarrollo infantil y juvenil. | ¿Qué procesos ordinarios sostiene tu equipo? |
+| Bonanno (2004) | La diferencia entre resiliencia y recuperación. | Estudia eventos extremos como la pérdida. | ¿Quién en tu equipo está en cada trayectoria? |
+| Weick y Sutcliffe (2015) | Resiliencia organizacional. | No trata del individuo. | ¿Cómo aprende tu organización de los fallos pequeños? |
+| Duckworth (2016) | Perseverancia a largo plazo. | Su relación con la resiliencia es debatida. | ¿Perseverancia o terquedad? |
+| Edmondson (2018) | Seguridad psicológica para aprender de los reveses. | No distingue trayectorias. | ¿Se puede hablar del revés en tu equipo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un área depende de una especialista que resuelve todos los cierres críticos. Cuando se ausenta dos semanas, el equipo descubre que no hay documentación ni segundo responsable.
+**Situación (hipotética).** Un equipo comercial de 12 personas pierde un cliente que representaba el 25 % de sus ingresos. La directora observa distintas reacciones.
 
-**Paso 1 — definir funciones críticas.** La gerencia escribe primero el supuesto asociado a **resiliencia** y evita convertirlo en hecho. Luego busca **tiempo de recuperación** para contrastarlo en el caso de **resiliencia, flexibilidad y agilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Persona | Reacción | Trayectoria probable | Respuesta de la directora |
+|---|---|---|---|
+| Ana | Preocupada, pero mantiene su trabajo y propone alternativas. | Resiliencia | Acompañar, darle un espacio para liderar una iniciativa. |
+| Beto | Baja su rendimiento tres semanas, luego se recupera con apoyo del equipo. | Recuperación | No presionar; reconocer y dar tiempo; revisar a las tres semanas. |
+| Camila | Se aísla, falta a reuniones, pierde interés durante dos meses. | Deterioro prolongado | Conversar en privado; ofrecer apoyo profesional; revisar carga. |
 
-**Paso 2 — identificar shocks plausibles y puntos únicos.** La gerencia escribe primero el supuesto asociado a **robustez** y evita convertirlo en hecho. Luego busca **single points of failure** para contrastarlo en el caso de **resiliencia, flexibilidad y agilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Medidas del equipo.** (1) Reunión con hechos: qué ocurrió, qué se sabe del impacto y qué viene. (2) Revisión sin culpas de lo aprendido. (3) Plan de captación con roles claros. (4) Pausa en iniciativas no esenciales. (5) Seguimiento individual semanal por un mes.
 
-**Paso 3 — crear buffers o alternativas.** La gerencia escribe primero el supuesto asociado a **adaptabilidad** y evita convertirlo en hecho. Luego busca **capacidad de reserva** para contrastarlo en el caso de **resiliencia, flexibilidad y agilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — practicar respuesta y aprendizaje.** La gerencia escribe primero el supuesto asociado a **buffer** y evita convertirlo en hecho. Luego busca **simulacros** para contrastarlo en el caso de **resiliencia, flexibilidad y agilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — rediseñar vulnerabilidades descubiertas.** La gerencia escribe primero el supuesto asociado a **antifragilidad** y evita convertirlo en hecho. Luego busca **mejoras después de incidentes** para contrastarlo en el caso de **resiliencia, flexibilidad y agilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **resiliencia, flexibilidad y agilidad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Tres personas, tres reacciones normales. (2) La respuesta se adaptó a cada una. (3) Las medidas protegieron los procesos ordinarios: relaciones, claridad, sentido y recursos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **resiliencia** | capacidad de recuperar función y adaptarse después de perturbación | Cuando tiempo de recuperación es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **robustez** | capacidad de resistir cambio sin perder función | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Resiliencia frente a resistencia.** Resistir es aguantar; la resiliencia incluye adaptarse y, a veces, cambiar. Una persona que «aguanta» una situación dañina no es resiliente: puede estar acumulando costos.
 
-**Frontera de aplicación:** La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material.
+**Límites.** Las trayectorias de Bonanno se describen en poblaciones, no predicen a una persona. Gran parte de la investigación proviene de eventos específicos —pérdidas, trauma, desarrollo infantil— y su traslado al trabajo es una extrapolación. La resiliencia no justifica condiciones de trabajo dañinas. Y esta clase no reemplaza atención profesional de salud mental.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre resiliencia, flexibilidad y agilidad |
+| Nivel | Cómo trabaja la resiliencia |
 |---|---|
-| **Profesional** | usa **resiliencia, flexibilidad y agilidad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **resiliencia** y **robustez** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta tiempo de recuperación con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si resiliencia, flexibilidad y agilidad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de resiliencia, flexibilidad y agilidad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **resiliencia, flexibilidad y agilidad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cuida sus relaciones de apoyo y revisa su enfoque tras un revés. |
+| **Jefe / Team Lead** | Permite que cada persona atraviese un revés a su ritmo y protege los apoyos del equipo. |
+| **Gerente** | Diseña planes que contengan errores y aprendan de ellos. |
+| **CEO / Director** | Cuida que la organización no pida resiliencia como sustituto de condiciones razonables. |
+| **Founder / Owner** | Enfrenta reveses con su patrimonio en juego y construye redes de apoyo antes de necesitarlas. |
 
 ## 🏢 Caso ejecutivo
 
-Un área depende de una especialista que resuelve todos los cierres críticos. Cuando se ausenta dos semanas, el equipo descubre que no hay documentación ni segundo responsable.
+Una empresa de tecnología reestructuró un área: se eliminaron 18 de 60 puestos. Los 42 que quedan tienen más trabajo, información parcial y desconfianza. Tres personas clave anunciaron su salida. La gerente general dice: «necesitamos un equipo más resiliente» y propone un taller de dos horas.
 
-Entrega un **decision brief de resiliencia, flexibilidad y agilidad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de apoyo a la adaptación** que contenga: (a) las trayectorias esperables y cómo las reconocerás sin etiquetar; (b) los procesos que protegerás: relaciones, claridad, sentido y recursos; (c) qué cambiarás en las condiciones de trabajo; (d) qué harás con quienes se deterioran de forma prolongada; (e) cómo aprenderá la organización del episodio; (f) qué evidencia te diría que el taller no era la respuesta.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **resiliencia, flexibilidad y agilidad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta tiempo de recuperación, single points of failure; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Describe tu trayectoria ante un revés reciente y qué procesos la sostuvieron.
+2. Identifica en tu equipo qué procesos ordinarios existen y cuál está más débil.
+3. Escribe un mensaje a un equipo tras un revés que reconozca el impacto sin dramatizar.
+4. Define una práctica de revisión sin culpas para fallos pequeños.
+5. Escribe una condición de trabajo que cambiarías antes de pedir resiliencia.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar resiliencia y robustez como sinónimos | Se pierde la distinción entre “capacidad de recuperar función y adaptarse después de perturbación” y “capacidad de resistir cambio sin perder función” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “rediseñar vulnerabilidades descubiertas” | Se saltó “definir funciones críticas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas y marca el primer supuesto no demostrado. |
-| Optimizar solo tiempo de recuperación | La métrica local sustituyó al resultado del sistema | Contrástala con single points of failure y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre resiliencia, flexibilidad y agilidad | La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material. |
-| No fijar revisión | Una decisión sobre resiliencia, flexibilidad y agilidad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Exigir resiliencia | Se la ve como rasgo | Mejorar las condiciones y los procesos que la sostienen. |
+| Tratar el malestar como debilidad | Se supone que debe sobreponerse | Reconocer la reacción esperable. |
+| Taller como respuesta | Es visible y barato | Cambiar carga, claridad y apoyos. |
+| Ignorar a quien se deteriora | Se espera que pase | Conversar, ofrecer apoyo y revisar carga. |
+| Cambios constantes tras un revés | Se quiere reaccionar | Proteger la estabilidad mientras se absorbe. |
+| Confundir perseverancia con terquedad | Se celebra «no rendirse» | Revisar el enfoque cuando no funciona. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **resiliencia** y **robustez** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **adaptabilidad** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir funciones críticas → identificar shocks plausibles y puntos únicos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **tiempo de recuperación** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **resiliencia, flexibilidad y agilidad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material.**?
+1. ¿Cómo define Masten la resiliencia y qué dos condiciones requiere?
+2. ¿Qué diferencia hay entre resiliencia y recuperación según Bonanno?
+3. ¿Qué significa «magia ordinaria»?
+4. ¿Qué procesos puede proteger un líder para apoyar la adaptación?
+5. ¿Qué es el compromiso con la resiliencia en una organización?
+6. ¿Por qué pedir resiliencia sin cambiar las condiciones es un error?
+7. ¿Qué límite tienen las trayectorias de Bonanno?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Un patrón de adaptación positiva en el contexto de una adversidad significativa; requiere adversidad real y adaptación positiva.
+2. En la recuperación hay un período de disfunción y vuelta; en la resiliencia el funcionamiento permanece relativamente estable.
+3. Que la resiliencia surge de procesos adaptativos comunes (relaciones, resolución de problemas, sentido), no de cualidades extraordinarias.
+4. Relaciones de apoyo, claridad sobre lo que viene, recursos, reconocimiento del impacto y estabilidad.
+5. Aceptar que habrá errores y sorpresas y organizarse para contenerlos y aprender de ellos.
+6. Porque convierte un problema de la organización en una carga individual.
+7. Describen poblaciones, no predicen a una persona, y vienen de eventos específicos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/041-resiliencia-flexibilidad-y-agilidad/`:
 
-- `risk-governance-brief.md` con el problema específico de **resiliencia, flexibilidad y agilidad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **resiliencia, flexibilidad y agilidad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **resiliencia**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un área depende de una especialista que resuelve todos los cierres críticos. Cuando se ausenta dos semanas, el equipo descubre que no hay documentación ni segundo responsable.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Masten y Bonanno;
+- `decision-journal.md` con las medidas de apoyo y su seguimiento.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Angela Duckworth — *Grit* (Collins, 2018). **Uso en esta clase:** perspectiva de Resiliencia aplicada al problema de la clase. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781443442329](https://openlibrary.org/isbn/9781443442329).
-- Brené Brown — *Dare to Lead* (Ebury Publishing, 2018). **Uso en esta clase:** perspectiva de Liderazgo aplicada al problema de la clase. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781473562523](https://openlibrary.org/isbn/9781473562523).
-- Clayton Christensen et al. — *How Will You Measure Your Life?* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Autoliderazgo aplicada al problema de la clase. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **resiliencia, flexibilidad y agilidad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **resiliencia, flexibilidad y agilidad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **resiliencia, flexibilidad y agilidad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **resiliencia, flexibilidad y agilidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ann S. Masten — *Ordinary Magic: Resilience Processes in Development* (American Psychologist, 2001). **Uso en esta clase:** la resiliencia como proceso ordinario y sus componentes. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [DOI 10.1037/0003-066X.56.3.227](https://doi.org/10.1037/0003-066X.56.3.227).
+- George A. Bonanno — *Loss, Trauma, and Human Resilience: Have We Underestimated the Human Capacity to Thrive After Extremely Aversive Events?* (American Psychologist, 2004). **Uso en esta clase:** la distinción entre resiliencia y recuperación. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [DOI 10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20).
+- Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected* (Jossey-Bass, 2015). **Uso en esta clase:** el compromiso con la resiliencia en organizaciones. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781118862414](https://openlibrary.org/isbn/9781118862414).
+- Angela Duckworth — *Grit* (Collins, 2018). **Uso en esta clase:** perseverancia a largo plazo y sus límites. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781443442329](https://openlibrary.org/isbn/9781443442329).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para aprender de los reveses. Lectura selectiva sobre **resiliencia, flexibilidad y agilidad**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Resiliencia, flexibilidad y agilidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **resiliencia, flexibilidad y agilidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Resiliencia, flexibilidad y agilidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. Esta clase no sustituye atención profesional de salud mental. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

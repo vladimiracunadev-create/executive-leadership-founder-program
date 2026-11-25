@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **activación** de **impulso** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **pausa** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **reencuadre** con **regulación**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuáles son los cinco puntos del proceso de regulación de Gross?
+2. ¿Qué diferencia hay entre estrategias centradas en los antecedentes y centradas en la respuesta?
+3. ¿Qué costos asocia la revisión de Gross a suprimir la expresión?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un cliente cuestiona públicamente la competencia del equipo. El gerente siente impulso de defenderse y culpar a otra área frente a todos.
+**Caso:** Un cliente importante amenaza con terminar un contrato por una falla de servicio. El gerente de cuentas recibe el correo un viernes a las 19:30. Siente rabia: la falla fue de otro proveedor. Tiene la tentación de responder de inmediato, con firmeza, copiando a la dirección. El lunes tiene una reunión con el cliente.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **reconocer señal corporal y trigger → nombrar emoción y objetivo → crear pausa física o temporal → elegir reencuadre y respuesta → revisar después si la respuesta produjo el resultado**. Debes utilizar o diseñar cómo obtener **interrupciones impulsivas, correos enviados en activación, conflictos escalados**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de autorregulación** que contenga: (a) los cinco puntos aplicados a esta situación; (b) qué harás en los próximos 30 minutos; (c) qué reinterpretaciones son realistas y cuáles serían un autoengaño; (d) cómo preparas la reunión del lunes; (e) qué señal te indica que no debes decidir todavía; (f) cómo reconstruirás la relación si respondes mal. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La revisión de Gross es un marco teórico y gran parte de la evidencia proviene de experimentos con estudiantes y tareas de laboratorio; los efectos varían según la persona, la cultura y la situación.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

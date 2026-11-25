@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir resistencia de pérdida percibida mediante evidencia observable."
-  - "Aplicar la secuencia: segmentar grupos y pérdidas → escuchar objeciones como datos → distinguir falta de skill, voluntad o confianza → diseñar apoyo y participación → medir adopción por conducta y resultado."
-  - "Interpretar uso sostenido, nuevas conductas, preguntas repetidas sin atribuir causalidad automática."
-  - "Resolver el caso de cambio personal y resistencia con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar por qué un cambio deseado puede resistirse con un compromiso en competencia."
+  - "Construir un mapa de inmunidad con sus cuatro columnas."
+  - "Formular un gran supuesto y diseñar un experimento seguro para ponerlo a prueba."
+  - "Identificar la etapa del cambio en que estás y qué ayuda a avanzar."
+  - "Aplicar lo anterior a la resistencia de otros sin atribuirles mala voluntad."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Robert Kegan & Lisa Laskow Lahey — *Immunity to Change*"
+  - "James O. Prochaska & Carlo C. DiClemente — *Stages and Processes of Self-Change of Smoking: Toward an Integrative Model of Change*"
+  - "James Clear — *Atomic Habits*"
+  - "Ronald A. Heifetz, Alexander Grashow & Marty Linsky — *The Practice of Adaptive Leadership*"
   - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Brené Brown — *Dare to Lead*"
-  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
-  - "Amy C. Edmondson — *The Fearless Organization*"
-  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
 limits:
-  - "No toda resistencia debe ser vencida: puede revelar riesgos reales del diseño. Escuchar no implica aceptar veto, pero sí probar si el cambio necesita corrección."
+  - "El mapa de inmunidad es un método de consultoría y desarrollo que se apoya en estudios de caso, con poca evaluación experimental independiente."
 evidence_signals:
-  - "uso sostenido"
-  - "nuevas conductas"
-  - "preguntas repetidas"
-  - "workarounds"
-  - "rendimiento durante transición"
+  - "compromiso en competencia"
+  - "gran supuesto como hipótesis"
+  - "experimento seguro y su resultado"
+  - "etapa del cambio"

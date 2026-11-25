@@ -200,11 +200,7 @@
       "locator": "https://openlibrary.org/isbn/9780593298749",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre"
       ],
       "status": "verificada",
       "authority": "PENGUIN US"
@@ -309,10 +305,12 @@
         "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
@@ -358,18 +356,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
@@ -692,11 +678,7 @@
       "locator": "https://openlibrary.org/isbn/9781443442329",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad"
       ],
       "status": "verificada",
       "authority": "Collins"
@@ -749,7 +731,8 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre"
       ],
       "status": "verificada",
       "authority": "Portfolio/Penguin"
@@ -1125,10 +1108,7 @@
       "locator": "https://openlibrary.org/isbn/9781473562523",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia"
       ],
       "status": "verificada",
       "authority": "Ebury Publishing"
@@ -1347,11 +1327,7 @@
       "locator": "https://openlibrary.org/isbn/9781633692565",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
@@ -1516,16 +1492,7 @@
       "used_in": [
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia"
       ],
       "status": "verificada",
       "authority": "Bloomsbury"
@@ -1557,14 +1524,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
@@ -1587,11 +1548,7 @@
       "locator": "https://openlibrary.org/isbn/9781594488849",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
       ],
       "status": "verificada",
       "authority": "Riverhead Books"
@@ -1620,7 +1577,11 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos"
       ],
       "status": "verificada",
       "authority": "Farrar, Straus and Giroux"
@@ -1990,7 +1951,8 @@
         "modules/01-critical-thinking-and-decisions/classes/017-probabilidad-incertidumbre-y-riesgo",
         "modules/01-critical-thinking-and-decisions/classes/020-efectos-de-segundo-orden",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos"
       ],
       "status": "verificada",
       "authority": "Earthscan"
@@ -2018,6 +1980,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
       ],
       "status": "verificada",
@@ -2253,6 +2217,10 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
       "status": "verificada",
@@ -2442,18 +2410,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
@@ -2993,7 +2949,8 @@
         "modules/00-professional-to-leader/classes/003-credibilidad-y-confianza-profesional",
         "modules/00-professional-to-leader/classes/006-prioridades-y-gestion-de-atencion",
         "modules/00-professional-to-leader/classes/009-aprendizaje-deliberado-y-actualizacion-continua",
-        "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales"
+        "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia"
       ],
       "status": "verificada",
       "authority": "Avery, an Imprint of Penguin Random House LLC"
@@ -3379,6 +3336,8 @@
       "locator": "https://openlibrary.org/isbn/9781509845385",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/053-delegacion-por-resultados",
         "modules/04-team-leadership/classes/056-reuniones-que-deciden",
@@ -3678,7 +3637,8 @@
         "modules/01-critical-thinking-and-decisions/classes/017-probabilidad-incertidumbre-y-riesgo",
         "modules/01-critical-thinking-and-decisions/classes/019-analisis-de-causa-raiz",
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons Inc"
@@ -3772,6 +3732,7 @@
       "locator": "https://openlibrary.org/isbn/9781633691766",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
@@ -4423,18 +4384,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
@@ -5507,13 +5456,7 @@
       "locator": "https://openlibrary.org/isbn/9780674518582",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos"
       ],
       "status": "verificada",
       "authority": "Belknap Press of Harvard University Press"
@@ -5532,18 +5475,8 @@
       "locator": "https://openlibrary.org/isbn/9781633692831",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
@@ -5963,18 +5896,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
@@ -6485,18 +6406,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
@@ -6817,6 +6726,7 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
@@ -6898,6 +6808,9 @@
       "locator": "https://openlibrary.org/isbn/9781118862414",
       "accessed": "2026-11-25",
       "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
       "status": "verificada"
@@ -6977,7 +6890,8 @@
       "locator": "https://doi.org/10.1037/0021-9010.86.3.425",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
       ],
       "status": "verificada"
     },
@@ -6996,7 +6910,254 @@
       "locator": "https://openlibrary.org/isbn/9780670014668",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable"
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "james-j-gross-the-emerging-field-of-emotion-regulation-an-integrative-review",
+      "type": "paper",
+      "authors": [
+        "Gross, James J."
+      ],
+      "title": "The Emerging Field of Emotion Regulation: An Integrative Review",
+      "cited_as": "James J. Gross — The Emerging Field of Emotion Regulation: An Integrative Review",
+      "authority": "Review of General Psychology",
+      "published": "1998",
+      "doi": "10.1037/1089-2680.2.3.271",
+      "locator": "https://doi.org/10.1037/1089-2680.2.3.271",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "richard-m-ryan-edward-l-deci-self-determination-theory-and-the-facilitation-of-i",
+      "type": "paper",
+      "authors": [
+        "Ryan, Richard M.",
+        "Deci, Edward L."
+      ],
+      "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+      "cited_as": "Richard M. Ryan & Edward L. Deci — Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+      "authority": "American Psychologist",
+      "published": "2000",
+      "doi": "10.1037/0003-066X.55.1.68",
+      "locator": "https://doi.org/10.1037/0003-066X.55.1.68",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "george-a-bonanno-loss-trauma-and-human-resilience-have-we-underestimated-the-hum",
+      "type": "paper",
+      "authors": [
+        "Bonanno, George A."
+      ],
+      "title": "Loss, Trauma, and Human Resilience: Have We Underestimated the Human Capacity to Thrive After Extremely Aversive Events?",
+      "cited_as": "George A. Bonanno — Loss, Trauma, and Human Resilience: Have We Underestimated the Human Capacity to Thrive After Extremely Aversive Events?",
+      "authority": "American Psychologist",
+      "published": "2004",
+      "doi": "10.1037/0003-066X.59.1.20",
+      "locator": "https://doi.org/10.1037/0003-066X.59.1.20",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ann-s-masten-ordinary-magic-resilience-processes-in-development",
+      "type": "paper",
+      "authors": [
+        "Masten, Ann S."
+      ],
+      "title": "Ordinary Magic: Resilience Processes in Development",
+      "cited_as": "Ann S. Masten — Ordinary Magic: Resilience Processes in Development",
+      "authority": "American Psychologist",
+      "published": "2001",
+      "doi": "10.1037/0003-066X.56.3.227",
+      "locator": "https://doi.org/10.1037/0003-066X.56.3.227",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "amy-c-edmondson-psychological-safety-and-learning-behavior-in-work-teams",
+      "type": "paper",
+      "authors": [
+        "Edmondson, Amy"
+      ],
+      "title": "Psychological Safety and Learning Behavior in Work Teams",
+      "cited_as": "Amy C. Edmondson — Psychological Safety and Learning Behavior in Work Teams",
+      "authority": "Administrative Science Quarterly",
+      "published": "1999",
+      "doi": "10.2307/2666999",
+      "locator": "https://doi.org/10.2307/2666999",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "james-o-prochaska-carlo-c-diclemente-stages-and-processes-of-self-change-of-smok",
+      "type": "paper",
+      "authors": [
+        "Prochaska, James O.",
+        "DiClemente, Carlo C."
+      ],
+      "title": "Stages and Processes of Self-Change of Smoking: Toward an Integrative Model of Change",
+      "cited_as": "James O. Prochaska & Carlo C. DiClemente — Stages and Processes of Self-Change of Smoking: Toward an Integrative Model of Change",
+      "authority": "Journal of Consulting and Clinical Psychology",
+      "published": "1983",
+      "doi": "10.1037/0022-006X.51.3.390",
+      "locator": "https://doi.org/10.1037/0022-006X.51.3.390",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "christina-maslach-wilmar-b-schaufeli-michael-p-leiter-job-burnout",
+      "type": "paper",
+      "authors": [
+        "Maslach, Christina",
+        "Schaufeli, Wilmar B.",
+        "Leiter, Michael P."
+      ],
+      "title": "Job Burnout",
+      "cited_as": "Christina Maslach, Wilmar B. Schaufeli & Michael P. Leiter — Job Burnout",
+      "authority": "Annual Review of Psychology",
+      "published": "2001",
+      "doi": "10.1146/annurev.psych.52.1.397",
+      "locator": "https://doi.org/10.1146/annurev.psych.52.1.397",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "sabine-sonnentag-charlotte-fritz-the-recovery-experience-questionnaire-developme",
+      "type": "paper",
+      "authors": [
+        "Sonnentag, Sabine",
+        "Fritz, Charlotte"
+      ],
+      "title": "The Recovery Experience Questionnaire: Development and Validation of a Measure for Assessing Recuperation and Unwinding From Work",
+      "cited_as": "Sabine Sonnentag & Charlotte Fritz — The Recovery Experience Questionnaire: Development and Validation of a Measure for Assessing Recuperation and Unwinding From Work",
+      "authority": "Journal of Occupational Health Psychology",
+      "published": "2007",
+      "doi": "10.1037/1076-8998.12.3.204",
+      "locator": "https://doi.org/10.1037/1076-8998.12.3.204",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ronald-a-heifetz-alexander-grashow-marty-linsky-the-practice-of-adaptive-leaders",
+      "type": "book",
+      "authors": [
+        "Heifetz, Ronald A.",
+        "Grashow, Alexander",
+        "Linsky, Marty"
+      ],
+      "title": "The Practice of Adaptive Leadership",
+      "cited_as": "Ronald A. Heifetz, Alexander Grashow & Marty Linsky — The Practice of Adaptive Leadership",
+      "authority": "Harvard Business Press",
+      "published": "2009",
+      "isbn13": "9781422105764",
+      "locator": "https://openlibrary.org/isbn/9781422105764",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "robert-kegan-lisa-laskow-lahey-immunity-to-change",
+      "type": "book",
+      "authors": [
+        "Kegan, Robert",
+        "Lahey, Lisa Laskow"
+      ],
+      "title": "Immunity to Change",
+      "cited_as": "Robert Kegan & Lisa Laskow Lahey — Immunity to Change",
+      "authority": "Harvard Business Press",
+      "published": "2009",
+      "isbn13": "9781422117361",
+      "locator": "https://openlibrary.org/isbn/9781422117361",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "rushworth-m-kidder-how-good-people-make-tough-choices",
+      "type": "book",
+      "authors": [
+        "Kidder, Rushworth M."
+      ],
+      "title": "How Good People Make Tough Choices",
+      "cited_as": "Rushworth M. Kidder — How Good People Make Tough Choices",
+      "authority": "William Morrow",
+      "published": "2009",
+      "isbn13": "9780061968723",
+      "locator": "https://openlibrary.org/isbn/9780061968723",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "karl-e-weick-sensemaking-in-organizations",
+      "type": "book",
+      "authors": [
+        "Weick, Karl E."
+      ],
+      "title": "Sensemaking in Organizations",
+      "cited_as": "Karl E. Weick — Sensemaking in Organizations",
+      "authority": "Sage Publications",
+      "published": "1995",
+      "isbn13": "9780803971776",
+      "locator": "https://openlibrary.org/isbn/9780803971776",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "teresa-m-amabile-steven-j-kramer-the-progress-principle",
+      "type": "book",
+      "authors": [
+        "Amabile, Teresa M.",
+        "Kramer, Steven J."
+      ],
+      "title": "The Progress Principle",
+      "cited_as": "Teresa M. Amabile & Steven J. Kramer — The Progress Principle",
+      "authority": "Harvard Business Review Press",
+      "published": "2011",
+      "isbn13": "9781422198575",
+      "locator": "https://openlibrary.org/isbn/9781422198575",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
       ],
       "status": "verificada"
     }

@@ -10,235 +10,189 @@
 
 ## 🎯 Propósito
 
-Liderar una crisis humana integra seguridad, hechos, empatía, límites, coordinación y comunicación. Primero se estabiliza el daño y se activa el protocolo aplicable; luego se preserva dignidad, se asignan responsables y se decide qué información compartir. La presión no suspende obligaciones éticas o legales.
+Una crisis humana es aquella en que lo que está en riesgo son las personas: su seguridad, su empleo, su dignidad o su confianza. Un conflicto público con trabajadores, el accidente de un colaborador, una denuncia de acoso o un despido masivo mal comunicado son ejemplos. En ellas, las competencias de la parte 03 se ponen a prueba juntas: hay que **regular la propia reacción**, **escuchar sin defenderse**, **sostener un estándar con empatía**, **dar sentido a lo incierto**, distinguir **qué es técnico y qué adaptativo** y decidir con valores en conflicto.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: liderar una crisis humana** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 03 con una base nueva: la respuesta base de Coombs (informar e instruir, y reconocer el daño humano antes de la reputación), las cuatro formas de justicia de Colquitt et al. (clase 036) y la lectura adaptativa de Heifetz et al. Al terminar sabrás conducir las primeras 72 horas de una crisis con personas y cerrar con acuerdos y aprendizaje.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `crisis humana`, `estabilización`, `triage`, `confidencialidad`, `aftercare` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** tiempo de respuesta, personas protegidas, rumores sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Conducir** un conflicto público con trabajadores con diálogo, proporcionalidad y ausencia de represalia.
+1. **Priorizar** la seguridad y el cuidado de las personas en las primeras horas.
+2. **Reconocer** un reclamo sin aceptar ni rechazar su contenido y abrir un cauce de diálogo.
+3. **Separar** lo negociable de lo que es una obligación legal, con asesoría.
+4. **Evitar** represalias y cuidar la justicia del proceso, del trato y de la explicación.
+5. **Integrar** autorregulación, escucha, estándar, incertidumbre, ética y lectura adaptativa en un plan.
+6. **Cerrar** con acuerdos, seguimiento y revisión sin culpas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define crisis humana y estabilización sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con tiempo de respuesta y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué competencias de la parte 03 usarías en una crisis con personas? Elige las tres más difíciles. |
+| 20–60 min | Las primeras 72 horas y los marcos que las gobiernan. |
+| 60–105 min | Ejemplo trabajado: un conflicto público con trabajadores. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–170 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **crisis humana** | evento que amenaza seguridad, dignidad, confianza o continuidad de personas | Distingue un hecho compatible y otro que lo refute. |
-| **estabilización** | acciones inmediatas para detener o reducir daño | Distingue un hecho compatible y otro que lo refute. |
-| **triage** | priorización por severidad y urgencia | Distingue un hecho compatible y otro que lo refute. |
-| **confidencialidad** | restricción legítima de información sensible | Distingue un hecho compatible y otro que lo refute. |
-| **aftercare** | apoyo y seguimiento después de la respuesta inicial | Distingue un hecho compatible y otro que lo refute. |
+| **Crisis humana** | Situación en que lo amenazado son principalmente las personas y la confianza que depositan en la organización (criterio de la clase). | Hay afectados con rostro y un reclamo legítimo. |
+| **Información de instrucción y de ajuste** | Qué ocurrió y qué debe hacer quien está en riesgo; reconocimiento del daño y apoyo (Coombs, 2007). | Es lo primero que se comunica. |
+| **Reconocer sin aceptar** | Admitir que existe un reclamo y su impacto sin pronunciarse aún sobre su contenido. | «Escuchamos el reclamo y lo vamos a revisar.» |
+| **Justicia distributiva, procedimental, interpersonal e informacional** | Las cuatro dimensiones con que las personas evalúan una decisión (Colquitt et al., 2001). | Se cuida el resultado, el proceso, el trato y la explicación. |
+| **Represalia** | Medida adversa contra quien reclamó, aunque tenga otra causa declarada. | Se percibe como castigo. |
+| **Trabajo adaptativo** | Cambio de valores, hábitos o lealtades que deben hacer las personas con el problema (Heifetz et al., 2009). | La crisis revela algo de fondo que se evitaba. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 048: 1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar](modelo-mental.svg)
+![Las primeras 72 horas de una crisis humana en tres tramos: proteger y reconocer, dialogar con hechos, y acordar y hacer seguimiento, con el criterio que gobierna cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Liderar una crisis humana integra seguridad, hechos, empatía, límites, coordinación y comunicación. Primero se estabiliza el daño y se activa el protocolo aplicable; luego se preserva dignidad, se asignan responsables y se decide qué información compartir. La presión no suspende obligaciones éticas o legales.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia.**
+**Cómo leer el diagrama.** Tres tramos de tiempo, cada uno con tres acciones y el marco que lo orienta. En las **primeras horas** gobierna la respuesta base de Coombs: personas primero. En el **tramo medio**, las cuatro justicias: resultado, proceso, trato y explicación. En el **cierre**, la mirada adaptativa: qué cambio de fondo pide la crisis. El conflicto con trabajadores se juzga por cómo se trata a las personas, no solo por cómo se cierra.
 
 ## 📖 Desarrollo
 
-### 1. crisis humana: mecanismo central
+### 1. Qué cambia en una crisis humana
 
-**crisis humana** se entiende aquí como **evento que amenaza seguridad, dignidad, confianza o continuidad de personas**. Esta es la pieza causal o estructural desde la que se inicia **capstone: liderar una crisis humana**: antes de proteger seguridad inmediata, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+En una crisis técnica, la prioridad es restablecer el servicio; en una humana, **cuidar a las personas y su confianza**. Esto altera el orden de las decisiones: antes de discutir la causa o la reputación, se garantiza la seguridad, se reconoce el reclamo y se abre un cauce. Y expone al líder: sus propias reacciones —enojo, defensa, evitación— son parte de la situación. La parte 03 se aplica aquí.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **tiempo de respuesta**; regístrala con periodo, unidad, población y baseline.
+### 2. Primeras horas: proteger y reconocer
 
-Relaciona el mecanismo con **estabilización**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Cuatro acciones. **1)** Garantizar la seguridad física y psicológica de las personas afectadas. **2)** Nombrar un responsable único y abrir un registro de hechos con hora (clase 190). **3)** Reconocer el reclamo sin aceptar ni rechazar su contenido, y expresar cuidado por los afectados (información de ajuste de Coombs). **4)** Regular tu propia reacción antes de hablar: nombrar la emoción, pausar, preparar (clases 037 y 038). Una respuesta inicial defensiva suele endurecer posiciones.
 
-### 2. estabilización: frontera conceptual y error de clasificación
+### 3. Dialogar con hechos
 
-**Definición operacional:** acciones inmediatas para detener o reducir daño. Su valor está en distinguirlo de **crisis humana** y **triage**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+En el tramo medio se abre un diálogo con **interlocutores definidos**: representantes de los trabajadores, el afectado, quienes puedan aportar hechos. Escucha con preguntas humildes (clase 026), resume y distingue lo que puedes cambiar de lo que no. Separa **lo negociable** (organización del trabajo, plazos, apoyos) de **lo que es obligación legal** (que se verifica con asesoría y no se negocia). Mantén un mensaje único hacia dentro y hacia fuera (clase 025).
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **estabilización** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **personas protegidas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Las cuatro justicias en la práctica
 
-Antes de activar protocolo y responsables, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Colquitt et al. muestran que las personas evalúan cuatro cosas. **Distributiva:** qué resultado reciben y es proporcionado. **Procedimental:** cómo se decidió, con qué información y qué voz tuvieron. **Interpersonal:** si las trataron con respeto. **Informacional:** si se les explicó con veracidad y oportunidad. En un conflicto con trabajadores, descuidar una sola puede reabrir la crisis aunque las otras estén bien.
 
-### 3. triage: operacionalización y medición
+### 5. Sin represalias
 
-**triage** significa **priorización por severidad y urgencia**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una medida posterior contra quienes reclamaron será leída como castigo, aunque tenga otra causa. Por eso se **documenta antes de actuar** el motivo distinto, y se consulta a una instancia independiente. Se protege también a quienes no participan en el reclamo y a quienes lo lideran. Las normas laborales aplicables deben verificarse con asesoría: esta clase no las reemplaza.
 
-Clayton Christensen et al. — *How Will You Measure Your Life?* orienta este bloque mediante **perspectiva de Autoliderazgo aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **rumores**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Proporcionalidad y estándar
 
-Al llegar a separar hechos de rumores, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La respuesta debe corresponder a la **gravedad** del reclamo, no a su visibilidad. Mantener un estándar significa no ceder en lo que no corresponde y no negar lo que es cierto: empatía sin perder exigencia (clase 039). Si el reclamo es en parte fundado, se reconoce esa parte con hechos; si no lo es, se explica con evidencia, sin descalificar a quien lo hizo.
 
-### 4. confidencialidad: trade-offs y efectos de segundo orden
+### 7. Incertidumbre, ética y trabajo adaptativo
 
-**Definición:** restricción legítima de información sensible. Este concepto obliga a abandonar la idea de que **capstone: liderar una crisis humana** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comunicar lo necesario con empatía, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+En la crisis faltará información. Aplica la clase 044: **qué sabemos, qué no, qué hacemos, cuándo informamos**, y un relato plausible con señales de revisión. Los dilemas de valores —lealtad a un directivo frente a protección de un trabajador— se resuelven con la clase 045: tres criterios, declaración, abstención y registro. Y la mirada adaptativa pregunta qué reveló la crisis: ¿un problema técnico (un protocolo) o uno adaptativo (una cultura que castiga a quien reclama)? Si es adaptativo, la solución no cierra con un acuerdo: requiere trabajo posterior.
 
-Ronald Heifetz & Marty Linsky — *Leadership on the Line* aporta una lente sobre **distinción entre problemas técnicos y desafíos adaptativos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cumplimiento de protocolo** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+### 8. Cierre, aprendizaje y cuidado
 
-Haz un *pre-mortem* de **capstone: liderar una crisis humana**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **confidencialidad** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. aftercare: gobernanza, límites e integración
-
-**aftercare** se define como **apoyo y seguimiento después de la respuesta inicial** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Amy C. Edmondson — *The Fearless Organization* se utiliza para estudiar **seguridad psicológica, aprendizaje, voz y manejo productivo del error** y contrastar la recomendación final. Al ejecutar hacer seguimiento y aprender sin revictimizar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **crisis humana**, **estabilización**, **triage**, **confidencialidad** y **aftercare** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: liderar una crisis humana** no consiste en sumar cinco definiciones. Empieza por **crisis humana**, contrasta **estabilización** con **triage**, incorpora **confidencialidad** como restricción o mecanismo y usa **aftercare** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Liderar una crisis humana: el conflicto público con trabajadores
-
-En una crisis humana el activo en riesgo son las personas, y la reputación se juega en cómo se las trata cuando hay conflicto visible. Esta ampliación aplica el capstone a un **conflicto público con trabajadores** (paro, denuncia colectiva, publicación de reclamos).
-
-`1) Reconocer el reclamo sin aceptar ni rechazar de inmediato su contenido. 2) Abrir un canal de diálogo con interlocutores definidos. 3) Separar lo que es negociable de lo que es obligación legal. 4) Cuidar a quienes no participan y a quienes lideran el reclamo, sin represalia. 5) Comunicar con el mismo hecho hacia dentro y hacia fuera. 6) Registrar compromisos y fecha de seguimiento.`
-
-| Decisión defendible | Qué protege | Qué arriesga | Cuándo conviene |
-|---|---|---|---|
-| **Reunirse de inmediato con representantes** | Confianza y desescalada. | Parecer que se cede bajo presión. | El reclamo es verificable y hay interlocutor legítimo. |
-| **Pedir primero una revisión de hechos y responder en 48 horas** | Precisión de lo que se promete. | Silencio percibido como desprecio. | Los datos son confusos o discutidos. |
-| **Responder públicamente con hechos y abrir mesa** | Narrativa propia y transparencia. | Que el mensaje público endurezca posiciones. | Ya hay cobertura y el silencio se leerá como evasión. |
-
-Dos criterios guían la elección: **proporcionalidad** (la respuesta debe corresponder a la gravedad del reclamo, no a su visibilidad) y **ausencia de represalia** (cualquier medida posterior contra quienes reclamaron será leída como castigo aunque tenga otra causa; documenta el motivo distinto antes de actuar). La norma laboral aplicable debe verificarse con asesoría; esta clase no la reemplaza.
+Termina con **acuerdos** concretos —quién, qué, cuándo, cómo se verifica—, un seguimiento a fecha fija y una **revisión sin culpas** que produzca cambios con dueño. Cuida a quienes condujeron la crisis: la clase 047 recuerda que el agotamiento es un riesgo para el líder. Y revisa tu propio desempeño: ¿cómo reaccionaste?, ¿qué evitaste?, ¿qué harías distinto?
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **capstone: liderar una crisis humana** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **capstone: liderar una crisis humana** ayuda a desafiar? |
-| Clayton Christensen et al. — *How Will You Measure Your Life?* | perspectiva de Autoliderazgo aplicada al problema de la clase | ¿Qué supuesto de **capstone: liderar una crisis humana** ayuda a desafiar? |
-| Ronald Heifetz & Marty Linsky — *Leadership on the Line* | distinción entre problemas técnicos y desafíos adaptativos | ¿Qué supuesto de **capstone: liderar una crisis humana** ayuda a desafiar? |
-| Amy C. Edmondson — *The Fearless Organization* | seguridad psicológica, aprendizaje, voz y manejo productivo del error | ¿Qué supuesto de **capstone: liderar una crisis humana** ayuda a desafiar? |
-
-En **capstone: liderar una crisis humana**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **crisis humana**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Coombs (2007) | Respuesta base y posturas según la responsabilidad atribuida. | Está pensada para crisis con público externo. | ¿Qué se comunica primero? |
+| Colquitt et al. (2001) | Las cuatro dimensiones de justicia. | No es una guía de crisis. | ¿Qué dimensión descuidaste? |
+| Heifetz et al. (2009) | Lectura adaptativa y balcón. | No trata de comunicación. | ¿Qué reveló la crisis? |
+| Edmondson (2018) | Seguridad para que se diga la verdad. | No se centra en crisis. | ¿Pudieron avisar a tiempo? |
+| Gross (1998) | Regulación de la propia emoción. | No trata del equipo. | ¿En qué punto regularás tu reacción? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Durante una actividad laboral ocurre un incidente grave que afecta a una colaboradora y genera especulación interna. La jefatura debe actuar antes de tener todos los hechos.
+**Situación (hipotética).** Un centro de distribución con 120 trabajadores. Tras un accidente leve con una carretilla, un grupo publica en redes que «la empresa ignora la seguridad» y convoca una paralización para el miércoles. La gerente de operaciones, Lucía, se entera el lunes a las 17:00.
 
-**Paso 1 — proteger seguridad inmediata.** La gerencia escribe primero el supuesto asociado a **crisis humana** y evita convertirlo en hecho. Luego busca **tiempo de respuesta** para contrastarlo en el caso de **capstone: liderar una crisis humana**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tramo | Qué hace Lucía | Marco |
+|---|---|---|
+| **0–6 h** | Verifica que el herido esté atendido y que el área esté segura. Nombra un responsable único y abre un registro. Envía un mensaje: «Hemos visto los reclamos y el accidente; la seguridad de las personas es la prioridad; mañana a las 9:00 nos reunimos con representantes». Antes de hablar con la dirección, pausa, nombra su enojo y prepara. | Coombs; Gross |
+| **6–48 h** | Se reúne con tres representantes elegidos por los trabajadores. Escucha, resume, distingue: *negociable*: protocolos de carretillas, capacitación, comité paritario; *obligación legal*: investigación del accidente y reporte a la autoridad, con asesor. Mensaje único hacia dentro y hacia fuera. | Escucha; justicia |
+| **48–72 h** | Acuerda un plan con responsables y fechas, una auditoría de seguridad con participación de los trabajadores y un informe público a los 15 días. Declara que no habrá represalias y documenta el motivo de cualquier medida disciplinaria futura. | Colquitt; Heifetz |
 
-**Paso 2 — activar protocolo y responsables.** La gerencia escribe primero el supuesto asociado a **estabilización** y evita convertirlo en hecho. Luego busca **personas protegidas** para contrastarlo en el caso de **capstone: liderar una crisis humana**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mirada adaptativa.** Lucía advierte que el accidente expone un patrón: los trabajadores sienten que reportar un incidente tiene costo. Eso no se resuelve con un protocolo; requiere cambiar cómo se recibe un reporte.
 
-**Paso 3 — separar hechos de rumores.** La gerencia escribe primero el supuesto asociado a **triage** y evita convertirlo en hecho. Luego busca **rumores** para contrastarlo en el caso de **capstone: liderar una crisis humana**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — comunicar lo necesario con empatía.** La gerencia escribe primero el supuesto asociado a **confidencialidad** y evita convertirlo en hecho. Luego busca **cumplimiento de protocolo** para contrastarlo en el caso de **capstone: liderar una crisis humana**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — hacer seguimiento y aprender sin revictimizar.** La gerencia escribe primero el supuesto asociado a **aftercare** y evita convertirlo en hecho. Luego busca **acciones de seguimiento** para contrastarlo en el caso de **capstone: liderar una crisis humana**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: liderar una crisis humana**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Lo primero fue cuidar a las personas, no defender la imagen. (2) Se distinguieron lo negociable y lo legal. (3) Se previeron represalias. (4) Se identificó el trabajo adaptativo posterior.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **crisis humana** | evento que amenaza seguridad, dignidad, confianza o continuidad de personas | Cuando tiempo de respuesta es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **estabilización** | acciones inmediatas para detener o reducir daño | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Crisis humana frente a crisis de reputación.** En la humana, el centro es el cuidado de las personas; la reputación se protege con hechos y conducta, no con comunicación. Las clases 190 y 200 tratan el comité y la vocería.
 
-**Frontera de aplicación:** En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia.
+**Límites.** Las primeras 72 horas son una guía docente, no una norma; cada situación tiene plazos y obligaciones propias. La respuesta base de Coombs proviene de estudios sobre crisis con público externo y su transferencia a un conflicto laboral requiere adaptación. Las normas laborales, de seguridad y de protección de datos aplicables deben verificarse con asesoría legal; esta clase no las sustituye. Y ningún método reemplaza el juicio del que conduce.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: liderar una crisis humana |
+| Nivel | Cómo conduce una crisis humana |
 |---|---|
-| **Profesional** | usa **capstone: liderar una crisis humana** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **crisis humana** y **estabilización** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta tiempo de respuesta con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: liderar una crisis humana cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: liderar una crisis humana reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: liderar una crisis humana** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Avisa de inmediato, cuida a los afectados y preserva los hechos. |
+| **Jefe / Team Lead** | Conduce la primera respuesta de su equipo, con cuidado y registro. |
+| **Gerente** | Abre el diálogo con interlocutores definidos y evita represalias. |
+| **CEO / Director** | Responde por la coherencia de la respuesta y por el cambio de fondo. |
+| **Founder / Owner** | Conduce con su patrimonio y su palabra en juego, y trata a su equipo como personas, no como costo. |
 
 ## 🏢 Caso ejecutivo
 
-Durante una actividad laboral ocurre un incidente grave que afecta a una colaboradora y genera especulación interna. La jefatura debe actuar antes de tener todos los hechos.
+Una empresa de servicios anuncia por correo el cierre de una sucursal con 38 personas, con efecto en 30 días. Un delegado difunde el correo en redes y un medio local pide una declaración. Hay rumores de que se despedirá sin indemnización completa. El gerente de personas es un amigo antiguo de la jefa de la sucursal, a quien se le atribuye «haber ocultado el cierre». El sindicato nacional pide una reunión urgente. Tú eres el gerente general; es lunes a las 8:00.
 
-Entrega un **decision brief de capstone: liderar una crisis humana** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan integrado de conducción de crisis** que contenga: (a) tu regulación inicial y qué prepararás antes de hablar; (b) las acciones de 0–6 horas y la comunicación a los afectados; (c) el diálogo con los trabajadores: interlocutores, lo negociable y lo legal; (d) cómo cubrirás las cuatro justicias; (e) la gestión del dilema del gerente de personas y de la jefa de sucursal; (f) qué es técnico y qué adaptativo; (g) incertidumbre: qué sabes, qué no y cuándo informarás; (h) el cierre, el seguimiento y la revisión sin culpas; (i) cómo cuidarás tu energía y la del equipo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: liderar una crisis humana** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta tiempo de respuesta, personas protegidas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Resuelve un conflicto público con trabajadores eligiendo una de tres respuestas defendibles y defiende por qué no eligió las otras.
+1. Elige un conflicto con personas real o simulado y escribe los hechos con hora.
+2. Redacta el mensaje de reconocimiento sin aceptar ni rechazar el contenido.
+3. Separa lo negociable de lo legal y anota con quién verificarás lo legal.
+4. Evalúa las cuatro justicias en tu plan y mejora la más débil.
+5. Escribe la revisión sin culpas posterior: causa del sistema, tres acciones, dueños y fechas.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar crisis humana y estabilización como sinónimos | Se pierde la distinción entre “evento que amenaza seguridad, dignidad, confianza o continuidad de personas” y “acciones inmediatas para detener o reducir daño” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “hacer seguimiento y aprender sin revictimizar” | Se saltó “proteger seguridad inmediata” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar y marca el primer supuesto no demostrado. |
-| Optimizar solo tiempo de respuesta | La métrica local sustituyó al resultado del sistema | Contrástala con personas protegidas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: liderar una crisis humana | En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia. |
-| No fijar revisión | Una decisión sobre capstone: liderar una crisis humana se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Defender la imagen primero | Se teme la prensa | Personas primero; reputación con hechos. |
+| Responder sin regularse | Urgencia y enojo | Pausa, nombrar la emoción, preparar. |
+| Ceder lo que no se debe | Se busca cerrar | Distinguir lo negociable de lo legal. |
+| Represalia encubierta | Se castiga a quien reclama | Documentar motivos y consultar a un tercero. |
+| Mensajes distintos | Cada área comunica por su cuenta | Un hecho y un responsable. |
+| Cerrar con un protocolo | Se trata como técnico | Preguntar qué revela de fondo. |
+| Olvidar el cuidado propio | La crisis absorbe | Aliados, límites y descanso. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **crisis humana** y **estabilización** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **triage** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **proteger seguridad inmediata → activar protocolo y responsables** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **tiempo de respuesta** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: liderar una crisis humana**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia.**?
+1. ¿Qué se comunica primero en una crisis humana según Coombs?
+2. ¿Qué significa reconocer un reclamo sin aceptarlo ni rechazarlo?
+3. ¿Qué es negociable y qué no en un conflicto con trabajadores?
+4. ¿Cuáles son las cuatro dimensiones de justicia?
+5. ¿Por qué hay que documentar el motivo de una medida antes de actuar?
+6. ¿Qué diferencia hay entre un problema técnico y uno adaptativo en la crisis?
+7. ¿Qué debe producir una revisión sin culpas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Información de instrucción y de ajuste: qué ocurrió, qué debe hacer quien está en riesgo y reconocimiento del daño.
+2. Admitir que existe un reclamo y su impacto sin pronunciarse todavía sobre su contenido.
+3. Negociable: organización, plazos, apoyos; no negociable: las obligaciones legales, verificadas con asesoría.
+4. Distributiva, procedimental, interpersonal e informacional.
+5. Porque una medida posterior se leerá como represalia aunque tenga otra causa.
+6. El técnico se resuelve con un protocolo; el adaptativo exige cambiar valores o hábitos, como una cultura que castiga el reporte.
+7. Acciones con dueño y fecha centradas en causas del sistema.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/048-capstone-liderar-una-crisis-humana/`:
 
-- `leadership-decision-brief.md` con el problema específico de **capstone: liderar una crisis humana**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: liderar una crisis humana** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **crisis humana**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Durante una actividad laboral ocurre un incidente grave que afecta a una colaboradora y genera especulación interna. La jefatura debe actuar antes de tener todos los hechos.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan integrado del caso ejecutivo;
+- `crisis-committee-charter.md` (plantilla [acta del comité de crisis](../../../../templates/crisis-committee-charter.md)) con el responsable y la matriz de decisiones;
+- `reading-note.md` con una tensión entre Coombs y Colquitt et al.;
+- `decision-journal.md` con tu autoevaluación: cómo reaccionaste, qué evitaste y qué harías distinto.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Clayton Christensen et al. — *How Will You Measure Your Life?* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Autoliderazgo aplicada al problema de la clase. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica, aprendizaje, voz y manejo productivo del error. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
-- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** perspectiva de Motivación aplicada al problema de la clase. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: liderar una crisis humana** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: liderar una crisis humana** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: liderar una crisis humana** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: liderar una crisis humana** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory* (Corporate Reputation Review, 2007). **Uso en esta clase:** la respuesta base de instrucción y ajuste. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [DOI 10.1057/palgrave.crr.1550049](https://doi.org/10.1057/palgrave.crr.1550049).
+- Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng — *Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research* (Journal of Applied Psychology, 2001). **Uso en esta clase:** las cuatro dimensiones de justicia en el tratamiento de las personas. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [DOI 10.1037/0021-9010.86.3.425](https://doi.org/10.1037/0021-9010.86.3.425).
+- Ronald A. Heifetz, Alexander Grashow & Marty Linsky — *The Practice of Adaptive Leadership* (Harvard Business Press, 2009). **Uso en esta clase:** la lectura adaptativa, el balcón y el trabajo de fondo. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781422105764](https://openlibrary.org/isbn/9781422105764).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad para que se diga la verdad a tiempo. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- James J. Gross — *The Emerging Field of Emotion Regulation: An Integrative Review* (Review of General Psychology, 1998). **Uso en esta clase:** regular la propia reacción antes de actuar. Lectura selectiva sobre **capstone: liderar una crisis humana**. **Localizador:** [DOI 10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271).
 
-> **Regla de fuentes para Capstone: liderar una crisis humana:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: liderar una crisis humana** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: liderar una crisis humana:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las normas laborales, de seguridad y de protección de datos aplicables. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

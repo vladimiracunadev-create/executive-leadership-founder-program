@@ -10,217 +10,186 @@
 
 ## 🎯 Propósito
 
-Liderar en incertidumbre requiere proporcionar orientación suficiente sin inventar certezas. Se trabaja con hipótesis, horizontes cortos, señales y cadencias de actualización. La confianza aumenta cuando el líder distingue lo conocido, lo desconocido y lo que se está haciendo para aprender.
+Esperar a tener certeza para actuar es una forma de decidir, y suele ser la peor: cuando los datos llegan, la oportunidad pasó. Pero actuar como si se tuviera certeza es igualmente costoso. Quien dirige en incertidumbre tiene una tarea específica: **dar sentido** a una situación que aún no lo tiene, para que otros puedan actuar con coherencia, y hacerlo de forma que se pueda corregir.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **liderar en incertidumbre** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa la teoría de la construcción de sentido de Karl Weick —cómo las personas y las organizaciones interpretan lo ambiguo— y el estudio de Gary Klein sobre cómo deciden los expertos bajo presión de tiempo. Al terminar sabrás distinguir riesgo de incertidumbre, comunicar con honestidad lo que no se sabe, actuar con pasos acotados y reversibles, y revisar el relato cuando la realidad lo contradice.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `ambigüedad`, `incertidumbre`, `orientación`, `trigger`, `cadencia de actualización` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** forecast ranges, decisiones reversibles, frecuencia de actualización sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** riesgo, incertidumbre y ambigüedad, y qué pide cada uno.
+2. **Describir** el ciclo de construcción de sentido: notar, interpretar, actuar y corregir.
+3. **Comunicar** con honestidad lo que se sabe, lo que no y qué se hará mientras tanto.
+4. **Elegir** acciones acotadas y reversibles para aprender de la situación.
+5. **Reconocer** cuándo la decisión no debe dilatarse y cuándo la intuición experta es confiable.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define ambigüedad y incertidumbre sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con forecast ranges y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una decisión que tomaste sin información suficiente; ¿qué hiciste y cómo lo corregiste? |
+| 20–60 min | Construcción de sentido, las siete propiedades y la decisión experta. |
+| 60–105 min | Ejemplo trabajado: un anuncio de un competidor que cambia el mercado. |
+| 105–140 min | Caso ejecutivo: una regulación aún sin definir. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **ambigüedad** | existencia de múltiples interpretaciones plausibles | Distingue un hecho compatible y otro que lo refute. |
-| **incertidumbre** | falta de certeza sobre estados futuros | Distingue un hecho compatible y otro que lo refute. |
-| **orientación** | marco temporal y prioridades que permiten actuar | Distingue un hecho compatible y otro que lo refute. |
-| **trigger** | señal que modifica el plan | Distingue un hecho compatible y otro que lo refute. |
-| **cadencia de actualización** | frecuencia acordada para revisar supuestos y comunicar cambios | Distingue un hecho compatible y otro que lo refute. |
+| **Riesgo** | Situación en que se conocen los resultados posibles y se pueden estimar sus probabilidades (criterio de la clase). | Se puede calcular. |
+| **Incertidumbre** | Situación en que no se conocen bien los resultados posibles o sus probabilidades (criterio de la clase). | Los datos no alcanzan para estimar. |
+| **Ambigüedad** | Situación con varias interpretaciones posibles sin una que se imponga (Weick, 1995). | Distintas personas ven cosas distintas. |
+| **Construcción de sentido** | Proceso por el cual las personas dan significado a lo que ocurre mientras actúan (Weick, 1995). | Se construye una explicación suficiente para actuar. |
+| **Plausibilidad** | Criterio de un relato que es suficiente y creíble para actuar, aunque no sea exacto (Weick, 1995). | Permite seguir adelante y se corrige. |
+| **Decisión por reconocimiento** | Modo en que los expertos reconocen una situación como típica y simulan mentalmente una acción (Klein, 1999). | Deciden rápido sin comparar todas las opciones. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 044: 1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia](modelo-mental.svg)
+![Dar sentido a una situación incierta mientras se actúa: un ciclo de notar señales, construir un relato plausible, actuar de forma acotada y corregir, con las siete propiedades del sentido.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Liderar en incertidumbre requiere proporcionar orientación suficiente sin inventar certezas. Se trabaja con hipótesis, horizontes cortos, señales y cadencias de actualización. La confianza aumenta cuando el líder distingue lo conocido, lo desconocido y lo que se está haciendo para aprender.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar.**
+**Cómo leer el diagrama.** Arriba, el ciclo: se notan señales, se construye un relato **plausible**, se actúa de forma acotada y se corrige con lo que el entorno responde. Se repite mientras la situación cambia. Abajo, las siete propiedades de Weick, que explican por qué el sentido se construye así: es retrospectivo, social, continuo y apoyado en señales concretas.
 
 ## 📖 Desarrollo
 
-### 1. ambigüedad: mecanismo central
+### 1. Riesgo, incertidumbre y ambigüedad
 
-**ambigüedad** se entiende aquí como **existencia de múltiples interpretaciones plausibles**. Esta es la pieza causal o estructural desde la que se inicia **liderar en incertidumbre**: antes de declarar qué se sabe y no, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los tres se confunden. Con **riesgo** se conocen los resultados y se pueden estimar probabilidades: se calcula. Con **incertidumbre** no se sabe bien qué puede ocurrir ni con qué probabilidad: se explora. Con **ambigüedad** hay varias lecturas posibles de lo que pasa: se construye sentido. Cada una pide una respuesta distinta: calcular, explorar o interpretar con otros. Tratar la ambigüedad como riesgo —pedir más datos— no la resuelve.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **forecast ranges**; regístrala con periodo, unidad, población y baseline.
+### 2. La construcción de sentido
 
-Relaciona el mecanismo con **incertidumbre**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Weick sostiene que las personas no encuentran el sentido de una situación ya hecho: lo **construyen**, mientras actúan. Esto invierte la secuencia habitual «primero entender, luego actuar». En la práctica, se actúa para ver qué pasa y esa información permite entender mejor. De ahí que la acción pequeña, que revela información, sea una herramienta de conocimiento.
 
-### 2. incertidumbre: frontera conceptual y error de clasificación
+### 3. Las siete propiedades
 
-**Definición operacional:** falta de certeza sobre estados futuros. Su valor está en distinguirlo de **ambigüedad** y **orientación**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Weick describe siete rasgos del proceso. Se construye desde la **identidad** (quién soy al interpretar); es **retrospectivo** (se entiende mirando lo que ya ocurrió); es **activo** (la acción crea el entorno que luego se interpreta); es **social** (se construye con otros); es **continuo** (no termina); se apoya en **señales** concretas; y se guía por la **plausibilidad** más que por la exactitud. Lo práctico: reúne a personas con perspectivas distintas, mira señales concretas y acepta un relato suficiente.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **incertidumbre** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decisiones reversibles** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Acción acotada y reversible
 
-Antes de definir norte y no microplan falso, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En incertidumbre, la regla es preferir acciones que **produzcan información, sean reversibles y de costo limitado**: un piloto, una prueba con un cliente, una decisión por etapas. Para decisiones irreversibles se necesita más evidencia antes de actuar, y la clase 021 trabaja ese criterio. La acción acotada protege de dos errores: la parálisis y el compromiso total con una hipótesis que puede estar equivocada.
 
-### 3. orientación: operacionalización y medición
+### 5. Decidir cuando hay presión de tiempo
 
-**orientación** significa **marco temporal y prioridades que permiten actuar**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Klein estudió cómo deciden bomberos, enfermeras y militares bajo presión y halló que no suelen comparar alternativas: **reconocen** la situación como típica, evocan una acción y la simulan mentalmente; si no convence, ajustan. Este modo funciona cuando hay **experiencia** relevante y retroalimentación. Si la situación es nueva o la experiencia previa es de otro tipo, la intuición puede inducir a error y conviene reducir la velocidad y consultar.
 
-Angela Duckworth — *Grit* orienta este bloque mediante **perspectiva de Resiliencia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **frecuencia de actualización**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Comunicar lo que no se sabe
 
-Al llegar a establecer decisiones reversibles, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El líder debe dar un marco sin fingir certeza. Una estructura útil, de la clase 025: **qué sabemos, qué no sabemos, qué hacemos mientras tanto, cuándo volveremos a informar**. Añade el relato plausible como hipótesis: «nuestra lectura actual es X; si aparece Y, la cambiamos». Así las personas pueden actuar con coherencia y la organización puede corregirse sin pérdida de credibilidad.
 
-### 4. trigger: trade-offs y efectos de segundo orden
+### 7. Revisar el relato
 
-**Definición:** señal que modifica el plan. Este concepto obliga a abandonar la idea de que **liderar en incertidumbre** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear triggers y cadencia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Adam Grant — *Think Again* aporta una lente sobre **perspectiva de Aprendizaje aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **rumores** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **liderar en incertidumbre**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **trigger** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. cadencia de actualización: gobernanza, límites e integración
-
-**cadencia de actualización** se define como **frecuencia acordada para revisar supuestos y comunicar cambios** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ronald Heifetz & Marty Linsky — *Leadership on the Line* se utiliza para estudiar **distinción entre problemas técnicos y desafíos adaptativos** y contrastar la recomendación final. Al ejecutar actualizar narrativa cuando cambia evidencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **ambigüedad**, **incertidumbre**, **orientación**, **trigger** y **cadencia de actualización** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **liderar en incertidumbre** no consiste en sumar cinco definiciones. Empieza por **ambigüedad**, contrasta **incertidumbre** con **orientación**, incorpora **trigger** como restricción o mecanismo y usa **cadencia de actualización** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un relato plausible se convierte en peligro cuando se vuelve rígido. Define **señales que lo refutarían** y fecha de revisión. Busca activamente a quien discrepa: según Weick y Sutcliffe, las organizaciones de alta confiabilidad se resisten a simplificar y prestan atención a las señales débiles. Corregir el relato no es una derrota; es el mecanismo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **liderar en incertidumbre** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **liderar en incertidumbre** ayuda a desafiar? |
-| Angela Duckworth — *Grit* | perspectiva de Resiliencia aplicada al problema de la clase | ¿Qué supuesto de **liderar en incertidumbre** ayuda a desafiar? |
-| Adam Grant — *Think Again* | perspectiva de Aprendizaje aplicada al problema de la clase | ¿Qué supuesto de **liderar en incertidumbre** ayuda a desafiar? |
-| Ronald Heifetz & Marty Linsky — *Leadership on the Line* | distinción entre problemas técnicos y desafíos adaptativos | ¿Qué supuesto de **liderar en incertidumbre** ayuda a desafiar? |
-
-En **liderar en incertidumbre**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **ambigüedad**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Weick (1995) | Construcción de sentido y sus siete propiedades. | Es un texto teórico denso. | ¿Qué relato plausible sostienes hoy? |
+| Weick y Sutcliffe (2015) | Atención a señales débiles y resistencia a simplificar. | Se centra en organizaciones de alta confiabilidad. | ¿Qué señal débil ignoras? |
+| Klein (1999) | Decisión experta bajo presión. | Depende de la experiencia previa. | ¿Cuándo tu intuición es experta? |
+| Kahneman (2011) | Cuándo la intuición falla. | No da pasos de acción. | ¿Qué condiciones hacen confiable tu juicio? |
+| Duke (2019) | Decidir por procesos y no por resultados. | Se centra en apuestas. | ¿Qué parte de tu decisión es azar? |
+| Grant (2021) | Revisar las propias convicciones con humildad intelectual. | Es divulgación de la investigación sobre juicio. | ¿Qué convicción tuya revisarías si apareciera una señal contraria? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Tras un cambio regulatorio, una startup no sabe si su mercado estará abierto en seis meses. El CEO debe conservar caja y foco sin prometer una fecha que nadie puede conocer.
+**Situación (hipotética).** Una empresa de software de contabilidad se entera de que un competidor global anunció una funcionalidad de inteligencia artificial para sus clientes. No se sabe cuándo llegará al mercado local, ni a qué precio, ni cuánto la usarán.
 
-**Paso 1 — declarar qué se sabe y no.** La gerencia escribe primero el supuesto asociado a **ambigüedad** y evita convertirlo en hecho. Luego busca **forecast ranges** para contrastarlo en el caso de **liderar en incertidumbre**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Qué hace la gerente general |
+|---|---|
+| **Notar señales** | Pide a ventas, producto y soporte tres señales concretas: preguntas de clientes, comentarios en comunidades y precios del competidor. |
+| **Relato plausible** | «Es probable que dentro de 6 a 12 meses algunos clientes grandes lo pidan; todavía no sabemos si lo valorarán.» |
+| **Acción acotada** | Un piloto de cuatro semanas con cinco clientes y un presupuesto fijo; sin comprometer una hoja de ruta. |
+| **Corregir** | Revisión mensual: si más de tres clientes grandes piden la funcionalidad, se acelera; si ninguno la usa, se retrasa. |
+| **Comunicar** | Mensaje al equipo: qué sabemos, qué no, qué haremos, cuándo informaremos. |
 
-**Paso 2 — definir norte y no microplan falso.** La gerencia escribe primero el supuesto asociado a **incertidumbre** y evita convertirlo en hecho. Luego busca **decisiones reversibles** para contrastarlo en el caso de **liderar en incertidumbre**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Qué señal la haría cambiar de relato.** Que el competidor baje el precio al nivel de su plan básico: pasaría de «oportunidad de diferenciación» a «amenaza de precio».
 
-**Paso 3 — establecer decisiones reversibles.** La gerencia escribe primero el supuesto asociado a **orientación** y evita convertirlo en hecho. Luego busca **frecuencia de actualización** para contrastarlo en el caso de **liderar en incertidumbre**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — crear triggers y cadencia.** La gerencia escribe primero el supuesto asociado a **trigger** y evita convertirlo en hecho. Luego busca **rumores** para contrastarlo en el caso de **liderar en incertidumbre**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — actualizar narrativa cuando cambia evidencia.** La gerencia escribe primero el supuesto asociado a **cadencia de actualización** y evita convertirlo en hecho. Luego busca **acciones detenidas por falta de dirección** para contrastarlo en el caso de **liderar en incertidumbre**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **liderar en incertidumbre**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) No espera certeza ni compromete todo. (2) El relato es una hipótesis con señales de refutación. (3) La acción pequeña revela información.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **ambigüedad** | existencia de múltiples interpretaciones plausibles | Cuando forecast ranges es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **incertidumbre** | falta de certeza sobre estados futuros | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Actuar frente a esperar.** Esperar tiene costo y es una decisión; actuar sin reversibilidad es apostar. La regla es adecuar el compromiso a la reversibilidad.
 
-**Frontera de aplicación:** Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar.
+**Límites.** La construcción de sentido es una teoría interpretativa sin estimaciones cuantitativas, y la decisión por reconocimiento de Klein se basa en entrevistas con expertos en dominios con retroalimentación; en dominios donde la retroalimentación es lenta o engañosa, la intuición es menos confiable, como muestra Kahneman. Además, la acción acotada no es excusa para evitar el análisis cuando hay datos disponibles.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre liderar en incertidumbre |
+| Nivel | Cómo actúa en la incertidumbre |
 |---|---|
-| **Profesional** | usa **liderar en incertidumbre** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **ambigüedad** y **incertidumbre** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta forecast ranges con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si liderar en incertidumbre cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de liderar en incertidumbre reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **liderar en incertidumbre** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Dice qué sabe y qué no, y propone un paso acotado. |
+| **Jefe / Team Lead** | Da un marco al equipo y revisa con él el relato semanalmente. |
+| **Gerente** | Prueba con pilotos y define señales de cambio. |
+| **CEO / Director** | Comunica con honestidad ante todas las audiencias y mantiene opciones abiertas. |
+| **Founder / Owner** | Decide con su patrimonio en juego y limita el costo del error antes de comprometer más. |
 
 ## 🏢 Caso ejecutivo
 
-Tras un cambio regulatorio, una startup no sabe si su mercado estará abierto en seis meses. El CEO debe conservar caja y foco sin prometer una fecha que nadie puede conocer.
+Una empresa de transporte espera que la autoridad publique una nueva regulación sobre emisiones de su flota. Se dice que podría llegar en 6 meses, con requisitos aún desconocidos, desde límites moderados hasta la exigencia de renovar el 30 % de la flota. Tiene que decidir hoy si firma un contrato de compra de 40 camiones con un proveedor que ofrece un descuento si se cierra este mes.
 
-Entrega un **decision brief de liderar en incertidumbre** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de decisión en incertidumbre** que contenga: (a) qué es riesgo, incertidumbre y ambigüedad en la situación; (b) el relato plausible y las señales que lo cambiarían; (c) las acciones acotadas y reversibles posibles; (d) el mensaje al equipo con lo que se sabe y lo que no; (e) cuándo la decisión no debe diferirse; (f) la fecha de revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **liderar en incertidumbre** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta forecast ranges, decisiones reversibles; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica una decisión actual como riesgo, incertidumbre o ambigüedad.
+2. Escribe tu relato plausible y tres señales que lo refutarían.
+3. Diseña una acción pequeña y reversible que revele información.
+4. Redacta el mensaje de cuatro partes para tu equipo.
+5. Identifica una decisión donde tu intuición sea confiable y otra donde no, y por qué.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar ambigüedad y incertidumbre como sinónimos | Se pierde la distinción entre “existencia de múltiples interpretaciones plausibles” y “falta de certeza sobre estados futuros” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “actualizar narrativa cuando cambia evidencia” | Se saltó “declarar qué se sabe y no” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia y marca el primer supuesto no demostrado. |
-| Optimizar solo forecast ranges | La métrica local sustituyó al resultado del sistema | Contrástala con decisiones reversibles y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre liderar en incertidumbre | Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar. |
-| No fijar revisión | Una decisión sobre liderar en incertidumbre se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Esperar certeza | Se teme equivocarse | Actuar de forma acotada y reversible. |
+| Fingir certeza | Se cree que da liderazgo | Decir qué se sabe y qué no. |
+| Pedir más datos ante la ambigüedad | Se confunde con riesgo | Construir sentido con otros. |
+| Rigidizar el relato | Se defiende la hipótesis | Definir señales de refutación y fecha de revisión. |
+| Confiar en la intuición sin experiencia | Se confunde fluidez con acierto | Reducir velocidad y consultar. |
+| Comprometerse del todo | Se busca ventaja | Escalar por etapas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **ambigüedad** y **incertidumbre** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **orientación** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **declarar qué se sabe y no → definir norte y no microplan falso** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **forecast ranges** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **liderar en incertidumbre**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar.**?
+1. ¿Qué diferencia hay entre riesgo, incertidumbre y ambigüedad?
+2. ¿Por qué Weick dice que el sentido se construye actuando?
+3. Nombra tres de las siete propiedades del sentido.
+4. ¿Qué características debe tener una acción en incertidumbre?
+5. ¿Cuándo es confiable la decisión por reconocimiento de Klein?
+6. ¿Qué estructura usas para comunicar lo que no se sabe?
+7. ¿Qué es una señal de refutación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Riesgo: se conocen resultados y probabilidades; incertidumbre: no se conocen bien; ambigüedad: hay varias interpretaciones.
+2. Porque la acción crea información y entorno que se interpretan después.
+3. Por ejemplo: identidad, retrospectivo, activo, social, continuo, señales y plausibilidad.
+4. Acotada en costo, reversible y que revele información.
+5. Cuando hay experiencia relevante y retroalimentación; si la situación es nueva, conviene reducir la velocidad.
+6. Qué sabemos, qué no, qué hacemos mientras tanto y cuándo informaremos.
+7. Un dato que, si aparece, obliga a cambiar el relato.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/044-liderar-en-incertidumbre/`:
 
-- `leadership-decision-brief.md` con el problema específico de **liderar en incertidumbre**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **liderar en incertidumbre** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **ambigüedad**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Tras un cambio regulatorio, una startup no sabe si su mercado estará abierto en seis meses. El CEO debe conservar caja y foco sin prometer una fecha que nadie puede conocer.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Weick y Klein;
+- `decision-journal.md` con el relato, las señales y la revisión.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Angela Duckworth — *Grit* (Collins, 2018). **Uso en esta clase:** perspectiva de Resiliencia aplicada al problema de la clase. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9781443442329](https://openlibrary.org/isbn/9781443442329).
-- Adam Grant — *Think Again* (PENGUIN US, 2021). **Uso en esta clase:** perspectiva de Aprendizaje aplicada al problema de la clase. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Ronald A. Heifetz — *Leadership Without Easy Answers* (Belknap Press of Harvard University Press, 1994). **Uso en esta clase:** perspectiva de Liderazgo adaptativo aplicada al problema de la clase. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780674518582](https://openlibrary.org/isbn/9780674518582).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **liderar en incertidumbre** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **liderar en incertidumbre** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **liderar en incertidumbre** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **liderar en incertidumbre** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Karl E. Weick — *Sensemaking in Organizations* (Sage Publications, 1995). **Uso en esta clase:** construcción de sentido y sus siete propiedades. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780803971776](https://openlibrary.org/isbn/9780803971776).
+- Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected* (Jossey-Bass, 2015). **Uso en esta clase:** atención a señales débiles y resistencia a simplificar. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9781118862414](https://openlibrary.org/isbn/9781118862414).
+- Gary Klein — *Sources of Power* (The MIT Press, 1999). **Uso en esta clase:** cómo deciden los expertos bajo presión de tiempo. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780262611466](https://openlibrary.org/isbn/9780262611466).
+- Daniel Kahneman — *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011). **Uso en esta clase:** cuándo la intuición es confiable y cuándo falla. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780374275631](https://openlibrary.org/isbn/9780374275631).
+- Annie Duke — *Thinking in Bets* (Portfolio/Penguin, 2019). **Uso en esta clase:** decidir por procesos y no por resultados. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780735216358](https://openlibrary.org/isbn/9780735216358).
+- Adam Grant — *Think Again* (PENGUIN US, 2021). **Uso en esta clase:** revisar las propias convicciones con humildad intelectual. Lectura selectiva sobre **liderar en incertidumbre**. **Localizador:** [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749).
 
-> **Regla de fuentes para Liderar en incertidumbre:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **liderar en incertidumbre** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Liderar en incertidumbre:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

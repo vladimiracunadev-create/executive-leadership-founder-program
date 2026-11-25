@@ -10,229 +10,185 @@
 
 ## 🎯 Propósito
 
-Los dilemas de valores aparecen cuando principios legítimos compiten: transparencia versus confidencialidad, velocidad versus seguridad, lealtad versus deber de denunciar. Resolverlos exige explicitar valores, afectados, deberes y precedentes, no buscar una fórmula que elimine la tensión.
+Los dilemas más difíciles de un directivo rara vez son entre el bien y el mal: son entre dos cosas que valora. Ser leal a un colega y decir la verdad a la empresa; proteger a una persona y proteger al equipo; cumplir el plazo y la calidad; ser justo y ser compasivo. Ante ellos, la intuición se divide y, sin método, se decide por el más cómodo o por quien presiona más, y después se racionaliza.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **valores y dilemas éticos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa el análisis de Rushworth Kidder sobre los dilemas de «bien contra bien» y sus tres criterios de resolución, y las advertencias de Bazerman y Moore sobre cómo se distorsiona nuestro propio juicio ético. Al terminar sabrás clasificar un dilema, evaluarlo con tres lentes, detectar las señales de que tu juicio puede estar sesgado y dejar un registro de la decisión y de lo que cediste.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `valor`, `deber`, `dilema`, `precedente`, `proporcionalidad` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** conflictos de interés, excepciones, precedentes citados sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Resolver** un dilema entre una relación personal y una obligación del cargo con la prueba de tres preguntas.
+1. **Distinguir** un dilema de «bien contra bien» de una tentación de «bien contra mal».
+2. **Clasificar** un dilema entre las cuatro tensiones típicas.
+3. **Aplicar** los tres criterios de resolución y comparar sus conclusiones.
+4. **Reconocer** cómo la presión, el interés propio y la rutina deforman el juicio ético.
+5. **Registrar** la decisión, el valor que se cedió y las salvaguardas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define valor y deber sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con conflictos de interés y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un dilema en que ambas opciones tenían parte de razón; ¿cómo lo resolviste? |
+| 20–60 min | Tensiones, criterios y sesgos del juicio ético. |
+| 60–105 min | Ejemplo trabajado: un directivo que debe decidir entre lealtad y verdad. |
+| 105–140 min | Caso ejecutivo: una relación personal con un proveedor. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **valor** | principio considerado deseable al elegir conductas | Distingue un hecho compatible y otro que lo refute. |
-| **deber** | obligación vinculante por rol, ley o compromiso | Distingue un hecho compatible y otro que lo refute. |
-| **dilema** | conflicto entre obligaciones o valores que no pueden maximizarse simultáneamente | Distingue un hecho compatible y otro que lo refute. |
-| **precedente** | señal que una decisión crea para casos futuros | Distingue un hecho compatible y otro que lo refute. |
-| **proporcionalidad** | grado en que una intervención es adecuada al riesgo y al objetivo | Distingue un hecho compatible y otro que lo refute. |
+| **Dilema de bien contra bien** | Situación en que dos valores legítimos entran en conflicto y no se pueden satisfacer ambos (Kidder, 2009). | Ambas opciones tienen razones respetables. |
+| **Tentación** | Situación en que se sabe qué es correcto y lo difícil es hacerlo. | No hay un conflicto de valores, sino de voluntad o de costo. |
+| **Criterio basado en resultados** | Elegir lo que produce el mayor bien para el mayor número (Kidder, 2009). | Se comparan consecuencias. |
+| **Criterio basado en reglas** | Actuar según un principio que se querría ver como regla para todos (Kidder, 2009). | Se pregunta si sería una buena regla universal. |
+| **Criterio basado en el cuidado** | Actuar como se querría ser tratado en el lugar del otro (Kidder, 2009). | Se ocupa de la perspectiva del afectado. |
+| **Ética limitada** | Tendencia de las personas a actuar contra sus propios valores sin advertirlo, por presión, sesgo e interés propio (Bazerman y Moore, 2013). | Se racionaliza una conducta que no se aprobaría en otra persona. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 045: 1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda](modelo-mental.svg)
+![Dilemas de bien contra bien y tres lentes para decidir: cuatro tensiones típicas, tres criterios —consecuencias, reglas y cuidado— y una decisión con registro.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los dilemas de valores aparecen cuando principios legítimos compiten: transparencia versus confidencialidad, velocidad versus seguridad, lealtad versus deber de denunciar. Resolverlos exige explicitar valores, afectados, deberes y precedentes, no buscar una fórmula que elimine la tensión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras.**
+**Cómo leer el diagrama.** Arriba, las cuatro tensiones más frecuentes entre valores legítimos. En el medio, tres lentes con las que se mira el mismo dilema; si coinciden, la decisión es más clara; si no, hay que justificar cuál pesa más. Abajo, la decisión queda por escrito, con el valor que se cedió.
 
 ## 📖 Desarrollo
 
-### 1. valor: mecanismo central
+### 1. Dilema o tentación
 
-**valor** se entiende aquí como **principio considerado deseable al elegir conductas**. Esta es la pieza causal o estructural desde la que se inicia **valores y dilemas éticos**: antes de nombrar valores y deberes en conflicto, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kidder propone una pregunta previa: ¿se trata de un dilema de **bien contra bien** o de **bien contra mal**? Si se sabe qué es lo correcto y el problema es el costo de hacerlo, no hay dilema sino tentación, y lo que se necesita es valentía y apoyo. El dilema auténtico existe cuando dos personas razonables, con buenos valores, podrían llegar a conclusiones distintas.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **conflictos de interés**; regístrala con periodo, unidad, población y baseline.
+### 2. Cuatro tensiones típicas
 
-Relaciona el mecanismo con **deber**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Kidder identifica cuatro patrones: **verdad contra lealtad** (decir lo que ocurre o proteger a quien se debe lealtad), **individuo contra comunidad** (una persona frente a un grupo), **corto contra largo plazo** (el beneficio inmediato frente al futuro) y **justicia contra misericordia** (aplicar la regla o atender las circunstancias). Nombrar la tensión ayuda a ver que el conflicto no es de mala fe: es entre dos cosas buenas.
 
-### 2. deber: frontera conceptual y error de clasificación
+### 3. Tres criterios para resolver
 
-**Definición operacional:** obligación vinculante por rol, ley o compromiso. Su valor está en distinguirlo de **valor** y **dilema**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El mismo autor propone tres formas de mirar el dilema: **resultados** (¿qué produce el mayor bien?), **reglas** (¿qué regla querría ver que todos siguieran?) y **cuidado** (¿cómo querría que me trataran en el lugar del otro?). Cada una privilegia un aspecto. Si las tres conducen a la misma decisión, se puede avanzar con confianza; si divergen, la divergencia es información: indica qué valor se está cediendo y obliga a justificar.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **deber** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **excepciones** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Lealtad, relaciones y obligaciones del cargo
 
-Antes de identificar stakeholders y daños, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El dilema más frecuente en cargos con acceso a información no es robar sino **sostener dos lealtades**: una relación personal y una obligación del cargo. La obligación del cargo no se suspende por afecto, y una relación personal no se vuelve ilegítima por existir. Una prueba de tres preguntas, propuesta como método de trabajo en esta clase: ¿la relación puede afectar o parecer que afecta mi juicio en el cargo?, ¿alguien con intereses propios se beneficia de mi acceso?, ¿lo declararía en voz alta ante quien me supervisa? Si la respuesta a la tercera es no, la conducta ya señala el problema.
 
-### 3. dilema: operacionalización y medición
+### 5. Cómo se distorsiona el juicio
 
-**dilema** significa **conflicto entre obligaciones o valores que no pueden maximizarse simultáneamente**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Bazerman y Moore describen una **ética limitada**: las personas toman decisiones que contradicen sus propios valores sin advertirlo, por factores como la presión de la situación, el interés propio, la rutina y la tendencia a ver lo que conviene. Rasgos: se subestiman los propios sesgos, se evalúa a otros con severidad y a uno mismo con indulgencia, y se «desvanece» la dimensión ética cuando el problema se encuadra solo como decisión de negocio. De ahí la utilidad de preguntas que fuerzan la perspectiva: ¿qué diría quien no tiene mi interés?
 
-Daniel H. Pink — *Drive* orienta este bloque mediante **perspectiva de Motivación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **precedentes citados**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Declarar y abstenerse
 
-Al llegar a separar obligación legal de preferencia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una salvaguarda eficaz en conflictos entre obligación e interés es **declarar**: informar a quien corresponde de la relación o el interés. Una segunda es **abstenerse**: no participar en la decisión. Una tercera es la **revisión por un tercero independiente**. Declarar no es confesar una falta: es proteger la decisión y a la persona. Separa siempre la **conducta privada**, que no es materia de juicio moral aquí, de **su efecto sobre el cargo**, que sí lo es.
 
-### 4. precedente: trade-offs y efectos de segundo orden
+### 7. El registro
 
-**Definición:** señal que una decisión crea para casos futuros. Este concepto obliga a abandonar la idea de que **valores y dilemas éticos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar opciones y precedentes, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Clayton Christensen et al. — *How Will You Measure Your Life?* aporta una lente sobre **perspectiva de Autoliderazgo aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **daños evitados** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **valores y dilemas éticos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **precedente** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. proporcionalidad: gobernanza, límites e integración
-
-**proporcionalidad** se define como **grado en que una intervención es adecuada al riesgo y al objetivo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ronald A. Heifetz — *Leadership Without Easy Answers* se utiliza para estudiar **perspectiva de Liderazgo adaptativo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar consultar instancia independiente cuando corresponda, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **valor**, **deber**, **dilema**, **precedente** y **proporcionalidad** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **valores y dilemas éticos** no consiste en sumar cinco definiciones. Empieza por **valor**, contrasta **deber** con **dilema**, incorpora **precedente** como restricción o mecanismo y usa **proporcionalidad** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Lealtad, relaciones personales y obligaciones del cargo
-
-El dilema ético más frecuente en cargos con acceso a información no es robar, sino **sostener a la vez dos lealtades**: una relación personal y una obligación del cargo. Un deber fiduciario o contractual no se suspende por afecto, y una relación personal no se vuelve ilegítima por existir.
-
-Usa una prueba de tres preguntas antes de actuar: `1) ¿la relación puede afectar o parecer que afecta mi juicio en el cargo? 2) ¿alguien con intereses propios se beneficia de mi acceso? 3) ¿lo declararía en voz alta ante quien me supervisa?` Si la respuesta a la tercera es no, la conducta ya señala el problema aunque ninguna norma esté escrita.
-
-Dilema de práctica: un directivo mantiene una relación cercana con un proveedor cuya oferta evalúa. Compara cuatro cursos: no declarar y decidir; declarar y decidir igual; declarar y abstenerse; declarar y pedir revisión independiente. Los dos últimos protegen la decisión y a la persona. Separa siempre **la conducta privada** —que no es objeto de juicio moral en esta clase— de **su efecto sobre el cargo**, que sí lo es.
+Escribir la decisión mejora su calidad y permite explicarla después. El registro incluye: el dilema y la tensión, los hechos, las opciones, el análisis con los tres criterios, la decisión, **el valor que se cedió y por qué**, y las medidas para reducir el daño. Un registro honesto reconoce lo que costó. Si la decisión resultó equivocada, el registro permite distinguir una mala decisión de un mal resultado.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **valores y dilemas éticos** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **valores y dilemas éticos** ayuda a desafiar? |
-| Daniel H. Pink — *Drive* | perspectiva de Motivación aplicada al problema de la clase | ¿Qué supuesto de **valores y dilemas éticos** ayuda a desafiar? |
-| Clayton Christensen et al. — *How Will You Measure Your Life?* | perspectiva de Autoliderazgo aplicada al problema de la clase | ¿Qué supuesto de **valores y dilemas éticos** ayuda a desafiar? |
-| Ronald A. Heifetz — *Leadership Without Easy Answers* | perspectiva de Liderazgo adaptativo aplicada al problema de la clase | ¿Qué supuesto de **valores y dilemas éticos** ayuda a desafiar? |
-
-En **valores y dilemas éticos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **valor**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kidder (2009) | Dilemas de bien contra bien y tres criterios de resolución. | Simplifica tradiciones filosóficas amplias. | ¿Qué valores chocan en tu dilema? |
+| Bazerman y Moore (2013) | Cómo se distorsiona el juicio ético. | No da un procedimiento de decisión. | ¿Qué interés propio podría estar sesgándote? |
+| Kahneman (2011) | Sesgos de juicio y pensamiento rápido. | No es un texto de ética. | ¿Qué atajo mental usas en este caso? |
+| Klein (1999) | Decisión experta bajo presión. | No trata de ética. | ¿Cuándo tu reacción inmediata es confiable? |
+| Edmondson (2018) | Seguridad para plantear dilemas. | No es un método de decisión. | ¿Puede alguien decirte que te equivocas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un ejecutivo descubre un error material antes de una presentación a inversionistas. Corregirlo retrasará la reunión y avergonzará al equipo; ocultarlo preservaría apariencia pero distorsiona información.
+**Situación (hipotética).** Marcos, gerente de operaciones, descubre que su colega y amigo Esteban, jefe de compras, aprobó durante dos años pedidos a un proveedor con precios algo superiores al mercado. No hay evidencia de beneficio personal, pero el proveedor es un conocido de Esteban. Si informa, Esteban podría ser sancionado; si calla, la empresa seguirá pagando de más.
 
-**Paso 1 — nombrar valores y deberes en conflicto.** La gerencia escribe primero el supuesto asociado a **valor** y evita convertirlo en hecho. Luego busca **conflictos de interés** para contrastarlo en el caso de **valores y dilemas éticos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tensión.** Verdad contra lealtad.
 
-**Paso 2 — identificar stakeholders y daños.** La gerencia escribe primero el supuesto asociado a **deber** y evita convertirlo en hecho. Luego busca **excepciones** para contrastarlo en el caso de **valores y dilemas éticos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Opción | Resultados | Reglas | Cuidado |
+|---|---|---|---|
+| **Callar** | Mantiene la relación; perjudica a la empresa. | No querría que todos callaran ante un posible sobreprecio. | No cuida a la empresa ni a Esteban a largo plazo. |
+| **Conversar primero con Esteban y pedirle que declare** | Permite corregir con menor daño; si no declara, informa. | Una regla razonable: dar oportunidad de declarar antes de informar. | Trata a Esteban con respeto sin ocultar el hecho. |
+| **Informar directamente al comité de ética** | Protege a la empresa; puede dañar a Esteban si es inocente. | Reglas claras; pero no distingue casos. | Menos atento a la persona. |
 
-**Paso 3 — separar obligación legal de preferencia.** La gerencia escribe primero el supuesto asociado a **dilema** y evita convertirlo en hecho. Luego busca **precedentes citados** para contrastarlo en el caso de **valores y dilemas éticos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** Marcos habla con Esteban: le cuenta lo que vio, le pide que lo declare ante el comité en cinco días y que se abstenga de decidir sobre ese proveedor; si no lo hace, Marcos informará. Registra: valor cedido, la inmediatez de informar; lo que no sabe, si hubo beneficio personal; fecha de revisión.
 
-**Paso 4 — comparar opciones y precedentes.** La gerencia escribe primero el supuesto asociado a **precedente** y evita convertirlo en hecho. Luego busca **daños evitados** para contrastarlo en el caso de **valores y dilemas éticos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — consultar instancia independiente cuando corresponda.** La gerencia escribe primero el supuesto asociado a **proporcionalidad** y evita convertirlo en hecho. Luego busca **decisiones escaladas** para contrastarlo en el caso de **valores y dilemas éticos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **valores y dilemas éticos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Las tres lentes divergen y la divergencia es información. (2) La opción elegida no oculta el hecho ni condena sin evidencia. (3) El registro deja constancia de lo cedido y de lo desconocido.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **valor** | principio considerado deseable al elegir conductas | Cuando conflictos de interés es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **deber** | obligación vinculante por rol, ley o compromiso | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Dilema frente a cumplimiento.** Cuando una norma obliga a informar, no hay dilema: hay deber. Los dilemas de la clase ocurren donde la norma no alcanza o admite interpretación; la clase no sustituye asesoría legal ni los protocolos institucionales.
 
-**Frontera de aplicación:** No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras.
+**Límites.** Los tres criterios de Kidder resumen tradiciones filosóficas amplias y pueden usarse de forma simplista. La investigación sobre ética limitada muestra que estos métodos no eliminan el sesgo, solo lo hacen más visible. Y no todo conflicto es un dilema: a veces la dificultad es el miedo a las consecuencias, que exige apoyo y no un análisis.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre valores y dilemas éticos |
+| Nivel | Cómo enfrenta los dilemas |
 |---|---|
-| **Profesional** | usa **valores y dilemas éticos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **valor** y **deber** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta conflictos de interés con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si valores y dilemas éticos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de valores y dilemas éticos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **valores y dilemas éticos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Plantea un dilema a su jefe en lugar de resolverlo solo y declara conflictos. |
+| **Jefe / Team Lead** | Hace visibles las tensiones de valores del equipo y decide con criterio. |
+| **Gerente** | Diseña canales para declarar conflictos y protege a quien los plantea. |
+| **CEO / Director** | Dilucida dilemas de alto impacto con tercero independiente y registro. |
+| **Founder / Owner** | Decide con su patrimonio en juego, donde el interés propio sesga más. |
 
 ## 🏢 Caso ejecutivo
 
-Un ejecutivo descubre un error material antes de una presentación a inversionistas. Corregirlo retrasará la reunión y avergonzará al equipo; ocultarlo preservaría apariencia pero distorsiona información.
+Una directora de compras evalúa tres ofertas para un contrato de tres años por USD 2 millones. La mejor propuesta técnica y de precio es de una empresa cuyo dueño es el cónyuge de una amiga cercana y antigua colega de la directora. No hay relación comercial ni beneficio para ella. La política de la empresa exige declarar «vínculos significativos», sin definirlos. El plazo para decidir es de una semana.
 
-Entrega un **decision brief de valores y dilemas éticos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **registro de decisión ética** que contenga: (a) la tensión de valores y por qué es un dilema y no una tentación; (b) los hechos y lo que no se sabe; (c) las opciones —no declarar y decidir; declarar y decidir; declarar y abstenerse; declarar y pedir revisión independiente— analizadas con los tres criterios; (d) la prueba de tres preguntas; (e) la decisión y el valor que se cede; (f) las salvaguardas y la fecha de revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **valores y dilemas éticos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta conflictos de interés, excepciones; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Compara las cuatro conductas del dilema del proveedor y justifica cuál protege la decisión y a la persona.
+1. Clasifica un dilema reciente: ¿bien contra bien o tentación? ¿Cuál de las cuatro tensiones?
+2. Analízalo con los tres criterios y anota dónde divergen.
+3. Aplica la prueba de tres preguntas a una relación que pudiera afectar tu juicio.
+4. Escribe qué interés propio podría estar sesgándote y a quién consultarías.
+5. Redacta el registro de una decisión: qué valor cediste y qué harías con otra información.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar valor y deber como sinónimos | Se pierde la distinción entre “principio considerado deseable al elegir conductas” y “obligación vinculante por rol, ley o compromiso” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “consultar instancia independiente cuando corresponda” | Se saltó “nombrar valores y deberes en conflicto” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda y marca el primer supuesto no demostrado. |
-| Optimizar solo conflictos de interés | La métrica local sustituyó al resultado del sistema | Contrástala con excepciones y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre valores y dilemas éticos | No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras. |
-| No fijar revisión | Una decisión sobre valores y dilemas éticos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Tratar una tentación como dilema | Se busca justificar | Reconocer que se sabe qué es correcto. |
+| Decidir solo | Se cree que es un asunto privado | Consultar a un tercero independiente. |
+| Resolver por comodidad | Se evita el conflicto | Aplicar los tres criterios y escribir la decisión. |
+| Ocultar un vínculo | Se teme que parezca mal | Declarar: es protección, no confesión. |
+| Juzgar por la vida privada | Se mezcla moral con riesgo | Evaluar el efecto concreto sobre el cargo. |
+| No registrar | Se confía en la memoria | Escribir el valor cedido y las medidas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **valor** y **deber** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **dilema** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **nombrar valores y deberes en conflicto → identificar stakeholders y daños** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **conflictos de interés** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **valores y dilemas éticos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras.**?
+1. ¿Qué diferencia hay entre un dilema de bien contra bien y una tentación?
+2. ¿Cuáles son las cuatro tensiones típicas de Kidder?
+3. ¿Cuáles son los tres criterios de resolución?
+4. ¿Qué es la ética limitada según Bazerman y Moore?
+5. ¿Por qué declarar un vínculo no es confesar una falta?
+6. ¿Qué debe incluir el registro de una decisión ética?
+7. ¿Qué límite tienen los tres criterios?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. En el dilema dos valores legítimos chocan; en la tentación se sabe qué es lo correcto y lo difícil es hacerlo.
+2. Verdad contra lealtad, individuo contra comunidad, corto contra largo plazo y justicia contra misericordia.
+3. Resultados, reglas y cuidado.
+4. La tendencia a actuar contra los propios valores sin advertirlo, por presión, sesgo e interés propio.
+5. Porque protege la decisión y a la persona; la falta, si la hay, sería ocultar el vínculo.
+6. El dilema, los hechos, las opciones y su análisis, la decisión, el valor cedido, las medidas y la fecha de revisión.
+7. Resumen tradiciones filosóficas amplias, no eliminan el sesgo y pueden usarse de forma simplista.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/045-valores-y-dilemas-eticos/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **valores y dilemas éticos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **valores y dilemas éticos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **valor**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un ejecutivo descubre un error material antes de una presentación a inversionistas. Corregirlo retrasará la reunión y avergonzará al equipo; ocultarlo preservaría apariencia pero distorsiona información.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el registro de decisión del caso ejecutivo;
+- `influence-and-conflict-disclosure-brief.md` (plantilla [ficha de influencia y conflictos](../../../../templates/influence-and-conflict-disclosure-brief.md)) con la declaración del vínculo;
+- `reading-note.md` con una tensión entre Kidder y Bazerman y Moore;
+- `decision-journal.md` con la decisión y el valor cedido.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** perspectiva de Motivación aplicada al problema de la clase. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
-- Clayton Christensen et al. — *How Will You Measure Your Life?* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Autoliderazgo aplicada al problema de la clase. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565).
-- Ronald A. Heifetz — *Leadership Without Easy Answers* (Belknap Press of Harvard University Press, 1994). **Uso en esta clase:** perspectiva de Liderazgo adaptativo aplicada al problema de la clase. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9780674518582](https://openlibrary.org/isbn/9780674518582).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **valores y dilemas éticos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **valores y dilemas éticos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **valores y dilemas éticos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **valores y dilemas éticos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **valores y dilemas éticos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Rushworth M. Kidder — *How Good People Make Tough Choices* (William Morrow, 2009). **Uso en esta clase:** dilemas de bien contra bien y los tres criterios de resolución. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9780061968723](https://openlibrary.org/isbn/9780061968723).
+- Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making* (John Wiley & Sons Inc). **Uso en esta clase:** cómo se distorsiona el juicio ético. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9781119427384](https://openlibrary.org/isbn/9781119427384).
+- Daniel Kahneman — *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011). **Uso en esta clase:** sesgos de juicio y pensamiento rápido. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9780374275631](https://openlibrary.org/isbn/9780374275631).
+- Gary Klein — *Sources of Power* (The MIT Press, 1999). **Uso en esta clase:** cuándo la reacción inmediata es confiable. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9780262611466](https://openlibrary.org/isbn/9780262611466).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad para plantear dilemas. Lectura selectiva sobre **valores y dilemas éticos**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Valores y dilemas éticos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **valores y dilemas éticos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Valores y dilemas éticos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. Esta clase no sustituye asesoría legal ni los protocolos institucionales. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

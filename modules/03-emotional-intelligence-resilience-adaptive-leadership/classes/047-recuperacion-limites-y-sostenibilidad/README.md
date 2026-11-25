@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Recuperación, límites y sostenibilidad son parte del diseño del rol de liderazgo. La exposición crónica a urgencia, conflicto y disponibilidad permanente reduce juicio y aumenta dependencia del líder. Los límites claros protegen tanto a la persona como a la organización al forzar prioridades y crear segundos responsables.
+Se suele celebrar al directivo que trabaja de más y se lo trata como ejemplo. A mediano plazo es una mala inversión: la fatiga deteriora el juicio, la paciencia y la capacidad de escuchar, justo lo que el cargo más necesita. Cuidar la energía no es un lujo ni una cuestión de «bienestar»; es una **condición de desempeño sostenido**, y para quien dirige también es una responsabilidad hacia el equipo, que copia lo que ve.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **recuperación, límites y sostenibilidad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa la investigación sobre agotamiento laboral de Maslach, Schaufeli y Leiter —qué es el *burnout* y en qué áreas del trabajo se origina— y la de Sonnentag y Fritz sobre las **experiencias de recuperación** fuera del trabajo. Al terminar sabrás reconocer las señales de agotamiento, distinguir lo que se resuelve con hábitos de lo que exige cambiar condiciones de trabajo y diseñar un sistema de recuperación y de límites realista.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `boundary`, `recovery debt`, `on-call`, `delegación`, `bus factor` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** contactos fuera de horario, incidentes por fatiga, bus factor sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** las tres dimensiones del *burnout* y distinguirlo del cansancio normal.
+2. **Identificar** las seis áreas donde el trabajo se desajusta con la persona.
+3. **Explicar** las cuatro experiencias de recuperación y cómo se favorecen.
+4. **Establecer** límites concretos de disponibilidad, carga y descanso.
+5. **Distinguir** qué es responsabilidad individual y qué es del sistema de trabajo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define boundary y recovery debt sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con contactos fuera de horario y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe cómo estaba tu energía las últimas cuatro semanas y qué la afectó. |
+| 20–60 min | *Burnout*, áreas de desajuste y experiencias de recuperación. |
+| 60–105 min | Ejemplo trabajado: un gerente con señales de agotamiento. |
+| 105–140 min | Caso ejecutivo: un equipo con sobrecarga crónica. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **boundary** | límite explícito sobre disponibilidad, rol o responsabilidad | Distingue un hecho compatible y otro que lo refute. |
-| **recovery debt** | acumulación de falta de recuperación que degrada capacidad | Distingue un hecho compatible y otro que lo refute. |
-| **on-call** | disponibilidad excepcional regulada por turnos y escalamiento | Distingue un hecho compatible y otro que lo refute. |
-| **delegación** | transferencia de decisión o trabajo con contexto y criterio | Distingue un hecho compatible y otro que lo refute. |
-| **bus factor** | dependencia crítica de una o muy pocas personas | Distingue un hecho compatible y otro que lo refute. |
+| **Burnout** | Síndrome de respuesta prolongada a estresores crónicos del trabajo, con tres dimensiones: agotamiento, cinismo y menor eficacia (Maslach et al., 2001). | Cansancio persistente, distancia del trabajo y sensación de ineficacia. |
+| **Agotamiento** | Dimensión de tensión: sentirse sobrepasado y sin recursos emocionales o físicos (Maslach et al., 2001). | Cansancio que el descanso normal no repara. |
+| **Cinismo** | Actitud distante y negativa hacia el trabajo y las personas (Maslach et al., 2001). | Se dejó de creer que importa. |
+| **Eficacia reducida** | Sensación de logro y competencia disminuida (Maslach et al., 2001). | «Nada de lo que hago sirve.» |
+| **Recuperación** | Procesos por los que se restablecen los recursos tras el esfuerzo laboral (Sonnentag y Fritz, 2007). | Se vuelve al trabajo con energía. |
+| **Desconexión psicológica** | No pensar en el trabajo durante el tiempo libre (Sonnentag y Fritz, 2007). | El tiempo libre se siente libre. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 047: 1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar](modelo-mental.svg)
+![Agotamiento y recuperación: las tres dimensiones del burnout, las seis áreas de desajuste entre trabajo y persona y las cuatro experiencias de recuperación.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Recuperación, límites y sostenibilidad son parte del diseño del rol de liderazgo. La exposición crónica a urgencia, conflicto y disponibilidad permanente reduce juicio y aumenta dependencia del líder. Los límites claros protegen tanto a la persona como a la organización al forzar prioridades y crear segundos responsables.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente.**
+**Cómo leer el diagrama.** A la izquierda, lo que se observa en la persona: tres dimensiones. En el centro, dónde suele originarse: seis áreas del trabajo en que hay un desajuste. A la derecha, lo que repara: cuatro experiencias de recuperación fuera del trabajo. El mensaje: el agotamiento no se resuelve solo con descanso; también se revisan las condiciones que lo producen.
 
 ## 📖 Desarrollo
 
-### 1. boundary: mecanismo central
+### 1. Qué es el *burnout*
 
-**boundary** se entiende aquí como **límite explícito sobre disponibilidad, rol o responsabilidad**. Esta es la pieza causal o estructural desde la que se inicia **recuperación, límites y sostenibilidad**: antes de mapear demandas fuera de horario, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Maslach y sus colegas lo describen como una respuesta prolongada a estresores crónicos del trabajo, con tres dimensiones: **agotamiento** (sentirse sobrepasado y vacío), **cinismo** o despersonalización (distancia y actitud negativa hacia el trabajo) y **eficacia reducida** (sensación de poco logro). No es lo mismo que estar cansado: el cansancio se repara con descanso; el *burnout* persiste, y se acompaña de pérdida de sentido. No siempre es un diagnóstico clínico y esta clase no sustituye atención profesional.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **contactos fuera de horario**; regístrala con periodo, unidad, población y baseline.
+### 2. De dónde viene: el desajuste
 
-Relaciona el mecanismo con **recovery debt**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La investigación desplaza el foco de la persona al **entorno**: el agotamiento surge cuando hay un desajuste sostenido entre la persona y su trabajo en seis áreas: **carga de trabajo** (demasiado, con poco tiempo), **control** (poca autonomía), **reconocimiento** (poca recompensa material o simbólica), **comunidad** (relaciones deterioradas), **justicia** (decisiones percibidas como injustas) y **valores** (conflicto entre lo que se pide y lo que importa). Un diagnóstico útil pregunta en cuáles hay desajuste.
 
-### 2. recovery debt: frontera conceptual y error de clasificación
+### 3. Qué hace el líder
 
-**Definición operacional:** acumulación de falta de recuperación que degrada capacidad. Su valor está en distinguirlo de **boundary** y **on-call**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El líder puede crear o reducir cada desajuste: define la **carga** realista, da **control** sobre cómo trabajar, **reconoce** con regularidad, cuida la **comunidad** del equipo, decide con **justicia** y explica cómo el trabajo se relaciona con los **valores**. Si trata el agotamiento como problema personal («necesita desconectarse»), sin revisar estas condiciones, no resuelve la causa y suma culpa.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **recovery debt** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **incidentes por fatiga** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Las cuatro experiencias de recuperación
 
-Antes de definir qué es realmente emergencia, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Sonnentag y Fritz identificaron cuatro experiencias que, fuera del trabajo, ayudan a restablecer los recursos: **desconexión psicológica** (no pensar en el trabajo), **relajación** (reducir la activación), **dominio** (aprender o lograr algo en otro ámbito) y **control del tiempo libre** (decidir cómo usarlo). La desconexión suele ser la más difícil para quien dirige: la disponibilidad permanente y el correo en el teléfono la impiden. Las cuatro se asocian con mayor bienestar y menor tensión.
 
-### 3. on-call: operacionalización y medición
+### 5. Límites concretos
 
-**on-call** significa **disponibilidad excepcional regulada por turnos y escalamiento**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un límite eficaz es **específico y visible**: «no reviso correo después de las 20:00 salvo emergencias definidas»; «una tarde sin reuniones por semana»; «vacaciones sin disponibilidad». Se comunican al equipo, se acuerda qué es una emergencia y se respetan. El ejemplo del líder importa: si escribe de madrugada, el equipo entiende que se espera lo mismo. Y un límite sin consecuencia no es un límite.
 
-Adam Grant — *Think Again* orienta este bloque mediante **perspectiva de Aprendizaje aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **bus factor**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Energía, no solo tiempo
 
-Al llegar a crear rotación y escalamiento, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Mankins y Garton sostienen que lo escaso en las organizaciones no siempre es el tiempo ni el talento sino la **energía** de las personas, y que se puede medir y gestionar. A nivel individual: ¿en qué actividades gastas energía sin retorno?, ¿cuáles te la devuelven? Diseñar el día para proteger las horas de mayor energía para lo importante rinde más que añadir horas.
 
-### 4. delegación: trade-offs y efectos de segundo orden
+### 7. Cuando la causa es el sistema
 
-**Definición:** transferencia de decisión o trabajo con contexto y criterio. Este concepto obliga a abandonar la idea de que **recuperación, límites y sostenibilidad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de proteger recuperación después de picos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ronald A. Heifetz — *Leadership Without Easy Answers* aporta una lente sobre **perspectiva de Liderazgo adaptativo aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **vacaciones interrumpidas** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **recuperación, límites y sostenibilidad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **delegación** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. bus factor: gobernanza, límites e integración
-
-**bus factor** se define como **dependencia crítica de una o muy pocas personas** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Angela Duckworth — *Grit* se utiliza para estudiar **perspectiva de Resiliencia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir dependencia y rediseñar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **boundary**, **recovery debt**, **on-call**, **delegación** y **bus factor** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **recuperación, límites y sostenibilidad** no consiste en sumar cinco definiciones. Empieza por **boundary**, contrasta **recovery debt** con **on-call**, incorpora **delegación** como restricción o mecanismo y usa **bus factor** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Si todo un equipo presenta señales de agotamiento, el problema no es de hábitos sino de condiciones: carga, urgencias falsas, incentivos contradictorios. La respuesta es cambiar el sistema: priorizar, dejar de hacer cosas, contratar, cambiar plazos. Pedir «resiliencia» o «autocuidado» sin hacerlo traslada la responsabilidad. Heifetz y Linsky agregan que quien lidera un cambio difícil necesita cuidarse a propósito: aliados, una persona de confianza con quien hablar y espacios donde no tiene que ser el líder.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **recuperación, límites y sostenibilidad** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **recuperación, límites y sostenibilidad** ayuda a desafiar? |
-| Adam Grant — *Think Again* | perspectiva de Aprendizaje aplicada al problema de la clase | ¿Qué supuesto de **recuperación, límites y sostenibilidad** ayuda a desafiar? |
-| Ronald A. Heifetz — *Leadership Without Easy Answers* | perspectiva de Liderazgo adaptativo aplicada al problema de la clase | ¿Qué supuesto de **recuperación, límites y sostenibilidad** ayuda a desafiar? |
-| Angela Duckworth — *Grit* | perspectiva de Resiliencia aplicada al problema de la clase | ¿Qué supuesto de **recuperación, límites y sostenibilidad** ayuda a desafiar? |
-
-En **recuperación, límites y sostenibilidad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **boundary**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Maslach, Schaufeli y Leiter (2001) | Definición, dimensiones y áreas de desajuste. | Es una revisión; no da un plan personal. | ¿En cuál de las seis áreas hay desajuste? |
+| Sonnentag y Fritz (2007) | Cuatro experiencias de recuperación. | Se basa en cuestionarios; no mide causalidad. | ¿Cuál de las cuatro te falta? |
+| Mankins y Garton (2017) | Energía organizacional como recurso. | Es un texto de consultoría. | ¿Dónde gasta energía tu equipo sin retorno? |
+| Heifetz y Linsky (2017) | Cuidarse al liderar cambios difíciles. | No trata de recuperación fuera del trabajo. | ¿Quién te cuida mientras lideras? |
+| Goleman, Boyatzis y McKee (2002) | El estado del líder se contagia. | No usa los marcos anteriores. | ¿Qué cultura de disponibilidad transmites? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una directora responde mensajes a toda hora. El equipo aprende a esperar su aprobación incluso para decisiones pequeñas, y ella no logra desconectarse una semana.
+**Situación (hipotética).** Sergio, gerente de ventas, lleva ocho meses trabajando 60 horas semanales. Últimamente está irritable, responde con ironía a su equipo, siente que «da lo mismo» y comete errores simples. Duerme mal y ya no hace deporte.
 
-**Paso 1 — mapear demandas fuera de horario.** La gerencia escribe primero el supuesto asociado a **boundary** y evita convertirlo en hecho. Luego busca **contactos fuera de horario** para contrastarlo en el caso de **recuperación, límites y sostenibilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Observación en Sergio |
+|---|---|
+| **Agotamiento** | Cansancio persistente que no cede con el fin de semana. |
+| **Cinismo** | Ironía y distancia con el equipo y con los clientes. |
+| **Eficacia reducida** | «Nada de lo que hago cambia las ventas.» |
 
-**Paso 2 — definir qué es realmente emergencia.** La gerencia escribe primero el supuesto asociado a **recovery debt** y evita convertirlo en hecho. Luego busca **incidentes por fatiga** para contrastarlo en el caso de **recuperación, límites y sostenibilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Áreas de desajuste.** Carga (60 horas), control (la dirección fija metas cambiantes cada mes), reconocimiento (no recibió feedback en seis meses).
 
-**Paso 3 — crear rotación y escalamiento.** La gerencia escribe primero el supuesto asociado a **on-call** y evita convertirlo en hecho. Luego busca **bus factor** para contrastarlo en el caso de **recuperación, límites y sostenibilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Plan.** (1) Conversación con su jefa: pide priorizar tres metas y quitar una. (2) Límites: sin correo después de las 20:00 y una tarde sin reuniones. (3) Recuperación: retoma el deporte (relajación y dominio), y los domingos no revisa el teléfono (desconexión). (4) Si los síntomas persisten en seis semanas, consulta a un profesional de la salud. (5) Revisa mensualmente carga, control y reconocimiento.
 
-**Paso 4 — proteger recuperación después de picos.** La gerencia escribe primero el supuesto asociado a **delegación** y evita convertirlo en hecho. Luego busca **vacaciones interrumpidas** para contrastarlo en el caso de **recuperación, límites y sostenibilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — medir dependencia y rediseñar.** La gerencia escribe primero el supuesto asociado a **bus factor** y evita convertirlo en hecho. Luego busca **decisiones centralizadas** para contrastarlo en el caso de **recuperación, límites y sostenibilidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **recuperación, límites y sostenibilidad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Las tres dimensiones guían el diagnóstico. (2) Las causas incluyen condiciones del trabajo, no solo hábitos. (3) El plan combina cambios del sistema, límites y recuperación, y prevé ayuda profesional.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **boundary** | límite explícito sobre disponibilidad, rol o responsabilidad | Cuando contactos fuera de horario es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **recovery debt** | acumulación de falta de recuperación que degrada capacidad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Descanso frente a recuperación.** Dormir y no trabajar son descanso; la recuperación incluye experiencias que reponen recursos específicos: desconexión, relajación, dominio y control.
 
-**Frontera de aplicación:** Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente.
+**Límites.** El *burnout* no se reconoce igual en todos los sistemas de salud como diagnóstico y las escalas de medición son instrumentos de investigación, no herramientas de diagnóstico individual. La investigación sobre recuperación es en gran parte correlacional. Los consejos de esta clase no reemplazan atención profesional: ante síntomas persistentes, como alteraciones del sueño, ánimo muy bajo o ideas de hacerse daño, consulta a un profesional de la salud.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre recuperación, límites y sostenibilidad |
+| Nivel | Cómo cuida la sostenibilidad |
 |---|---|
-| **Profesional** | usa **recuperación, límites y sostenibilidad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **boundary** y **recovery debt** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta contactos fuera de horario con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si recuperación, límites y sostenibilidad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de recuperación, límites y sostenibilidad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **recuperación, límites y sostenibilidad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reconoce sus señales, pone límites y pide revisar la carga cuando es excesiva. |
+| **Jefe / Team Lead** | Define cargas realistas y da ejemplo de desconexión. |
+| **Gerente** | Revisa las seis áreas en sus equipos y actúa sobre el sistema. |
+| **CEO / Director** | Evalúa si la cultura premia la sobrecarga y cambia los incentivos. |
+| **Founder / Owner** | Identifica que su energía es un activo del negocio y diseña su sustituibilidad. |
 
 ## 🏢 Caso ejecutivo
 
-Una directora responde mensajes a toda hora. El equipo aprende a esperar su aprobación incluso para decisiones pequeñas, y ella no logra desconectarse una semana.
+Un equipo de 15 personas de atención a clientes lleva un año con picos de trabajo mensuales, metas que suben y dos puestos sin cubrir. En dos meses renunciaron tres personas y otras cuatro están con licencias médicas. La directora propone un taller de manejo del estrés y una «semana del bienestar».
 
-Entrega un **decision brief de recuperación, límites y sostenibilidad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de sostenibilidad** que contenga: (a) la evidencia de agotamiento por dimensión; (b) el diagnóstico por las seis áreas de desajuste; (c) las condiciones que cambiarás y en qué orden; (d) los límites que se fijarán y cómo se respetarán; (e) cómo apoyarás la recuperación sin cargar la responsabilidad en las personas; (f) cómo medirás el resultado y cuándo derivarás a apoyo profesional.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **recuperación, límites y sostenibilidad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta contactos fuera de horario, incidentes por fatiga; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Evalúa tu energía de las últimas cuatro semanas en las tres dimensiones.
+2. Identifica las áreas de desajuste en tu trabajo y una acción para cada una de dos.
+3. Escribe dos límites específicos de disponibilidad y cómo los comunicarás.
+4. Identifica qué experiencia de recuperación te falta y un paso para recuperarla.
+5. Define una señal que te indicaría pedir ayuda profesional.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar boundary y recovery debt como sinónimos | Se pierde la distinción entre “límite explícito sobre disponibilidad, rol o responsabilidad” y “acumulación de falta de recuperación que degrada capacidad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir dependencia y rediseñar” | Se saltó “mapear demandas fuera de horario” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar y marca el primer supuesto no demostrado. |
-| Optimizar solo contactos fuera de horario | La métrica local sustituyó al resultado del sistema | Contrástala con incidentes por fatiga y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre recuperación, límites y sostenibilidad | Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente. |
-| No fijar revisión | Una decisión sobre recuperación, límites y sostenibilidad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Admirar la sobrecarga | Se asocia a compromiso | Valorar el desempeño sostenido. |
+| Tratarlo como problema personal | Es lo más visible | Revisar las seis áreas del trabajo. |
+| Descansar sin desconectar | Se sigue disponible | Establecer límites reales de disponibilidad. |
+| Taller como respuesta | Es barato y visible | Cambiar carga, control y reconocimiento. |
+| Límites sin consecuencias | Se declaran y se rompen | Acordar qué es emergencia y cumplirlo. |
+| Posponer ayuda profesional | Se minimiza | Consultar ante síntomas persistentes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **boundary** y **recovery debt** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **on-call** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear demandas fuera de horario → definir qué es realmente emergencia** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **contactos fuera de horario** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **recuperación, límites y sostenibilidad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente.**?
+1. ¿Cuáles son las tres dimensiones del *burnout*?
+2. ¿En qué se diferencia el *burnout* del cansancio normal?
+3. ¿Cuáles son las seis áreas de desajuste?
+4. ¿Cuáles son las cuatro experiencias de recuperación?
+5. ¿Por qué un taller de manejo del estrés puede no resolver un problema de sobrecarga?
+6. Escribe un límite específico de disponibilidad.
+7. ¿Qué límite tiene la evidencia de recuperación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Agotamiento, cinismo y eficacia reducida.
+2. El cansancio se repara con descanso; el burnout persiste y se acompaña de pérdida de sentido y distancia.
+3. Carga de trabajo, control, reconocimiento, comunidad, justicia y valores.
+4. Desconexión psicológica, relajación, dominio y control del tiempo libre.
+5. Porque no cambia las condiciones que producen el agotamiento y traslada la responsabilidad a las personas.
+6. Por ejemplo: «No reviso correo después de las 20:00 salvo emergencias definidas con el equipo».
+7. Es en gran parte correlacional y se basa en cuestionarios.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/047-recuperacion-limites-y-sostenibilidad/`:
 
-- `leadership-decision-brief.md` con el problema específico de **recuperación, límites y sostenibilidad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **recuperación, límites y sostenibilidad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **boundary**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una directora responde mensajes a toda hora. El equipo aprende a esperar su aprobación incluso para decisiones pequeñas, y ella no logra desconectarse una semana.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Maslach et al. y Sonnentag y Fritz;
+- `decision-journal.md` con tus límites, la recuperación y el seguimiento.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Adam Grant — *Think Again* (PENGUIN US, 2021). **Uso en esta clase:** perspectiva de Aprendizaje aplicada al problema de la clase. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749).
-- Ronald A. Heifetz — *Leadership Without Easy Answers* (Belknap Press of Harvard University Press, 1994). **Uso en esta clase:** perspectiva de Liderazgo adaptativo aplicada al problema de la clase. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9780674518582](https://openlibrary.org/isbn/9780674518582).
-- Angela Duckworth — *Grit* (Collins, 2018). **Uso en esta clase:** perspectiva de Resiliencia aplicada al problema de la clase. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9781443442329](https://openlibrary.org/isbn/9781443442329).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **recuperación, límites y sostenibilidad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **recuperación, límites y sostenibilidad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **recuperación, límites y sostenibilidad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **recuperación, límites y sostenibilidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Christina Maslach, Wilmar B. Schaufeli & Michael P. Leiter — *Job Burnout* (Annual Review of Psychology, 2001). **Uso en esta clase:** definición, dimensiones y áreas de desajuste del agotamiento laboral. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [DOI 10.1146/annurev.psych.52.1.397](https://doi.org/10.1146/annurev.psych.52.1.397).
+- Sabine Sonnentag & Charlotte Fritz — *The Recovery Experience Questionnaire: Development and Validation of a Measure for Assessing Recuperation and Unwinding From Work* (Journal of Occupational Health Psychology, 2007). **Uso en esta clase:** las cuatro experiencias de recuperación. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [DOI 10.1037/1076-8998.12.3.204](https://doi.org/10.1037/1076-8998.12.3.204).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** la energía organizacional como recurso. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** cuidarse al liderar cambios difíciles. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el estado del líder se contagia al equipo. Lectura selectiva sobre **recuperación, límites y sostenibilidad**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
 
-> **Regla de fuentes para Recuperación, límites y sostenibilidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **recuperación, límites y sostenibilidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Recuperación, límites y sostenibilidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. Esta clase no sustituye atención profesional de salud; ante síntomas persistentes, consulta a un profesional. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

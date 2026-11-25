@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **problema técnico** de **desafío adaptativo** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **pérdida** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **holding environment** con **work avoidance**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre un problema técnico y uno adaptativo?
+2. ¿Por qué la autoridad y la experticia no bastan en un problema adaptativo?
+3. ¿Cómo reinterpreta Heifetz la resistencia al cambio?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa instala una plataforma colaborativa esperando mejorar cooperación. La tecnología funciona, pero los directores continúan premiando información retenida y poder por silo.
+**Caso:** Una empresa de distribución quiere pasar de un modelo de ventas basado en la relación de cada vendedor a uno basado en datos y procesos compartidos. Los vendedores más antiguos —con las mejores relaciones— se resisten: dicen que «el sistema no entiende a los clientes». La dirección ya compró una plataforma de CRM y capacitó dos veces. Las ventas no mejoran, y dos vendedores clave amenazan con irse.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **diagnosticar qué parte es técnica y cuál adaptativa → mapear pérdidas y grupos afectados → regular tensión sin eliminarla → devolver trabajo a quienes deben aprender → proteger voces marginales y revisar adaptación**. Debes utilizar o diseñar cómo obtener **adopción real, conductas nuevas, resistencia por grupo**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico y plan de intervención** que contenga: (a) la separación de lo técnico y lo adaptativo; (b) qué pierden los vendedores y qué valoran; (c) el balcón: qué patrón se repite; (d) el trabajo que devolverás a los vendedores y el que asumes tú; (e) el ritmo del cambio y cómo lo regularás; (f) qué voces protegerás y cómo cuidarás tu propio papel. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La distinción es una herramienta de diagnóstico, no una clasificación estricta: casi todo problema contiene ambos componentes, y calificar algo de «adaptativo» puede usarse para justificar no actuar o para culpar a las personas.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

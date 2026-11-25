@@ -1,67 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g47 d-g47" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g47">Ficha visual de la clase 047: Recuperación, límites y sostenibilidad</title>
-<desc id="d-g47">Conceptos: boundary; recovery debt; on-call; delegación; bus factor. Método: mapear demandas fuera de horario → definir qué es realmente emergencia → crear rotación y escalamiento → proteger recuperación después de picos → medir dependencia y rediseñar.</desc>
-<defs><marker id="p-g47" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 047 · Recuperación, límites y sostenibilidad</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 03 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >boundary</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límite explícito sobre disponibilidad, rol o</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad</text>
-<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >recovery debt</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acumulación de falta de recuperación que degrada</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad</text>
-<circle cx="38" cy="256.24" r="5" fill="#1a7f37"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >on-call</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >disponibilidad excepcional regulada por turnos y</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >escalamiento</text>
-<circle cx="38" cy="328.36" r="5" fill="#1a7f37"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >delegación</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >transferencia de decisión o trabajo con contexto y</text>
-<text x="54" y="367.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >criterio</text>
-<circle cx="38" cy="400.48" r="5" fill="#1a7f37"/>
-<text x="54" y="405.48" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >bus factor</text>
-<text x="54" y="423.48" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >dependencia crítica de una o muy pocas personas</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear demandas fuera de horario</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir qué es realmente emergencia</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >crear rotación y escalamiento</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >proteger recuperación después de picos</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >medir dependencia y rediseñar</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contactos fuera de horario</text>
-<rect x="243.4" y="484.48" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="256.4" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="267.4" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >incidentes por fatiga</text>
-<rect x="424.3" y="484.48" width="95" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="437.3" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="448.3" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >bus factor</text>
-<rect x="529.3" y="484.48" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="542.3" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="553.3" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >vacaciones interrumpidas</text>
-<rect x="730.9" y="484.48" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="743.9" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="754.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones centralizadas</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >irresponsable es que la excepción sea invisible y permanente.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-047 d-047" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-047">Agotamiento y recuperación</title>
+<desc id="d-047">Las tres dimensiones del burnout, las seis áreas donde el trabajo se desajusta con la persona y las cuatro experiencias de recuperación fuera del trabajo.</desc>
+<defs><marker id="p-047" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 047 · Sostener el rendimiento sin agotarse</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Maslach, Schaufeli &amp; Leiter (2001) · Sonnentag &amp; Fritz (2007)</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">BURNOUT: TRES DIMENSIONES</text>
+<rect x="28" y="104" width="330" height="82" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="28" y="104" width="6" height="82" rx="3" fill="#cf222e"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Agotamiento</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cansancio emocional y físico prolongado.</text>
+<rect x="28" y="198" width="330" height="82" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="28" y="198" width="6" height="82" rx="3" fill="#bc4c00"/>
+<text x="46" y="220" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Cinismo</text>
+<text x="46" y="238" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Distancia y actitud negativa hacia el</text>
+<text x="46" y="255.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >trabajo.</text>
+<rect x="28" y="292" width="330" height="82" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.7" />
+<rect x="28" y="292" width="6" height="82" rx="3" fill="#59636e"/>
+<text x="46" y="314" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Menor eficacia</text>
+<text x="46" y="332" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Sensación de logro reducido.</text>
+<text x="380" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">SEIS ÁREAS DE DESAJUSTE</text>
+<rect x="380" y="104" width="140" height="82" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="450" y="152" font-size="13" font-weight="700" fill="#1f2328" text-anchor="middle" >Carga de trabajo</text>
+<rect x="530" y="104" width="140" height="82" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="600" y="152" font-size="13" font-weight="700" fill="#1f2328" text-anchor="middle" >Control</text>
+<rect x="380" y="198" width="140" height="82" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="450" y="246" font-size="13" font-weight="700" fill="#1f2328" text-anchor="middle" >Reconocimiento</text>
+<rect x="530" y="198" width="140" height="82" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="600" y="246" font-size="13" font-weight="700" fill="#1f2328" text-anchor="middle" >Comunidad</text>
+<rect x="380" y="292" width="140" height="82" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="450" y="340" font-size="13" font-weight="700" fill="#1f2328" text-anchor="middle" >Justicia</text>
+<rect x="530" y="292" width="140" height="82" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="600" y="340" font-size="13" font-weight="700" fill="#1f2328" text-anchor="middle" >Valores</text>
+<text x="700" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CUATRO EXPERIENCIAS DE RECUPERACIÓN</text>
+<rect x="700" y="104" width="312" height="66" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<text x="716" y="130" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Desconexión psicológica</text>
+<text x="716" y="150" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >No pensar en el trabajo fuera de él.</text>
+<rect x="700" y="178" width="312" height="66" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<text x="716" y="204" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Relajación</text>
+<text x="716" y="224" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Reducir la activación.</text>
+<rect x="700" y="252" width="312" height="66" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<text x="716" y="278" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Dominio</text>
+<text x="716" y="298" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Aprender o lograr algo fuera del trabajo.</text>
+<rect x="700" y="326" width="312" height="66" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<text x="716" y="352" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start" >Control del tiempo libre</text>
+<text x="716" y="372" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="start" >Decidir cómo usarlo.</text>
+<rect x="28" y="410" width="650" height="116" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="434" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El agotamiento suele ser un problema del trabajo y de la persona. Por eso la solución</text>
+<text x="44" y="451.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >no es solo individual: se revisan carga, control, reconocimiento y valores, y se</text>
+<text x="44" y="468.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >protege el descanso con reglas del equipo.</text>
+<text x="28" y="566" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Burnout no es un diagnóstico clínico en todos los sistemas y esta clase no reemplaza atención profesional de salud.</text>
 </svg>

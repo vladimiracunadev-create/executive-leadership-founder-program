@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **valor** de **deber** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **dilema** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **precedente** con **proporcionalidad**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre un dilema de bien contra bien y una tentación?
+2. ¿Cuáles son las cuatro tensiones típicas de Kidder?
+3. ¿Cuáles son los tres criterios de resolución?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un ejecutivo descubre un error material antes de una presentación a inversionistas. Corregirlo retrasará la reunión y avergonzará al equipo; ocultarlo preservaría apariencia pero distorsiona información.
+**Caso:** Una directora de compras evalúa tres ofertas para un contrato de tres años por USD 2 millones. La mejor propuesta técnica y de precio es de una empresa cuyo dueño es el cónyuge de una amiga cercana y antigua colega de la directora. No hay relación comercial ni beneficio para ella. La política de la empresa exige declarar «vínculos significativos», sin definirlos. El plazo para decidir es de una semana.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **nombrar valores y deberes en conflicto → identificar stakeholders y daños → separar obligación legal de preferencia → comparar opciones y precedentes → consultar instancia independiente cuando corresponda**. Debes utilizar o diseñar cómo obtener **conflictos de interés, excepciones, precedentes citados**. Compara declarar, abstenerse y pedir revisión independiente; separa la conducta privada de su efecto sobre el cargo. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **registro de decisión ética** que contenga: (a) la tensión de valores y por qué es un dilema y no una tentación; (b) los hechos y lo que no se sabe; (c) las opciones —no declarar y decidir; declarar y decidir; declarar y abstenerse; declarar y pedir revisión independiente— analizadas con los tres criterios; (d) la prueba de tres preguntas; (e) la decisión y el valor que se cede; (f) las salvaguardas y la fecha de revisión. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los tres criterios de Kidder resumen tradiciones filosóficas amplias y pueden usarse de forma simplista.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

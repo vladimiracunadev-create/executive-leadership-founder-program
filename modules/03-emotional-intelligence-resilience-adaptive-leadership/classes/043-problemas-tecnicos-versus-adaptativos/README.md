@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Los problemas técnicos tienen soluciones conocidas que pueden aplicarse con expertise; los adaptativos exigen cambios de valores, hábitos, identidades o distribución de poder. Tratarlos como técnicos produce proyectos impecables que nadie adopta. Liderar adaptación implica devolver parte del trabajo a quienes deben cambiar.
+Hay problemas para los que existe una respuesta conocida y alguien que la sabe aplicar: un sistema caído, un cálculo erróneo, una norma que cumplir. Y hay otros que se resisten a toda solución experta porque exigen que **las propias personas cambien**: pasar a un modelo de trabajo distinto, aceptar una pérdida, revisar lo que valoran. Tratar el segundo tipo como si fuera del primero es uno de los errores directivos más repetidos: se contrata un consultor, se rediseña un proceso, se anuncia un plan, y el problema reaparece.
 
-La salida de esta parte es **regularse, sostener exigencia humana y liderar adaptación bajo presión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **problemas técnicos versus adaptativos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa la distinción de Ronald Heifetz entre problemas **técnicos** y **adaptativos**, desarrollada con Grashow y Linsky en *The Practice of Adaptive Leadership*. Al terminar sabrás diagnosticar a qué tipo pertenece un problema, reconocer la resistencia como una señal de que hay algo que se pierde y practicar la alternancia entre la acción y la mirada desde el «balcón».
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `problema técnico`, `desafío adaptativo`, `pérdida`, `holding environment`, `work avoidance` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** adopción real, conductas nuevas, resistencia por grupo sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** un problema técnico de uno adaptativo con criterios observables.
+2. **Explicar** por qué un problema adaptativo no se resuelve con autoridad y experticia.
+3. **Reconocer** la resistencia al cambio como pérdida, no como terquedad.
+4. **Aplicar** la alternancia entre la pista de baile y el balcón.
+5. **Diseñar** una intervención que devuelva el trabajo a quienes deben hacerlo, a un ritmo que puedan soportar.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define problema técnico y desafío adaptativo sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con adopción real y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un problema que «se arregló» varias veces y reapareció. ¿Qué tipo era? |
+| 20–60 min | Técnico y adaptativo, resistencia y balcón. |
+| 60–105 min | Ejemplo trabajado: diagnóstico de un problema mixto. |
+| 105–140 min | Caso ejecutivo: un cambio de modelo de ventas. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **problema técnico** | brecha con solución conocida y autoridad capaz de implementarla | Distingue un hecho compatible y otro que lo refute. |
-| **desafío adaptativo** | brecha que requiere aprendizaje y cambio de conducta de stakeholders | Distingue un hecho compatible y otro que lo refute. |
-| **pérdida** | valor, estatus, identidad o comodidad que alguien debe abandonar | Distingue un hecho compatible y otro que lo refute. |
-| **holding environment** | espacio suficientemente seguro para sostener tensión productiva | Distingue un hecho compatible y otro que lo refute. |
-| **work avoidance** | conducta que desplaza atención para evitar el cambio real | Distingue un hecho compatible y otro que lo refute. |
+| **Problema técnico** | Problema cuya definición y solución son conocidas y pueden resolverse con la experticia existente (Heifetz et al., 2009). | Hay un procedimiento o un experto que lo resuelve. |
+| **Problema adaptativo** | Problema que exige que las personas aprendan nuevas formas de actuar, cambiando valores, creencias o hábitos (Heifetz et al., 2009). | Ninguna solución experta basta; hay que cambiar conductas. |
+| **Trabajo adaptativo** | Aprendizaje y cambio que deben hacer las personas con el problema (Heifetz et al., 2009). | Lo hacen ellas, no una autoridad por ellas. |
+| **Pérdida** | Lo que alguien valora y debería soltar para adaptarse: una rutina, una identidad, una lealtad. | La resistencia se explica por lo que se pierde. |
+| **Balcón y pista de baile** | Alternar entre participar en la acción y mirarla desde arriba para ver patrones (Heifetz et al., 2009). | Se puede describir qué ocurre en el sistema, no solo en el momento. |
+| **Ritmo soportable** | Velocidad de cambio que las personas pueden asimilar sin colapsar ni anestesiarse. | Hay incomodidad productiva, no pánico ni indiferencia. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 043: 1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación](modelo-mental.svg)
+![Problema técnico y problema adaptativo: dos columnas con quién trabaja, qué se pide, qué se pierde y un ejemplo de cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los problemas técnicos tienen soluciones conocidas que pueden aplicarse con expertise; los adaptativos exigen cambios de valores, hábitos, identidades o distribución de poder. Tratarlos como técnicos produce proyectos impecables que nadie adopta. Liderar adaptación implica devolver parte del trabajo a quienes deben cambiar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural.**
+**Cómo leer el diagrama.** Las dos columnas se comparan por cuatro preguntas: quién debe hacer el trabajo, qué se pide, qué se pierde y cómo se ve. En un problema técnico, trabaja quien sabe y casi nada se pierde. En uno adaptativo, trabajan las personas que tienen el problema y se pierde algo que valoran; por eso hay resistencia. La mayoría de los problemas reales tiene ambos componentes.
 
 ## 📖 Desarrollo
 
-### 1. problema técnico: mecanismo central
+### 1. La distinción
 
-**problema técnico** se entiende aquí como **brecha con solución conocida y autoridad capaz de implementarla**. Esta es la pieza causal o estructural desde la que se inicia **problemas técnicos versus adaptativos**: antes de diagnosticar qué parte es técnica y cuál adaptativa, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Heifetz propone que el error más común del liderazgo es tratar los problemas adaptativos como técnicos. Un **problema técnico** puede ser muy complejo, pero la manera de resolverlo es conocida: se identifica el problema, se aplica la solución y se termina. Un **problema adaptativo** es aquel en que la solución no existe todavía o no puede aplicarla un experto, porque supone que las personas cambien algo que valoran.
 
-La lectura rectora de este bloque es Daniel Goleman — *Emotional Intelligence*. Su aporte se usa para examinar **autoconciencia, autorregulación, empatía y habilidades sociales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **adopción real**; regístrala con periodo, unidad, población y baseline.
+### 2. La mezcla frecuente
 
-Relaciona el mecanismo con **desafío adaptativo**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Casi todo problema real tiene un componente técnico y otro adaptativo. Un hospital que quiere reducir infecciones tiene una parte técnica (protocolos de higiene) y una adaptativa (que cirujanos con prestigio acepten que un enfermero los corrija). Resolver solo la parte técnica produce protocolos impecables que no se cumplen. El diagnóstico consiste en separar ambas partes.
 
-### 2. desafío adaptativo: frontera conceptual y error de clasificación
+### 3. Por qué la autoridad no basta
 
-**Definición operacional:** brecha que requiere aprendizaje y cambio de conducta de stakeholders. Su valor está en distinguirlo de **problema técnico** y **pérdida**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Quien tiene autoridad suele sentirse obligado a dar la respuesta. En un problema adaptativo, esa respuesta rara vez sirve porque quien debe cambiar no es el directivo sino el equipo. Las soluciones impuestas desde arriba generan cumplimiento aparente y resistencia latente. El trabajo del líder es **plantear el problema, mantener la tensión productiva y devolver el trabajo** a quienes deben hacerlo.
 
-Contrasta el problema con Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*, que aporta una mirada sobre **impacto emocional del liderazgo y estilos de conducción**. Formula dos mini-casos: uno que sí satisface la definición de **desafío adaptativo** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **conductas nuevas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La resistencia como pérdida
 
-Antes de mapear pérdidas y grupos afectados, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La resistencia al cambio se explica en general como falta de motivación. Heifetz propone otra lectura: las personas no se resisten al cambio, se resisten a **la pérdida**: de una rutina, de un estatus, de una forma de entenderse a sí mismas, de lealtades. Ante la resistencia, la pregunta útil es «¿qué pierde esta persona si cambia?». Reconocerlo y ayudar a procesarlo ocupa mucho más tiempo que explicar las razones del cambio.
 
-### 3. pérdida: operacionalización y medición
+### 5. Balcón y pista de baile
 
-**pérdida** significa **valor, estatus, identidad o comodidad que alguien debe abandonar**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El liderazgo adaptativo exige moverse entre dos posiciones: la **pista de baile**, donde se participa en la acción, y el **balcón**, desde donde se observa el patrón: quién habla, quién calla, qué alianzas se forman, qué se evita. Quien solo está en la pista se contagia del sistema; quien solo está en el balcón pierde contacto. El balcón no es un lugar físico sino una práctica: detenerse para preguntar qué está pasando realmente.
 
-Amy C. Edmondson — *The Fearless Organization* orienta este bloque mediante **seguridad psicológica, aprendizaje, voz y manejo productivo del error**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **resistencia por grupo**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El ritmo
 
-Al llegar a regular tensión sin eliminarla, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un cambio adaptativo necesita **incomodidad suficiente** para motivar el aprendizaje y **no tanta** que lo bloquee. Si el líder no mantiene tensión, el sistema vuelve al equilibrio anterior; si la sube demasiado, las personas se defienden, atacan o se desconectan. Regular el ritmo es una responsabilidad: dar tiempo, avanzar por etapas, proteger lo que se mantiene.
 
-### 4. holding environment: trade-offs y efectos de segundo orden
+### 7. Qué hace el líder
 
-**Definición:** espacio suficientemente seguro para sostener tensión productiva. Este concepto obliga a abandonar la idea de que **problemas técnicos versus adaptativos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de devolver trabajo a quienes deben aprender, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Brené Brown — *Dare to Lead* aporta una lente sobre **perspectiva de Liderazgo aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **pérdidas reconocidas** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **problemas técnicos versus adaptativos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **holding environment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. work avoidance: gobernanza, límites e integración
-
-**work avoidance** se define como **conducta que desplaza atención para evitar el cambio real** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Clayton Christensen et al. — *How Will You Measure Your Life?* se utiliza para estudiar **perspectiva de Autoliderazgo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar proteger voces marginales y revisar adaptación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **problema técnico**, **desafío adaptativo**, **pérdida**, **holding environment** y **work avoidance** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **problemas técnicos versus adaptativos** no consiste en sumar cinco definiciones. Empieza por **problema técnico**, contrasta **desafío adaptativo** con **pérdida**, incorpora **holding environment** como restricción o mecanismo y usa **work avoidance** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un conjunto de conductas, según el marco: **diagnosticar** el sistema, incluido el propio papel del líder; **regular la incomodidad**; **mantener la atención** en el problema y no en síntomas; **dar el trabajo a las personas**; y **proteger las voces** que cuestionan, que suelen señalar aquello que el sistema evita ver. Todo esto expone al líder a resistencia personal, por lo que se necesitan aliados y cuidado propio.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Daniel Goleman — *Emotional Intelligence* | autoconciencia, autorregulación, empatía y habilidades sociales | ¿Qué supuesto de **problemas técnicos versus adaptativos** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **problemas técnicos versus adaptativos** ayuda a desafiar? |
-| Amy C. Edmondson — *The Fearless Organization* | seguridad psicológica, aprendizaje, voz y manejo productivo del error | ¿Qué supuesto de **problemas técnicos versus adaptativos** ayuda a desafiar? |
-| Brené Brown — *Dare to Lead* | perspectiva de Liderazgo aplicada al problema de la clase | ¿Qué supuesto de **problemas técnicos versus adaptativos** ayuda a desafiar? |
-| Clayton Christensen et al. — *How Will You Measure Your Life?* | perspectiva de Autoliderazgo aplicada al problema de la clase | ¿Qué supuesto de **problemas técnicos versus adaptativos** ayuda a desafiar? |
-
-En **problemas técnicos versus adaptativos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **problema técnico**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Heifetz (1994) | La distinción original y la crítica de la autoridad. | Es un texto teórico, con casos históricos. | ¿Qué trabajo adaptativo evitas dar a tu equipo? |
+| Heifetz, Grashow y Linsky (2009) | Herramientas prácticas: balcón, regulación, diagnóstico. | Sus ejemplos son seleccionados. | ¿Qué ves desde el balcón de tu último conflicto? |
+| Heifetz y Linsky (2017) | Los riesgos personales de liderar el cambio. | No es un método de diagnóstico. | ¿Qué cuidas de ti mientras lideras? |
+| Meadows (2009) | Pensamiento sistémico: patrones y palancas. | No trata de resistencia humana. | ¿Qué patrón se repite en tu problema? |
+| Edmondson (2018) | Seguridad para que se diga lo que el sistema evita. | No distingue tipos de problema. | ¿Quién puede decir lo que nadie quiere oír? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa instala una plataforma colaborativa esperando mejorar cooperación. La tecnología funciona, pero los directores continúan premiando información retenida y poder por silo.
+**Situación (hipotética).** Una empresa mediana de servicios tiene demoras crónicas en la entrega de proyectos. Ya cambió el software de gestión dos veces. Los gerentes de área culpan a los otros; el director cree que «falta compromiso».
 
-**Paso 1 — diagnosticar qué parte es técnica y cuál adaptativa.** La gerencia escribe primero el supuesto asociado a **problema técnico** y evita convertirlo en hecho. Luego busca **adopción real** para contrastarlo en el caso de **problemas técnicos versus adaptativos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Componente | Naturaleza | Evidencia |
+|---|---|---|
+| El software no registra bien las dependencias | **Técnico** | Se puede corregir con configuración y capacitación. |
+| Cada gerente protege su capacidad y no informa cuando está sobrecargado | **Adaptativo** | Comparten el sistema de incentivos: se premia cumplir el propio plazo, no el del proyecto. |
+| El director decide por urgencia y reasigna sin consultar | **Adaptativo** | Rompe los acuerdos de prioridad. |
 
-**Paso 2 — mapear pérdidas y grupos afectados.** La gerencia escribe primero el supuesto asociado a **desafío adaptativo** y evita convertirlo en hecho. Luego busca **conductas nuevas** para contrastarlo en el caso de **problemas técnicos versus adaptativos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Desde el balcón.** El patrón: cuando hay sobrecarga nadie lo dice, porque admitirla se interpreta como debilidad; el director reasigna, y los gerentes protegen aún más su capacidad.
 
-**Paso 3 — regular tensión sin eliminarla.** La gerencia escribe primero el supuesto asociado a **pérdida** y evita convertirlo en hecho. Luego busca **resistencia por grupo** para contrastarlo en el caso de **problemas técnicos versus adaptativos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervención.** (1) Resolver la parte técnica: configurar las dependencias. (2) Plantear el problema al equipo directivo como propio: «la entrega tardía es un problema del sistema, no de un gerente». (3) Revisar los incentivos para premiar la entrega del proyecto. (4) El director acuerda no reasignar sin consulta, y pide que le avisen de la sobrecarga. (5) Fijar una revisión mensual de cómo funciona el acuerdo.
 
-**Paso 4 — devolver trabajo a quienes deben aprender.** La gerencia escribe primero el supuesto asociado a **holding environment** y evita convertirlo en hecho. Luego busca **pérdidas reconocidas** para contrastarlo en el caso de **problemas técnicos versus adaptativos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — proteger voces marginales y revisar adaptación.** La gerencia escribe primero el supuesto asociado a **work avoidance** y evita convertirlo en hecho. Luego busca **dependencia de expertos** para contrastarlo en el caso de **problemas técnicos versus adaptativos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **problemas técnicos versus adaptativos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los cambios de software solo atendían la parte técnica. (2) El trabajo adaptativo incluyó al director. (3) La resistencia se entendió como pérdida: nadie quería exponerse.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **problema técnico** | brecha con solución conocida y autoridad capaz de implementarla | Cuando adopción real es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **desafío adaptativo** | brecha que requiere aprendizaje y cambio de conducta de stakeholders | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Adaptativo frente a complejo.** Un problema técnico puede ser muy complejo (construir un puente); lo adaptativo no se define por la dificultad sino por la necesidad de cambiar conductas y valores.
 
-**Frontera de aplicación:** No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural.
+**Límites.** La distinción es una herramienta de diagnóstico, no una clasificación estricta: casi todo problema contiene ambos componentes, y calificar algo de «adaptativo» puede usarse para justificar no actuar o para culpar a las personas. El marco proviene de la práctica y de casos políticos y organizacionales, no de estudios experimentales. Y exponer a las personas al trabajo adaptativo tiene riesgos que el líder debe cuidar.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre problemas técnicos versus adaptativos |
+| Nivel | Cómo trabaja la distinción |
 |---|---|
-| **Profesional** | usa **problemas técnicos versus adaptativos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **problema técnico** y **desafío adaptativo** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta adopción real con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si problemas técnicos versus adaptativos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de problemas técnicos versus adaptativos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **problemas técnicos versus adaptativos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reconoce cuándo un problema exige cambiar hábitos y no solo aplicar una técnica. |
+| **Jefe / Team Lead** | Devuelve al equipo el trabajo que le corresponde y regula el ritmo. |
+| **Gerente** | Separa lo técnico de lo adaptativo en proyectos de cambio y diagnostica el sistema. |
+| **CEO / Director** | Mantiene la tensión productiva y protege las voces que desafían el statu quo. |
+| **Founder / Owner** | Reconoce que cambiar el modelo del negocio exige que él mismo cambie. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa instala una plataforma colaborativa esperando mejorar cooperación. La tecnología funciona, pero los directores continúan premiando información retenida y poder por silo.
+Una empresa de distribución quiere pasar de un modelo de ventas basado en la relación de cada vendedor a uno basado en datos y procesos compartidos. Los vendedores más antiguos —con las mejores relaciones— se resisten: dicen que «el sistema no entiende a los clientes». La dirección ya compró una plataforma de CRM y capacitó dos veces. Las ventas no mejoran, y dos vendedores clave amenazan con irse.
 
-Entrega un **decision brief de problemas técnicos versus adaptativos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico y plan de intervención** que contenga: (a) la separación de lo técnico y lo adaptativo; (b) qué pierden los vendedores y qué valoran; (c) el balcón: qué patrón se repite; (d) el trabajo que devolverás a los vendedores y el que asumes tú; (e) el ritmo del cambio y cómo lo regularás; (f) qué voces protegerás y cómo cuidarás tu propio papel.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **problemas técnicos versus adaptativos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta adopción real, conductas nuevas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Toma un problema que se repite y separa lo técnico de lo adaptativo.
+2. Para una persona que se resiste, escribe qué pierde si cambia.
+3. Sal al balcón: describe en cinco líneas qué patrón se repite en tu último conflicto.
+4. Identifica un trabajo adaptativo que estás haciendo tú por tu equipo.
+5. Define una medida para regular el ritmo de un cambio: qué desacelerar y qué mantener.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar problema técnico y desafío adaptativo como sinónimos | Se pierde la distinción entre “brecha con solución conocida y autoridad capaz de implementarla” y “brecha que requiere aprendizaje y cambio de conducta de stakeholders” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “proteger voces marginales y revisar adaptación” | Se saltó “diagnosticar qué parte es técnica y cuál adaptativa” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación y marca el primer supuesto no demostrado. |
-| Optimizar solo adopción real | La métrica local sustituyó al resultado del sistema | Contrástala con conductas nuevas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre problemas técnicos versus adaptativos | No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural. |
-| No fijar revisión | Una decisión sobre problemas técnicos versus adaptativos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Dar la respuesta | La autoridad se siente obligada | Plantear el problema y devolver el trabajo. |
+| Cambiar la herramienta una y otra vez | Es lo técnico y visible | Revisar valores, hábitos y lealtades. |
+| Ver la resistencia como terquedad | No se piensa en pérdidas | Preguntar qué pierde la persona. |
+| Acelerar o frenar de más | No se regula la incomodidad | Mantener tensión productiva. |
+| Silenciar la disidencia | Molesta | Proteger las voces que señalan lo evitado. |
+| Quedarse en la pista | Se contagia del sistema | Practicar el balcón. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **problema técnico** y **desafío adaptativo** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **pérdida** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **diagnosticar qué parte es técnica y cuál adaptativa → mapear pérdidas y grupos afectados** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **adopción real** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **problemas técnicos versus adaptativos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural.**?
+1. ¿Qué diferencia hay entre un problema técnico y uno adaptativo?
+2. ¿Por qué la autoridad y la experticia no bastan en un problema adaptativo?
+3. ¿Cómo reinterpreta Heifetz la resistencia al cambio?
+4. ¿Qué es la alternancia entre pista de baile y balcón?
+5. ¿Qué significa regular el ritmo del cambio?
+6. Da un ejemplo de problema mixto y separa sus componentes.
+7. ¿Qué límite tiene el marco?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El técnico tiene una solución conocida aplicable por un experto; el adaptativo exige que las personas aprendan y cambien valores, creencias o hábitos.
+2. Porque quien debe cambiar son las propias personas, y las soluciones impuestas generan cumplimiento aparente.
+3. Como resistencia a la pérdida, no al cambio en sí.
+4. Moverse entre participar en la acción y observarla desde arriba para ver patrones.
+5. Mantener incomodidad suficiente para el aprendizaje y no tanta que bloquee.
+6. Por ejemplo, infecciones en un hospital: técnico (protocolos de higiene) y adaptativo (aceptar correcciones entre jerarquías).
+7. Es una herramienta de diagnóstico, no una clasificación estricta; proviene de la práctica y los casos, no de experimentos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/043-problemas-tecnicos-versus-adaptativos/`:
 
-- `leadership-decision-brief.md` con el problema específico de **problemas técnicos versus adaptativos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **problemas técnicos versus adaptativos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **problema técnico**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa instala una plataforma colaborativa esperando mejorar cooperación. La tecnología funciona, pero los directores continúan premiando información retenida y poder por silo.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diagnóstico del caso ejecutivo;
+- `reading-note.md` con una tensión entre Heifetz (1994) y Heifetz, Grashow y Linsky (2009);
+- `decision-journal.md` con el diagnóstico, el trabajo devuelto y la revisión.
 
 ## 📗 Fuentes y verificación
 
-- Daniel Goleman — *Emotional Intelligence* (Bloomsbury, 1996). **Uso en esta clase:** autoconciencia, autorregulación, empatía y habilidades sociales. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica, aprendizaje, voz y manejo productivo del error. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
-- Brené Brown — *Dare to Lead* (Ebury Publishing, 2018). **Uso en esta clase:** perspectiva de Liderazgo aplicada al problema de la clase. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781473562523](https://openlibrary.org/isbn/9781473562523).
-- Clayton Christensen et al. — *How Will You Measure Your Life?* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Autoliderazgo aplicada al problema de la clase. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565).
-- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** distinción entre problemas técnicos y desafíos adaptativos. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **problemas técnicos versus adaptativos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **problemas técnicos versus adaptativos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **problemas técnicos versus adaptativos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **problemas técnicos versus adaptativos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ronald A. Heifetz, Alexander Grashow & Marty Linsky — *The Practice of Adaptive Leadership* (Harvard Business Press, 2009). **Uso en esta clase:** técnico y adaptativo, balcón y pista de baile, regulación del ritmo. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781422105764](https://openlibrary.org/isbn/9781422105764).
+- Ronald A. Heifetz — *Leadership Without Easy Answers* (Belknap Press of Harvard University Press, 1994). **Uso en esta clase:** la distinción original y la crítica de la autoridad como respuesta. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9780674518582](https://openlibrary.org/isbn/9780674518582).
+- Ronald Heifetz & Marty Linsky — *Leadership on the Line* (Harvard Business Review Press, 2017). **Uso en esta clase:** los riesgos personales de liderar el cambio. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781633692831](https://openlibrary.org/isbn/9781633692831).
+- Donella H. Meadows — *Thinking in Systems* (Earthscan, 2009). **Uso en esta clase:** patrones y palancas en sistemas. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781849773386](https://openlibrary.org/isbn/9781849773386).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad para decir lo que el sistema evita. Lectura selectiva sobre **problemas técnicos versus adaptativos**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Problemas técnicos versus adaptativos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **problemas técnicos versus adaptativos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Problemas técnicos versus adaptativos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

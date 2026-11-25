@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 093: 1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gestionar proveedores y terceros extiende responsabilidad más allá de la frontera legal de la empresa. Debe evaluar criticidad, concentración, contratos, niveles de servicio, seguridad, continuidad y salida. El proveedor ejecuta; la organización sigue siendo responsable de su propia promesa al cliente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos.**
 

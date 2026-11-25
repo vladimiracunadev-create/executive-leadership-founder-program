@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 241: 1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Founder, freelancer y empresario pueden generar ingresos propios pero construyen activos distintos. Freelancer vende principalmente su tiempo o capacidad; founder crea una organización o producto escalable; empresario puede poseer y asignar capital entre negocios. Elegir conscientemente evita perseguir escala cuando se desea autonomía o viceversa.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida.**
 

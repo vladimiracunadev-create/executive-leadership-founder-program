@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 102: 1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Balanced Scorecard evita dirigir solo con finanzas al conectar perspectiva financiera, cliente, procesos y aprendizaje/capacidades. Su valor está en el mapa causal y la selección disciplinada de indicadores, no en crear un tablero con cuatro cuadrantes y decenas de métricas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad.**
 

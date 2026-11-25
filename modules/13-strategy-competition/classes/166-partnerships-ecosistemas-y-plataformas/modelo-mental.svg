@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620.24" width="1040" role="img" aria-labelledby="t-g166 d-g166" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g166">Ficha visual de la clase 166: Partnerships, ecosistemas y plataformas</title>
+<desc id="d-g166">Conceptos: ecosystem; platform; complementor; governance rules; dependency risk. Método: mapear actores y flujo de valor → identificar complementos y cuellos → definir incentivos y reglas → modelar economics y dependencia → negociar métricas datos y salida.</desc>
+<defs><marker id="p-g166" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="620.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 166 · Partnerships, ecosistemas y plataformas</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ecosystem</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de actores interdependientes que crean una</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >propuesta conjunta</text>
+<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >platform</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >modelo que facilita interacciones entre grupos y puede</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >generar efectos de red</text>
+<circle cx="38" cy="256.24" r="5" fill="#bc4c00"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >complementor</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >actor cuya oferta aumenta valor de otra</text>
+<circle cx="38" cy="314.24" r="5" fill="#bc4c00"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >governance rules</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reglas de acceso calidad datos y monetización</text>
+<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >dependency risk</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >exposición creada al depender de un tercero crítico</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear actores y</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >flujo de valor</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >complementos y</text>
+<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cuellos</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir incentivos</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y reglas</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >modelar economics</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y dependencia</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >negociar métricas</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >datos y salida</text>
+<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g166)"/>
+<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g166)"/>
+<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g166)"/>
+<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g166)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g166)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >partner-sourced revenue</text>
+<rect x="222.7" y="456.24" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="235.7" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="246.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependency concentration</text>
+<rect x="424.3" y="456.24" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="437.3" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="448.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >take rate</text>
+<rect x="522.4" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="535.4" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="546.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ecosystem adoption</text>
+<rect x="682.6" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="695.6" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="706.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >switching cost</text>
+<rect x="815.2" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="828.2" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="839.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >bargaining asymmetry</text>
+<rect x="28" y="488.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="501.24" r="3.5" fill="#bc4c00"/>
+<text x="52" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >exit readiness</text>
+<rect x="28" y="534.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="534.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="554.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="572.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta</text>
+<text x="48" y="589.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >valor y si el poder está equilibrado.</text>
+</svg>

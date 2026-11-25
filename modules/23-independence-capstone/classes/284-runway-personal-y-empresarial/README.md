@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 284: 1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Runway personal y empresarial permiten decidir sin pánico. Deben modelarse por separado: gastos esenciales, impuestos, deuda, compromisos, caja restringida y burn. Escenarios base y downside muestran cuánto tiempo existe para buscar empleo, clientes o pivotar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor.**
 

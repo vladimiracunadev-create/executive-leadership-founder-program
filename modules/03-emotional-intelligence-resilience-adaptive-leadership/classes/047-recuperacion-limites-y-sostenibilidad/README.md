@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 047: 1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear demandas fuera de horario → 2. definir qué es realmente emergencia → 3. crear rotación y escalamiento → 4. proteger recuperación después de picos → 5. medir dependencia y rediseñar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Recuperación, límites y sostenibilidad son parte del diseño del rol de liderazgo. La exposición crónica a urgencia, conflicto y disponibilidad permanente reduce juicio y aumenta dependencia del líder. Los límites claros protegen tanto a la persona como a la organización al forzar prioridades y crear segundos responsables.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente.**
 

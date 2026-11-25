@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 171: 1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Spans y layers determinan cuántas personas reportan a un manager y cuántos niveles separan frontline de dirección. El span adecuado depende de complejidad, similitud del trabajo, autonomía, dispersión y capacidad del manager; ratios universales producen organizaciones demasiado planas o burocráticas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Spans más amplios pueden empoderar o abandonar. No optimices solo headcount de managers; mide calidad de decisión, desarrollo y coordinación.**
 

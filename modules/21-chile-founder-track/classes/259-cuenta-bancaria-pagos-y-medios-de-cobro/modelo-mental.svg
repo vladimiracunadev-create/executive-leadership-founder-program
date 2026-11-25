@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g259 d-g259" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g259">Ficha visual de la clase 259: Cuenta bancaria, pagos y medios de cobro</title>
+<desc id="d-g259">Conceptos: business bank account; merchant acquiring; settlement; chargeback; payment approval. Método: seleccionar medios por cliente y costo → definir cuentas y roles → mapear settlement y fees → implementar approvals y reconciliation → monitorear fraude y chargebacks.</desc>
+<defs><marker id="p-g259" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 259 · Cuenta bancaria, pagos y medios de cobro</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 21 · Fundador, propietario e independencia</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#59636e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >business bank account</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cuenta usada por entidad para separar y gestionar</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >flujos</text>
+<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >merchant acquiring</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >servicio que procesa pagos con tarjetas u otros medios</text>
+<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >settlement</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >abono final de fondos procesados</text>
+<circle cx="38" cy="300.12" r="5" fill="#59636e"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >chargeback</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reverso o disputa de una transacción según reglas del</text>
+<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >medio</text>
+<circle cx="38" cy="372.24" r="5" fill="#59636e"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >payment approval</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >control que autoriza desembolsos</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seleccionar medios por cliente y costo</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir cuentas y roles</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear settlement y fees</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >implementar approvals y reconciliation</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >monitorear fraude y chargebacks</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#59636e"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >settlement delay</text>
+<rect x="174.4" y="456.24" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="187.4" cy="469.24" r="3.5" fill="#59636e"/>
+<text x="198.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >payment fees</text>
+<rect x="293.2" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="306.2" cy="469.24" r="3.5" fill="#59636e"/>
+<text x="317.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >chargeback rate</text>
+<rect x="432.7" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="445.7" cy="469.24" r="3.5" fill="#59636e"/>
+<text x="456.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash concentration</text>
+<rect x="592.9" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="605.9" cy="469.24" r="3.5" fill="#59636e"/>
+<text x="616.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >approval exceptions</text>
+<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Productos bancarios y condiciones cambian por proveedor. Compara contratos, seguridad y costos vigentes y no dependas de una sola</text>
+<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >persona para accesos críticos.</text>
+</svg>

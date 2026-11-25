@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 067: 1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. documentar ejemplos y estándar → 2. conversar brecha y escuchar contexto → 3. acordar acciones y apoyo → 4. definir milestones y revisión → 5. cerrar con mejora, extensión justificada o proceso de salida
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un plan de mejora de desempeño convierte una brecha persistente en expectativas, apoyo, plazo y evidencia. Antes de formalizarlo, se distingue capacidad, claridad, recursos y conducta. El objetivo es permitir mejora real y, si no ocurre, sostener una decisión responsable y documentada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos.**
 

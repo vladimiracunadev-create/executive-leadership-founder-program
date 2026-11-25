@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g118 d-g118" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g118">Ficha visual de la clase 118: ROI, ROIC y decisiones de inversión</title>
+<desc id="d-g118">Conceptos: ROI; NOPAT; invested capital; ROIC; WACC. Método: definir cash flows y capital → separar incremental de sunk cost → calcular retorno y timing → comparar con hurdle/WACC → hacer sensibilidad y post-audit.</desc>
+<defs><marker id="p-g118" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 118 · ROI, ROIC y decisiones de inversión</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 09 · Gestión de negocio</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#8250df"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ROI</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >beneficio neto atribuible/inversión, fórmula que debe</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >declararse</text>
+<circle cx="38" cy="184.12" r="5" fill="#8250df"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >NOPAT</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado operativo después de impuestos normalizados</text>
+<circle cx="38" cy="242.12" r="5" fill="#8250df"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >invested capital</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capital operativo financiado por deuda y equity según</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >definición</text>
+<circle cx="38" cy="314.24" r="5" fill="#8250df"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ROIC</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >NOPAT/capital invertido</text>
+<circle cx="38" cy="372.24" r="5" fill="#8250df"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >WACC</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo promedio ponderado de las fuentes de capital</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#8250df"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir cash flows</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y capital</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#8250df"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >separar</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >incremental de</text>
+<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >sunk cost</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#8250df"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >calcular retorno y</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >timing</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#8250df"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comparar con</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >hurdle/WACC</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#8250df"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >hacer sensibilidad</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y post-audit</text>
+<path d="M638,139 L656,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g118)"/>
+<path d="M826,139 L844,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g118)"/>
+<path d="M929,176 L929,222" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g118)"/>
+<path d="M844,259 L826,259" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g118)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#8250df" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g118)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROI</text>
+<rect x="84.7" y="456.24" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="97.7" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="108.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROIC</text>
+<rect x="148.3" y="456.24" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="161.3" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="172.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >WACC</text>
+<rect x="211.9" y="456.24" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="224.9" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="235.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >payback</text>
+<rect x="296.2" y="456.24" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="309.2" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="320.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >NPV</text>
+<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios</text>
+<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >y capital total, no una sola razón.</text>
+</svg>

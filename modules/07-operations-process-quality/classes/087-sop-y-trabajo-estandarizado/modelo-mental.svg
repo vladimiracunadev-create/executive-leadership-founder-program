@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g87 d-g87" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g87">Ficha visual de la clase 087: SOP y trabajo estandarizado</title>
+<desc id="d-g87">Conceptos: SOP; standard work; control point; exception path; version control. Método: seleccionar proceso estable y crítico → observar cómo se ejecuta realmente → documentar pasos y controles mínimos → probar con una persona nueva → versionar y revisar tras incidentes.</desc>
+<defs><marker id="p-g87" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 087 · SOP y trabajo estandarizado</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 07 · Liderazgo de equipos y ejecución</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#0969da"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >SOP</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >procedimiento operativo estándar para trabajo repetible</text>
+<circle cx="38" cy="170" r="5" fill="#0969da"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >standard work</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >secuencia acordada que representa la mejor práctica</text>
+<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >actual</text>
+<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >control point</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >paso donde se verifica condición crítica</text>
+<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >exception path</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ruta para casos fuera del estándar</text>
+<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
+<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >version control</text>
+<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >gestión de cambios y vigencia documental</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seleccionar proceso estable y crítico</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >observar cómo se ejecuta realmente</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >documentar pasos y controles mínimos</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >probar con una persona nueva</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >versionar y revisar tras incidentes</text>
+<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >adherencia</text>
+<rect x="133" y="442.12" width="164" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="146" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="157" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >errores de ejecución</text>
+<rect x="307" y="442.12" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="320" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="331" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo de entrenamiento</text>
+<rect x="501.7" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="514.7" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="525.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >excepciones</text>
+<rect x="613.6" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="626.6" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="637.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >versiones obsoletas</text>
+<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Estandarizar trabajo exploratorio o creativo en exceso reduce aprendizaje. Un SOP debe concentrarse en lo repetible, regulado o</text>
+<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >riesgoso y dejar claro dónde se requiere criterio.</text>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g109 d-g109" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g109">Ficha visual de la clase 109: Lenguaje financiero del gerente</title>
+<desc id="d-g109">Conceptos: devengo; ingreso; gasto; activo; cash flow. Método: traducir decisión a estado de resultados → identificar impacto en balance → modelar momento de caja → separar contable de económico → comprobar efecto en retorno y riesgo.</desc>
+<defs><marker id="p-g109" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 109 · Lenguaje financiero del gerente</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 09 · Gestión de negocio</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#8250df"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >devengo</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reconocimiento económico cuando se genera el derecho u</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obligación, no cuando entra o sale…</text>
+<circle cx="38" cy="184.12" r="5" fill="#8250df"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ingreso</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor reconocido por bienes o servicios según reglas</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >contables aplicables</text>
+<circle cx="38" cy="256.24" r="5" fill="#8250df"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >gasto</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >consumo de recursos reconocido en el periodo</text>
+<circle cx="38" cy="314.24" r="5" fill="#8250df"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >activo</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >recurso controlado del que se esperan beneficios</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >futuros</text>
+<circle cx="38" cy="386.36" r="5" fill="#8250df"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cash flow</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >movimiento real de efectivo en un periodo</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >traducir decisión a estado de</text>
+<text x="504" y="373.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resultados</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar impacto en balance</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >modelar momento de caja</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >separar contable de económico</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >comprobar efecto en retorno y</text>
+<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >riesgo</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revenue</text>
+<rect x="112.3" y="470.36" width="67.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="125.3" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="136.3" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >margen</text>
+<rect x="189.7" y="470.36" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="202.7" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="213.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >EBIT</text>
+<rect x="253.3" y="470.36" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="266.3" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="277.3" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash flow</text>
+<rect x="351.4" y="470.36" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="364.4" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="375.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROIC</text>
+<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe</text>
+<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >validarse con contabilidad y normas vigentes.</text>
+</svg>

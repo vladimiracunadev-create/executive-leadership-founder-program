@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 255: 1. definir número y evolución de owners → 2. comparar control y transferibilidad → 3. diseñar administración y representación → 4. redactar objeto y capital coherentes → 5. constituir y verificar registros](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir número y evolución de owners → 2. comparar control y transferibilidad → 3. diseñar administración y representación → 4. redactar objeto y capital coherentes → 5. constituir y verificar registros
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El RES facilita constitución y ciertas modificaciones de sociedades en Chile, pero elegir SpA, EIRL, Ltda. u otra forma requiere comprender ownership, administración, entrada y salida de socios y finalidad. Empresa en un día describe una vía de tramitación, no que todas las decisiones se resuelvan en un día.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe mejor sociedad universal. Estatutos, pactos y operación real importan; usa RES y BCN y asesoría profesional para decisiones con capital o socios.**
 

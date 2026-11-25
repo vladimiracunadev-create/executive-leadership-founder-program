@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 125: 1. recuperar problema cuantificado → 2. traducir capacidades a outcomes → 3. estimar beneficio y costo con supuestos → 4. añadir prueba relevante → 5. comparar contra no hacer y alternativas](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. recuperar problema cuantificado → 2. traducir capacidades a outcomes → 3. estimar beneficio y costo con supuestos → 4. añadir prueba relevante → 5. comparar contra no hacer y alternativas
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una propuesta de valor conecta problema, resultado, diferenciación y evidencia. Un business case traduce ese valor a economía del comprador: beneficio, costo, riesgo, timing y alternativa de no hacer nada. Funcionalidades solo importan en la medida en que habilitan un resultado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un business case no debe inventar ahorros ni atribuir todo el beneficio al proveedor. Usa rangos acordados con el comprador y deja visibles supuestos.**
 

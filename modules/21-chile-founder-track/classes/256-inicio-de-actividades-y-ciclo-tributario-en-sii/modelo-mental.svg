@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g256 d-g256" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g256">Ficha visual de la clase 256: Inicio de actividades y ciclo tributario en SII</title>
+<desc id="d-g256">Conceptos: inicio de actividades; giro; domicilio tributario; RUT; carpeta tributaria. Método: confirmar entidad y RUT → definir giros y domicilio → reunir antecedentes exigidos → realizar inicio y verificar estado → configurar documentos y calendario tributario.</desc>
+<defs><marker id="p-g256" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 256 · Inicio de actividades y ciclo tributario en SII</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 21 · Fundador, propietario e independencia</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#59636e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >inicio de actividades</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >declaración ante SII del comienzo de actividades</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >susceptibles de generar obligaciones…</text>
+<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >giro</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >actividad económica declarada ante SII</text>
+<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >domicilio tributario</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >dirección asociada al contribuyente para fines</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tributarios</text>
+<circle cx="38" cy="314.24" r="5" fill="#59636e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >RUT</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >identificador tributario usado en Chile</text>
+<circle cx="38" cy="372.24" r="5" fill="#59636e"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >carpeta tributaria</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de antecedentes tributarios consultables para</text>
+<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >determinados fines</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<path d="M485,122 V338" stroke="#59636e" stroke-width="2.5" stroke-opacity="0.35"/>
+<circle cx="485" cy="122" r="14" fill="#59636e"/>
+<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >confirmar entidad y RUT</text>
+<circle cx="485" cy="176" r="14" fill="#59636e"/>
+<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir giros y domicilio</text>
+<circle cx="485" cy="230" r="14" fill="#59636e"/>
+<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >reunir antecedentes exigidos</text>
+<circle cx="485" cy="284" r="14" fill="#59636e"/>
+<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >realizar inicio y verificar estado</text>
+<circle cx="485" cy="338" r="14" fill="#59636e"/>
+<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >configurar documentos y calendario tributario</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >SII registration status</text>
+<rect x="222.7" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="235.7" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="246.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >declared activities</text>
+<rect x="389.8" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="402.8" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="413.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pending verification</text>
+<rect x="563.8" y="470.36" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="576.8" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="587.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >document authorization</text>
+<rect x="751.6" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="764.6" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="775.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tax deadlines</text>
+<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Los pasos y antecedentes SII pueden cambiar y depender del caso. Verifica siempre requisitos actuales en sii.cl; el programa no</text>
+<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reemplaza asesoría tributaria.</text>
+</svg>

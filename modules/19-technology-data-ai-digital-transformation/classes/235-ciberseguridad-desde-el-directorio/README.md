@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 235: 1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El directorio debe supervisar ciberseguridad como riesgo empresarial: escenarios, activos críticos, tolerancia, inversión, respuesta y recuperación. Métricas técnicas solo son útiles si conectan con impacto y readiness para eventos plausibles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 231: 1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Cloud y plataformas cambian estructura de costos, elasticidad y velocidad, pero no garantizan ahorro. FinOps y unit economics ayudan a conectar consumo técnico con valor; egress, commitments, managed services y architecture pueden crear costos y lock-in materiales.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual.**
 

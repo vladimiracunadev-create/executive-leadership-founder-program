@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 066: 1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir outcomes y conductas al inicio → 2. observar y guardar ejemplos durante el periodo → 3. dar feedback cercano → 4. hacer check-ins y ajustar metas → 5. calibrar y cerrar evaluación con próximos pasos
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gestionar desempeño es un ciclo de expectativas, observación, feedback, desarrollo y consecuencias. La evaluación anual es solo una síntesis; esperar doce meses para señalar un problema es una falla de management. La evidencia debe centrarse en outcomes y conductas relacionadas con el rol.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar.**
 

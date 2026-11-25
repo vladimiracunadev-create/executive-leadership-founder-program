@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 242: 1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los problemas valiosos combinan frecuencia, intensidad, presupuesto, urgencia, accesibilidad del cliente y posibilidad de construir ventaja. Una idea interesante no es oportunidad hasta que existe evidencia de que alguien experimenta el problema y prioriza resolverlo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas; úsala como ventaja de aprendizaje inicial y luego valida tamaño y competencia antes de comprometer.**
 

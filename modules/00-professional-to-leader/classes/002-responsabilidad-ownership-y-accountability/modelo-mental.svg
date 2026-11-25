@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 648.48" width="1040" role="img" aria-labelledby="t-g2 d-g2" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g2">Ficha visual de la clase 002: Responsabilidad, ownership y accountability</title>
+<desc id="d-g2">Conceptos: ownership; accountability; responsabilidad; autoridad; handoff. Método: definir el outcome y su dueño → identificar tareas y dependencias → alinear autoridad con responsabilidad → establecer criterios de aceptación en handoffs → revisar desviaciones sin diluir accountability.</desc>
+<defs><marker id="p-g2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="648.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 002 · Responsabilidad, ownership y accountability</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 00 · Autoliderazgo y fundamentos ejecutivos</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ownership</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >disposición de proteger el resultado end-to-end incluso</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cuando parte del trabajo está fuera de…</text>
+<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >accountability</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obligación explícita de explicar resultado, decisiones</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >y desviaciones</text>
+<circle cx="38" cy="256.24" r="5" fill="#1a7f37"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >responsabilidad</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >deber asociado a una tarea o rol específico</text>
+<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >autoridad</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad formal o acordada para decidir y comprometer</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >recursos</text>
+<circle cx="38" cy="386.36" r="5" fill="#1a7f37"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >handoff</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >transferencia de trabajo o información entre</text>
+<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsables con criterios de aceptación</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#1a7f37"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir el outcome</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y su dueño</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#1a7f37"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar tareas</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y dependencias</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#1a7f37"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >alinear autoridad</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >con</text>
+<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >responsabilidad</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#1a7f37"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >establecer</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >criterios de</text>
+<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >aceptación en</text>
+<text x="880" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >handoffs</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#1a7f37"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >desviaciones sin</text>
+<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >diluir</text>
+<text x="692" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >accountability</text>
+<path d="M638,139 L656,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g2)"/>
+<path d="M826,139 L844,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g2)"/>
+<path d="M929,176 L929,222" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g2)"/>
+<path d="M844,259 L826,259" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g2)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#1a7f37" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g2)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="484.48" width="288.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >porcentaje de outcomes con owner único</text>
+<rect x="326.2" y="484.48" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="339.2" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="350.2" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >handoffs fallidos</text>
+<rect x="479.5" y="484.48" width="329.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="492.5" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="503.5" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones bloqueadas por falta de autoridad</text>
+<rect x="819.1" y="484.48" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="832.1" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="843.1" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retrabajo</text>
+<rect x="28" y="516.48" width="226.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="529.48" r="3.5" fill="#1a7f37"/>
+<text x="52" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acciones correctivas cerradas</text>
+<rect x="28" y="562.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="562.48" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="582.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="600.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Ownership no significa absorber todo el trabajo ni convertirse en héroe. Si responsabilidad y autoridad están desalineadas, el sistema</text>
+<text x="48" y="617.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >debe corregirse; la sobrecarga personal no es una solución de gobierno.</text>
+</svg>

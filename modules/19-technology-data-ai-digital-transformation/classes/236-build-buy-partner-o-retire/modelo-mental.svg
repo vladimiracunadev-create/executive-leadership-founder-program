@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-g236 d-g236" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g236">Ficha visual de la clase 236: Build, buy, partner o retire</title>
+<desc id="d-g236">Conceptos: build; buy; partner; retire; TCO. Método: definir capability y diferenciación → modelar time y TCO → analizar control data y lock-in → evaluar talent e integration → decidir y diseñar exit strategy.</desc>
+<defs><marker id="p-g236" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 236 · Build, buy, partner o retire</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 19 · Alta dirección y gobierno</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#cf222e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >build</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desarrollar capacidad internamente</text>
+<circle cx="38" cy="170" r="5" fill="#cf222e"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >buy</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >adquirir producto o servicio de mercado</text>
+<circle cx="38" cy="228" r="5" fill="#cf222e"/>
+<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >partner</text>
+<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >compartir capacidad o riesgo con tercero</text>
+<circle cx="38" cy="286" r="5" fill="#cf222e"/>
+<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >retire</text>
+<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >eliminar sistema o capability que ya no crea valor</text>
+<circle cx="38" cy="344" r="5" fill="#cf222e"/>
+<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >TCO</text>
+<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo total de propiedad durante ciclo de vida</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<path d="M485,122 V338" stroke="#cf222e" stroke-width="2.5" stroke-opacity="0.35"/>
+<circle cx="485" cy="122" r="14" fill="#cf222e"/>
+<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir capability y diferenciación</text>
+<circle cx="485" cy="176" r="14" fill="#cf222e"/>
+<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >modelar time y TCO</text>
+<circle cx="485" cy="230" r="14" fill="#cf222e"/>
+<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >analizar control data y lock-in</text>
+<circle cx="485" cy="284" r="14" fill="#cf222e"/>
+<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >evaluar talent e integration</text>
+<circle cx="485" cy="338" r="14" fill="#cf222e"/>
+<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >decidir y diseñar exit strategy</text>
+<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="428" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="41" cy="441" r="3.5" fill="#cf222e"/>
+<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-value</text>
+<rect x="153.7" y="428" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="166.7" cy="441" r="3.5" fill="#cf222e"/>
+<text x="177.7" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >TCO</text>
+<rect x="210.4" y="428" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="223.4" cy="441" r="3.5" fill="#cf222e"/>
+<text x="234.4" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >vendor concentration</text>
+<rect x="384.4" y="428" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="397.4" cy="441" r="3.5" fill="#cf222e"/>
+<text x="408.4" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >engineering capacity</text>
+<rect x="558.4" y="428" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="571.4" cy="441" r="3.5" fill="#cf222e"/>
+<text x="582.4" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >switching cost</text>
+<rect x="28" y="474" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="474" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="494" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="512" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser</text>
+<text x="48" y="529.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >más costosa que desarrollar.</text>
+</svg>

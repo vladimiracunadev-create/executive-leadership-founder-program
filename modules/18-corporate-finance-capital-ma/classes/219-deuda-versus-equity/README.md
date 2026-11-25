@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 219: 1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. proyectar cash y downside → 2. medir capacidad de servicio → 3. cuantificar dilution y control → 4. comparar términos y flexibilidad → 5. seleccionar mezcla y plan B
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Deuda y equity distribuyen riesgo, control y retorno de forma distinta. Deuda exige pagos y puede ser más barata; equity absorbe pérdidas y diluye propiedad. La decisión debe considerar runway, volatilidad, etapa, garantías, covenants y valor de opción.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Comparar solo tasa versus porcentaje de equity es incompleto. Equity puede ser caro si el negocio escala; deuda puede ser fatal si cash es incierto. Modela escenarios.**
 

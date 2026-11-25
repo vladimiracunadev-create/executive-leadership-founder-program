@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g270 d-g270" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g270">Ficha visual de la clase 270: Gobierno proporcional al tamaño</title>
+<desc id="d-g270">Conceptos: governance maturity; advisory board; reserved matters; board cadence; governance threshold. Método: mapear owners y riesgos → definir reserved matters → crear reporting y cadence mínima → añadir independientes y committees al umbral → revisar governance anualmente.</desc>
+<defs><marker id="p-g270" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 270 · Gobierno proporcional al tamaño</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 22 · Fundador, propietario e independencia</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#59636e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >governance maturity</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de formalización adecuado a ownership y</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >complejidad</text>
+<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >advisory board</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grupo sin las mismas facultades legales de un</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >directorio formal que aporta consejo</text>
+<circle cx="38" cy="256.24" r="5" fill="#59636e"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reserved matters</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisiones que propietarios o board retienen</text>
+<circle cx="38" cy="314.24" r="5" fill="#59636e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board cadence</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >frecuencia y agenda regular de governance</text>
+<circle cx="38" cy="372.24" r="5" fill="#59636e"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >governance threshold</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evento de escala o riesgo que justifica mayor</text>
+<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >formalización</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#59636e"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear owners y</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >riesgos</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#59636e"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir reserved</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >matters</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#59636e"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear reporting y</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cadence mínima</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#59636e"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >añadir</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >independientes y</text>
+<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >committees al</text>
+<text x="880" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >umbral</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#59636e"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar governance</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >anualmente</text>
+<path d="M638,139 L656,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g270)"/>
+<path d="M826,139 L844,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g270)"/>
+<path d="M929,176 L929,222" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g270)"/>
+<path d="M844,259 L826,259" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g270)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g270)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >owner concentration</text>
+<rect x="195.1" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="208.1" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="219.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >board cadence</text>
+<rect x="320.8" y="470.36" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="333.8" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="344.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reserved-matter compliance</text>
+<rect x="536.2" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="549.2" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="560.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >related-party issues</text>
+<rect x="710.2" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="723.2" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="734.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision quality</text>
+<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran</text>
+<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones.</text>
+</svg>

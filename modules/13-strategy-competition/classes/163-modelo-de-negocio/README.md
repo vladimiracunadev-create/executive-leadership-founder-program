@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 163: 1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El modelo de negocio describe cómo una organización crea, entrega y captura valor. Canvas y otras representaciones ayudan a ver interdependencias entre cliente, propuesta, canales, actividades, recursos, socios, ingresos y costos; el análisis ejecutivo debe añadir economics y evidencia, no llenar casillas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis.**
 

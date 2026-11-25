@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 230: 1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Estrategia digital no es digitalizar procesos existentes por defecto; decide cómo tecnología y datos cambian propuesta de valor, canales, economics, operating model y ventaja. Debe integrarse a estrategia empresarial, no vivir como roadmap de CIO aislado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología.**
 

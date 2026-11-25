@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 159: 1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El análisis de industria estudia cómo estructura, poder y sustitución condicionan rentabilidad. Las cinco fuerzas de Porter no puntúan atractividad en abstracto: ayudan a entender mecanismos de valor, poder de negociación, barreras y respuesta competitiva para decidir posición.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas.**
 

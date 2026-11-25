@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 281: 1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Productos digitales y propiedad intelectual desacoplan parte del ingreso del tiempo mediante software, cursos, templates, datasets o licencias. El desafío es distribución, mantenimiento, soporte, copyright y licensing y evidencia de que existe un mercado, no solo producir archivos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo.**
 

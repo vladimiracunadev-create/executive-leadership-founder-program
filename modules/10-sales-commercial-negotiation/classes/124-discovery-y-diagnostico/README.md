@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 124: 1. preparar hipótesis sin asumir → 2. preguntar situación mínima necesaria → 3. profundizar problema e impacto → 4. cuantificar costo de inacción → 5. mapear decisión y acordar siguiente paso](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. preparar hipótesis sin asumir → 2. preguntar situación mínima necesaria → 3. profundizar problema e impacto → 4. cuantificar costo de inacción → 5. mapear decisión y acordar siguiente paso
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Discovery busca comprender situación, problema, impacto, proceso de decisión y criterios antes de prescribir. SPIN distingue situación, problema, implicación y necesidad-beneficio; en ventas complejas también importa quién decide, cómo compra y qué pasa si no cambia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Discovery no debe convertirse en interrogatorio manipulativo ni en terapia gratuita interminable. Entrega valor y respeta cuando no existe fit o urgencia suficiente.**
 

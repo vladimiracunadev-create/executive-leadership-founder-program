@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 038: 1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. reconocer señal corporal y trigger → 2. nombrar emoción y objetivo → 3. crear pausa física o temporal → 4. elegir reencuadre y respuesta → 5. revisar después si la respuesta produjo el resultado
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Autorregulación no es reprimir emociones; es crear espacio entre activación y acción para elegir una respuesta acorde al objetivo. Bajo presión, la fisiología estrecha atención y aumenta respuestas habituales. Técnicas de pausa, etiquetado, reencuadre y preparación de triggers permiten conservar capacidad ejecutiva.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo.**
 

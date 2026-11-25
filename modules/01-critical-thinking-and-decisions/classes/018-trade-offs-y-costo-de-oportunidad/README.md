@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 018: 1. definir recurso escaso → 2. listar alternativas mutuamente excluyentes → 3. estimar beneficio y costo de oportunidad → 4. comparar reversibilidad y timing → 5. documentar qué se deja de hacer](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir recurso escaso → 2. listar alternativas mutuamente excluyentes → 3. estimar beneficio y costo de oportunidad → 4. comparar reversibilidad y timing → 5. documentar qué se deja de hacer
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Todo trade-off convierte una prioridad en una renuncia observable. El costo de oportunidad es el valor de la mejor alternativa descartada, no solo el gasto monetario. Hacer explícitos estos costos evita estrategias donde todo es importante y presupuestos donde cada iniciativa parece justificarse aisladamente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo dilema es un trade-off permanente. A veces una innovación cambia la frontera; antes de aceptar la renuncia como inevitable, pregunta si diseño, secuencia o tecnología pueden aliviarla.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 076: 1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Estimar combina incertidumbre de trabajo, capacidad y variabilidad. Una estimación es una distribución o rango, no una promesa automática. Equipos maduros distinguen effort, duration y throughput, calibran con historia y actualizan forecast a medida que aparece evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto.**
 

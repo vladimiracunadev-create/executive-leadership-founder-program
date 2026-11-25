@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 157: 1. definir desafío y evidencia → 2. formular diagnóstico causal → 3. generar políticas alternativas → 4. hacer trade-offs explícitos → 5. alinear acciones y métricas](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir desafío y evidencia → 2. formular diagnóstico causal → 3. generar políticas alternativas → 4. hacer trade-offs explícitos → 5. alinear acciones y métricas
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Estrategia es un conjunto coherente de elecciones para enfrentar un desafío y crear ventaja; no es una lista de metas, valores o iniciativas. Rumelt distingue diagnóstico, guiding policy y acciones coherentes; Porter enfatiza posición, trade-offs y fit. La clase entrena a convertir aspiraciones en elecciones que excluyen alternativas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una estrategia muy cerrada puede volverse frágil ante cambios. Las elecciones deben ser claras pero acompañadas de supuestos, señales de revisión y opciones contingentes.**
 

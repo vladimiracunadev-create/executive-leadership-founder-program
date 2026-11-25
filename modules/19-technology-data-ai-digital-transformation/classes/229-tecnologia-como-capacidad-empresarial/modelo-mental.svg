@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g229 d-g229" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g229">Ficha visual de la clase 229: Tecnología como capacidad empresarial</title>
+<desc id="d-g229">Conceptos: business capability; technology asset; technical dependency; platform; technology portfolio. Método: partir de outcomes de negocio → mapear capabilities y tech enablers → identificar bottlenecks y debt → priorizar inversiones por value y risk → medir outcome y retire legacy.</desc>
+<defs><marker id="p-g229" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 229 · Tecnología como capacidad empresarial</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 19 · Alta dirección y gobierno</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#cf222e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >business capability</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >habilidad organizacional necesaria para lograr un</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >outcome</text>
+<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >technology asset</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >sistema o plataforma que habilita capacidades</text>
+<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >technical dependency</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >relación donde una capacidad depende de tecnología</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >específica</text>
+<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >platform</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto reutilizable de servicios que acelera</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >múltiples productos</text>
+<circle cx="38" cy="386.36" r="5" fill="#cf222e"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >technology portfolio</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cartera de sistemas e inversiones gestionada por valor</text>
+<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >y riesgo</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >partir de outcomes de negocio</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear capabilities y tech enablers</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar bottlenecks y debt</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >priorizar inversiones por value y</text>
+<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >risk</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >medir outcome y retire legacy</text>
+<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="484.48" width="233" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="41" cy="497.48" r="3.5" fill="#cf222e"/>
+<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >technology spend by capability</text>
+<rect x="271" y="484.48" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="284" cy="497.48" r="3.5" fill="#cf222e"/>
+<text x="295" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >availability</text>
+<rect x="389.8" y="484.48" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="402.8" cy="497.48" r="3.5" fill="#cf222e"/>
+<text x="413.8" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >lead time</text>
+<rect x="487.9" y="484.48" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="500.9" cy="497.48" r="3.5" fill="#cf222e"/>
+<text x="511.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost-to-serve</text>
+<rect x="613.6" y="484.48" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="626.6" cy="497.48" r="3.5" fill="#cf222e"/>
+<text x="637.6" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >legacy risk</text>
+<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todo valor tecnológico se traduce inmediatamente a revenue. Resiliencia, compliance y option value requieren lenguaje económico</text>
+<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >distinto, pero igualmente explícito.</text>
+</svg>

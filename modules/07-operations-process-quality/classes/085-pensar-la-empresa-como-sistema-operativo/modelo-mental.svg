@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g85 d-g85" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g85">Ficha visual de la clase 085: Pensar la empresa como sistema operativo</title>
+<desc id="d-g85">Conceptos: operating system; flow; capacity; control loop; operating rhythm. Método: mapear demanda a outcome → identificar flujos end-to-end → medir capacidad y cuellos → definir controles y decision rights → instalar cadencias de revisión.</desc>
+<defs><marker id="p-g85" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 085 · Pensar la empresa como sistema operativo</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 07 · Liderazgo de equipos y ejecución</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#0969da"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >operating system</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de procesos, cadencias, roles y controles que</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ejecutan la estrategia</text>
+<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >flow</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >movimiento de trabajo o valor a través del sistema</text>
+<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >capacity</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ritmo sostenible de producción</text>
+<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >control loop</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mecanismo que compara resultado con estándar y corrige</text>
+<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
+<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >operating rhythm</text>
+<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cadencia de coordinación y revisión</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#0969da"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear demanda a outcome</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#0969da"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar flujos end-to-end</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#0969da"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >medir capacidad y cuellos</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#0969da"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir controles y decision rights</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#0969da"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >instalar cadencias de revisión</text>
+<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >throughput</text>
+<rect x="133" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="146" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="157" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cycle time</text>
+<rect x="238" y="442.12" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="251" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="262" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >backlog</text>
+<rect x="322.3" y="442.12" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="335.3" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="346.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quality</text>
+<rect x="406.6" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="419.6" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="430.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >service reliability</text>
+<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos</text>
+<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >donde todavía existe aprendizaje.</text>
+</svg>

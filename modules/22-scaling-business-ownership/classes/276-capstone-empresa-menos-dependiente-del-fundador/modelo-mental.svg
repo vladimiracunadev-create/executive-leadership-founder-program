@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g276 d-g276" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g276">Ficha visual de la clase 276: Capstone: empresa menos dependiente del fundador</title>
+<desc id="d-g276">Conceptos: founder independence; operating autonomy; continuity test; exception protocol; institutional memory. Método: mapear dependencies → instalar leaders y process owners → definir guardrails y dashboard → ejecutar 2 a 4 week absence simulation → analizar failures y remediar.</desc>
+<defs><marker id="p-g276" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 276 · Capstone: empresa menos dependiente del fundador</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 22 · Fundador, propietario e independencia</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#59636e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >founder independence</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado en que negocio opera sin intervención cotidiana</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >del founder</text>
+<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >operating autonomy</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de equipos y líderes para decidir dentro de</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límites</text>
+<circle cx="38" cy="256.24" r="5" fill="#59636e"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >continuity test</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ejercicio de ausencia planificada del owner</text>
+<circle cx="38" cy="314.24" r="5" fill="#59636e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >exception protocol</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reglas para contactar al owner solo ante eventos</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >definidos</text>
+<circle cx="38" cy="386.36" r="5" fill="#59636e"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >institutional memory</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conocimiento preservado en sistemas personas y</text>
+<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >documentación</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<path d="M485,122 V338" stroke="#59636e" stroke-width="2.5" stroke-opacity="0.35"/>
+<circle cx="485" cy="122" r="14" fill="#59636e"/>
+<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear dependencies</text>
+<circle cx="485" cy="176" r="14" fill="#59636e"/>
+<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >instalar leaders y process owners</text>
+<circle cx="485" cy="230" r="14" fill="#59636e"/>
+<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir guardrails y dashboard</text>
+<circle cx="485" cy="284" r="14" fill="#59636e"/>
+<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >ejecutar 2 a 4 week absence simulation</text>
+<circle cx="485" cy="338" r="14" fill="#59636e"/>
+<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >analizar failures y remediar</text>
+<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="484.48" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="41" cy="497.48" r="3.5" fill="#59636e"/>
+<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >owner contacts during test</text>
+<rect x="243.4" y="484.48" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="256.4" cy="497.48" r="3.5" fill="#59636e"/>
+<text x="267.4" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >service continuity</text>
+<rect x="403.6" y="484.48" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="416.6" cy="497.48" r="3.5" fill="#59636e"/>
+<text x="427.6" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision backlog</text>
+<rect x="550" y="484.48" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="563" cy="497.48" r="3.5" fill="#59636e"/>
+<text x="574" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash-control incidents</text>
+<rect x="737.8" y="484.48" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="750.8" cy="497.48" r="3.5" fill="#59636e"/>
+<text x="761.8" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >leader confidence</text>
+<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor</text>
+<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >versus dependencia involuntaria.</text>
+</svg>

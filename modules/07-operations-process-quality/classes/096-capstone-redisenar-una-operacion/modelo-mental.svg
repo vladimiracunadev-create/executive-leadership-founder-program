@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g96 d-g96" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g96">Ficha visual de la clase 096: Capstone: rediseñar una operación</title>
+<desc id="d-g96">Conceptos: target operating model; baseline; future state; benefit case; transition plan. Método: medir baseline end-to-end → identificar constraint y causas → diseñar future state → calcular beneficio y riesgos → pilotear, migrar y estabilizar.</desc>
+<defs><marker id="p-g96" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 096 · Capstone: rediseñar una operación</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 07 · Liderazgo de equipos y ejecución</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#0969da"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >target operating model</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diseño futuro de procesos, roles, tecnología y</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >controles</text>
+<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >baseline</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >medición del sistema antes de intervenir</text>
+<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >future state</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >flujo objetivo con hipótesis de mejora</text>
+<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >benefit case</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor esperado versus costo y riesgo</text>
+<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
+<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >transition plan</text>
+<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >secuencia para migrar sin interrumpir servicio</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
+<circle cx="485" cy="122" r="14" fill="#0969da"/>
+<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >medir baseline end-to-end</text>
+<circle cx="485" cy="176" r="14" fill="#0969da"/>
+<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar constraint y causas</text>
+<circle cx="485" cy="230" r="14" fill="#0969da"/>
+<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diseñar future state</text>
+<circle cx="485" cy="284" r="14" fill="#0969da"/>
+<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >calcular beneficio y riesgos</text>
+<circle cx="485" cy="338" r="14" fill="#0969da"/>
+<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >pilotear, migrar y estabilizar</text>
+<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="442.12" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >lead time</text>
+<rect x="126.1" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="139.1" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="150.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >throughput</text>
+<rect x="231.1" y="442.12" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="244.1" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="255.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quality</text>
+<rect x="315.4" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="328.4" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="339.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost-to-serve</text>
+<rect x="441.1" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="454.1" cy="455.12" r="3.5" fill="#0969da"/>
+<text x="465.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resilience</text>
+<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con</text>
+<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pilotos antes de cambios irreversibles.</text>
+</svg>

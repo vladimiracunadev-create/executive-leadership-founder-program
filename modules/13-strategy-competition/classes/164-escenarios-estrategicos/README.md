@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 164: 1. identificar fuerzas y certezas → 2. seleccionar incertidumbres materiales → 3. construir escenarios contrastantes → 4. stress-test estrategia y economics → 5. definir robust moves opciones y signposts](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. identificar fuerzas y certezas → 2. seleccionar incertidumbres materiales → 3. construir escenarios contrastantes → 4. stress-test estrategia y economics → 5. definir robust moves opciones y signposts
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La planificación por escenarios no intenta predecir un futuro único. Construye futuros plausibles alrededor de incertidumbres críticas para probar robustez de una estrategia, identificar señales tempranas y preparar opciones. Un escenario útil cambia decisiones hoy.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Escenarios demasiado narrativos se vuelven ficción corporativa. Limita número, cuantifica impactos cuando sea posible y vincula cada escenario a decisiones y señales.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 144: 1. seleccionar beachhead → 2. definir positioning y offer → 3. diseñar channel/sales motion → 4. instrumentar funnel y economics → 5. iterar desde wins, losses y retention](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. seleccionar beachhead → 2. definir positioning y offer → 3. diseñar channel/sales motion → 4. instrumentar funnel y economics → 5. iterar desde wins, losses y retention
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone go-to-market integra segmentación, posicionamiento, oferta, canales, funnel, ventas y retención. Un GTM no es solo campaña de lanzamiento: define cómo una organización crea, comunica, captura y sostiene demanda de manera repetible.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No escales un GTM antes de señal de fit. Aumentar gasto sobre un mensaje, segmento o producto inestable multiplica desperdicio.**
 

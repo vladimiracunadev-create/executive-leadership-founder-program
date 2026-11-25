@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 023: 1. recuperar objetivo y expectativas originales → 2. reconstruir resultados sin juicio prematuro → 3. explicar brechas con evidencia → 4. seleccionar aprendizaje transferible → 5. asignar cambio y verificar en siguiente ciclo](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. recuperar objetivo y expectativas originales → 2. reconstruir resultados sin juicio prematuro → 3. explicar brechas con evidencia → 4. seleccionar aprendizaje transferible → 5. asignar cambio y verificar en siguiente ciclo
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El After Action Review convierte ejecución en aprendizaje mediante cuatro preguntas: qué esperábamos, qué ocurrió, por qué existe la diferencia y qué cambiaremos. Funciona mejor cuando separa responsabilidad de culpa y produce una o dos modificaciones comprobables, no una lista de buenas intenciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un AAR sin seguridad psicológica se convierte en teatro defensivo. También puede fallar por exceso de lecciones; prioriza cambios pequeños y verificables antes que documentos extensos.**
 

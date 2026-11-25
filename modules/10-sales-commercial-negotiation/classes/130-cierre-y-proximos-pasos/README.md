@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 130: 1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Cerrar significa convertir intención en compromiso verificable: términos acordados, proceso contractual, responsables y siguiente acción. Presionar por un 'sí' sin resolver procurement, legal o implementación crea falsos cierres. En ventas complejas, close plan compartido es más útil que técnicas de presión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn.**
 

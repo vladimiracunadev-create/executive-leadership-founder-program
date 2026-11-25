@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 243: 1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Customer discovery para founder debe producir evidencia que cambie una decisión de negocio: problema, buyer, user, trigger, proceso de compra, alternativas y willingness to pay. La disciplina es buscar contradicciones, no acumular cumplidos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso.**
 

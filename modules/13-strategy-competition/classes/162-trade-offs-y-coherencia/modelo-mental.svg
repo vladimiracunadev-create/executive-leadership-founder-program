@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g162 d-g162" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g162">Ficha visual de la clase 162: Trade-offs y coherencia</title>
+<desc id="d-g162">Conceptos: trade-off; fit; activity system; straddling; strategic consistency. Método: declarar posición deseada → listar actividades necesarias → identificar incompatibilidades → mapear refuerzos y dependencias → eliminar iniciativas que erosionan fit.</desc>
+<defs><marker id="p-g162" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 162 · Trade-offs y coherencia</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >trade-off</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >elección donde perseguir una opción limita otra</text>
+<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >fit</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado en que actividades se refuerzan como sistema</text>
+<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
+<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >activity system</text>
+<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mapa de actividades que materializan una posición</text>
+<circle cx="38" cy="286" r="5" fill="#bc4c00"/>
+<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >straddling</text>
+<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intento de ocupar posiciones incompatibles</text>
+<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >simultáneamente</text>
+<circle cx="38" cy="358.12" r="5" fill="#bc4c00"/>
+<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategic consistency</text>
+<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >coherencia entre propuesta operaciones y recursos</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >declarar posición</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >deseada</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >listar actividades</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >necesarias</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >incompatibilidades</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear refuerzos y</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >dependencias</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >eliminar</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >iniciativas que</text>
+<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >erosionan fit</text>
+<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g162)"/>
+<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g162)"/>
+<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g162)"/>
+<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g162)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g162)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="442.12" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="455.12" r="3.5" fill="#bc4c00"/>
+<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >exception count</text>
+<rect x="167.5" y="442.12" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="180.5" cy="455.12" r="3.5" fill="#bc4c00"/>
+<text x="191.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >segment profitability</text>
+<rect x="348.4" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="361.4" cy="455.12" r="3.5" fill="#bc4c00"/>
+<text x="372.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >operational complexity</text>
+<rect x="536.2" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="549.2" cy="455.12" r="3.5" fill="#bc4c00"/>
+<text x="560.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resource fragmentation</text>
+<rect x="724" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="737" cy="455.12" r="3.5" fill="#bc4c00"/>
+<text x="748" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >position clarity</text>
+<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis</text>
+<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estratégica cambia, no protegerse por identidad.</text>
+</svg>

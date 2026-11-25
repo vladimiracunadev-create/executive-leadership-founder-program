@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g221 d-g221" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g221">Ficha visual de la clase 221: Múltiplos y comparables</title>
+<desc id="d-g221">Conceptos: enterprise value; equity value; trading multiple; comparable company; normalization. Método: elegir métrica consistente → definir peer set por economics → normalizar estados → comparar growth margin y risk → aplicar rango y reconciliar con DCF.</desc>
+<defs><marker id="p-g221" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 221 · Múltiplos y comparables</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 18 · Alta dirección y gobierno</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#cf222e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >enterprise value</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor de operaciones para todos los financiadores</text>
+<circle cx="38" cy="170" r="5" fill="#cf222e"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >equity value</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor residual atribuible a accionistas</text>
+<circle cx="38" cy="228" r="5" fill="#cf222e"/>
+<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >trading multiple</text>
+<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >relación entre valor de mercado y métrica financiera</text>
+<circle cx="38" cy="286" r="5" fill="#cf222e"/>
+<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >comparable company</text>
+<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >empresa con economics y riesgo comparables</text>
+<circle cx="38" cy="344" r="5" fill="#cf222e"/>
+<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >normalization</text>
+<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ajuste de métricas para eliminar distorsiones no</text>
+<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >recurrentes</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >elegir métrica consistente</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir peer set por economics</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >normalizar estados</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >comparar growth margin y risk</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >aplicar rango y reconciliar con DCF</text>
+<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="41" cy="455.12" r="3.5" fill="#cf222e"/>
+<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >EV-Revenue</text>
+<rect x="133" y="442.12" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="146" cy="455.12" r="3.5" fill="#cf222e"/>
+<text x="157" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >EV-EBITDA</text>
+<rect x="231.1" y="442.12" width="67.4" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="244.1" cy="455.12" r="3.5" fill="#cf222e"/>
+<text x="255.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >growth</text>
+<rect x="308.5" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="321.5" cy="455.12" r="3.5" fill="#cf222e"/>
+<text x="332.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >gross margin</text>
+<rect x="427.3" y="442.12" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="440.3" cy="455.12" r="3.5" fill="#cf222e"/>
+<text x="451.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >net debt</text>
+<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis</text>
+<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >económico.</text>
+</svg>

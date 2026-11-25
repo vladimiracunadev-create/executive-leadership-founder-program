@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g194 d-g194" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g194">Ficha visual de la clase 194: Pensar a nivel empresa</title>
+<desc id="d-g194">Conceptos: enterprise value; portfolio view; cross-subsidy; system constraint; enterprise trade-off. Método: mapear value drivers → identificar restricciones del sistema → comparar impactos interfuncionales → modelar corto y largo plazo → decidir y comunicar trade-off.</desc>
+<defs><marker id="p-g194" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 194 · Pensar a nivel empresa</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 16 · Alta dirección y gobierno</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#cf222e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >enterprise value</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor económico y estratégico del sistema completo</text>
+<circle cx="38" cy="170" r="5" fill="#cf222e"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >portfolio view</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >perspectiva comparativa de negocios productos o</text>
+<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidades</text>
+<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cross-subsidy</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >uso deliberado de recursos de una unidad para apoyar</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >otra</text>
+<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >system constraint</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cuello que limita desempeño total</text>
+<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >enterprise trade-off</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >elección donde mejorar una parte puede empeorar otra</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#cf222e"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear value</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >drivers</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#cf222e"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >restricciones del</text>
+<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >sistema</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#cf222e"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comparar impactos</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >interfuncionales</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#cf222e"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >modelar corto y</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >largo plazo</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#cf222e"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >decidir y</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comunicar trade-</text>
+<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >off</text>
+<path d="M638,139 L656,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g194)"/>
+<path d="M826,139 L844,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g194)"/>
+<path d="M929,176 L929,222" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g194)"/>
+<path d="M844,259 L826,259" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g194)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#cf222e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g194)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#cf222e"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >enterprise cash</text>
+<rect x="167.5" y="456.24" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="180.5" cy="469.24" r="3.5" fill="#cf222e"/>
+<text x="191.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROIC</text>
+<rect x="231.1" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="244.1" cy="469.24" r="3.5" fill="#cf222e"/>
+<text x="255.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer value</text>
+<rect x="363.7" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="376.7" cy="469.24" r="3.5" fill="#cf222e"/>
+<text x="387.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >talent capacity</text>
+<rect x="503.2" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="516.2" cy="469.24" r="3.5" fill="#cf222e"/>
+<text x="527.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >risk-adjusted return</text>
+<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización</text>
+<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >queda subordinada a objetivos y límites del sistema.</text>
+</svg>

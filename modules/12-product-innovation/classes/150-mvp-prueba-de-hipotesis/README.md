@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 150: 1. identificar hipótesis de mayor riesgo → 2. definir población y comportamiento esperado → 3. diseñar MVP mínimo viable → 4. predefinir umbral de decisión → 5. ejecutar medir y decidir](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. identificar hipótesis de mayor riesgo → 2. definir población y comportamiento esperado → 3. diseñar MVP mínimo viable → 4. predefinir umbral de decisión → 5. ejecutar medir y decidir
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un MVP no es la primera versión pequeña de todo el producto; es el mínimo experimento o producto que permite obtener evidencia sobre una hipótesis crítica en condiciones suficientemente reales. Su diseño debe declarar qué aprenderá, de quién y qué resultado cambiará la decisión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un MVP no justifica exponer usuarios a inseguridad, incumplimiento o daño. En dominios regulados, la mínima versión debe respetar controles no negociables aunque eso aumente el costo.**
 

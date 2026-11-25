@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 259: 1. seleccionar medios por cliente y costo → 2. definir cuentas y roles → 3. mapear settlement y fees → 4. implementar approvals y reconciliation → 5. monitorear fraude y chargebacks](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. seleccionar medios por cliente y costo → 2. definir cuentas y roles → 3. mapear settlement y fees → 4. implementar approvals y reconciliation → 5. monitorear fraude y chargebacks
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Cuenta bancaria, adquirencia y medios de cobro son parte del diseño de caja y control. El founder debe separar fondos empresariales, conocer settlement, chargebacks, comisiones y conciliación, y evitar que una sola credencial concentre toda capacidad de pago.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Productos bancarios y condiciones cambian por proveedor. Compara contratos, seguridad y costos vigentes y no dependas de una sola persona para accesos críticos.**
 

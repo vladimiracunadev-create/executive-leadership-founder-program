@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 036: 1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Comunicar una decisión impopular exige explicar contexto, criterio, decisión, impacto y próximos pasos sin esconder el costo humano. La empatía no consiste en prometer que todos estarán de acuerdo; consiste en reconocer consecuencias, permitir preguntas y mantener coherencia entre palabras y acciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir.**
 

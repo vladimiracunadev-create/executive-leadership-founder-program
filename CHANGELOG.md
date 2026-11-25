@@ -29,9 +29,11 @@
   datos, claves de respuesta y límites declarados.
 - **Cada una lleva un diagrama SVG propio** que dibuja ese marco (diagrama de Venn
   de tres atributos, escalera de escalamiento con roles, modelo causal de
-  confianza, matriz de atribución de responsabilidad). Las demás clases **no
-  llevan diagrama** hasta tener uno que ayude a entender: se retiran los 288
-  esquemas idénticos anteriores.
+  confianza, matriz de atribución de responsabilidad).
+- **Las otras 284 clases llevan una ficha visual** en lugar del esquema idéntico
+  anterior: muestra los conceptos reales de la clase con su definición, la
+  secuencia del método en cuatro diseños distintos, las señales a observar y el
+  límite. Se regenera con la clase.
 - **Nueve fuentes verificadas** (DOI e ISBN comprobados) entran al registro.
 - Una clase con `authoring: manual` en su `lesson.yaml` no la regenera
   `deep_curriculum_builder.py`.

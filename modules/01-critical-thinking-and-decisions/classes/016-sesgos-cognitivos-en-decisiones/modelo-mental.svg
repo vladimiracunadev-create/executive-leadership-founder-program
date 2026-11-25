@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 648.48" width="1040" role="img" aria-labelledby="t-g16 d-g16" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g16">Ficha visual de la clase 016: Sesgos cognitivos en decisiones</title>
+<desc id="d-g16">Conceptos: sesgo de confirmación; anclaje; disponibilidad; exceso de confianza; sesgo retrospectivo. Método: identificar decisión y sesgos plausibles → obtener estimaciones independientes → usar tasas base antes de historias particulares → crear una voz de desacuerdo o premortem → comparar predicción con resultado sin hindsight.</desc>
+<defs><marker id="p-g16" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="648.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 016 · Sesgos cognitivos en decisiones</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 01 · Autoliderazgo y fundamentos ejecutivos</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >sesgo de confirmación</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tendencia a buscar o valorar más evidencia compatible</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >con una creencia previa</text>
+<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >anclaje</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >influencia excesiva de un valor inicial sobre</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estimaciones posteriores</text>
+<circle cx="38" cy="256.24" r="5" fill="#1a7f37"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >disponibilidad</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >sobreponderación de ejemplos fáciles de recordar</text>
+<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >exceso de confianza</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intervalos de certeza demasiado estrechos respecto del</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >error real</text>
+<circle cx="38" cy="386.36" r="5" fill="#1a7f37"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >sesgo retrospectivo</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >percepción posterior de que un resultado era más</text>
+<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >predecible de lo que realmente fue</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<path d="M485,122 V338" stroke="#1a7f37" stroke-width="2.5" stroke-opacity="0.35"/>
+<circle cx="485" cy="122" r="14" fill="#1a7f37"/>
+<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar decisión y sesgos plausibles</text>
+<circle cx="485" cy="176" r="14" fill="#1a7f37"/>
+<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >obtener estimaciones independientes</text>
+<circle cx="485" cy="230" r="14" fill="#1a7f37"/>
+<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >usar tasas base antes de historias particulares</text>
+<circle cx="485" cy="284" r="14" fill="#1a7f37"/>
+<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >crear una voz de desacuerdo o premortem</text>
+<circle cx="485" cy="338" r="14" fill="#1a7f37"/>
+<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >comparar predicción con resultado sin hindsight</text>
+<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="484.48" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >error de forecast</text>
+<rect x="181.3" y="484.48" width="219.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="194.3" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="205.3" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dispersión entre estimadores</text>
+<rect x="410.5" y="484.48" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="423.5" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="434.5" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >intervalos de confianza</text>
+<rect x="605.2" y="484.48" width="384.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="618.2" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="629.2" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >frecuencia de cambios después de evidencia contraria</text>
+<rect x="28" y="516.48" width="315.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="529.48" r="3.5" fill="#1a7f37"/>
+<text x="52" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >predicciones registradas versus resultados</text>
+<rect x="353.8" y="516.48" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="366.8" cy="529.48" r="3.5" fill="#1a7f37"/>
+<text x="377.8" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >independent-check coverage</text>
+<rect x="569.2" y="516.48" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="582.2" cy="529.48" r="3.5" fill="#1a7f37"/>
+<text x="593.2" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >undisclosed-interest flag</text>
+<rect x="28" y="562.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="562.48" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="582.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="600.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Debiasing no elimina sesgos ni convierte decisiones en matemática pura. Algunos atajos son útiles bajo presión; la inversión en</text>
+<text x="48" y="617.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >proceso debe ser proporcional al costo e irreversibilidad de la decisión.</text>
+</svg>

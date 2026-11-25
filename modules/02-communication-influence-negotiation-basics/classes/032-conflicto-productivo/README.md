@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 032: 1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El conflicto productivo confronta ideas, prioridades y supuestos sin degradar dignidad ni seguridad. Requiere reglas que permitan disentir y luego comprometerse con la decisión. Evitar todo conflicto produce acuerdos superficiales; permitir conflicto personal destruye información y confianza.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de cierre consume energía y crea ambigüedad.**
 

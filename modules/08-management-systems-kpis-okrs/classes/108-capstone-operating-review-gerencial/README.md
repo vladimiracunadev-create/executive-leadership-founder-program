@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 108: 1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El operating review gerencial integra KPI, forecast, portfolio, recursos, riesgos y decisiones en una conversación de negocio. El capstone evalúa si el gerente puede pasar de explicar el pasado a decidir el futuro con una visión integrada y sin esconder malas noticias.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto.**
 

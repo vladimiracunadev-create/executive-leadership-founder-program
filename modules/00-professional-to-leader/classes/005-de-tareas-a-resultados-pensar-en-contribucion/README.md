@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 005: 1. nombrar el outcome externo → 2. mapear qué outputs lo habilitan → 3. eliminar actividades sin conexión defendible → 4. acordar criterios de calidad y tiempo → 5. medir si la contribución ocurrió realmente](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. nombrar el outcome externo → 2. mapear qué outputs lo habilitan → 3. eliminar actividades sin conexión defendible → 4. acordar criterios de calidad y tiempo → 5. medir si la contribución ocurrió realmente
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pensar en contribución desplaza la pregunta de '¿qué tarea me asignaron?' hacia '¿qué cambio necesita el sistema y cómo mi trabajo lo habilita?'. Drucker propone enfocarse en resultados exteriores al puesto; en práctica esto exige conectar actividades con cliente, operación, riesgo o aprendizaje y eliminar trabajo que no cambia ninguna decisión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo valor es inmediatamente cuantificable. Capacidades, confianza, aprendizaje y prevención pueden crear valor diferido; el error sería confundir 'difícil de medir' con 'sin propósito'.**
 

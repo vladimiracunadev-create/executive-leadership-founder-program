@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 043: 1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. diagnosticar qué parte es técnica y cuál adaptativa → 2. mapear pérdidas y grupos afectados → 3. regular tensión sin eliminarla → 4. devolver trabajo a quienes deben aprender → 5. proteger voces marginales y revisar adaptación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los problemas técnicos tienen soluciones conocidas que pueden aplicarse con expertise; los adaptativos exigen cambios de valores, hábitos, identidades o distribución de poder. Tratarlos como técnicos produce proyectos impecables que nadie adopta. Liderar adaptación implica devolver parte del trabajo a quienes deben cambiar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural.**
 

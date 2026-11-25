@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620.24" width="1040" role="img" aria-labelledby="t-g133 d-g133" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g133">Ficha visual de la clase 133: Mercado, categoría y demanda</title>
+<desc id="d-g133">Conceptos: market; category; demand; substitute; category creation. Método: definir job y compradores → mapear alternativas y sustitutos → estimar demanda accesible → decidir categoría existente versus nueva → probar lenguaje con clientes.</desc>
+<defs><marker id="p-g133" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="620.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 133 · Mercado, categoría y demanda</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 11 · Gestión de negocio</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#8250df"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >market</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de compradores, problemas y alternativas con</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intercambio potencial</text>
+<circle cx="38" cy="184.12" r="5" fill="#8250df"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >category</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >marco mental usado para agrupar soluciones comparables</text>
+<circle cx="38" cy="242.12" r="5" fill="#8250df"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >demand</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cantidad de compra posible a distintos precios y</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condiciones</text>
+<circle cx="38" cy="314.24" r="5" fill="#8250df"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >substitute</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >alternativa que resuelve el mismo job de modo diferente</text>
+<circle cx="38" cy="372.24" r="5" fill="#8250df"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >category creation</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >esfuerzo por instalar un nuevo marco competitivo</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir job y compradores</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear alternativas y sustitutos</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estimar demanda accesible</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decidir categoría existente versus</text>
+<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >nueva</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >probar lenguaje con clientes</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >search demand</text>
+<rect x="153.7" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="166.7" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="177.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >category awareness</text>
+<rect x="313.9" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="326.9" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="337.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >win/loss alternative</text>
+<rect x="487.9" y="456.24" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="500.9" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="511.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >market growth</text>
+<rect x="613.6" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="626.6" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="637.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >share of category</text>
+<rect x="766.9" y="456.24" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="779.9" cy="469.24" r="3.5" fill="#8250df"/>
+<text x="790.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >TAM-to-reachable bridge</text>
+<rect x="28" y="488.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="41" cy="501.24" r="3.5" fill="#8250df"/>
+<text x="52" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >substitute coverage</text>
+<rect x="195.1" y="488.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="208.1" cy="501.24" r="3.5" fill="#8250df"/>
+<text x="219.1" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >source recency</text>
+<rect x="28" y="534.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="534.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="554.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="572.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la</text>
+<text x="48" y="589.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >novedad aumenta fricción.</text>
+</svg>

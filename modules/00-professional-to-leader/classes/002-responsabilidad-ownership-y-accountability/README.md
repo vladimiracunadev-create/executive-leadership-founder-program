@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 002: 1. definir el outcome y su dueño → 2. identificar tareas y dependencias → 3. alinear autoridad con responsabilidad → 4. establecer criterios de aceptación en handoffs → 5. revisar desviaciones sin diluir accountability](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir el outcome y su dueño → 2. identificar tareas y dependencias → 3. alinear autoridad con responsabilidad → 4. establecer criterios de aceptación en handoffs → 5. revisar desviaciones sin diluir accountability
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Ownership describe hacerse cargo del resultado completo; accountability agrega una obligación explícita de responder por él. La diferencia importa porque un equipo puede tener muchas personas responsables de tareas y, aun así, nadie que responda por el outcome. Un líder aprende a separar dueño del resultado, ejecutores, consultados y aprobadores.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ownership no significa absorber todo el trabajo ni convertirse en héroe. Si responsabilidad y autoridad están desalineadas, el sistema debe corregirse; la sobrecarga personal no es una solución de gobierno.**
 

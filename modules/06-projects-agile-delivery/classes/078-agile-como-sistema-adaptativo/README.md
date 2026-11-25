@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 078: 1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Agile es una respuesta a incertidumbre y aprendizaje, no un conjunto obligatorio de ceremonias. Reduce tamaño de lote, acorta feedback y permite reordenar trabajo según evidencia. Donde requisitos y tecnología son estables, un enfoque más predictivo puede ser más eficiente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto.**
 

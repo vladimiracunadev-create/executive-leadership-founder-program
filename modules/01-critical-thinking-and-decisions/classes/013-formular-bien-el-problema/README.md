@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 013: 1. describir estado actual con evidencia → 2. definir estado deseado y stakeholder → 3. delimitar alcance y restricciones → 4. separar causas hipotéticas de hechos → 5. redactar una pregunta de decisión verificable](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. describir estado actual con evidencia → 2. definir estado deseado y stakeholder → 3. delimitar alcance y restricciones → 4. separar causas hipotéticas de hechos → 5. redactar una pregunta de decisión verificable
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Formular bien el problema precede a elegir una solución. Un problema ejecutivo útil especifica la brecha entre estado actual y deseado, el impacto, el alcance y las restricciones, sin insertar prematuramente una causa o solución. 'Necesitamos más gente' no es un problema; es una intervención propuesta.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una formulación demasiado estrecha optimiza un síntoma; una demasiado amplia paraliza. Debe ser lo bastante concreta para decidir y lo bastante abierta para no esconder la solución dentro de la pregunta.**
 

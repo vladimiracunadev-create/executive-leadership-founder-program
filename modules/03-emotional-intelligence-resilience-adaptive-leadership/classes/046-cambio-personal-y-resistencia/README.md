@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 046: 1. segmentar grupos y pérdidas → 2. escuchar objeciones como datos → 3. distinguir falta de skill, voluntad o confianza → 4. diseñar apoyo y participación → 5. medir adopción por conducta y resultado](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. segmentar grupos y pérdidas → 2. escuchar objeciones como datos → 3. distinguir falta de skill, voluntad o confianza → 4. diseñar apoyo y participación → 5. medir adopción por conducta y resultado
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La resistencia al cambio suele contener información sobre pérdidas, identidad, habilidad, confianza o diseño, no solo 'mala actitud'. Diagnosticarla permite separar oposición racional de ansiedad, incentivos contradictorios y falta de capacidad. El líder cambia conversación de convencer a todos a comprender qué debe aprender cada grupo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda resistencia debe ser vencida: puede revelar riesgos reales del diseño. Escuchar no implica aceptar veto, pero sí probar si el cambio necesita corrección.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 128: 1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La negociación basada en intereses separa posiciones de necesidades subyacentes y prepara BATNA, objetivos, criterios objetivos y zona posible de acuerdo. El poder no está solo en persuadir: una BATNA fuerte cambia capacidad de decir no. Crear valor y reclamar valor son tareas distintas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación.**
 

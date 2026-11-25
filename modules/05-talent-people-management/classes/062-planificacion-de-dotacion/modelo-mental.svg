@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g62 d-g62" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g62">Ficha visual de la clase 062: Planificación de dotación</title>
+<desc id="d-g62">Conceptos: workforce planning; headcount; capacity gap; time-to-productivity; build-buy-borrow. Método: proyectar demanda por escenario → inventariar capacidad y skills → calcular brechas y timing → comparar build-buy-borrow-automate → aprobar hiring plan con triggers.</desc>
+<defs><marker id="p-g62" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 062 · Planificación de dotación</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#0969da"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >workforce planning</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso de proyectar demanda y oferta de capacidades</text>
+<circle cx="38" cy="170" r="5" fill="#0969da"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >headcount</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >número de personas, insuficiente sin skills y</text>
+<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >productividad</text>
+<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >capacity gap</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diferencia entre capacidad requerida y disponible</text>
+<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >time-to-productivity</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo desde contratación hasta contribución esperada</text>
+<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
+<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >build-buy-borrow</text>
+<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >elección entre desarrollar, contratar o acceder</text>
+<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >temporalmente a una capacidad</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#0969da"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >proyectar demanda</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >por escenario</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#0969da"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inventariar</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capacidad y skills</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#0969da"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >calcular brechas y</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >timing</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#0969da"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comparar build-</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >buy-borrow-</text>
+<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >automate</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#0969da"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >aprobar hiring</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >plan con triggers</text>
+<path d="M638,139 L656,139" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g62)"/>
+<path d="M826,139 L844,139" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g62)"/>
+<path d="M929,176 L929,222" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g62)"/>
+<path d="M844,259 L826,259" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g62)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#0969da" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g62)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capacidad requerida</text>
+<rect x="195.1" y="456.24" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="208.1" cy="469.24" r="3.5" fill="#0969da"/>
+<text x="219.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-hire</text>
+<rect x="313.9" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="326.9" cy="469.24" r="3.5" fill="#0969da"/>
+<text x="337.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-productivity</text>
+<rect x="487.9" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="500.9" cy="469.24" r="3.5" fill="#0969da"/>
+<text x="511.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >coste total por rol</text>
+<rect x="655" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
+<circle cx="668" cy="469.24" r="3.5" fill="#0969da"/>
+<text x="679" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >utilización y burnout</text>
+<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y</text>
+<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >secuencia, no una razón fija de empleados por ingreso.</text>
+</svg>

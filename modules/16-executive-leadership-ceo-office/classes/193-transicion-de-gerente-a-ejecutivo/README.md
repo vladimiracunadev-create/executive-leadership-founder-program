@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 193: 1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La transición de gerente a ejecutivo exige cambiar de optimización local a responsabilidad por el sistema completo. El nuevo ejecutivo debe abandonar parte de su identidad funcional, construir una agenda de aprendizaje, mapear stakeholders y redefinir qué decisiones solo él puede tomar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo.**
 

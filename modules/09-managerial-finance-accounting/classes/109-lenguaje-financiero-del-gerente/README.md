@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 109: 1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El lenguaje financiero permite traducir decisiones operativas a ingresos, costos, activos, pasivos, caja y retorno. Un gerente no necesita ser contador para reconocer la diferencia entre devengo y caja, gasto y activo, margen y utilidad, o beneficio contable y valor económico.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes.**
 

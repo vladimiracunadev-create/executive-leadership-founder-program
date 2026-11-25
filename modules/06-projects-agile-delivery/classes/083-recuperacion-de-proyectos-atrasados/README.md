@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 083: 1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Recuperar un proyecto atrasado comienza por obtener una fecha y alcance honestos, no por exigir más optimismo. Se reconstruye critical path, capacidad, work in progress, riesgos y calidad; luego se recorta, resecuencia o añade capacidad solo donde realmente cambia el cuello.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path.**
 

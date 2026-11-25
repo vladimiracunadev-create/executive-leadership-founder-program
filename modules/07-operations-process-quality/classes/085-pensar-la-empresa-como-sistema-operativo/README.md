@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 085: 1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pensar la empresa como sistema operativo significa observar cómo demanda, capacidad, procesos, información, controles y personas convierten inputs en valor repetible. Una estrategia sin sistema operativo es una aspiración; el operating system muestra dónde se decide, fluye y corrige el trabajo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje.**
 

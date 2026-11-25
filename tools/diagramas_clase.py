@@ -13,8 +13,13 @@ tema claro y oscuro). Solo biblioteca estándar.
 
 from __future__ import annotations
 
+import sys
 import textwrap
+from pathlib import Path
 from xml.sax.saxutils import escape
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import inventario  # noqa: E402
 
 FUENTE = "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
 TINTA, SUAVE, PAPEL, BORDE = "#1f2328", "#59636e", "#f6f8fa", "#d0d7de"
@@ -315,3 +320,126 @@ DIAGRAMAS = {
     190: escalamiento_incidente,
     200: respuesta_scct,
 }
+
+
+# ------------------------------------------------------------------------------
+# Diagrama de ficha: para toda clase que aún no tiene un esquema a medida
+# ------------------------------------------------------------------------------
+def _recortar(s: str, n: int) -> str:
+    if len(s) <= n:
+        return s
+    corte = s[:n].rsplit(" ", 1)[0].rstrip(",;:. ")
+    return corte + "…"
+
+
+def _metodo_linea(L, x0, y0, ancho, pasos, color):
+    y = y0
+    L.partes.append(f'<path d="M{x0 + 15},{y0 + 18} V{y0 + 18 + (len(pasos) - 1) * 54}" stroke="{color}" '
+                    f'stroke-width="2.5" stroke-opacity="0.35"/>')
+    for i, p in enumerate(pasos):
+        L.partes.append(f'<circle cx="{x0 + 15}" cy="{y + 18}" r="14" fill="{color}"/>')
+        L.texto(x0 + 15, y + 23.5, str(i + 1), 13, "#ffffff", "700", "middle")
+        L.parrafo(x0 + 42, y + 14, p, ancho - 50, 13.5, TINTA, "500")
+        y += 54
+    return y0 + 54 * len(pasos)
+
+
+def _metodo_escalera(L, x0, y0, ancho, pasos, color):
+    n = len(pasos)
+    w, paso_x, paso_y, h = ancho - (n - 1) * 62, 62, 58, 52
+    for i, p in enumerate(pasos):
+        x = x0 + i * paso_x
+        y = y0 + (n - 1 - i) * paso_y
+        L.caja(x, y, w, h, "#ffffff", color, 9, 1.6)
+        L.partes.append(f'<rect x="{x}" y="{y}" width="6" height="{h}" rx="3" fill="{color}"/>')
+        L.texto(x + 16, y + 20, f"{i + 1}", 13, color, "800")
+        L.parrafo(x + 34, y + 20, p, w - 46, 12.5)
+    return y0 + n * paso_y
+
+
+def _metodo_circuito(L, x0, y0, ancho, pasos, color):
+    gap, h = 22, 70
+    w = (ancho - 2 * gap) / 3
+    pos = [(0, 0), (1, 0), (2, 0), (2, 1), (1, 1)]
+    xs = lambda c: x0 + c * (w + gap)
+    ys = lambda f: y0 + f * (h + 50)
+    for i, p in enumerate(pasos):
+        c, f = pos[i]
+        x, y = xs(c), ys(f)
+        L.caja(x, y, w, h, "#ffffff", color, 9, 1.6)
+        L.partes.append(f'<circle cx="{x + 16}" cy="{y + 16}" r="11" fill="{color}"/>')
+        L.texto(x + 16, y + 20.5, str(i + 1), 11.5, "#ffffff", "700", "middle")
+        L.parrafo(x + 34, y + 19, p, w - 42, 12)
+    ym = ys(0) + h / 2
+    L.flecha(xs(0) + w + 2, ym, xs(1) - 2, ym, color, 2)
+    L.flecha(xs(1) + w + 2, ym, xs(2) - 2, ym, color, 2)
+    L.flecha(xs(2) + w / 2, ys(0) + h + 2, xs(2) + w / 2, ys(1) - 2, color, 2)
+    yb = ys(1) + h / 2
+    L.flecha(xs(2) - 2, yb, xs(1) + w + 2, yb, color, 2)
+    L.trazo(f"M{xs(1) - 2},{yb} H{xs(0) + w / 2 + 10} a10,10 0 0 0 -10,-10 V{ys(0) + h + 4}", color, 2,
+            extra=f'stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-{L.ident})"')
+    L.texto(xs(0) + w / 2 + 18, yb - 8, "revisar y volver a empezar", 11, SUAVE, "600")
+    return ys(1) + h
+
+
+def _metodo_embudo(L, x0, y0, ancho, pasos, color):
+    n = len(pasos)
+    y = y0
+    for i, p in enumerate(pasos):
+        w = ancho - i * 34
+        x = x0 + (ancho - w) / 2
+        h = 50
+        L.caja(x, y, w, h, color, color, 9, 0, 'fill-opacity="%s"' % (0.98 - i * 0.07))
+        L.texto(x + 14, y + 20, f"{i + 1}", 13, "#ffffff", "800")
+        L.parrafo(x + 34, y + 20, p, w - 46, 12.5, "#ffffff", "600")
+        y += h + 6
+    return y
+
+
+METODOS = (_metodo_linea, _metodo_escalera, _metodo_circuito, _metodo_embudo)
+
+
+def ficha_de_clase(numero: int, titulo: str, parte_n: int, pasos: list[str], conceptos: list[tuple[str, str]],
+                   senales: list[str], limite: str) -> str:
+    etapa = inventario.etapa_de(parte_n)
+    color = etapa.color_claro
+    descr = "Conceptos: " + "; ".join(t for t, _ in conceptos) + ". Método: " + " → ".join(pasos) + "."
+    L = Lienzo(f"Ficha visual de la clase {numero:03d}: {titulo}", descr, 600, f"g{numero}")
+    L.cabecera("MODELO MENTAL", f"Clase {numero:03d} · {titulo}", color, f"Parte {parte_n:02d} · {etapa.nombre}")
+    # Conceptos
+    L.texto(28, 88, "QUÉ HAY QUE DISTINGUIR", 11.5, SUAVE, "700", "start", 'letter-spacing="1.4"')
+    y = 104
+    for t, d in conceptos[:5]:
+        L.partes.append(f'<circle cx="38" cy="{y + 8}" r="5" fill="{color}"/>')
+        L.texto(54, y + 13, t, 14, TINTA, "700")
+        yy = L.parrafo(54, y + 31, _recortar(d, 96), 372, 12, SUAVE)
+        y = max(y + 58, yy + 8)
+    y_conc = y
+    # Método (el diseño varía con la clase)
+    xm, ancho = 470, ANCHO - 470 - 28
+    L.texto(xm, 88, "CÓMO SE RAZONA, EN ORDEN", 11.5, SUAVE, "700", "start", 'letter-spacing="1.4"')
+    metodo = METODOS[numero % len(METODOS)]
+    y_met = metodo(L, xm, 104, ancho, pasos, color)
+    y0 = max(y_conc, y_met) + 14
+    # Qué observar
+    L.texto(28, y0 + 8, "QUÉ OBSERVAR", 11.5, SUAVE, "700", "start", 'letter-spacing="1.4"')
+    x, yc, filas = 28, y0 + 20, 1
+    for s in senales[:8]:
+        w = len(s) * 6.9 + 26
+        if x + w > ANCHO - 28:
+            filas += 1
+            if filas > 2:
+                break
+            x, yc = 28, yc + 32
+        L.caja(x, yc, w, 26, "#ffffff", color, 13, 1.2)
+        L.partes.append(f'<circle cx="{x + 13:g}" cy="{yc + 13}" r="3.5" fill="{color}"/>')
+        L.texto(x + 24, yc + 17.5, s, 12.5, TINTA)
+        x += w + 10
+    # Límite
+    yl = yc + 46
+    L.caja(28, yl, ANCHO - 56, 62, "#ffffff", ROJO, 10, 1.4)
+    L.partes.append(f'<rect x="28" y="{yl}" width="6" height="62" rx="3" fill="{ROJO}"/>')
+    L.texto(48, yl + 20, "LÍMITE", 11.5, ROJO, "700", "start", 'letter-spacing="1.4"')
+    L.parrafo(48, yl + 38, _recortar(limite, 250), ANCHO - 100, 12.5, TINTA)
+    L.alto = yl + 62 + 24
+    return L.svg()

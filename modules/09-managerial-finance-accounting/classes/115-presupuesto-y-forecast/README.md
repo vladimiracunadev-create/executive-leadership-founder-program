@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 115: 1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Presupuesto es una asignación y compromiso para un periodo; forecast es la mejor estimación actual del futuro. Confundirlos incentiva ocultar malas noticias para 'cumplir presupuesto'. Un gerente usa rolling forecast y escenarios para decidir, aunque el presupuesto siga siendo base de autorización.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica.**
 

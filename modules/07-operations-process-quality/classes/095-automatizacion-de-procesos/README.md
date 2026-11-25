@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 095: 1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Automatizar procesos crea valor cuando elimina trabajo repetitivo, reduce error o acelera flujo sin automatizar defectos y excepciones mal entendidas. Antes de escoger tecnología, se simplifica el proceso y se distinguen reglas estables de decisiones que requieren juicio.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial.**
 

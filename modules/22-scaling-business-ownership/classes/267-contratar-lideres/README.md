@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 267: 1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Contratar líderes cambia la unidad de escalamiento: el owner ya no busca solo ejecutores, sino personas capaces de construir equipos, decisiones y sistemas. Debe definir mandato, scorecard, autoridad, values y evaluación, y evitar contratar títulos sin contexto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido.**
 

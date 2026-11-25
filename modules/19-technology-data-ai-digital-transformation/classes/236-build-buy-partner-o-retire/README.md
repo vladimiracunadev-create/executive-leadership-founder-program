@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 236: 1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Build, buy, partner o retire son opciones de sourcing que deben compararse por diferenciación, time-to-value, TCO, control, talent, integration y exit. Construir porque somos tecnológicos y comprar porque es más rápido son sesgos, no estrategias.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar.**
 

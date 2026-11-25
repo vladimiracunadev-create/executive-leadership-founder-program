@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 634.36" width="1040" role="img" aria-labelledby="t-g7 d-g7" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g7">Ficha visual de la clase 007: Sistema personal de ejecución</title>
+<desc id="d-g7">Conceptos: captura; next action; calendario; backlog; revisión. Método: capturar en un inbox confiable → clarificar resultado y próxima acción → calendarizar solo lo realmente temporal → seleccionar trabajo según prioridad y capacidad → hacer revisión semanal de compromisos y backlog.</desc>
+<defs><marker id="p-g7" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="634.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 007 · Sistema personal de ejecución</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 00 · Autoliderazgo y fundamentos ejecutivos</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >captura</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >registro único y confiable de compromisos antes de que</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >dependan de memoria</text>
+<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >next action</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >próxima acción física o cognitiva suficientemente</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >concreta para iniciar</text>
+<circle cx="38" cy="256.24" r="5" fill="#1a7f37"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >calendario</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >compromisos ligados a una fecha u hora real</text>
+<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >backlog</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >trabajo no iniciado y ordenado por decisión, no por</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acumulación</text>
+<circle cx="38" cy="386.36" r="5" fill="#1a7f37"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >revisión</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ritual para limpiar, reordenar y cerrar compromisos</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >capturar en un inbox confiable</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >clarificar resultado y próxima acción</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >calendarizar solo lo realmente temporal</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seleccionar trabajo según prioridad y capacidad</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >hacer revisión semanal de compromisos y backlog</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#1a7f37"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tareas olvidadas</text>
+<rect x="174.4" y="470.36" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="187.4" cy="483.36" r="3.5" fill="#1a7f37"/>
+<text x="198.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >edad media del backlog</text>
+<rect x="362.2" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="375.2" cy="483.36" r="3.5" fill="#1a7f37"/>
+<text x="386.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reprogramaciones</text>
+<rect x="508.6" y="470.36" width="329.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="521.6" cy="483.36" r="3.5" fill="#1a7f37"/>
+<text x="532.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >porcentaje de compromisos con próxima acción</text>
+<rect x="28" y="502.36" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="515.36" r="3.5" fill="#1a7f37"/>
+<text x="52" y="519.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo de revisión semanal</text>
+<rect x="28" y="548.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="548.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="568.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="586.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >El sistema debe ser más barato que el problema que resuelve. Una arquitectura personal demasiado compleja convierte la administración</text>
+<text x="48" y="603.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >de tareas en otra forma de procrastinación.</text>
+</svg>

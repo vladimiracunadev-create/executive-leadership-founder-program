@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 011: 1. definir requisitos del rol siguiente → 2. recolectar evidencia de desempeño y feedback → 3. clasificar fortalezas, brechas y derailers → 4. priorizar dos brechas de alto impacto → 5. diseñar mitigación mediante práctica, delegación o complemento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir requisitos del rol siguiente → 2. recolectar evidencia de desempeño y feedback → 3. clasificar fortalezas, brechas y derailers → 4. priorizar dos brechas de alto impacto → 5. diseñar mitigación mediante práctica, delegación o complemento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Mapear fortalezas, brechas y riesgos personales evita dos sesgos: sobreinvertir en lo que ya dominas y esconder debilidades que se vuelven críticas al cambiar de rol. La pregunta ejecutiva no es '¿en qué soy bueno?', sino qué capacidades requiere el siguiente nivel, cuáles puedo desarrollar y cuáles debo complementar con otras personas o sistemas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las debilidades merecen reparación. Algunas pueden neutralizarse con diseño de rol o complementariedad; invertir años en una debilidad de bajo impacto puede ser peor que profundizar una ventaja crítica.**
 

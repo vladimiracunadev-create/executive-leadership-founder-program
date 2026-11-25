@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g101 d-g101" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g101">Ficha visual de la clase 101: Leading y lagging indicators</title>
+<desc id="d-g101">Conceptos: leading indicator; lagging indicator; driver; proxy; causal link. Método: definir outcome lagging → formular drivers plausibles → buscar evidencia histórica o experimental → seleccionar leading controllable → revisar si la relación se sostiene.</desc>
+<defs><marker id="p-g101" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 101 · Leading y lagging indicators</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 08 · Gestión de negocio</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#8250df"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >leading indicator</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >señal anticipada o driver cercano a una acción</text>
+<circle cx="38" cy="170" r="5" fill="#8250df"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >lagging indicator</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado que se observa después de que el sistema</text>
+<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >actuó</text>
+<circle cx="38" cy="242.12" r="5" fill="#8250df"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >driver</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >métrica con relación causal o predictiva plausible</text>
+<circle cx="38" cy="300.12" r="5" fill="#8250df"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >proxy</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >medida sustituta usada cuando el outcome es lento o</text>
+<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >difícil</text>
+<circle cx="38" cy="372.24" r="5" fill="#8250df"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >causal link</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >relación que debe contrastarse antes de gestionar como</text>
+<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >palanca</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir outcome lagging</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >formular drivers plausibles</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >buscar evidencia histórica o</text>
+<text x="628" y="257.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >experimental</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seleccionar leading controllable</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#8250df"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisar si la relación se sostiene</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >correlación driver-outcome</text>
+<rect x="243.4" y="470.36" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="256.4" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="267.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >lead time de señal</text>
+<rect x="403.6" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="416.6" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="427.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acciones por driver</text>
+<rect x="570.7" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="583.7" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="594.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >falsos positivos</text>
+<rect x="717.1" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="730.1" cy="483.36" r="3.5" fill="#8250df"/>
+<text x="741.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outcome final</text>
+<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome</text>
+<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >que pretende anticipar.</text>
+</svg>

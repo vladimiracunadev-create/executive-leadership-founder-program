@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 040: 1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. diagnosticar qué fricción reduce energía → 2. separar problema de capacidad, claridad e incentivo → 3. dar autonomía proporcional a competencia → 4. conectar tarea con resultado y stakeholder → 5. revisar equidad y consecuencias del sistema
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Motivación y propósito se sostienen cuando el trabajo ofrece significado, autonomía adecuada, competencia y conexión, pero también depende de condiciones básicas, justicia e incentivos. Ninguna teoría aislada explica a todas las personas. El manager diseña contexto y remueve fricción; no 'inyecta motivación'.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza.**
 

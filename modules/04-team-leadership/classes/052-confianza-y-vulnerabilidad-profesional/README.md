@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 052: 1. modelar límites y errores desde liderazgo → 2. pedir ayuda de forma concreta → 3. cumplir compromisos pequeños → 4. responder sin humillar a malas noticias → 5. reparar rupturas con hechos y seguimiento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. modelar límites y errores desde liderazgo → 2. pedir ayuda de forma concreta → 3. cumplir compromisos pequeños → 4. responder sin humillar a malas noticias → 5. reparar rupturas con hechos y seguimiento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La confianza de equipo crece cuando las personas pueden mostrar límites, pedir ayuda y admitir errores sin que esa vulnerabilidad sea usada para degradarlas. La vulnerabilidad profesional no es sobreexposición íntima; es exponer información relevante que permite coordinar mejor y aprender.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Vulnerabilidad sin confiabilidad no crea confianza. Compartir dudas y emociones no compensa incumplimientos, incompetencia o abuso; la seguridad se sostiene con conducta repetida.**
 

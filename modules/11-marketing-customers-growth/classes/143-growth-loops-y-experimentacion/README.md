@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 143: 1. mapear input-action-output-reinvestment → 2. identificar tasa de ciclo → 3. formular palanca → 4. experimentar con control o baseline → 5. escalar solo efecto incremental sostenible](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear input-action-output-reinvestment → 2. identificar tasa de ciclo → 3. formular palanca → 4. experimentar con control o baseline → 5. escalar solo efecto incremental sostenible
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Growth loops describen sistemas donde el output de un usuario o cliente genera input para adquirir, activar o retener a otros. A diferencia de una campaña que se agota, un loop puede acumular. Experimentación valida palancas y debe medir efectos netos, no solo una métrica local.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo negocio tiene loops fuertes y forzarlos puede producir spam. A veces canales lineales rentables son suficientes; el crecimiento debe preservar calidad y confianza.**
 

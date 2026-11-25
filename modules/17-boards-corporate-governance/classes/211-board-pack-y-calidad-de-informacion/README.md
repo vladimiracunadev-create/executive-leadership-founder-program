@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 211: 1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un board pack debe ayudar a decidir: executive summary, performance versus plan, cash y capital, cliente, personas, riesgos, estrategia y asuntos para decisión. El pre-read libera reunión para challenge; información tardía o sin narrativa convierte al board en audiencia pasiva.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud.**
 

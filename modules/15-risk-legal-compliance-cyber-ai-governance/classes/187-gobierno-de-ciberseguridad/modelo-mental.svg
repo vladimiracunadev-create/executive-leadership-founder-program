@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g187 d-g187" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g187">Ficha visual de la clase 187: Gobierno de ciberseguridad</title>
+<desc id="d-g187">Conceptos: cyber risk; NIST CSF; critical asset; security control; incident response. Método: mapear activos y procesos críticos → definir escenarios e impacto → establecer governance y controles → medir detección respuesta y recuperación → reportar exposición residual y decisiones.</desc>
+<defs><marker id="p-g187" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 187 · Gobierno de ciberseguridad</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cyber risk</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >posible pérdida derivada de amenazas sobre sistemas</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >datos y operación</text>
+<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >NIST CSF</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >marco de funciones Govern Identify Protect Detect</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Respond y Recover</text>
+<circle cx="38" cy="256.24" r="5" fill="#bc4c00"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >critical asset</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >activo cuya afectación causa impacto material</text>
+<circle cx="38" cy="314.24" r="5" fill="#bc4c00"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >security control</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >salvaguarda técnica administrativa o física</text>
+<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >incident response</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad organizada para contener erradicar y</text>
+<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >recuperar</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear activos y procesos críticos</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir escenarios e impacto</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >establecer governance y controles</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >medir detección respuesta y recuperación</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >reportar exposición residual y decisiones</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#bc4c00"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >critical asset coverage</text>
+<rect x="222.7" y="470.36" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="235.7" cy="483.36" r="3.5" fill="#bc4c00"/>
+<text x="246.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >MFA coverage</text>
+<rect x="341.5" y="470.36" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="354.5" cy="483.36" r="3.5" fill="#bc4c00"/>
+<text x="365.5" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >MTTD</text>
+<rect x="405.1" y="470.36" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="418.1" cy="483.36" r="3.5" fill="#bc4c00"/>
+<text x="429.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >MTTR</text>
+<rect x="468.7" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="481.7" cy="483.36" r="3.5" fill="#bc4c00"/>
+<text x="492.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recovery test success</text>
+<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin</text>
+<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >relación con riesgos materiales.</text>
+</svg>

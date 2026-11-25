@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g265 d-g265" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g265">Ficha visual de la clase 265: De fundador-operador a propietario</title>
+<desc id="d-g265">Conceptos: founder dependency; owner role; operator role; key-person risk; institutionalization. Método: medir dependencia del founder → separar owner CEO y operator tasks → documentar critical decisions → construir líderes y controls → retirar founder gradualmente y medir performance.</desc>
+<defs><marker id="p-g265" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 265 · De fundador-operador a propietario</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 22 · Fundador, propietario e independencia</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#59636e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >founder dependency</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado en que operación o decisiones requieren al</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fundador</text>
+<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >owner role</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad de propiedad sobre capital gobierno y</text>
+<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >liderazgo superior</text>
+<circle cx="38" cy="256.24" r="5" fill="#59636e"/>
+<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >operator role</text>
+<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad por ejecutar el negocio cotidiano</text>
+<circle cx="38" cy="314.24" r="5" fill="#59636e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >key-person risk</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >exposición por dependencia de una persona</text>
+<circle cx="38" cy="372.24" r="5" fill="#59636e"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >institutionalization</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conversión de conocimiento y decisiones en sistemas</text>
+<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reproducibles</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#59636e"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#59636e" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >medir dependencia del founder</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#59636e"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#59636e" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >separar owner CEO y operator tasks</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#59636e"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#59636e" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >documentar critical decisions</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#59636e"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#59636e" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >construir líderes y controls</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#59636e"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#59636e" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retirar founder gradualmente y</text>
+<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >medir performance</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >owner hours</text>
+<rect x="139.9" y="470.36" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="152.9" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="163.9" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >founder approvals</text>
+<rect x="293.2" y="470.36" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="306.2" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="317.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >key-person concentration</text>
+<rect x="494.8" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="507.8" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="518.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >leadership coverage</text>
+<rect x="661.9" y="470.36" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
+<circle cx="674.9" cy="483.36" r="3.5" fill="#59636e"/>
+<text x="685.9" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >performance without founder</text>
+<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Eliminar al fundador demasiado pronto puede destruir relaciones y conocimiento. Transfiere progresivamente, observando calidad y</text>
+<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >construyendo contexto.</text>
+</svg>

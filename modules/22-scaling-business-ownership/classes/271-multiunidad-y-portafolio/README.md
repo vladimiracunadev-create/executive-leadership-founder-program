@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 271: 1. definir unidad económica → 2. separar P&L y cash → 3. identificar shared capabilities → 4. medir parenting advantage → 5. allocate grow harvest o exit](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir unidad económica → 2. separar P&L y cash → 3. identificar shared capabilities → 4. medir parenting advantage → 5. allocate grow harvest o exit
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Multiunidad y portafolio exigen separar economics y accountability de cada unidad mientras se aprovechan capacidades compartidas. El owner decide dónde asignar capital, qué centralizar y cuándo una unidad debe venderse, cerrarse o independizarse.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Separar demasiado puede perder sinergias y crear duplicación. Diseña transfer pricing o allocation transparente para ver economics sin destruir colaboración.**
 

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 634.36" width="1040" role="img" aria-labelledby="t-g213 d-g213" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g213">Ficha visual de la clase 213: Supervisión de riesgo y controles</title>
+<desc id="d-g213">Conceptos: risk oversight; critical control; assurance; KRI; three lines. Método: alinear risk appetite con estrategia → seleccionar top risks y scenarios → identificar critical controls → obtener assurance independiente → seguir breaches y remediation.</desc>
+<defs><marker id="p-g213" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="634.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 213 · Supervisión de riesgo y controles</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 17 · Alta dirección y gobierno</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#cf222e"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >risk oversight</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad del board de supervisar exposiciones</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >materiales y framework</text>
+<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >critical control</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >control cuya falla podría producir impacto material</text>
+<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >assurance</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de confianza obtenido mediante evaluación</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >independiente o evidencia</text>
+<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >KRI</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >indicador adelantado de exposición</text>
+<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >three lines</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >modelo de responsabilidades entre management funciones</text>
+<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >de riesgo compliance y auditoría interna</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="470" y="336" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="486" y="356" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >1</text>
+<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >alinear risk appetite con</text>
+<text x="504" y="373.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estrategia</text>
+<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="532" y="278" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="548" y="298" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >2</text>
+<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seleccionar top risks y scenarios</text>
+<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="594" y="220" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="610" y="240" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >3</text>
+<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar critical controls</text>
+<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="656" y="162" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="672" y="182" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >4</text>
+<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >obtener assurance independiente</text>
+<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="718" y="104" width="6" height="52" rx="3" fill="#cf222e"/>
+<text x="734" y="124" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >5</text>
+<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seguir breaches y remediation</text>
+<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="470.36" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="41" cy="483.36" r="3.5" fill="#cf222e"/>
+<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >KRI trend</text>
+<rect x="126.1" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="139.1" cy="483.36" r="3.5" fill="#cf222e"/>
+<text x="150.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >control effectiveness</text>
+<rect x="307" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="320" cy="483.36" r="3.5" fill="#cf222e"/>
+<text x="331" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >audit findings</text>
+<rect x="439.6" y="470.36" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="452.6" cy="483.36" r="3.5" fill="#cf222e"/>
+<text x="463.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >risk appetite breaches</text>
+<rect x="627.4" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="640.4" cy="483.36" r="3.5" fill="#cf222e"/>
+<text x="651.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >remediation age</text>
+<rect x="766.9" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="779.9" cy="483.36" r="3.5" fill="#cf222e"/>
+<text x="790.9" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >key-person dependency</text>
+<rect x="28" y="502.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
+<circle cx="41" cy="515.36" r="3.5" fill="#cf222e"/>
+<text x="52" y="519.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >access-design review</text>
+<rect x="28" y="548.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="548.36" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="568.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="586.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar</text>
+<text x="48" y="603.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >controles técnicos individuales.</text>
+</svg>

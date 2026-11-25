@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 054: 1. diagnosticar brecha de skill versus juicio → 2. acordar objetivo de desarrollo → 3. usar preguntas antes de consejo cuando existe capacidad → 4. dar instrucción cuando falta conocimiento base → 5. cerrar con experimento y seguimiento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. diagnosticar brecha de skill versus juicio → 2. acordar objetivo de desarrollo → 3. usar preguntas antes de consejo cuando existe capacidad → 4. dar instrucción cuando falta conocimiento base → 5. cerrar con experimento y seguimiento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Coaching cotidiano ayuda a otra persona a pensar y ampliar opciones, mientras mentoring aporta experiencia y consejo. Un líder debe distinguir cuándo preguntar, cuándo enseñar y cuándo decidir. Preguntar eternamente ante una brecha básica de conocimiento puede ser tan ineficiente como dar todas las respuestas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Coaching no reemplaza feedback claro, formación técnica ni decisiones urgentes. El estilo debe responder a tarea, madurez y riesgo, no a una identidad de 'coach'.**
 

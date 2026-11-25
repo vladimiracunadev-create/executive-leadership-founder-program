@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g115 d-g115" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g115">Ficha visual de la clase 115: Presupuesto y forecast</title>
+<desc id="d-g115">Conceptos: budget; forecast; variance; driver-based model; scenario. Método: definir drivers y baseline → construir budget con recursos → actualizar actuals → reforecast sin manipular para alcanzar plan → usar escenarios para decisiones de capacidad y caja.</desc>
+<defs><marker id="p-g115" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 115 · Presupuesto y forecast</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 09 · Gestión de negocio</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#8250df"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >budget</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >plan aprobado que asigna recursos y objetivos</text>
+<circle cx="38" cy="170" r="5" fill="#8250df"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >forecast</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estimación actualizada basada en evidencia reciente</text>
+<circle cx="38" cy="228" r="5" fill="#8250df"/>
+<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >variance</text>
+<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diferencia entre actual y referencia</text>
+<circle cx="38" cy="286" r="5" fill="#8250df"/>
+<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >driver-based model</text>
+<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >forecast construido desde variables causales del</text>
+<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >negocio</text>
+<circle cx="38" cy="358.12" r="5" fill="#8250df"/>
+<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >scenario</text>
+<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto coherente de supuestos alternativos</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir drivers y baseline</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >construir budget con recursos</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >actualizar actuals</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >reforecast sin manipular para alcanzar plan</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >usar escenarios para decisiones de capacidad y caja</text>
+<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >forecast error</text>
+<rect x="160.6" y="442.12" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="173.6" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="184.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >budget variance</text>
+<rect x="300.1" y="442.12" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="313.1" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="324.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >driver accuracy</text>
+<rect x="439.6" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="452.6" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="463.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash runway</text>
+<rect x="551.5" y="442.12" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="564.5" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="575.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reforecast frequency</text>
+<rect x="725.5" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="738.5" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="749.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >scenario range</text>
+<rect x="858.1" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
+<circle cx="871.1" cy="455.12" r="3.5" fill="#8250df"/>
+<text x="882.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >sensitivity driver</text>
+<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión</text>
+<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >política en vez de económica.</text>
+</svg>

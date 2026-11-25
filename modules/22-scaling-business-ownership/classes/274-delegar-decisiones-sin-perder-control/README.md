@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 274: 1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Delegar sin perder control significa transferir autoridad con contexto, límites, métricas, cadencia y capacidad de escalamiento. Approval central no es control sostenible; el owner diseña un sistema donde exceptions son visibles y decisiones normales no regresan a él.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 080: 1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Kanban gestiona flujo visualizando trabajo, limitando WIP y midiendo tiempo de ciclo. Su lógica central es que iniciar menos puede terminar más. Las políticas explícitas y clases de servicio permiten coordinar sin convertir cada urgencia en bypass.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema.**
 

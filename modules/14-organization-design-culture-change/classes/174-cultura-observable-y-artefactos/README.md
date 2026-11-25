@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 174: 1. observar artefactos y decisiones → 2. comparar valores declarados con conducta → 3. identificar supuestos detrás de patrones → 4. seleccionar conductas críticas → 5. alinear sistemas líderes y consecuencias](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. observar artefactos y decisiones → 2. comparar valores declarados con conducta → 3. identificar supuestos detrás de patrones → 4. seleccionar conductas críticas → 5. alinear sistemas líderes y consecuencias
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Cultura es un patrón de supuestos y significados aprendido por un grupo, visible en artefactos, valores proclamados y conductas recompensadas. No cambia por publicar valores; cambia cuando líderes, sistemas e incentivos producen experiencias consistentes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cultura no explica todo y puede fragmentarse por subculturas. Evita atribuir cualquier problema a la cultura cuando existe una causa estructural, de capacidad o incentivos.**
 

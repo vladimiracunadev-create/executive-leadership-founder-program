@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 208: 1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Comités de auditoría, riesgo y compensaciones permiten profundidad especializada, pero no trasladan la responsabilidad colectiva del directorio. Cada comité necesita charter, miembros competentes, información, calendario y escalamiento claro al board completo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 250: 1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los primeros diez clientes enseñan más sobre posicionamiento, onboarding y valor que sobre escala. Founder-led sales permite escuchar directamente, construir referencias y descubrir un proceso repetible antes de contratar una fuerza comercial.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad.**
 

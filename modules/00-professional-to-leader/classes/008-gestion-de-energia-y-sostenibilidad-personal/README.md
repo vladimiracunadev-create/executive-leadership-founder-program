@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 008: 1. observar patrones de energía y errores → 2. separar picos excepcionales de carga estructural → 3. proteger sueño, pausas y recuperación → 4. rediseñar trabajo que depende de heroísmo → 5. escalar capacidad cuando la sobrecarga deja de ser transitoria](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. observar patrones de energía y errores → 2. separar picos excepcionales de carga estructural → 3. proteger sueño, pausas y recuperación → 4. rediseñar trabajo que depende de heroísmo → 5. escalar capacidad cuando la sobrecarga deja de ser transitoria
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La energía sostenible no es bienestar separado del desempeño: determina calidad de juicio, paciencia, memoria y capacidad de sostener relaciones. Un líder debe diseñar carga, recuperación y límites antes de que el cansancio se transforme en errores, irritabilidad o decisiones impulsivas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La sostenibilidad no exige eliminar periodos intensos. Lanzamientos, incidentes y crisis pueden requerir picos; el criterio es que sean explícitos, acotados, compensados y no el modo operativo permanente.**
 

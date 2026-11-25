@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 142: 1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Retención, lealtad y customer success sostienen valor después de adquisición. Retención observa continuidad; lealtad puede incluir preferencia; customer success diseña adopción y outcomes para reducir churn evitable. El mejor programa de retención no compensa producto sin valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual.**
 

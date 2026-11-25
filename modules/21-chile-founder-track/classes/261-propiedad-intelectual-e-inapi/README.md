@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 261: 1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La propiedad intelectual protege distintos activos mediante derechos y mecanismos diferentes: marca, patente, diseño, derecho de autor, secreto empresarial y contratos. INAPI administra varias categorías en Chile; una startup debe asegurar también titularidad de IP creada por founders, empleados y proveedores.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada.**
 

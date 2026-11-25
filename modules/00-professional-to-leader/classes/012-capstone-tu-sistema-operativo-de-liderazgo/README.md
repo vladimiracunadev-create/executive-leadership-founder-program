@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 012: 1. sintetizar principios y límites → 2. diseñar agenda y cadencias → 3. definir arquitectura de decisiones → 4. crear sistema de relaciones y feedback → 5. revisar mensualmente evidencia y ajustar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. sintetizar principios y límites → 2. diseñar agenda y cadencias → 3. definir arquitectura de decisiones → 4. crear sistema de relaciones y feedback → 5. revisar mensualmente evidencia y ajustar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El sistema operativo personal de liderazgo integra propósito, principios, agenda, decisiones, relaciones, aprendizaje y revisión. El capstone obliga a convertir ideas dispersas en un conjunto pequeño de reglas observables: qué priorizas, cómo decides, cómo comunicas, cuándo escalas, cómo recibes feedback y qué métricas te muestran si estás liderando mejor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un sistema operativo no debe convertirse en dogma. Si la cadencia o la regla deja de servir al resultado, se cambia; la disciplina protege el aprendizaje, no el ritual.**
 

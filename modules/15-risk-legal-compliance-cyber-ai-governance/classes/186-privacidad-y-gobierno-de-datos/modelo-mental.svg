@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g186 d-g186" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g186">Ficha visual de la clase 186: Privacidad y gobierno de datos</title>
+<desc id="d-g186">Conceptos: data governance; data minimization; purpose limitation; legal basis; data lineage. Método: inventariar datos y finalidades → clasificar sensibilidad y bases → definir acceso retención y sharing → implementar derechos y controles → monitorear incidentes y cambios de uso.</desc>
+<defs><marker id="p-g186" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 186 · Privacidad y gobierno de datos</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >data governance</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >roles políticas y controles sobre ciclo de vida de</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >datos</text>
+<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >data minimization</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >recopilar solo datos necesarios para propósito legítimo</text>
+<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >purpose limitation</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >usar datos de acuerdo con finalidad definida</text>
+<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
+<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >legal basis</text>
+<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fundamento jurídico que autoriza tratamiento cuando la</text>
+<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ley lo exige</text>
+<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
+<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >data lineage</text>
+<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >rastreo de origen transformación y uso de datos</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inventariar datos</text>
+<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y finalidades</text>
+<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >clasificar</text>
+<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >sensibilidad y</text>
+<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >bases</text>
+<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
+<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir acceso</text>
+<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >retención y</text>
+<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >sharing</text>
+<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
+<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >implementar</text>
+<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >derechos y</text>
+<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >controles</text>
+<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
+<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >monitorear</text>
+<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >incidentes y</text>
+<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cambios de uso</text>
+<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g186)"/>
+<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g186)"/>
+<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g186)"/>
+<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g186)"/>
+<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g186)"/>
+<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
+<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="456.24" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >data inventory coverage</text>
+<rect x="222.7" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="235.7" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="246.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >access exceptions</text>
+<rect x="376" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="389" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="400" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retention violations</text>
+<rect x="550" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="563" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="574" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >privacy requests</text>
+<rect x="696.4" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="709.4" cy="469.24" r="3.5" fill="#bc4c00"/>
+<text x="720.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >data incidents</text>
+<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre</text>
+<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >fuente oficial vigente antes de operar.</text>
+</svg>

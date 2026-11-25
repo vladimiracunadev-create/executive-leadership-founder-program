@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 177: 1. construir coalición con poder y credibilidad → 2. segmentar audiencias y pérdidas → 3. crear narrativa específica → 4. activar pilotos y champions → 5. medir adopción y resolver barreras](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. construir coalición con poder y credibilidad → 2. segmentar audiencias y pérdidas → 3. crear narrativa específica → 4. activar pilotos y champions → 5. medir adopción y resolver barreras
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una coalición de cambio distribuye legitimidad, conocimiento y capacidad de acción; la narrativa explica por qué cambiar, por qué ahora y qué significa para distintos grupos. Adopción exige más que comunicación: roles, capacidades, incentivos y evidencia temprana deben reforzarse.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una narrativa fuerte puede convertirse en propaganda si oculta costos o incertidumbres. La confianza aumenta cuando la comunicación reconoce trade-offs y problemas reales.**
 

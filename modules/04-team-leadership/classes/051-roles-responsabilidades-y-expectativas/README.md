@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 051: 1. definir outcomes del rol → 2. separar responsabilidades recurrentes de proyectos → 3. asignar autoridad y límites → 4. mapear interfaces y handoffs → 5. validar expectativas con la persona](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir outcomes del rol → 2. separar responsabilidades recurrentes de proyectos → 3. asignar autoridad y límites → 4. mapear interfaces y handoffs → 5. validar expectativas con la persona
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Roles y expectativas deben describir resultados, interfaces y autoridad, no listas infinitas de tareas. Una buena definición responde qué outcome posee el rol, qué decisiones puede tomar y con quién debe coordinar. Esto permite delegar y evaluar sin microgestión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Claridad de roles no debe congelar colaboración. En entornos dinámicos algunas responsabilidades cambian; el marco debe permitir negociar fronteras sin volver a la ambigüedad total.**
 

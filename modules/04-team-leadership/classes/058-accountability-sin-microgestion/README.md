@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 058: 1. definir outcome y estándar → 2. acordar guardrails y señales → 3. delegar método dentro del marco → 4. revisar por excepción → 5. usar postmortem para ajustar autonomía](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir outcome y estándar → 2. acordar guardrails y señales → 3. delegar método dentro del marco → 4. revisar por excepción → 5. usar postmortem para ajustar autonomía
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Accountability sin microgestión requiere claridad antes de la ejecución y revisión basada en resultados después. El manager define qué importa, límites y cadencia; la persona decide cómo dentro de ese marco. Microgestión aparece cuando la ansiedad del jefe invade decisiones que ya fueron delegadas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Menos control no siempre es mejor. Riesgo alto, novedad, compliance o baja competencia pueden justificar checkpoints frecuentes; el criterio es proporcionalidad, no una ideología de autonomía.**
 

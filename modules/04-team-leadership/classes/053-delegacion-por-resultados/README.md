@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 053: 1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Delegar por resultados transfiere un outcome y una franja de autoridad, no solo tareas. Requiere contexto, criterios, límites y checkpoints proporcionales a la madurez relevante de la persona. El objetivo es ampliar capacidad del sistema sin abandonar accountability del manager.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión.**
 

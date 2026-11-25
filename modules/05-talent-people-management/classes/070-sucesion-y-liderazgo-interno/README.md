@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 070: 1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. identificar roles críticos → 2. definir requisitos futuros del rol → 3. crear slate y evaluar readiness → 4. asignar experiencias reales de desarrollo → 5. revisar contingencia y cambios semestralmente
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Sucesión reduce riesgo de dependencia y crea continuidad para roles críticos. No es una lista secreta de reemplazos, sino un proceso de identificar posiciones, candidatos, readiness, experiencias de desarrollo y contingencias. Un sucesor potencial no es una promesa de promoción.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria.**
 

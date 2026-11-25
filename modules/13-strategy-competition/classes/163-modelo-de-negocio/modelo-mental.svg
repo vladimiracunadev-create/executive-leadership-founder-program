@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 592" width="1040" role="img" aria-labelledby="t-g163 d-g163" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g163">Ficha visual de la clase 163: Modelo de negocio</title>
+<desc id="d-g163">Conceptos: value proposition; revenue model; cost structure; key activity; business model coherence. Método: definir segmento y problema → articular propuesta y canal → modelar recursos actividades y partners → construir revenue y cost logic → testear coherencia y economics.</desc>
+<defs><marker id="p-g163" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="592" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 163 · Modelo de negocio</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >value proposition</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >razón concreta por la que un segmento elige una oferta</text>
+<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
+<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >revenue model</text>
+<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mecanismo por el que la organización captura ingresos</text>
+<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
+<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cost structure</text>
+<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >patrón de costos necesario para entregar la propuesta</text>
+<circle cx="38" cy="286" r="5" fill="#bc4c00"/>
+<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >key activity</text>
+<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >actividad crítica que habilita el valor</text>
+<circle cx="38" cy="344" r="5" fill="#bc4c00"/>
+<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >business model coherence</text>
+<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >compatibilidad económica y operativa entre componentes</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir segmento y problema</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >articular propuesta y canal</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >modelar recursos actividades y partners</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >construir revenue y cost logic</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >testear coherencia y economics</text>
+<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="428" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="441" r="3.5" fill="#bc4c00"/>
+<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revenue per segment</text>
+<rect x="195.1" y="428" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="208.1" cy="441" r="3.5" fill="#bc4c00"/>
+<text x="219.1" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >gross margin</text>
+<rect x="313.9" y="428" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="326.9" cy="441" r="3.5" fill="#bc4c00"/>
+<text x="337.9" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >CAC-LTV</text>
+<rect x="398.2" y="428" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="411.2" cy="441" r="3.5" fill="#bc4c00"/>
+<text x="422.2" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >channel contribution</text>
+<rect x="572.2" y="428" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="585.2" cy="441" r="3.5" fill="#bc4c00"/>
+<text x="596.2" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost-to-serve</text>
+<rect x="697.9" y="428" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="710.9" cy="441" r="3.5" fill="#bc4c00"/>
+<text x="721.9" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >critical-assumption status</text>
+<rect x="28" y="460" width="226.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
+<circle cx="41" cy="473" r="3.5" fill="#bc4c00"/>
+<text x="52" y="477.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >investment evidence threshold</text>
+<rect x="28" y="506" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="506" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="526" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="544" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para</text>
+<text x="48" y="561.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >formular y probar hipótesis.</text>
+</svg>

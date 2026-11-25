@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 123: 1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Prospección genera conversaciones relevantes, no volumen de mensajes. Un sistema combina cuentas objetivo, trigger events, hipótesis de problema, canales y cadencia. La personalización debe basarse en evidencia útil, no en datos triviales usados para simular cercanía.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera.**
 

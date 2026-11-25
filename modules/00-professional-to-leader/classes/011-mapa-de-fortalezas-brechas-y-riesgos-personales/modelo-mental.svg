@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 648.48" width="1040" role="img" aria-labelledby="t-g11 d-g11" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-g11">Ficha visual de la clase 011: Mapa de fortalezas, brechas y riesgos personales</title>
+<desc id="d-g11">Conceptos: fortaleza; brecha; riesgo personal; complementariedad; derailer. Método: definir requisitos del rol siguiente → recolectar evidencia de desempeño y feedback → clasificar fortalezas, brechas y derailers → priorizar dos brechas de alto impacto → diseñar mitigación mediante práctica, delegación o complemento.</desc>
+<defs><marker id="p-g11" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="648.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
+<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
+<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 011 · Mapa de fortalezas, brechas y riesgos personales</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 00 · Autoliderazgo y fundamentos ejecutivos</text>
+<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
+<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
+<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >fortaleza</text>
+<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad que produce desempeño superior de forma</text>
+<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >relativamente consistente</text>
+<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
+<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >brecha</text>
+<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >competencia requerida cuyo nivel actual es insuficiente</text>
+<circle cx="38" cy="242.12" r="5" fill="#1a7f37"/>
+<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >riesgo personal</text>
+<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >patrón propio que puede dañar decisiones, relaciones o</text>
+<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >continuidad</text>
+<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
+<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >complementariedad</text>
+<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >uso deliberado de otras personas o sistemas para cubrir</text>
+<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límites</text>
+<circle cx="38" cy="386.36" r="5" fill="#1a7f37"/>
+<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >derailer</text>
+<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conducta que bajo presión puede sabotear una</text>
+<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >trayectoria de liderazgo</text>
+<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
+<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
+<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
+<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir requisitos del rol siguiente</text>
+<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
+<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
+<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >recolectar evidencia de desempeño y feedback</text>
+<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
+<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
+<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >clasificar fortalezas, brechas y derailers</text>
+<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
+<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
+<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >priorizar dos brechas de alto impacto</text>
+<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
+<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
+<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >diseñar mitigación mediante práctica, delegación o</text>
+<text x="572" y="365.25" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >complemento</text>
+<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >feedback convergente</text>
+<rect x="202" y="484.48" width="233" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="215" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="226" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >errores repetidos bajo presión</text>
+<rect x="445" y="484.48" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="458" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="469" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >roles evitados</text>
+<rect x="577.6" y="484.48" width="253.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="590.6" cy="497.48" r="3.5" fill="#1a7f37"/>
+<text x="601.6" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependencia de una sola fortaleza</text>
+<rect x="28" y="516.48" width="253.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
+<circle cx="41" cy="529.48" r="3.5" fill="#1a7f37"/>
+<text x="52" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >progreso de competencias objetivo</text>
+<rect x="28" y="562.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
+<rect x="28" y="562.48" width="6" height="62" rx="3" fill="#cf222e"/>
+<text x="48" y="582.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
+<text x="48" y="600.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todas las debilidades merecen reparación. Algunas pueden neutralizarse con diseño de rol o complementariedad; invertir años en una</text>
+<text x="48" y="617.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >debilidad de bajo impacto puede ser peor que profundizar una ventaja crítica.</text>
+</svg>

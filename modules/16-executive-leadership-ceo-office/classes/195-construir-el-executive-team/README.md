@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 195: 1. definir mandato colectivo → 2. seleccionar complementariedad y roles → 3. crear normas de conflicto y decisión → 4. diseñar cadencia enterprise → 5. medir comportamiento y resultados colectivos](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir mandato colectivo → 2. seleccionar complementariedad y roles → 3. crear normas de conflicto y decisión → 4. diseñar cadencia enterprise → 5. medir comportamiento y resultados colectivos
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El executive team no es un conjunto de jefes funcionales que reportan al CEO; debe actuar como equipo responsable de la empresa. Su diseño exige complementariedad, confianza para el conflicto, claridad de roles, decisiones colectivas y disciplina para no defender feudos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las decisiones deben ser colectivas. Un equipo ejecutivo efectivo reserva trabajo conjunto para asuntos enterprise y mantiene accountability funcional clara.**
 

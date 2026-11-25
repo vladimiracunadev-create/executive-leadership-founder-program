@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 114: 1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Capital de trabajo conecta crecimiento con caja mediante cuentas por cobrar, inventario y cuentas por pagar. Un negocio rentable puede quebrar si cobra tarde, compra demasiado inventario o paga antes de financiar el ciclo. El cash conversion cycle hace visible esa dinámica.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total.**
 

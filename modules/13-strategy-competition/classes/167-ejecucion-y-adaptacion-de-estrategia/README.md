@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 167: 1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La ejecución estratégica convierte elecciones en asignación de recursos, prioridades, métricas, cadencias y aprendizaje. Una estrategia puede fallar por mala hipótesis o mala ejecución; distinguir ambas exige observar indicadores adelantados y revisar supuestos, no solo perseguir targets.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias.**
 

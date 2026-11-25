@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 017: 1. enumerar estados futuros materialmente distintos → 2. asignar rangos o probabilidades justificadas → 3. estimar impacto y reversibilidad → 4. comparar opciones por valor y downside → 5. definir triggers para actualizar la decisión](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. enumerar estados futuros materialmente distintos → 2. asignar rangos o probabilidades justificadas → 3. estimar impacto y reversibilidad → 4. comparar opciones por valor y downside → 5. definir triggers para actualizar la decisión
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Decidir bajo incertidumbre exige separar probabilidad, impacto y tolerancia al riesgo. No saber con certeza no impide actuar: se pueden construir escenarios, rangos, valor esperado y decisiones robustas. La meta es evitar dos extremos, falsa precisión y parálisis por incertidumbre.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Probabilidades numéricas débiles pueden crear ilusión de precisión. Cuando no existe base suficiente, rangos, escenarios y decisiones robustas son preferibles a porcentajes arbitrarios.**
 

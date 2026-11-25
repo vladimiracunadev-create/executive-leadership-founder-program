@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 024: 1. formular el problema sin solución oculta → 2. construir opciones y escenarios → 3. debatir supuestos con red team → 4. decidir con criterios explícitos → 5. registrar riesgos, owner y revisión](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. formular el problema sin solución oculta → 2. construir opciones y escenarios → 3. debatir supuestos con red team → 4. decidir con criterios explícitos → 5. registrar riesgos, owner y revisión
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone integra formulación, incertidumbre, sesgos, sistemas, trade-offs y trazabilidad. Un comité de decisión no busca unanimidad superficial: debe hacer explícitos desacuerdos, comparar opciones bajo escenarios y decidir quién asume el riesgo residual.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un comité no debe usar análisis como sustituto de accountability. Después de escuchar perspectivas, alguien debe tener derecho y obligación de decidir dentro del marco de gobierno.**
 

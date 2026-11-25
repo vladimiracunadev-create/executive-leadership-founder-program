@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 288: 1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone final integra liderazgo, gestión, estrategia, finanzas, mercado, riesgo, Chile, founder y owner en una defensa ejecutiva. Debes demostrar que puedes dirigir una empresa y también diseñar tu independencia: diagnóstico, choices, economics, people system, governance, compliance y plan de acción con evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia.**
 

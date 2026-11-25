@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 14 completa** (169–180): la organización como diseño (Galbraith, Lawrence y Lorsch), estructuras
+  funcionales, divisionales y matriciales, tramos y capas, modelo operativo (Mankins, Skelton y Pais), derechos de
+  decisión (RACI, RAPID), cultura observable (Schein, Edmondson), incentivos (Gneezy y Rustichini, Deci y otros),
+  diagnóstico de cambio (Armenakis y Harris), coalición, narrativa y adopción (Kotter, Heath y Heath, Rogers),
+  transformación empresarial, reorganizaciones y riesgos humanos y capstone de rediseño; cada clase con fuentes
+  verificadas, cifras recalculadas y un diagrama a medida.
 - **La parte 13 completa** (157–168): qué es y qué no es estrategia (Rumelt, Lafley y Martin), diagnóstico,
   fuerzas competitivas (Porter) y teoría de juegos (Dixit y Nalebuff), recursos y capacidades (Wernerfelt,
   Barney, Teece), ventaja competitiva (Helmer, McGrath), trade-offs y coherencia, modelo de negocio, escenarios

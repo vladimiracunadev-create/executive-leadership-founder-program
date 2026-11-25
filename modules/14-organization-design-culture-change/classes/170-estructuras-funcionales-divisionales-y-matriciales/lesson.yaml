@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir functional structure de divisional structure mediante evidencia observable."
-  - "Aplicar la secuencia: mapear variedad e interdependencia → identificar unidad primaria de accountability → evaluar economías de escala → diseñar interfaces entre ejes → probar decisiones críticas en el modelo."
-  - "Interpretar decision conflicts, duplicate roles, shared-service SLA sin atribuir causalidad automática."
-  - "Resolver el caso de estructuras funcionales, divisionales y matriciales con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir las estructuras funcional, divisional, matricial y por equipos."
+  - "Evaluar qué problema de coordinación resuelve cada una y qué costo genera."
+  - "Diseñar interfaces y reglas entre unidades para reducir el costo de la estructura elegida."
+  - "Decidir cuándo una matriz es justificable y cómo gestionarla."
+  - "Planificar una transición estructural con riesgos y medidas."
 deliverable: "risk-governance-brief.md"
 references:
   - "Jay R. Galbraith — *Designing Organizations*"
-  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
-  - "Patrick Lencioni — *The Advantage*"
-  - "Aaron Dignan — *Brave New Work*"
+  - "Paul R. Lawrence & Jay W. Lorsch — *Differentiation and Integration in Complex Organizations*"
+  - "Matthew Skelton & Manuel Pais — *Team Topologies*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
   - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
-  - "John P. Kotter — *Leading Change*"
 limits:
-  - "Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación."
+  - "No hay estructura que elimine los conflictos de coordinación."
 evidence_signals:
-  - "decision conflicts"
-  - "duplicate roles"
-  - "shared-service SLA"
-  - "P&L clarity"
-  - "coordination load"
+  - "estructuras comparadas con criterios"
+  - "costos de coordinación estimados"
+  - "alternativa elegida con razones"
+  - "reversibilidad evaluada"

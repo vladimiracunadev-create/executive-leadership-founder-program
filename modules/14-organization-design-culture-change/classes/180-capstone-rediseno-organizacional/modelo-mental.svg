@@ -1,67 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g180 d-g180" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g180">Ficha visual de la clase 180: Capstone: rediseño organizacional</title>
-<desc id="d-g180">Conceptos: target operating model; design principle; transition architecture; organizational debt; design test. Método: formular design principles → diseñar estructura e interfaces → probar decisiones críticas → alinear incentives y people systems → crear transición con riesgos y métricas.</desc>
-<defs><marker id="p-g180" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 180 · Capstone: rediseño organizacional</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 14 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >target operating model</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diseño futuro integrado de unidades procesos decisiones</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >y capabilities</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >design principle</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regla que guía elecciones organizacionales</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >transition architecture</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >secuencia de pasos para pasar al diseño futuro</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >organizational debt</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fricción acumulada por roles procesos o sistemas</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obsoletos</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >design test</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >escenario real usado para comprobar si el diseño</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >permite decidir y ejecutar</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >formular design principles</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diseñar estructura e interfaces</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >probar decisiones críticas</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >alinear incentives y people systems</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >crear transición con riesgos y métricas</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision latency</text>
-<rect x="174.4" y="470.36" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="187.4" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="198.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >role clarity</text>
-<rect x="293.2" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="306.2" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="317.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer outcome</text>
-<rect x="439.6" y="470.36" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="452.6" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="463.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >management layers</text>
-<rect x="592.9" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="605.9" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="616.9" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >transition incidents</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisa dónde la autoridad o información se rompen.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.56" width="1040" role="img" aria-labelledby="t-s180 d-s180" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s180">Clase 180 · Rediseñar una organización: del diagnóstico a la medición</title>
+<desc id="d-s180">Cinco pasos del capstone: diagnosticar, diseñar, definir derechos de decisión, gestionar el cambio y medir.</desc>
+<defs><marker id="p-s180" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 180 · Rediseñar una organización: del diagnóstico a la medición</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Integración de la parte 14</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Diagnosticar</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Problema de coordinación,</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >estructura y cultura</text>
+<text x="44" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >actuales (169–174).</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s180)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Diseñar</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Estructura, tramos y modelo</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >operativo (170–172).</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s180)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Definir decisiones</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Derechos de decisión,</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >incentivos y gobierno (173,</text>
+<text x="547" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >175).</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s180)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Gestionar el cambio</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Coalición, narrativa,</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >riesgos humanos (176–179).</text>
+<path d="M897.25,211.75 V223.75 H142.75 V241.75" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s180)"/>
+<rect x="28" y="243.75" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="269.75" r="13" fill="#cf222e"/>
+<text x="52" y="274.75" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="267.75" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Medir y ajustar</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Indicadores de coordinación,</text>
+<text x="44" y="317" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >desempeño y clima.</text>
+<path d="M142.75,359.5 V379.5 H142.75 V213.75" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s180)"/>
+<text x="142.75" y="373.5" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >lo medido corrige el diseño</text>
+<rect x="28" y="395.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un rediseño es una hipótesis sobre cómo mejorar la coordinación. Se prueba en una parte de la organización, se mide y se ajusta antes</text>
+<text x="44" y="434.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >de generalizar.</text>
+<text x="28" y="482" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las cifras y los casos del capstone son ilustrativos; los cambios reales exigen datos propios y asesoría laboral.</text>
 </svg>

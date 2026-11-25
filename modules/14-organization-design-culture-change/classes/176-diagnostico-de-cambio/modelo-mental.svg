@@ -1,66 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g176 d-g176" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g176">Ficha visual de la clase 176: Diagnóstico de cambio</title>
-<desc id="d-g176">Conceptos: change diagnosis; stakeholder; readiness; resistance; reinforcement. Método: definir conducta futura observable → mapear stakeholders y pérdidas → diagnosticar conocimiento motivación y capacidad → identificar barreras de sistema → diseñar intervención segmentada y feedback.</desc>
-<defs><marker id="p-g176" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 176 · Diagnóstico de cambio</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 14 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >change diagnosis</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >análisis de fuerzas que sostienen estado actual y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obstaculizan estado deseado</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >stakeholder</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >actor afectado o capaz de afectar el cambio</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >readiness</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad y disposición para adoptar</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >resistance</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >señal de costo pérdida riesgo o desacuerdo frente al</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cambio</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reinforcement</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mecanismo que estabiliza nuevas conductas</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir conducta futura observable</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear stakeholders y pérdidas</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diagnosticar conocimiento motivación y capacidad</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar barreras de sistema</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diseñar intervención segmentada y feedback</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >adoption by segment</text>
-<rect x="195.1" y="456.24" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="208.1" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="219.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >proficiency</text>
-<rect x="307" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="320" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="331" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resistance themes</text>
-<rect x="460.3" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="473.3" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="484.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >process compliance</text>
-<rect x="620.5" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="633.5" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="644.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >benefit realization</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >feedback legítimo sobre el sistema.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.06" width="1040" role="img" aria-labelledby="t-s176 d-s176" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s176">Clase 176 · Impacto del cambio y disposición de las personas</title>
+<desc id="d-s176">Cuadrante de impacto del cambio y disposición de las personas para decidir cómo prepararlo.</desc>
+<defs><marker id="p-s176" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 176 · Impacto del cambio y disposición de las personas</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Kotter · Armenakis &amp; Harris (2002) · Heath &amp; Heath</text>
+<text x="362.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Baja disposición</text>
+<text x="799.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Alta disposición</text>
+<text transform="translate(120,160.25) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Alto impacto</text>
+<text transform="translate(120,268.75) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Bajo impacto</text>
+<rect x="150" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="150.0" y="112.0" width="425.0" height="34" rx="12" fill="#cf222e"/>
+<text x="166" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Preparar y escuchar</text>
+<text x="166" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alto impacto con baja disposición: más diálogo, razones</text>
+<text x="166" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claras y apoyo antes de avanzar.</text>
+<rect x="587" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="587.0" y="112.0" width="425.0" height="34" rx="12" fill="#1a7f37"/>
+<text x="603" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Acelerar con cuidado</text>
+<text x="603" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alto impacto con alta disposición: aprovechar el impulso</text>
+<text x="603" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >y asegurar capacidades.</text>
+<rect x="150" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="150.0" y="220.5" width="425.0" height="34" rx="12" fill="#bc4c00"/>
+<text x="166" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Informar y acompañar</text>
+<text x="166" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Bajo impacto con baja disposición: comunicar y resolver</text>
+<text x="166" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dudas.</text>
+<rect x="587" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="587.0" y="220.5" width="425.0" height="34" rx="12" fill="#0969da"/>
+<text x="603" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Avanzar</text>
+<text x="603" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Bajo impacto con alta disposición: ejecutar con</text>
+<text x="603" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >comunicación simple.</text>
+<rect x="28" y="329" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El diagnóstico se hace por grupos afectados, no en promedio: cada grupo tiene un impacto y una disposición distintos, y la estrategia</text>
+<text x="44" y="368.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >de cambio se ajusta a cada uno.</text>
+<text x="28" y="415.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La disposición se mide con conversaciones y datos de comportamiento; una encuesta de clima aislada no basta.</text>
 </svg>

@@ -10,217 +10,199 @@
 
 ## 🎯 Propósito
 
-El capstone de diseño organizacional exige rediseñar una empresa desde estrategia hasta estructura, decisiones, procesos, cultura, incentivos y transición. Se evalúa coherencia sistémica y riesgos de implementación, no estética del organigrama.
+Esta clase integra la parte 14. Rediseñar una organización no consiste en dibujar un organigrama nuevo: es **formular una hipótesis** sobre cómo mejorar la coordinación, sostenerla con un diseño coherente (estructura, tramos, modelo operativo y derechos de decisión), alinear incentivos y cultura, gestionar el cambio con atención a las personas y **medir** si funcionó. Cada clase anterior aportó una pieza: la organización como diseño (169), las estructuras (170), los tramos y capas (171), el modelo operativo (172), los derechos de decisión (173), la cultura (174), los incentivos (175), el diagnóstico de cambio (176), la coalición y la narrativa (177), la transformación (178) y los riesgos humanos (179). El capstone las articula en un caso con restricciones y presiones reales.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: rediseño organizacional** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+El trabajo es **un expediente de rediseño**: diagnóstico, alternativas, diseño elegido, plan de cambio, riesgos y métricas, con la honestidad de decir qué se sabe, qué se supone y qué falta verificar. Se apoya en Galbraith, Lawrence y Lorsch, Mankins, Kotter, Edmondson y Skelton y Pais, a quienes se remite para el detalle. Al terminar tendrás un documento que podrías presentar a un comité de dirección.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `target operating model`, `design principle`, `transition architecture`, `organizational debt`, `design test` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decision latency, role clarity, customer outcome sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** los problemas de coordinación, estructura, decisión y cultura de una organización.
+2. **Comparar** alternativas de diseño con criterios y costos explícitos.
+3. **Definir** derechos de decisión, incentivos y gobierno coherentes con el diseño.
+4. **Planificar** el cambio con atención a coalición, narrativa y riesgos humanos.
+5. **Medir** el resultado y definir criterios de ajuste y de parada.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define target operating model y design principle sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decision latency y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión de diseño de la parte 14 cambió tu manera de ver tu organización? |
+| 20–60 min | Método integrador en cinco pasos. |
+| 60–105 min | Ejemplo trabajado: rediseño de una empresa de servicios de ingeniería. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **target operating model** | diseño futuro integrado de unidades procesos decisiones y capabilities | Distingue un hecho compatible y otro que lo refute. |
-| **design principle** | regla que guía elecciones organizacionales | Distingue un hecho compatible y otro que lo refute. |
-| **transition architecture** | secuencia de pasos para pasar al diseño futuro | Distingue un hecho compatible y otro que lo refute. |
-| **organizational debt** | fricción acumulada por roles procesos o sistemas obsoletos | Distingue un hecho compatible y otro que lo refute. |
-| **design test** | escenario real usado para comprobar si el diseño permite decidir y ejecutar | Distingue un hecho compatible y otro que lo refute. |
+| **Rediseño organizacional** | Cambio deliberado de estructura, procesos, decisiones, incentivos y cultura para mejorar la coordinación. | Parte de un problema, no de un organigrama. |
+| **Hipótesis de diseño** | Afirmación comprobable de cómo un cambio mejorará un resultado. | «Si hacemos X, esperamos Y medido por Z». |
+| **Alternativa** | Opción de diseño comparable con otras. | Tiene ventajas, costos y riesgos explícitos. |
+| **Coherencia** | Ajuste entre estructura, decisiones, incentivos, personas y cultura. | Los elementos se refuerzan, no se contradicen. |
+| **Criterio de ajuste** | Umbral que obliga a revisar el diseño. | Se fija antes de implantar. |
+| **Expediente de rediseño** | Documento con diagnóstico, diseño, plan y métricas. | Se puede auditar y comparar con el resultado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 180: 1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas](modelo-mental.svg)
+![Cinco pasos del capstone: diagnosticar, diseñar, definir decisiones, gestionar el cambio y medir y ajustar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El capstone de diseño organizacional exige rediseñar una empresa desde estrategia hasta estructura, decisiones, procesos, cultura, incentivos y transición. Se evalúa coherencia sistémica y riesgos de implementación, no estética del organigrama.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Diagnosticar**: problema de coordinación, estructura y cultura actuales (clases 169 a 174). **Diseñar**: estructura, tramos y modelo operativo (170 a 172). **Definir decisiones**: derechos de decisión, incentivos y gobierno (173 y 175). **Gestionar el cambio**: coalición, narrativa y riesgos humanos (176 a 179). **Medir y ajustar**: indicadores de coordinación, desempeño y clima. El retorno indica que lo medido corrige el diseño. La nota recuerda que un rediseño es una hipótesis que se prueba en una parte de la organización antes de generalizar.
 
 ## 📖 Desarrollo
 
-### 1. target operating model: mecanismo central
+### 1. Empezar por el problema, no por el organigrama
 
-**target operating model** se entiende aquí como **diseño futuro integrado de unidades procesos decisiones y capabilities**. Esta es la pieza causal o estructural desde la que se inicia **capstone: rediseño organizacional**: antes de formular design principles, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Mankins y Galbraith coinciden en que el diseño parte de **la estrategia y de los problemas de coordinación**. Antes de dibujar cajas se escribe: ¿qué decisiones se toman tarde, mal o por quien no corresponde?, ¿dónde se pierde tiempo en traspasos?, ¿qué conflictos se repiten?, ¿qué clientes se atienden mal por la forma en que estamos organizados? Se recogen **datos** (tiempos de ciclo, escalamientos, retrabajos, rotación, quejas) y **evidencia cualitativa** (entrevistas, observación de reuniones). Un buen diagnóstico distingue los problemas de **diseño** (se resuelven con estructura o decisiones) de los de **personas** (se resuelven con desarrollo o cambios de rol) y de **proceso** (se resuelven con mejora).
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decision latency**; regístrala con periodo, unidad, población y baseline.
+### 2. Alternativas y criterios
 
-Relaciona el mecanismo con **design principle**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se plantean **al menos tres alternativas**, incluida «mejorar sin reorganizar» y una intermedia (por ejemplo, ajustar derechos de decisión e interfaces). Se evalúan con criterios fijados de antemano: **coordinación** que mejora, **capacidad de respuesta** al cliente, **eficiencia**, **claridad de responsabilidad**, **costo de transición**, **riesgo humano** y **reversibilidad**. Lawrence y Lorsch recuerdan que más diferenciación entre áreas exige más integración; Skelton y Pais invitan a mirar la carga cognitiva y la interacción entre equipos. Se evita la alternativa única «preferida del jefe» presentada como inevitable. Una matriz con ponderaciones y justificaciones hace visible la elección y sus límites.
 
-### 2. design principle: frontera conceptual y error de clasificación
+### 3. Diseño coherente
 
-**Definición operacional:** regla que guía elecciones organizacionales. Su valor está en distinguirlo de **target operating model** y **transition architecture**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La alternativa elegida se desarrolla en **seis dimensiones** del marco de Galbraith: **estrategia**, **estructura**, **procesos y decisiones**, **recompensas**, **personas** y, agregamos aquí, **cultura**. Se definen: unidades y reportes (clase 170), tramos y capas con la carga de las jefaturas (171), el modelo operativo con sus rutinas y gobierno (172), los derechos de decisión con RACI o RAPID para decisiones críticas (173), los incentivos con contrapesos (175) y los comportamientos que se esperan (174). La **coherencia** se verifica con una prueba: para cada decisión importante, ¿la estructura la facilita, el derecho de decisión la asigna, el incentivo la premia y la cultura la tolera?
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **design principle** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **role clarity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Plan de cambio
 
-Antes de diseñar estructura e interfaces, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con el diseño se construye el plan: **diagnóstico de cambio** por grupos (176), **coalición y narrativa** (177), **secuencia y frentes** (178) y **gestión de riesgos humanos** (179). Se define qué se prueba en un piloto, qué se escala y qué se cierra; qué se comunica, a quién y cuándo; qué apoyos se ofrecen; y qué se verifica con asesoría laboral, de datos y regulatoria. Se prevé la fatiga de cambio y se priorizan iniciativas. El plan incluye **dueños**, **hitos**, **recursos** y **puntos de decisión**, y reconoce explícitamente lo que no se sabe.
 
-### 3. transition architecture: operacionalización y medición
+### 5. Medir y ajustar
 
-**transition architecture** significa **secuencia de pasos para pasar al diseño futuro**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se definen indicadores de **coordinación** (tiempo de decisión, escalamientos, retrabajos), de **desempeño** (resultados de negocio, calidad, servicio), de **personas** (rotación voluntaria, clima, seguridad psicológica, ambigüedad percibida) y de **gobierno** (decisiones tomadas por el rol asignado). Se fija una **línea base**, **metas realistas** y **revisiones** a 30, 90 y 180 días. Los **criterios de ajuste** se escriben antes: por ejemplo, «si el tiempo de decisión no mejora 20 % a los 90 días, se revisan derechos de decisión». Se registran los aprendizajes. Se evita atribuir causalidad sin cuidado: otros factores afectan los resultados.
 
-Patrick Lencioni — *The Advantage* orienta este bloque mediante **perspectiva de Salud organizacional aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **customer outcome**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Presentar con honestidad
 
-Al llegar a probar decisiones críticas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
-
-### 4. organizational debt: trade-offs y efectos de segundo orden
-
-**Definición:** fricción acumulada por roles procesos o sistemas obsoletos. Este concepto obliga a abandonar la idea de que **capstone: rediseño organizacional** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de alinear incentives y people systems, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aaron Dignan — *Brave New Work* aporta una lente sobre **perspectiva de Diseño organizacional aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **management layers** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: rediseño organizacional**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **organizational debt** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. design test: gobernanza, límites e integración
-
-**design test** se define como **escenario real usado para comprobar si el diseño permite decidir y ejecutar** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* se utiliza para estudiar **perspectiva de Organización aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar crear transición con riesgos y métricas, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **target operating model**, **design principle**, **transition architecture**, **organizational debt** y **design test** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: rediseño organizacional** no consiste en sumar cinco definiciones. Empieza por **target operating model**, contrasta **design principle** con **transition architecture**, incorpora **organizational debt** como restricción o mecanismo y usa **design test** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El expediente explica **qué se hizo, por qué, qué se espera y qué podría salir mal**. Distingue **evidencia**, **supuestos** y **juicio**. Incluye los costos de transición, las alternativas descartadas y los riesgos humanos. Evita el lenguaje grandilocuente («transformar», «alinear») sin definición. Una buena prueba: ¿podría alguien ajeno entender el problema, la decisión, el plan y cómo sabremos si funcionó? Si no puede, falta claridad. Y si las condiciones cambian (mercado, regulación, estrategia), el expediente se revisa y se deja constancia.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **capstone: rediseño organizacional** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **capstone: rediseño organizacional** ayuda a desafiar? |
-| Patrick Lencioni — *The Advantage* | perspectiva de Salud organizacional aplicada al problema de la clase | ¿Qué supuesto de **capstone: rediseño organizacional** ayuda a desafiar? |
-| Aaron Dignan — *Brave New Work* | perspectiva de Diseño organizacional aplicada al problema de la clase | ¿Qué supuesto de **capstone: rediseño organizacional** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **capstone: rediseño organizacional** ayuda a desafiar? |
-
-En **capstone: rediseño organizacional**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **target operating model**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Galbraith | Dimensiones del diseño: estrategia, estructura, procesos, recompensas y personas. | No detalla la transición humana. | ¿Hay coherencia entre dimensiones? |
+| Lawrence y Lorsch | Diferenciación e integración según el entorno. | Estudio clásico de ciertas industrias. | ¿Qué integración exige la diferenciación elegida? |
+| Mankins | Decisiones, tiempo y atención de la dirección. | Se centra en el nivel directivo. | ¿Dónde se pierden decisiones? |
+| Kotter | Cambio sostenido con coalición y narrativa. | Marco general. | ¿Quién guía y cómo se anclará? |
+| Skelton y Pais | Carga cognitiva y tipos de interacción entre equipos. | Pensado para equipos de tecnología. | ¿Qué equipo está sobrecargado? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa de 450 personas integra dos adquisiciones. Tiene tres CRMs, dos equipos de producto duplicados y pricing decidido de forma distinta por región. Debe diseñar modelo futuro sin detener ventas.
+**Situación (hipotética).** Una empresa de ingeniería con 420 personas y ventas de 38.000 millones de pesos está organizada por disciplinas (civil, eléctrica, mecánica, sistemas). Los proyectos multidisciplinarios demoran: el tiempo medio de aprobación de cambios de alcance es 11 días; el 34 % de los proyectos excede el presupuesto; los jefes de disciplina están sobrecargados con 14 reportes directos en promedio; la rotación de ingenieros senior es de 19 %; una encuesta indica que solo 36 % cree que las decisiones se toman en el nivel adecuado.
 
-**Paso 1 — formular design principles.** La gerencia escribe primero el supuesto asociado a **target operating model** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **capstone: rediseño organizacional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Problema de coordinación entre disciplinas, derechos de decisión poco claros sobre cambios de alcance, tramos excesivos de jefaturas y un incentivo individual que premia horas facturadas.
 
-**Paso 2 — diseñar estructura e interfaces.** La gerencia escribe primero el supuesto asociado a **design principle** y evita convertirlo en hecho. Luego busca **role clarity** para contrastarlo en el caso de **capstone: rediseño organizacional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Alternativas.**
 
-**Paso 3 — probar decisiones críticas.** La gerencia escribe primero el supuesto asociado a **transition architecture** y evita convertirlo en hecho. Luego busca **customer outcome** para contrastarlo en el caso de **capstone: rediseño organizacional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Alternativa | Descripción | Coordinación | Costo de transición | Riesgo humano | Reversibilidad |
+|---|---|---|---|---|---|
+| A. Mejorar sin reorganizar | Reglas de cambio de alcance, reunión semanal por proyecto | Media | Bajo | Bajo | Alta |
+| B. Matricial ligera | Líderes de proyecto con autoridad sobre alcance y presupuesto, disciplinas mantienen competencia técnica | Alta | Medio | Medio | Media |
+| C. Por unidades de negocio | Cuatro unidades con equipos multidisciplinarios fijos | Alta | Alto | Alto | Baja |
 
-**Paso 4 — alinear incentives y people systems.** La gerencia escribe primero el supuesto asociado a **organizational debt** y evita convertirlo en hecho. Luego busca **management layers** para contrastarlo en el caso de **capstone: rediseño organizacional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Elección.** B, con elementos de A como primer paso. Se justifica por mejor coordinación, costo y riesgo manejables y reversibilidad media. C se descarta por riesgo humano y baja reversibilidad con los datos actuales.
 
-**Paso 5 — crear transición con riesgos y métricas.** La gerencia escribe primero el supuesto asociado a **design test** y evita convertirlo en hecho. Luego busca **transition incidents** para contrastarlo en el caso de **capstone: rediseño organizacional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diseño.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: rediseño organizacional**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+- Estructura: 12 líderes de proyecto con autoridad sobre alcance y presupuesto del proyecto; los jefes de disciplina conservan estándares técnicos y desarrollo.
+- Tramos: de 14 a 8 reportes por jefe con la creación de 6 coordinadores de equipo.
+- Decisiones: matriz RAPID para cambios de alcance: el líder de proyecto decide hasta 5 % del presupuesto; sobre 5 %, el comité de portafolio.
+- Incentivos: 40 % del bono variable depende de resultados del proyecto (margen y plazo), 30 % de calidad técnica y satisfacción, 30 % individual; se verifica con asesoría el efecto laboral de cambiar la compensación variable.
+- Cultura: reuniones de aprendizaje de proyecto sin culpas; se mide la seguridad psicológica.
+
+**Cálculo de impacto.** Si el 34 % de excesos de presupuesto promedia 9 % sobre proyectos que suman 38.000 millones: 0,34 × 38.000 × 0,09 = 1.162,8 millones al año. Meta: bajar a 20 % de los proyectos y 6 % de exceso: 0,20 × 38.000 × 0,06 = 456 millones; mejora de 706,8 millones. Costo de transición estimado: 6 coordinadores nuevos (cargos internos o contratados, 150 millones anuales) y capacitación (80 millones), más pérdida de productividad de 3 % durante dos meses (sobre costos de personal de 2.400 millones mensuales: 0,03 × 2.400 × 2 = 144 millones). Total primer año: 374 millones; mejora neta estimada: 706,8 − 374 = 332,8 millones.
+
+**Plan de cambio.** Diagnóstico por grupos (jefes de disciplina con alto impacto y baja disposición), coalición con dos jefes de disciplina respetados y dos líderes de proyecto, narrativa con un caso de sobrecosto real, piloto en tres proyectos durante cuatro meses, escalado por olas, cierre de reportes redundantes.
+
+**Medición.** Línea base: aprobación de cambios 11 días (meta 5); proyectos sobre presupuesto 34 % (meta 20 %); reportes por jefe 14 (meta 8); rotación senior 19 % (meta 13 %); decisiones en el nivel adecuado 36 % (meta 60 %). Criterios de ajuste: si la aprobación no baja a 8 días a los 90 días, se revisa la matriz; si la rotación senior sube sobre 22 %, se revisa el diseño de carrera.
+
+**Cuidados.** Todas las cifras son ilustrativas; los cambios de cargos, funciones y compensación se verifican con asesoría laboral y normas vigentes.
+
+**Qué muestra.** (1) Se compararon alternativas con criterios. (2) El diseño abarcó estructura, decisiones, incentivos y cultura. (3) El plan incluyó piloto, métricas y criterios de ajuste.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **target operating model** | diseño futuro integrado de unidades procesos decisiones y capabilities | Cuando decision latency es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **design principle** | regla que guía elecciones organizacionales | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Capstone frente a caso de clase.** Un caso individual practica una pieza; el capstone exige integrar, priorizar y aceptar compromisos entre ellas.
 
-**Frontera de aplicación:** Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen.
+**Límites.** Los diseños dependen del contexto; lo que funciona en una empresa de ingeniería no se traslada sin adaptación a una de retail. Las cifras son ilustrativas y no hay causalidad garantizada. Las condiciones laborales, de datos y regulatorias deben verificarse con asesoría y fuentes vigentes. Un rediseño es una hipótesis que puede fallar; el valor está en definir cómo se detectará y se corregirá.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: rediseño organizacional |
+| Nivel | Cómo participa en un rediseño |
 |---|---|
-| **Profesional** | usa **capstone: rediseño organizacional** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **target operating model** y **design principle** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decision latency con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: rediseño organizacional cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: rediseño organizacional reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: rediseño organizacional** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta evidencia del trabajo diario y prueba los cambios. |
+| **Jefe / Team Lead** | Aplica el diseño en su equipo y reporta efectos. |
+| **Gerente** | Diseña y conduce un rediseño en su área con métricas. |
+| **CEO / Director** | Decide el diseño, patrocina el cambio y sostiene la coherencia. |
+| **Founder / Owner** | Equilibra propósito, caja, personas y control al rediseñar. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa de 450 personas integra dos adquisiciones. Tiene tres CRMs, dos equipos de producto duplicados y pricing decidido de forma distinta por región. Debe diseñar modelo futuro sin detener ventas.
+Una empresa de salud con 1.900 personas, 11 clínicas y un área central de servicios compartidos enfrenta lo siguiente: tiempos de aprobación de compras de 17 días; clínicas que compran por separado y pagan hasta 22 % más por insumos comunes; un modelo de reporte funcional que obliga a los médicos jefes a coordinar con cinco gerencias centrales; 12 reportes directos promedio en gerencias de clínica; rotación de enfermería de 24 %; y una evaluación de seguridad psicológica de 44 % favorable. El directorio pide un rediseño en seis meses con ahorro de 1.500 millones anuales sin afectar la calidad clínica. El gerente general inclina por centralizar todo; los médicos jefes, por descentralizar.
 
-Entrega un **decision brief de capstone: rediseño organizacional** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **expediente de rediseño organizacional** que contenga: (a) el diagnóstico con datos y evidencia cualitativa; (b) al menos tres alternativas con criterios, ponderaciones y costos; (c) el diseño elegido con estructura, tramos, modelo operativo, derechos de decisión, incentivos y comportamientos; (d) el plan de cambio con coalición, narrativa, piloto y riesgos humanos; (e) el cálculo de impacto y costo de transición con supuestos; (f) los indicadores, las revisiones y los criterios de ajuste; (g) lo que no se sabe y las verificaciones laborales, regulatorias y de datos pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: rediseño organizacional** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decision latency, role clarity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe el problema de coordinación de una organización en una página, con datos.
+2. Diseña tres alternativas y una matriz de criterios con ponderaciones justificadas.
+3. Elabora una matriz de derechos de decisión para cinco decisiones críticas.
+4. Calcula el beneficio y el costo de transición con tres escenarios.
+5. Define diez indicadores, sus metas y tres criterios de ajuste.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar target operating model y design principle como sinónimos | Se pierde la distinción entre “diseño futuro integrado de unidades procesos decisiones y capabilities” y “regla que guía elecciones organizacionales” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “crear transición con riesgos y métricas” | Se saltó “formular design principles” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas y marca el primer supuesto no demostrado. |
-| Optimizar solo decision latency | La métrica local sustituyó al resultado del sistema | Contrástala con role clarity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: rediseño organizacional | Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen. |
-| No fijar revisión | Una decisión sobre capstone: rediseño organizacional se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Partir del organigrama | Es lo visible | Partir del problema y de los datos. |
+| Alternativa única | Se busca avanzar | Comparar al menos tres con criterios. |
+| Diseño incoherente | Se diseña por partes | Verificar estructura, decisiones, incentivos y cultura. |
+| Ignorar el costo humano | Se mide el ahorro | Estimar la transición y proteger personas. |
+| No medir | Se confía en el diseño | Línea base, metas y criterios de ajuste. |
+| Presentar certezas | Se busca convencer | Distinguir evidencia, supuestos y juicio. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **target operating model** y **design principle** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **transition architecture** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **formular design principles → diseñar estructura e interfaces** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decision latency** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: rediseño organizacional**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen.**?
+1. ¿Por qué se parte del problema y no del organigrama?
+2. ¿Qué alternativas conviene incluir siempre?
+3. ¿Qué dimensiones debe cubrir un diseño coherente?
+4. ¿Qué incluye un plan de cambio responsable?
+5. ¿Qué tipos de indicadores se usan y para qué?
+6. ¿Qué es un criterio de ajuste y cuándo se define?
+7. ¿Qué límites tiene un rediseño y cómo se explicitan?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque el diseño debe resolver problemas reales de coordinación y de decisión; el organigrama es una consecuencia.
+2. Mejorar sin reorganizar y una intermedia, además de la reorganización mayor.
+3. Estrategia, estructura, procesos y decisiones, recompensas, personas y cultura.
+4. Diagnóstico por grupos, coalición, narrativa, secuencia con pilotos, gestión de riesgos humanos, dueños e hitos y verificaciones laborales.
+5. De coordinación, desempeño, personas y gobierno, para saber si el diseño funciona y corregirlo.
+6. Un umbral que obliga a revisar el diseño; se define antes de implantar.
+7. Dependen del contexto, las cifras son estimaciones y no hay causalidad garantizada; se explicitan distinguiendo evidencia, supuestos y juicio.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/180-capstone-rediseno-organizacional/`:
 
-- `leadership-decision-brief.md` con el problema específico de **capstone: rediseño organizacional**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: rediseño organizacional** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **target operating model**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa de 450 personas integra dos adquisiciones. Tiene tres CRMs, dos equipos de producto duplicados y pricing decidido de forma distinta por región. Debe diseñar modelo futuro sin detener ventas.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el expediente de rediseño del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con la estructura, los tramos y la matriz de decisiones;
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con los riesgos humanos y de transición;
+- `decision-journal.md` con los supuestos, las alternativas descartadas y los criterios de ajuste.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Patrick Lencioni — *The Advantage* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** perspectiva de Salud organizacional aplicada al problema de la clase. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856).
-- Aaron Dignan — *Brave New Work* (Portfolio, 2019). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780525536208](https://openlibrary.org/isbn/9780525536208).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: rediseño organizacional** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: rediseño organizacional** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: rediseño organizacional** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: rediseño organizacional** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** dimensiones del diseño organizacional y coherencia. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Paul R. Lawrence & Jay W. Lorsch — *Differentiation and Integration in Complex Organizations* (Administrative Science Quarterly, 1967). **Uso en esta clase:** diferenciación e integración según el entorno. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [DOI 10.2307/2391211](https://doi.org/10.2307/2391211).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** decisiones, tiempo y atención de la dirección. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** cambio sostenido con coalición y narrativa. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
+- Matthew Skelton & Manuel Pais — *Team Topologies* (IT Revolution Press, 2019). **Uso en esta clase:** carga cognitiva e interacción entre equipos. Lectura selectiva sobre **capstone: rediseño organizacional**. **Localizador:** [ISBN-13 9781942788812](https://openlibrary.org/isbn/9781942788812).
 
-> **Regla de fuentes para Capstone: rediseño organizacional:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: rediseño organizacional** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para el Capstone de rediseño organizacional:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales, de datos y regulatorias de un rediseño. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

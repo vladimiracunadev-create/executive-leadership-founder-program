@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **operating model** de **business unit** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **shared capability** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **governance forum** con **management cadence**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué componentes tiene un modelo operativo?
+2. ¿Cómo se deriva el modelo objetivo de la estrategia?
+3. ¿Qué es la conciencia compartida y la ejecución empoderada?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una compañía adopta estrategia omnicanal, pero e-commerce y tiendas tienen P&L, datos, promociones y objetivos separados. El cliente experimenta precios y stock contradictorios.
+**Caso:** Una empresa de energías renovables con 900 empleados pasó de desarrollar proyectos a **operar activos a largo plazo y prestar servicios a clientes industriales**. Su modelo operativo, pensado para proyectos de construcción, se organiza por proyecto, con equipos que se disuelven al terminar; la operación de plantas se hace con contratistas distintos en cada sitio, sin datos comunes; el servicio de mantenimiento no tiene indicadores unificados; las ventas de servicios a industrias las hace el equipo que antes vendía proyectos. Los clientes industriales exigen disponibilidad contractual de 98,5 % y la empresa logra 96,1 % promedio. El CEO dice que la estrategia de servicios es el futuro; el director de proyectos defiende el modelo actual; el de operaciones quiere un centro de control único.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **derivar capabilities de estrategia → diseñar unidades y servicios compartidos → mapear decisiones y flujos críticos → definir datos tecnología y talento habilitante → establecer governance y cadencias**. Debes utilizar o diseñar cómo obtener **end-to-end cycle time, decision latency, shared-service performance**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diseño de modelo operativo** que contenga: (a) el modelo actual y el objetivo en las dimensiones qué, quién y cómo; (b) las capacidades críticas y las brechas, con la decisión de construir, comprar o aliarse; (c) el gobierno, el ritmo y los flujos de información; (d) qué se estandariza y qué se deja variar; (e) el plan de transición con piloto, métricas y riesgos; (f) las verificaciones contractuales, laborales, de seguridad y de datos que se harán con las normas vigentes y asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los modelos operativos objetivo son hipótesis y pueden fallar al contacto con la realidad.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

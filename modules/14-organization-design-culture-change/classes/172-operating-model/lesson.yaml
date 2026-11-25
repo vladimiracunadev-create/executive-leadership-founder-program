@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir operating model de business unit mediante evidencia observable."
-  - "Aplicar la secuencia: derivar capabilities de estrategia → diseñar unidades y servicios compartidos → mapear decisiones y flujos críticos → definir datos tecnología y talento habilitante → establecer governance y cadencias."
-  - "Interpretar end-to-end cycle time, decision latency, shared-service performance sin atribuir causalidad automática."
-  - "Resolver el caso de operating model con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir un modelo operativo con sus componentes y relaciones."
+  - "Derivar el modelo operativo objetivo de las prioridades estratégicas."
+  - "Identificar las capacidades críticas y las brechas."
+  - "Diseñar el gobierno, el ritmo de gestión y los flujos de información."
+  - "Planificar la transición con pilotos y hitos."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Jay R. Galbraith — *Designing Organizations*"
-  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
-  - "Chip Heath & Dan Heath — *Switch*"
-  - "Aaron Dignan — *Brave New Work*"
+  - "Patrick Lencioni — *The Advantage*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
   - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
-  - "John P. Kotter — *Leading Change*"
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
 limits:
-  - "Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema."
+  - "Los modelos operativos objetivo son hipótesis y pueden fallar al contacto con la realidad."
 evidence_signals:
-  - "end-to-end cycle time"
-  - "decision latency"
-  - "shared-service performance"
-  - "capability maturity"
-  - "cadence effectiveness"
+  - "modelo operativo descrito"
+  - "rutinas y gobierno definidos"
+  - "interfaces entre equipos claras"
+  - "carga cognitiva considerada"

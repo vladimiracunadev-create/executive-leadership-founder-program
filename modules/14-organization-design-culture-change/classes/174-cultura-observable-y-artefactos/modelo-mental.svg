@@ -1,84 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g174 d-g174" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g174">Ficha visual de la clase 174: Cultura observable y artefactos</title>
-<desc id="d-g174">Conceptos: artifact; espoused value; basic assumption; norm; culture signal. Método: observar artefactos y decisiones → comparar valores declarados con conducta → identificar supuestos detrás de patrones → seleccionar conductas críticas → alinear sistemas líderes y consecuencias.</desc>
-<defs><marker id="p-g174" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 174 · Cultura observable y artefactos</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 14 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >artifact</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >manifestación visible de cultura como ritual lenguaje o</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diseño</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >espoused value</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >principio declarado por la organización</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >basic assumption</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >creencia profundamente asumida que guía interpretación</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >norm</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >expectativa informal sobre conducta aceptada</text>
-<circle cx="38" cy="358.12" r="5" fill="#bc4c00"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >culture signal</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisión o reacción que enseña qué se premia realmente</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >observar</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >artefactos y</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comparar valores</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >declarados con</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >conducta</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >supuestos detrás</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >de patrones</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >seleccionar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >conductas críticas</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >alinear sistemas</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >líderes y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >consecuencias</text>
-<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g174)"/>
-<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g174)"/>
-<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g174)"/>
-<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g174)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g174)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >speak-up behavior</text>
-<rect x="181.3" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="194.3" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="205.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision patterns</text>
-<rect x="334.6" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="347.6" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="358.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >promotion signals</text>
-<rect x="487.9" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="500.9" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="511.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >turnover by team</text>
-<rect x="634.3" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="647.3" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="658.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >policy exceptions</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cultura no explica todo y puede fragmentarse por subculturas. Evita atribuir cualquier problema a la cultura cuando existe una causa</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estructural, de capacidad o incentivos.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.06" width="1040" role="img" aria-labelledby="t-s174 d-s174" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s174">Clase 174 · Niveles de la cultura: de lo visible a lo que se da por sentado</title>
+<desc id="d-s174">Cuatro niveles para observar una cultura: artefactos, comportamientos y rutinas, valores declarados y supuestos básicos.</desc>
+<defs><marker id="p-s174" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 174 · Niveles de la cultura: de lo visible a lo que se da por sentado</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Schein &amp; Schein (2017) · Schein (1990) · Edmondson</text>
+<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Supuestos básicos</text>
+<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Creencias tácitas sobre cómo funcionan las cosas.</text>
+<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="128" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Valores declarados</text>
+<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo que la organización dice que le importa.</text>
+<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="274.125" r="15" fill="#0969da"/>
+<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Comportamientos y rutinas</text>
+<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué hace la gente, qué se premia y qué se tolera en la práctica.</text>
+<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="347.375" r="15" fill="#59636e"/>
+<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Artefactos visibles</text>
+<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Espacios, símbolos, lenguaje, historias y ceremonias.</text>
+<rect x="28" y="395" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Schein distingue tres niveles (artefactos, valores declarados y supuestos); aquí se separan los comportamientos observados de los</text>
+<text x="44" y="434.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >artefactos para que se puedan registrar. Las brechas entre niveles revelan la cultura real.</text>
+<text x="28" y="481.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Una cultura se infiere de lo observado en varias fuentes y personas; una sola entrevista o encuesta no basta.</text>
 </svg>

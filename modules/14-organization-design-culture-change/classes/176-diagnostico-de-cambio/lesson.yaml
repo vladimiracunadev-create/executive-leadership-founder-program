@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir change diagnosis de stakeholder mediante evidencia observable."
-  - "Aplicar la secuencia: definir conducta futura observable → mapear stakeholders y pérdidas → diagnosticar conocimiento motivación y capacidad → identificar barreras de sistema → diseñar intervención segmentada y feedback."
-  - "Interpretar adoption by segment, proficiency, resistance themes sin atribuir causalidad automática."
-  - "Resolver el caso de diagnóstico de cambio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir un cambio como una diferencia concreta de conducta, no como una consigna."
+  - "Identificar los grupos afectados y el impacto en cada uno."
+  - "Evaluar la disposición con conversaciones y datos de comportamiento."
+  - "Detectar riesgos humanos, operativos y de sostenibilidad."
+  - "Elegir una estrategia de cambio distinta para cada grupo."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Jay R. Galbraith — *Designing Organizations*"
-  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
-  - "Stanley McChrystal et al. — *Team of Teams*"
   - "John P. Kotter — *Leading Change*"
-  - "Patrick Lencioni — *The Advantage*"
+  - "Achilles A. Armenakis & Stanley G. Harris — *Crafting a change message to create transformational readiness*"
   - "Chip Heath & Dan Heath — *Switch*"
+  - "Donella H. Meadows — *Thinking in Systems*"
+  - "Peter M. Senge — *The Fifth Discipline*"
 limits:
-  - "Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema."
+  - "La disposición es difícil de medir y cambia con el tiempo."
 evidence_signals:
-  - "adoption by segment"
-  - "proficiency"
-  - "resistance themes"
-  - "process compliance"
-  - "benefit realization"
+  - "cambio descrito como conducta"
+  - "grupos con impacto y disposición"
+  - "riesgos y fatiga identificados"
+  - "estrategia diferenciada por grupo"

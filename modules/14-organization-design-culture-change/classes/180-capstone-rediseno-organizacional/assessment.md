@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **target operating model** de **design principle** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **transition architecture** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **organizational debt** con **design test**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué se parte del problema y no del organigrama?
+2. ¿Qué alternativas conviene incluir siempre?
+3. ¿Qué dimensiones debe cubrir un diseño coherente?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa de 450 personas integra dos adquisiciones. Tiene tres CRMs, dos equipos de producto duplicados y pricing decidido de forma distinta por región. Debe diseñar modelo futuro sin detener ventas.
+**Caso:** Una empresa de salud con 1.900 personas, 11 clínicas y un área central de servicios compartidos enfrenta lo siguiente: tiempos de aprobación de compras de 17 días; clínicas que compran por separado y pagan hasta 22 % más por insumos comunes; un modelo de reporte funcional que obliga a los médicos jefes a coordinar con cinco gerencias centrales; 12 reportes directos promedio en gerencias de clínica; rotación de enfermería de 24 %; y una evaluación de seguridad psicológica de 44 % favorable. El directorio pide un rediseño en seis meses con ahorro de 1.500 millones anuales sin afectar la calidad clínica. El gerente general inclina por centralizar todo; los médicos jefes, por descentralizar.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **formular design principles → diseñar estructura e interfaces → probar decisiones críticas → alinear incentives y people systems → crear transición con riesgos y métricas**. Debes utilizar o diseñar cómo obtener **decision latency, role clarity, customer outcome**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **expediente de rediseño organizacional** que contenga: (a) el diagnóstico con datos y evidencia cualitativa; (b) al menos tres alternativas con criterios, ponderaciones y costos; (c) el diseño elegido con estructura, tramos, modelo operativo, derechos de decisión, incentivos y comportamientos; (d) el plan de cambio con coalición, narrativa, piloto y riesgos humanos; (e) el cálculo de impacto y costo de transición con supuestos; (f) los indicadores, las revisiones y los criterios de ajuste; (g) lo que no se sabe y las verificaciones laborales, regulatorias y de datos pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los diseños dependen del contexto; lo que funciona en una empresa de ingeniería no se traslada sin adaptación a una de retail.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

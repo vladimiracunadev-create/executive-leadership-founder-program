@@ -10,217 +10,198 @@
 
 ## 🎯 Propósito
 
-Operating model traduce estrategia en cómo se organiza y ejecuta el trabajo: unidades, procesos, decisiones, datos, tecnología, talento, governance y cadencias. Es el puente entre qué queremos lograr y cómo funciona la empresa cada semana.
+La estrategia dice dónde competir y cómo ganar; el **modelo operativo** (*operating model*) dice **cómo trabaja la organización** para lograrlo: qué entrega, quién lo hace, con qué procesos, información y tecnología, con qué gobierno y en qué ubicaciones. Es el puente entre una estrategia escrita y una organización que funciona. Muchas estrategias se quedan en un documento porque el modelo operativo existente no puede ejecutarlas: las decisiones requeridas no tienen dueño, los datos no circulan, los incentivos empujan en otra dirección o la estructura impide la colaboración que se necesita. Diseñar el modelo operativo es traducir las prioridades estratégicas en **capacidades concretas y formas de trabajar**.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **operating model** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el diseño organizacional de Galbraith, en el enfoque de salud organizacional de Lencioni (claridad, cohesión y reglas simples de comunicación), en la idea de equipos de equipos con conciencia compartida de McChrystal y en las ideas de operaciones de la parte 07. Al terminar sabrás describir un modelo operativo actual y objetivo en tres dimensiones (qué, quién, cómo), identificar las capacidades críticas que hay que construir, diseñar el gobierno y el ritmo de gestión, y planificar la transición de forma realista.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `operating model`, `business unit`, `shared capability`, `governance forum`, `management cadence` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** end-to-end cycle time, decision latency, shared-service performance sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** un modelo operativo con sus componentes y relaciones.
+2. **Derivar** el modelo operativo objetivo de las prioridades estratégicas.
+3. **Identificar** las capacidades críticas y las brechas.
+4. **Diseñar** el gobierno, el ritmo de gestión y los flujos de información.
+5. **Planificar** la transición con pilotos y hitos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define operating model y business unit sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con end-to-end cycle time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe cómo se toma, se ejecuta y se corrige una decisión comercial importante en tu empresa. |
+| 20–60 min | Componentes, derivación, capacidades, gobierno y transición. |
+| 60–105 min | Ejemplo trabajado: modelo operativo de una empresa que pasa a omnicanal. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **operating model** | conjunto de mecanismos que permiten ejecutar la estrategia de forma repetible | Distingue un hecho compatible y otro que lo refute. |
-| **business unit** | unidad con propósito clientes y accountability definidos | Distingue un hecho compatible y otro que lo refute. |
-| **shared capability** | capacidad reutilizada por múltiples unidades | Distingue un hecho compatible y otro que lo refute. |
-| **governance forum** | foro con derechos de decisión explícitos | Distingue un hecho compatible y otro que lo refute. |
-| **management cadence** | ritmo de planificación revisión y escalamiento | Distingue un hecho compatible y otro que lo refute. |
+| **Modelo operativo** | Forma concreta en que la organización crea y entrega valor. | Procesos, estructura, personas, información, gobierno. |
+| **Capacidad crítica** | Habilidad organizacional indispensable para ejecutar la estrategia. | Se debe hacer excepcionalmente bien. |
+| **Gobierno** | Estructuras y reglas de decisión, coordinación y control. | Foros, derechos de decisión, indicadores. |
+| **Conciencia compartida** | Comprensión común de la situación entre equipos. | Información circula con rapidez. |
+| **Ejecución empoderada** | Autonomía de los equipos para actuar con información. | Decisiones cerca de la acción. |
+| **Modelo operativo objetivo** | Diseño deseado para ejecutar la estrategia. | Se contrasta con el actual. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 172: 1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias](modelo-mental.svg)
+![Tres preguntas del modelo operativo: qué se entrega, quién lo hace y cómo se coordina, con los componentes de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Operating model traduce estrategia en cómo se organiza y ejecuta el trabajo: unidades, procesos, decisiones, datos, tecnología, talento, governance y cadencias. Es el puente entre qué queremos lograr y cómo funciona la empresa cada semana.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema.**
+**Cómo leer el diagrama.** Tres columnas. **Qué se entrega**: propuesta de valor y capacidades críticas, procesos de punta a punta que la sostienen y niveles de servicio. **Quién lo hace**: estructura, roles y equipos; talento, capacidades y ubicación; proveedores y socios. **Cómo se coordina**: derechos de decisión y gobierno; información, tecnología y ritmo de gestión; incentivos y métricas. La nota recuerda que el modelo operativo traduce la estrategia en una forma concreta de trabajar y que, si no lo permite, la estrategia se queda en un documento.
 
 ## 📖 Desarrollo
 
-### 1. operating model: mecanismo central
+### 1. Qué es un modelo operativo
 
-**operating model** se entiende aquí como **conjunto de mecanismos que permiten ejecutar la estrategia de forma repetible**. Esta es la pieza causal o estructural desde la que se inicia **operating model**: antes de derivar capabilities de estrategia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un modelo operativo describe, a un nivel de diseño, cómo la organización convierte su estrategia en resultados cotidianos. Incluye: **la oferta y las capacidades** necesarias (qué entrega y qué debe hacer excepcionalmente bien), **los procesos** de punta a punta (clase 086), **la estructura y los roles** (clases 169 a 171), **las personas** y sus capacidades, **la información y la tecnología** que sostienen el trabajo, **el gobierno** (decisiones, coordinación, control) y **la ubicación** (dónde se hace cada cosa: sedes, centros de servicios, socios). Se describe en una **vista de pocas páginas** que permita discutir y alinear. No es un manual de procedimientos: es la arquitectura de cómo se trabaja.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **end-to-end cycle time**; regístrala con periodo, unidad, población y baseline.
+### 2. Derivar desde la estrategia
 
-Relaciona el mecanismo con **business unit**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El modelo operativo objetivo se deduce de la estrategia con una cadena de preguntas. **¿Qué prioridades estratégicas hay?** (por ejemplo, entregar a cualquier cliente en 24 horas y con experiencia consistente). **¿Qué capacidades críticas exigen?** (logística de punta a punta, datos de clientes unificados, gestión de inventario compartido). **¿Qué debe hacerse igual en toda la organización y qué puede variar localmente?** (estandarización frente a adaptación). **¿Qué decisiones deben ser rápidas y dónde se toman?** **¿Qué datos necesita cada rol?** **¿Qué se puede obtener de socios?** Lencioni subraya la importancia de la **claridad**: que todos entiendan por qué existe la organización, cómo se comporta, qué hace, cómo logrará el éxito, qué es lo más importante ahora y quién hace qué; esa claridad es parte del modelo.
 
-### 2. business unit: frontera conceptual y error de clasificación
+### 3. Capacidades críticas y brechas
 
-**Definición operacional:** unidad con propósito clientes y accountability definidos. Su valor está en distinguirlo de **operating model** y **shared capability**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se listan las capacidades críticas y se evalúa para cada una el **nivel actual** y el **nivel requerido**: ¿existe?, ¿es suficiente?, ¿dónde reside?, ¿depende de una persona?, ¿qué la limita (personas, procesos, tecnología, datos, estructura)? Se identifican **brechas** y se decide cómo cerrarlas (construir, comprar, aliarse; clase 160). Una buena práctica es priorizar las pocas capacidades que definen la ventaja (clase 161) y estandarizar las demás. La evaluación debe apoyarse en datos: tiempos de ciclo, calidad, costos, satisfacción de clientes internos y externos, y no solo en opiniones.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **business unit** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decision latency** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Información y conciencia compartida
 
-Antes de diseñar unidades y servicios compartidos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+McChrystal y sus coautores describen cómo, en un entorno que cambia rápido, la coordinación no se logra solo con órdenes jerárquicas sino con **conciencia compartida** (todos los equipos comprenden la situación) y **ejecución empoderada** (los equipos actúan con autonomía dentro de un propósito común). Se apoya en **canales de información** transparentes y frecuentes, **reuniones breves y de alta densidad** donde los equipos comparten estado y prioridades y **roles de enlace** entre unidades. Para el modelo operativo, esto significa decidir **qué información circula, con qué frecuencia y entre quiénes**, y qué decisiones se pueden tomar sin escalar.
 
-### 3. shared capability: operacionalización y medición
+### 5. Gobierno: foros, derechos y ritmo
 
-**shared capability** significa **capacidad reutilizada por múltiples unidades**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El gobierno define **quién decide qué** (clase 173), **qué foros** existen (comités, revisiones, reuniones de coordinación), **qué ritmo** siguen (diario, semanal, mensual, trimestral; clase 103), **qué indicadores** se miran (clases 100 a 102) y **cómo se escalan** los conflictos (clase 107). Un buen gobierno es **liviano** y claro: pocos foros con propósito explícito y decisiones registradas. Lencioni advierte contra las reuniones mal diseñadas que mezclan propósitos: una reunión táctica semanal, una estratégica mensual, una de revisión trimestral y un retiro anual, cada una con su agenda, reducen el desperdicio de tiempo y mejoran las decisiones.
 
-Chip Heath & Dan Heath — *Switch* orienta este bloque mediante **dirección racional, motivación emocional y diseño del entorno para cambiar conducta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **shared-service performance**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Estandarizar y variar
 
-Al llegar a mapear decisiones y flujos críticos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Todo modelo operativo decide **qué es común** y **qué es local**. Estandarizar (procesos, sistemas, datos, métricas) da **eficiencia**, **calidad consistente** y **aprendizaje compartido**; permitir variación da **adaptación** a mercados y clientes específicos. Un criterio: estandarizar **lo que el cliente no distingue** y **lo que genera economías de escala**; variar **lo que el cliente valora que sea distinto**. Se definen **servicios compartidos** (funciones que prestan a todos: finanzas, tecnología, compras) con acuerdos de nivel (clase 092) y **centros de excelencia** que conservan conocimiento especializado. El peligro es la sobreestandarización, que frena la adaptación, o la subestandarización, que genera costos duplicados.
 
-### 4. governance forum: trade-offs y efectos de segundo orden
+### 7. Transición: del actual al objetivo
 
-**Definición:** foro con derechos de decisión explícitos. Este concepto obliga a abandonar la idea de que **operating model** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir datos tecnología y talento habilitante, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aaron Dignan — *Brave New Work* aporta una lente sobre **perspectiva de Diseño organizacional aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **capability maturity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **operating model**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **governance forum** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. management cadence: gobernanza, límites e integración
-
-**management cadence** se define como **ritmo de planificación revisión y escalamiento** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* se utiliza para estudiar **perspectiva de Organización aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar establecer governance y cadencias, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **operating model**, **business unit**, **shared capability**, **governance forum** y **management cadence** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **operating model** no consiste en sumar cinco definiciones. Empieza por **operating model**, contrasta **business unit** con **shared capability**, incorpora **governance forum** como restricción o mecanismo y usa **management cadence** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El modelo operativo objetivo se alcanza por etapas. Se hace un **mapa de la situación actual**, un **diseño objetivo**, un **análisis de brechas** y una **hoja de ruta** con **pilotos**: se prueba el nuevo modelo en una unidad, un proceso o una región, se miden los resultados (tiempo de ciclo, calidad, costo, satisfacción) y se ajusta antes de ampliar. Se planifican **cambios en personas** (roles, capacidades, incentivos), **procesos**, **sistemas** y **gobierno** de forma coordinada. Los modelos objetivo se prueban con casos reales («seguir una orden de punta a punta») y se evita diseñar en abstracto. Los cambios de roles y ubicaciones tienen implicancias laborales que se verifican con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **operating model** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **operating model** ayuda a desafiar? |
-| Chip Heath & Dan Heath — *Switch* | dirección racional, motivación emocional y diseño del entorno para cambiar conducta | ¿Qué supuesto de **operating model** ayuda a desafiar? |
-| Aaron Dignan — *Brave New Work* | perspectiva de Diseño organizacional aplicada al problema de la clase | ¿Qué supuesto de **operating model** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **operating model** ayuda a desafiar? |
-
-En **operating model**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **operating model**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Galbraith | Diseño organizacional y coordinación como base del modelo. | Marco general. | ¿Tu modelo coordina lo que tu estrategia necesita? |
+| Lencioni (*The Advantage*) | Claridad organizacional y disciplina de reuniones. | Enfoque de salud organizacional; evidencia basada en consultoría. | ¿Todos pueden explicar por qué existe la organización y qué hacen? |
+| McChrystal et al. | Conciencia compartida y ejecución empoderada. | Contexto militar. | ¿Qué información comparten tus equipos? |
+| Mankins y Garton | Uso del tiempo como medida del modelo operativo. | Datos de grandes empresas. | ¿Qué parte del tiempo se va en coordinar? |
+| Slack y Brandon-Jones | Diseño de operaciones y procesos. | Es general. | ¿Cuál es el proceso crítico de punta a punta? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una compañía adopta estrategia omnicanal, pero e-commerce y tiendas tienen P&L, datos, promociones y objetivos separados. El cliente experimenta precios y stock contradictorios.
+**Situación (hipotética).** Una cadena de tiendas de ropa con 85 locales y un sitio de comercio en línea pasa a una estrategia **omnicanal**: «el cliente compra, recibe y devuelve donde quiera, con inventario único». Las operaciones actuales son separadas: el inventario en línea está en una bodega propia, los locales tienen inventarios independientes, los precios se actualizan por canal con 48 horas de diferencia, los vendedores de tienda no reciben comisión por ventas en línea que se recogen en el local.
 
-**Paso 1 — derivar capabilities de estrategia.** La gerencia escribe primero el supuesto asociado a **operating model** y evita convertirlo en hecho. Luego busca **end-to-end cycle time** para contrastarlo en el caso de **operating model**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Modelo operativo actual.**
 
-**Paso 2 — diseñar unidades y servicios compartidos.** La gerencia escribe primero el supuesto asociado a **business unit** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **operating model**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Estado |
+|---|---|
+| Qué | Procesos de venta separados por canal; inventario sin visibilidad común |
+| Quién | Equipos de tiendas, de e-commerce y de logística con jefaturas independientes |
+| Cómo | Reuniones separadas; indicadores de venta por canal; incentivos por canal; sistemas distintos |
 
-**Paso 3 — mapear decisiones y flujos críticos.** La gerencia escribe primero el supuesto asociado a **shared capability** y evita convertirlo en hecho. Luego busca **shared-service performance** para contrastarlo en el caso de **operating model**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos.** El 27 % de los pedidos en línea no puede entregarse por falta de inventario que sí existía en tiendas; la devolución en tienda de una compra en línea tarda 18 días en reflejarse; el costo de logística de pedidos en línea es USD 6,8 por pedido; el 14 % de los clientes compra en ambos canales y gasta 2,6 veces más.
 
-**Paso 4 — definir datos tecnología y talento habilitante.** La gerencia escribe primero el supuesto asociado a **governance forum** y evita convertirlo en hecho. Luego busca **capability maturity** para contrastarlo en el caso de **operating model**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Modelo operativo objetivo.**
 
-**Paso 5 — establecer governance y cadencias.** La gerencia escribe primero el supuesto asociado a **management cadence** y evita convertirlo en hecho. Luego busca **cadence effectiveness** para contrastarlo en el caso de **operating model**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Diseño |
+|---|---|
+| Qué | Inventario único visible; pedidos desde tienda o bodega según costo y plazo; devoluciones en cualquier canal en 3 días; precios y promociones sincronizados |
+| Quién | Una organización de «cliente y canales» con dueño del proceso de punta a punta; equipos de tienda con rol de punto de entrega y devolución; equipo de inventario y planificación único |
+| Cómo | Un tablero común (disponibilidad, tiempo de entrega, costo por pedido, devoluciones); derechos de decisión claros sobre asignación de inventario; incentivos por venta del cliente en cualquier canal; ritmo semanal de coordinación y trimestral de revisión |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **operating model**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Capacidades críticas y brechas.** Visibilidad de inventario en tiempo real (brecha alta: sistemas separados), asignación inteligente de pedidos (nueva), logística de última milla propia o con socios (parcial), datos del cliente unificados (brecha media). Decisión: construir visibilidad de inventario y asignación; aliarse para la última milla.
+
+**Piloto.** En 12 tiendas de una ciudad durante 6 meses. Resultados: pedidos entregados por falta de inventario baja de 27 % a 9 %; devolución en 4,2 días; costo logístico por pedido sube a 7,3 (más tráfico en tiendas) pero la venta por cliente omnicanal sube 18 %; los vendedores de tienda aceptan el rol cuando se ajustan las comisiones. Se descubre un problema: las tiendas pequeñas no tienen espacio para preparar pedidos; se ajusta el diseño (solo 40 tiendas actúan como centros de preparación).
+
+**Gobierno.** Comité semanal de operaciones omnicanal de 45 minutos; reglas de decisión sobre quién puede reasignar inventario; escalamiento a un director si hay conflicto de prioridades más de 48 horas.
+
+**Qué muestra.** (1) El modelo se derivó de las prioridades estratégicas. (2) Las brechas de capacidades se resolvieron con construir y aliarse. (3) El piloto corrigió el diseño antes de generalizar.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **operating model** | conjunto de mecanismos que permiten ejecutar la estrategia de forma repetible | Cuando end-to-end cycle time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **business unit** | unidad con propósito clientes y accountability definidos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Modelo operativo frente a estructura.** La estructura es solo uno de sus componentes. Un modelo operativo incluye procesos, información, tecnología, gobierno e incentivos que determinan si la estructura funciona.
 
-**Frontera de aplicación:** Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema.
+**Límites.** Los modelos operativos objetivo son hipótesis y pueden fallar al contacto con la realidad. Las empresas confunden a veces el modelo operativo con un organigrama o un plan de tecnología. La claridad organizacional de Lencioni se apoya más en la práctica de consultoría que en estudios controlados. Las decisiones de estandarización pueden tener efectos laborales y de datos, que se verifican con las normas vigentes y asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre operating model |
+| Nivel | Cómo participa en el modelo operativo |
 |---|---|
-| **Profesional** | usa **operating model** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **operating model** y **business unit** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta end-to-end cycle time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si operating model cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de operating model reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **operating model** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Sigue los procesos y comparte lo que aprende en la práctica. |
+| **Jefe / Team Lead** | Coordina con otros equipos y mantiene la información fluyendo. |
+| **Gerente** | Diseña procesos y gobierno de su área alineados con la estrategia. |
+| **CEO / Director** | Asegura que el modelo permita ejecutar la estrategia. |
+| **Founder / Owner** | Escribe cómo se trabaja antes de que la empresa crezca y el conocimiento se disperse. |
 
 ## 🏢 Caso ejecutivo
 
-Una compañía adopta estrategia omnicanal, pero e-commerce y tiendas tienen P&L, datos, promociones y objetivos separados. El cliente experimenta precios y stock contradictorios.
+Una empresa de energías renovables con 900 empleados pasó de desarrollar proyectos a **operar activos a largo plazo y prestar servicios a clientes industriales**. Su modelo operativo, pensado para proyectos de construcción, se organiza por proyecto, con equipos que se disuelven al terminar; la operación de plantas se hace con contratistas distintos en cada sitio, sin datos comunes; el servicio de mantenimiento no tiene indicadores unificados; las ventas de servicios a industrias las hace el equipo que antes vendía proyectos. Los clientes industriales exigen disponibilidad contractual de 98,5 % y la empresa logra 96,1 % promedio. El CEO dice que la estrategia de servicios es el futuro; el director de proyectos defiende el modelo actual; el de operaciones quiere un centro de control único.
 
-Entrega un **decision brief de operating model** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de modelo operativo** que contenga: (a) el modelo actual y el objetivo en las dimensiones qué, quién y cómo; (b) las capacidades críticas y las brechas, con la decisión de construir, comprar o aliarse; (c) el gobierno, el ritmo y los flujos de información; (d) qué se estandariza y qué se deja variar; (e) el plan de transición con piloto, métricas y riesgos; (f) las verificaciones contractuales, laborales, de seguridad y de datos que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **operating model** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta end-to-end cycle time, decision latency; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Describe tu modelo operativo actual en las dimensiones qué, quién y cómo.
+2. Deriva dos capacidades críticas de tu estrategia y evalúa su nivel actual y requerido.
+3. Diseña el ritmo de reuniones de tu área con propósito y agenda de cada una.
+4. Decide qué estandarizar y qué dejar variar con un criterio.
+5. Propón un piloto para probar el modelo objetivo con métricas y plazos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar operating model y business unit como sinónimos | Se pierde la distinción entre “conjunto de mecanismos que permiten ejecutar la estrategia de forma repetible” y “unidad con propósito clientes y accountability definidos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “establecer governance y cadencias” | Se saltó “derivar capabilities de estrategia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias y marca el primer supuesto no demostrado. |
-| Optimizar solo end-to-end cycle time | La métrica local sustituyó al resultado del sistema | Contrástala con decision latency y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre operating model | Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema. |
-| No fijar revisión | Una decisión sobre operating model se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir modelo operativo con organigrama | Es lo más visible | Incluir procesos, información, gobierno e incentivos. |
+| Diseñar en abstracto | Se evita el piloto | Probar con casos reales de punta a punta. |
+| Sobreestandarizar | Se busca eficiencia | Estandarizar lo que el cliente no distingue. |
+| Gobierno pesado | Muchos foros | Pocos foros con propósito y decisiones. |
+| Ignorar la información | Se piensa en estructuras | Definir qué circula, con qué frecuencia y entre quiénes. |
+| Transición sin hitos | Se quiere cambiar de golpe | Etapas, métricas y ajustes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **operating model** y **business unit** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **shared capability** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **derivar capabilities de estrategia → diseñar unidades y servicios compartidos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **end-to-end cycle time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **operating model**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema.**?
+1. ¿Qué componentes tiene un modelo operativo?
+2. ¿Cómo se deriva el modelo objetivo de la estrategia?
+3. ¿Qué es la conciencia compartida y la ejecución empoderada?
+4. ¿Qué define el gobierno de un modelo operativo?
+5. ¿Qué criterio guía qué estandarizar y qué variar?
+6. ¿Por qué se hacen pilotos de transición?
+7. ¿Qué límites tiene el concepto?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Oferta y capacidades, procesos, estructura y roles, personas, información y tecnología, gobierno y ubicación.
+2. Desde las prioridades estratégicas se identifican capacidades críticas, qué debe ser común y qué local, qué decisiones deben ser rápidas, qué datos necesita cada rol y qué se obtiene de socios.
+3. La conciencia compartida es que los equipos comprendan la situación; la ejecución empoderada es que actúen con autonomía dentro de un propósito común.
+4. Quién decide qué, qué foros existen, su ritmo, qué indicadores se miran y cómo se escalan los conflictos.
+5. Estandarizar lo que el cliente no distingue y lo que da economías de escala; variar lo que el cliente valora que sea distinto.
+6. Para probar el diseño en pequeño, medir y ajustar antes de ampliar.
+7. Son hipótesis que pueden fallar, se confunden con organigramas y parte de la evidencia proviene de la práctica de consultoría.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/172-operating-model/`:
 
-- `leadership-decision-brief.md` con el problema específico de **operating model**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **operating model** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **operating model**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una compañía adopta estrategia omnicanal, pero e-commerce y tiendas tienen P&L, datos, promociones y objetivos separados. El cliente experimenta precios y stock contradictorios.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con el modelo actual y el objetivo;
+- `decision-journal.md` con las brechas, el piloto y las métricas.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Chip Heath & Dan Heath — *Switch* (Penguin Random House, 1999). **Uso en esta clase:** dirección racional, motivación emocional y diseño del entorno para cambiar conducta. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9781847940308](https://openlibrary.org/isbn/9781847940308).
-- Aaron Dignan — *Brave New Work* (Portfolio, 2019). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9780525536208](https://openlibrary.org/isbn/9780525536208).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **operating model** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **operating model**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **operating model** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **operating model** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **operating model** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** diseño organizacional y coordinación como base del modelo. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Patrick Lencioni — *The Advantage* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** claridad organizacional y disciplina de reuniones. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** conciencia compartida y ejecución empoderada. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** uso del tiempo como medida del modelo operativo. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** diseño de operaciones y procesos. Lectura selectiva sobre **operating model**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
 
-> **Regla de fuentes para Operating model:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **operating model** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Operating model:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales, de seguridad, contractuales y de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

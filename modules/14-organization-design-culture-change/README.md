@@ -65,18 +65,18 @@ Las clases **176 a 180** conducen el cambio: diagnóstico, coalición, transform
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 169 | [La organización como diseño](classes/169-la-organizacion-como-diseno/README.md) | organization design, structure, process | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 170 | [Estructuras funcionales, divisionales y matriciales](classes/170-estructuras-funcionales-divisionales-y-matriciales/README.md) | functional structure, divisional structure, matrix | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 171 | [Spans, layers y managerial load](classes/171-spans-layers-y-managerial-load/README.md) | span of control, layer, managerial load | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 172 | [Operating model](classes/172-operating-model/README.md) | operating model, business unit, shared capability | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 173 | [RACI, RAPID y derechos de decisión](classes/173-raci-rapid-y-derechos-de-decision/README.md) | RACI, RAPID, decision right | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 174 | [Cultura observable y artefactos](classes/174-cultura-observable-y-artefactos/README.md) | artifact, espoused value, basic assumption | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 175 | [Incentivos y comportamientos](classes/175-incentivos-y-comportamientos/README.md) | incentive, principal-agent problem, Goodhart law | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 176 | [Diagnóstico de cambio](classes/176-diagnostico-de-cambio/README.md) | change diagnosis, stakeholder, readiness | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 177 | [Coalición, narrativa y adopción](classes/177-coalicion-narrativa-y-adopcion/README.md) | guiding coalition, narrative, change agent | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 178 | [Transformación empresarial](classes/178-transformacion-empresarial/README.md) | transformation, transformation thesis, workstream | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 179 | [Reorganizaciones y riesgos humanos](classes/179-reorganizaciones-y-riesgos-humanos/README.md) | reorganization, role mapping, transition risk | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 180 | [Capstone: rediseño organizacional](classes/180-capstone-rediseno-organizacional/README.md) | target operating model, design principle, transition architecture | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 169 | [La organización como diseño](classes/169-la-organizacion-como-diseno/README.md) | Diseño organizacional, Modelo de la estrella, Diferenciación | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 170 | [Estructuras funcionales, divisionales y matriciales](classes/170-estructuras-funcionales-divisionales-y-matriciales/README.md) | Estructura funcional, Estructura divisional, Estructura matricial | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 171 | [Spans, layers y managerial load](classes/171-spans-layers-y-managerial-load/README.md) | Tramo de control (span), Capa (layer), Carga directiva | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 172 | [Operating model](classes/172-operating-model/README.md) | Modelo operativo, Capacidad crítica, Gobierno | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 173 | [RACI, RAPID y derechos de decisión](classes/173-raci-rapid-y-derechos-de-decision/README.md) | Derecho de decisión, RACI, RAPID | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 174 | [Cultura observable y artefactos](classes/174-cultura-observable-y-artefactos/README.md) | Cultura organizacional, Artefactos, Valores declarados | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 175 | [Incentivos y comportamientos](classes/175-incentivos-y-comportamientos/README.md) | Incentivo, Motivación intrínseca, Motivación extrínseca | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 176 | [Diagnóstico de cambio](classes/176-diagnostico-de-cambio/README.md) | Diagnóstico de cambio, Brecha de conducta, Grupo afectado | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 177 | [Coalición, narrativa y adopción](classes/177-coalicion-narrativa-y-adopcion/README.md) | Coalición guía, Narrativa del cambio, Adoptantes tempranos | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 178 | [Transformación empresarial](classes/178-transformacion-empresarial/README.md) | Transformación, Estructura dual, Estabilizar la base | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 179 | [Reorganizaciones y riesgos humanos](classes/179-reorganizaciones-y-riesgos-humanos/README.md) | Ambigüedad de rol, Conflicto de rol, Justicia procedimental | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 180 | [Capstone: rediseño organizacional](classes/180-capstone-rediseno-organizacional/README.md) | Rediseño organizacional, Hipótesis de diseño, Alternativa | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,70 +87,80 @@ Las clases **176 a 180** conducen el cambio: diagnóstico, coalición, transform
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+70 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **adoption** | uso sostenido de nueva conducta o sistema. |
-| **artifact** | manifestación visible de cultura como ritual lenguaje o diseño. |
-| **balanced incentive** | conjunto de señales que evita optimización local extrema. |
-| **basic assumption** | creencia profundamente asumida que guía interpretación. |
-| **benefit realization** | medición de resultados económicos u operativos obtenidos. |
-| **business continuity** | capacidad de mantener operaciones críticas durante el cambio. |
-| **business unit** | unidad con propósito clientes y accountability definidos. |
-| **change agent** | persona que facilita adopción dentro de una comunidad. |
-| **change diagnosis** | análisis de fuerzas que sostienen estado actual y obstaculizan estado deseado. |
-| **consultation** | aporte previo que no equivale a veto. |
-| **culture signal** | decisión o reacción que enseña qué se premia realmente. |
-| **decision right** | autoridad explícita para tomar una decisión. |
-| **delayering** | reducción deliberada de niveles. |
-| **design principle** | regla que guía elecciones organizacionales. |
-| **design test** | escenario real usado para comprobar si el diseño permite decidir y ejecutar. |
-| **divisional structure** | agrupación por producto cliente o geografía con mayor autonomía. |
-| **espoused value** | principio declarado por la organización. |
-| **functional structure** | agrupación por disciplina o función. |
-| **gaming** | optimización de la métrica sin lograr el propósito. |
-| **Goodhart law** | cuando una medida se convierte en target puede degradarse como medida. |
-| **governance forum** | foro con derechos de decisión explícitos. |
-| **guiding coalition** | grupo con poder credibilidad y diversidad para conducir cambio. |
-| **incentive** | consecuencia que aumenta o reduce atractivo de una conducta. |
-| **layer** | nivel jerárquico entre frontline y cima. |
-| **management cadence** | ritmo de planificación revisión y escalamiento. |
-| **manager ratio** | proporción de managers respecto a contribuyentes individuales. |
-| **managerial load** | demanda de coordinación coaching y decisión que soporta un rol. |
-| **matrix** | doble o múltiple dimensión de responsabilidad. |
-| **narrative** | explicación causal que conecta problema futuro y camino. |
-| **norm** | expectativa informal sobre conducta aceptada. |
-| **operating model** | conjunto de mecanismos que permiten ejecutar la estrategia de forma repetible. |
-| **organization design** | elección deliberada de estructuras y mecanismos para ejecutar estrategia. |
-| **organizational debt** | fricción acumulada por roles procesos o sistemas obsoletos. |
-| **organizational justice** | percepción de equidad en proceso trato y resultados. |
-| **P&L ownership** | accountability por ingresos y costos de una unidad. |
-| **people practices** | sistemas de talento que soportan capacidades requeridas. |
-| **principal-agent problem** | divergencia entre objetivos de quien delega y quien ejecuta. |
-| **process** | flujo transversal de trabajo e información. |
-| **RACI** | matriz de Responsible Accountable Consulted e Informed. |
-| **RAPID** | marco Recommend Agree Perform Input Decide. |
-| **readiness** | capacidad y disposición para adoptar. |
-| **reinforcement** | mecanismo que estabiliza nuevas conductas. |
-| **reorganization** | cambio deliberado en estructura y distribución de responsabilidades. |
-| **resistance** | señal de costo pérdida riesgo o desacuerdo frente al cambio. |
-| **reward** | señal formal o informal que orienta conducta. |
-| **role mapping** | asignación de personas y posiciones al diseño futuro. |
-| **shared capability** | capacidad reutilizada por múltiples unidades. |
-| **shared service** | capacidad centralizada que sirve a varias unidades. |
-| **single accountable** | principio de un owner final claramente identificable. |
-| **social proof** | evidencia de pares que reduce incertidumbre. |
-| **span of control** | número de reportes directos de un manager. |
-| **stakeholder** | actor afectado o capaz de afectar el cambio. |
-| **structure** | agrupación formal de responsabilidades y líneas de autoridad. |
-| **target operating model** | diseño futuro integrado de unidades procesos decisiones y capabilities. |
-| **transformation** | programa de cambio sistémico que modifica capacidades y resultados materiales. |
-| **transformation office** | mecanismo temporal de coordinación escalamiento y evidencia. |
-| **transformation thesis** | argumento de por qué un conjunto de cambios producirá valor. |
-| **transition architecture** | secuencia de pasos para pasar al diseño futuro. |
-| **transition risk** | riesgo durante el paso entre estructuras. |
-| **workstream** | flujo coordinado de iniciativas dentro de la transformación. |
+| **Adoptantes tempranos** | Personas que prueban antes que la mayoría. |
+| **Alternativa** | Opción de diseño comparable con otras. |
+| **Ambigüedad de rol** | Falta de claridad sobre lo que se espera de una persona. |
+| **Anclaje** | Integrar el cambio en la forma habitual de operar. |
+| **Artefactos** | Elementos visibles: espacios, símbolos, lenguaje, ceremonias, historias, estructuras y procesos. |
+| **Autonomía del equipo** | Capacidad de un equipo de decidir y actuar sin escalar. |
+| **Brecha cultural** | Diferencia entre lo declarado y lo practicado. |
+| **Brecha de conducta** | Diferencia entre cómo se trabaja hoy y cómo se trabajará. |
+| **Capa (layer)** | Nivel jerárquico entre la cima y la base. |
+| **Capacidad crítica** | Habilidad organizacional indispensable para ejecutar la estrategia. |
+| **Carga directiva** | Tiempo y esfuerzo que un líder dedica a gestionar. |
+| **Coalición guía** | Grupo con poder, credibilidad y compromiso que conduce el cambio. |
+| **Coherencia** | Ajuste entre estructura, decisiones, incentivos, personas y cultura. |
+| **Conciencia compartida** | Comprensión común de la situación entre equipos. |
+| **Conflicto de rol** | Expectativas incompatibles sobre una misma persona. |
+| **Costo de capa** | Costo directo de los líderes de ese nivel más la demora que agregan. |
+| **Criterio de ajuste** | Umbral que obliga a revisar el diseño. |
+| **Cultura organizacional** | Patrón de supuestos compartidos que un grupo aprendió al resolver problemas y que enseña a los nuevos. |
+| **Decisión reversible** | Decisión cuyo error se corrige a bajo costo. |
+| **Derecho de decisión** | Autoridad explícita para decidir un tipo de asunto. |
+| **Diagnóstico de cambio** | Análisis previo de qué cambia, a quién afecta y con qué disposición. |
+| **Diferenciación** | Grado en que las áreas se especializan y se distinguen en enfoque y lenguaje. |
+| **Diseño organizacional** | Conjunto de decisiones sobre cómo se divide, coordina y orienta el trabajo. |
+| **Disposición al cambio** | Grado en que las personas creen que el cambio es necesario, viable y bueno para ellas. |
+| **Efecto de desplazamiento** | Una recompensa externa que reduce el interés intrínseco. |
+| **Efecto lateral** | Conducta no buscada que provoca una métrica. |
+| **Ejecución empoderada** | Autonomía de los equipos para actuar con información. |
+| **Encaje (fit)** | Coherencia entre las decisiones de diseño y la estrategia. |
+| **Equipo alineado al flujo** | Equipo responsable de un flujo de valor de punta a punta. |
+| **Escalar** | Extender lo que funcionó a más áreas. |
+| **Estabilizar la base** | Proteger y mejorar el negocio actual. |
+| **Estructura divisional** | Agrupación por producto, mercado, cliente o región. |
+| **Estructura dual** | Jerarquía para operar y red para impulsar el cambio. |
+| **Estructura funcional** | Agrupación por especialidad o función. |
+| **Estructura matricial** | Doble línea de autoridad: función y producto o proyecto. |
+| **Expediente de rediseño** | Documento con diagnóstico, diseño, plan y métricas. |
+| **Fatiga de cambio** | Cansancio por la acumulación de iniciativas simultáneas. |
+| **Fuga de conocimiento** | Pérdida de saber tácito cuando se van las personas. |
+| **Gestión sin valor** | Actividades de gestión que no mejoran el trabajo. |
+| **Gobierno** | Estructuras y reglas de decisión, coordinación y control. |
+| **Grupo afectado** | Conjunto de personas con el mismo tipo de impacto. |
+| **Hipótesis de diseño** | Afirmación comprobable de cómo un cambio mejorará un resultado. |
+| **Impacto** | Magnitud de lo que el cambio exige a un grupo: tareas, habilidades, poder, estatus. |
+| **Incentivo** | Cualquier consecuencia anticipada que influye en la conducta: pago, reconocimiento, promoción, sanción. |
+| **Integración** | Grado de colaboración entre áreas para lograr un resultado común. |
+| **Interfaz** | Acuerdo sobre cómo interactúan dos unidades. |
+| **Justicia procedimental** | Percepción de que el proceso para decidir es justo. |
+| **Ley de Conway** | Observación de que los sistemas reflejan la estructura de comunicación de quien los construye. |
+| **Mecanismo de integración** | Herramienta para coordinar: jerarquía, procesos, roles de enlace, equipos. |
+| **Medida de equilibrio** | Indicador que vigila lo que la métrica principal podría dañar. |
+| **Modelo de la estrella** | Marco con cinco decisiones: estrategia, estructura, procesos, recompensas y personas. |
+| **Modelo operativo** | Forma concreta en que la organización crea y entrega valor. |
+| **Modelo operativo objetivo** | Diseño deseado para ejecutar la estrategia. |
+| **Motivación extrínseca** | Hacer algo por una consecuencia externa. |
+| **Motivación intrínseca** | Hacer una actividad por interés o satisfacción propia. |
+| **Narrativa del cambio** | Historia que explica por qué cambiar, adónde ir y cómo. |
+| **Obstáculo** | Estructura, proceso o creencia que impide actuar. |
+| **Persona crítica** | Quien concentra conocimiento o relaciones difíciles de reemplazar. |
+| **Período de transición** | Lapso entre el anuncio y el nuevo funcionamiento estable. |
+| **Piloto** | Prueba acotada para aprender antes de escalar. |
+| **RACI** | Marco que asigna Responsable, Aprobador (Accountable), Consultado e Informado. |
+| **RAPID** | Marco de decisiones con Recomienda, Acuerda, Aporta, Decide y Ejecuta. |
+| **Rediseño organizacional** | Cambio deliberado de estructura, procesos, decisiones, incentivos y cultura para mejorar la coordinación. |
+| **Seguridad psicológica** | Creencia compartida de que el equipo es seguro para asumir riesgos interpersonales. |
+| **Sistema operativo organizacional** | Conjunto de prácticas con que una organización decide, coordina y aprende. |
+| **Supuestos básicos** | Creencias tácitas sobre la realidad y cómo funcionan las cosas. |
+| **Tramo de control (span)** | Número de personas que dependen directamente de un líder. |
+| **Transformación** | Cambio profundo y simultáneo en modelo, organización y conducta. |
+| **Valores declarados** | Principios que la organización dice sostener. |
+| **Victoria temprana** | Resultado visible y atribuible logrado pronto. |
 
 ## 📦 Qué queda como evidencia
 

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir incentive de principal-agent problem mediante evidencia observable."
-  - "Aplicar la secuencia: definir outcome real → mapear conductas deseadas y no deseadas → identificar métricas manipulables → diseñar recompensa y guardrails → monitorear efectos y corregir."
-  - "Interpretar metric gaming, quality guardrail, bonus distribution sin atribuir causalidad automática."
-  - "Resolver el caso de incentivos y comportamientos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar por qué un incentivo es una señal y no solo un pago."
+  - "Distinguir motivación intrínseca y extrínseca y los efectos de las recompensas."
+  - "Anticipar efectos laterales de una métrica con un ejercicio de «cómo la jugaría»."
+  - "Diseñar un esquema con contrapesos y medidas de equilibrio."
+  - "Alinear incentivos con estructura, derechos de decisión y cultura."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Jay R. Galbraith — *Designing Organizations*"
-  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
-  - "Aaron Dignan — *Brave New Work*"
-  - "John P. Kotter — *Accelerate*"
-  - "Chip Heath & Dan Heath — *Switch*"
-  - "John P. Kotter — *Leading Change*"
+  - "Uri Gneezy & Aldo Rustichini — *A Fine is a Price*"
+  - "Edward L. Deci, Richard Koestner & Richard M. Ryan — *A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation*"
+  - "Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being*"
+  - "Harold Kerzner — *Project Management*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
 limits:
-  - "No toda motivación responde a dinero y recompensas externas pueden desplazar motivación intrínseca. Usa compensación como parte de un sistema, no como única palanca."
+  - "La evidencia de laboratorio y de campo sobre incentivos varía según la tarea, la cultura y el monto."
 evidence_signals:
-  - "metric gaming"
-  - "quality guardrail"
-  - "bonus distribution"
-  - "unintended behavior"
-  - "customer harm"
+  - "señal del incentivo analizada"
+  - "cómo lo jugaría ejecutado"
+  - "contrapesos y umbrales definidos"
+  - "marco laboral verificado"

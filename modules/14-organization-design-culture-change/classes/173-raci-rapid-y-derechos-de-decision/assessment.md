@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **RACI** de **RAPID** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **decision right** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **single accountable** con **consultation**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué roles tiene una decisión?
+2. ¿Qué significa cada letra de RACI?
+3. ¿En qué se diferencia RAPID de RACI?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa crea RACI para pricing con seis personas A. Cada excepción sube al CEO porque nadie acepta que una sola función decida.
+**Caso:** Un hospital privado con 2.400 empleados tiene un problema recurrente: las decisiones de **compras de equipamiento médico** (entre USD 50.000 y USD 3 millones) tardan en promedio 11 meses. Participan el jefe de servicio, el director médico, el gerente de compras, el de finanzas, el de ingeniería clínica, el comité de ética (cuando hay implicancias), el gerente general y el directorio para montos mayores. Cada área puede «frenar». En los últimos 18 meses, 14 compras se aprobaron y luego se reabrieron; en 6 casos el equipo adquirido no era compatible con los sistemas; los médicos dicen que «las decisiones se toman en el pasillo»; compras dice que «todo llega tarde y mal especificado».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **inventariar decisiones recurrentes → distinguir trabajo de decisión → elegir RACI o RAPID según problema → asignar un D o Accountable claro → medir latencia y conflictos para ajustar**. Debes utilizar o diseñar cómo obtener **decision time, approval count, reopened decisions**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diseño de derechos de decisión** que contenga: (a) el mapa del flujo actual con los roles reales y los tiempos; (b) la clasificación de las decisiones por monto, riesgo y reversibilidad; (c) la matriz RAPID (o RACI) de cada clase con un único decisor y vetos acotados; (d) las reglas contra la reapertura y para el registro; (e) las métricas del sistema de decisiones y las metas; (f) las verificaciones normativas de adquisiciones, seguridad de pacientes y gobierno corporativo que se harán en las normas vigentes y con asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los marcos son herramientas simples para situaciones complejas; no sustituyen la confianza ni la cultura.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

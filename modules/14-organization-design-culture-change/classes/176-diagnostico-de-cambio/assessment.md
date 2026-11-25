@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **change diagnosis** de **stakeholder** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **readiness** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **resistance** con **reinforcement**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué hay que describir un cambio como una diferencia de conducta?
+2. ¿Qué dimensiones tiene el impacto de un cambio sobre un grupo?
+3. ¿Qué cinco creencias subyacen a la disposición según Armenakis y Harris?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un ERP se lanza con capacitación general. Finanzas adopta, operaciones crea planillas paralelas y ventas evita registrar oportunidades porque el nuevo flujo duplica carga administrativa.
+**Caso:** Un banco regional con 2.600 empleados decide unificar sus tres plataformas de atención en una sola y, a la vez, reorganizar las sucursales en zonas, implementar un nuevo sistema de evaluación y migrar el correo. La dirección prevé hacerlo todo en el segundo semestre. Una encuesta rápida mostró 58 % de acuerdo con «la unificación es necesaria»; pero entre los ejecutivos de sucursal, solo 31 %. En otro análisis se ve que el 22 % de los equipos de sucursales participa en más de tres iniciativas simultáneas, y la rotación en ese segmento subió de 11 % a 17 %.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir conducta futura observable → mapear stakeholders y pérdidas → diagnosticar conocimiento motivación y capacidad → identificar barreras de sistema → diseñar intervención segmentada y feedback**. Debes utilizar o diseñar cómo obtener **adoption by segment, proficiency, resistance themes**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico de cambio** que contenga: (a) la definición precisa de cada cambio y la brecha de conducta; (b) el mapa de grupos afectados con su impacto; (c) la disposición por grupo con las evidencias y sus límites; (d) los riesgos, incluida la fatiga de cambio, y una propuesta de secuencia y priorización; (e) la estrategia diferenciada por grupo; (f) los indicadores, los criterios de ajuste y las verificaciones laborales necesarias. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La disposición es difícil de medir y cambia con el tiempo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

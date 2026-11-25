@@ -281,11 +281,11 @@ usarse.
 
 | 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **290** | **2328** | **284** | **6** | **62** | **288** |
+| **294** | **2256** | **288** | **6** | **63** | **288** |
 
 **Cobertura del registro: 100.0 %** — de todas las obras que las
 288 clases citan, esa proporción tiene entrada propia. De ellas,
-**97.9 %** tiene además el localizador resuelto contra su fuente.
+**98.0 %** tiene además el localizador resuelto contra su fuente.
 «Pendiente» no significa dudosa: significa que su localizador todavía no se
 resolvió y que el hueco está declarado en vez de disimulado. Última revalidación
 en red: **2026-08-19**.
@@ -297,13 +297,13 @@ y con su enlace, está en [docs/FUENTES.md](docs/FUENTES.md).**
 
 | Autor o emisor | Obra | Localizador | Clases |
 |---|---|---|---:|
-| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 143 |
-| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 143 |
-| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 143 |
-| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 142 |
-| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 142 |
+| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 131 |
+| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 131 |
+| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 131 |
+| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 130 |
+| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 130 |
 | Peter F. Drucker | *Management: Tasks, Responsibilities, Practices* | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 48 |
-| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 40 |
+| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 41 |
 | OECD | *G20/OECD Principles of Corporate Governance 2023* | [www.oecd.org](https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html) | 27 |
 | Tim Koller, Marc Goedhart & David Wessels | *Valuation: Measuring and Managing the Value of Companies* | [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191) | 26 |
 | Andrew S. Grove | *High Output Management* | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 25 |

@@ -10,217 +10,195 @@
 
 ## 🎯 Propósito
 
-Spans y layers determinan cuántas personas reportan a un manager y cuántos niveles separan frontline de dirección. El span adecuado depende de complejidad, similitud del trabajo, autonomía, dispersión y capacidad del manager; ratios universales producen organizaciones demasiado planas o burocráticas.
+Cada capa de gestión agrega un costo y una demora; cada persona que lidera a otras tiene un límite de tiempo y atención. El **tramo de control** (*span of control*, cuántas personas dependen directamente de un líder), las **capas** (*layers*, cuántos niveles hay entre la base y la cima) y la **carga directiva** (*managerial load*, cuánto del tiempo de un líder se va en gestionar frente a trabajar en el negocio) determinan la velocidad con que circula la información, el costo de gestión y la calidad del liderazgo. Muchas organizaciones crecen agregando capas por acumulación, y descubren que las decisiones suben y bajan por una cadena de cinco o seis niveles; otras recortan niveles sin ver que sobrecargan a los líderes que quedan.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **spans, layers y managerial load** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de tiempo y energía de Mankins y Garton, en las reflexiones de Drucker sobre la efectividad de los ejecutivos y la gestión del tiempo, en el estudio de equipos de Hackman y en el diseño de organizaciones de Galbraith. Al terminar sabrás medir tramos, capas y carga directiva de una organización, entender qué determina un tramo razonable, calcular el costo de una capa, diagnosticar sobrecarga y diseñar cambios que reduzcan demora sin deteriorar el liderazgo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `span of control`, `layer`, `managerial load`, `delayering`, `manager ratio` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** median span, layers to CEO, manager time allocation sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Medir** tramos de control, número de capas y carga directiva.
+2. **Explicar** qué factores determinan un tramo razonable.
+3. **Calcular** el costo y la demora que agrega una capa.
+4. **Diagnosticar** sobrecarga y subutilización de líderes.
+5. **Diseñar** ajustes que aplanen la estructura sin dañar el liderazgo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define span of control y layer sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con median span y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: cuenta cuántas personas dependen directamente de ti y cuántos niveles hay entre tú y quien atiende al cliente. |
+| 20–60 min | Tramos, capas, carga, factores y diagnóstico. |
+| 60–105 min | Ejemplo trabajado: aplanar una organización de 1.200 personas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **span of control** | número de reportes directos de un manager | Distingue un hecho compatible y otro que lo refute. |
-| **layer** | nivel jerárquico entre frontline y cima | Distingue un hecho compatible y otro que lo refute. |
-| **managerial load** | demanda de coordinación coaching y decisión que soporta un rol | Distingue un hecho compatible y otro que lo refute. |
-| **delayering** | reducción deliberada de niveles | Distingue un hecho compatible y otro que lo refute. |
-| **manager ratio** | proporción de managers respecto a contribuyentes individuales | Distingue un hecho compatible y otro que lo refute. |
+| **Tramo de control (span)** | Número de personas que dependen directamente de un líder. | Se cuenta en el organigrama. |
+| **Capa (layer)** | Nivel jerárquico entre la cima y la base. | Se cuenta de arriba hacia abajo. |
+| **Carga directiva** | Tiempo y esfuerzo que un líder dedica a gestionar. | Se mide con el uso del tiempo. |
+| **Costo de capa** | Costo directo de los líderes de ese nivel más la demora que agregan. | Salarios y tiempo de decisión. |
+| **Gestión sin valor** | Actividades de gestión que no mejoran el trabajo. | Reportes, reuniones de coordinación. |
+| **Autonomía del equipo** | Capacidad de un equipo de decidir y actuar sin escalar. | Menos escalamientos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 171: 1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo](modelo-mental.svg)
+![Cuadrante de tramo de control y complejidad del trabajo: riesgo de sobrecarga, tramo amplio funciona, más apoyo y coaching, y capas innecesarias.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Spans y layers determinan cuántas personas reportan a un manager y cuántos niveles separan frontline de dirección. El span adecuado depende de complejidad, similitud del trabajo, autonomía, dispersión y capacidad del manager; ratios universales producen organizaciones demasiado planas o burocráticas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Spans más amplios pueden empoderar o abandonar. No optimices solo headcount de managers; mide calidad de decisión, desarrollo y coordinación.**
+**Cómo leer el diagrama.** Dos ejes: la **complejidad del trabajo** (complejo o rutinario) y el **tramo** (angosto o ancho). **Trabajo complejo con tramo ancho** produce riesgo de sobrecarga: el líder no alcanza a apoyar ni decidir. **Trabajo rutinario con tramo ancho** funciona: autonomía, estándares y poca supervisión. **Trabajo complejo con tramo angosto** da tiempo para desarrollar y coordinar. **Trabajo rutinario con tramo angosto** crea capas innecesarias con costo de gestión sin valor. La nota recuerda que el tramo es consecuencia del tipo de trabajo, de la madurez del equipo y de las herramientas de coordinación.
 
 ## 📖 Desarrollo
 
-### 1. span of control: mecanismo central
+### 1. Tres medidas
 
-**span of control** se entiende aquí como **número de reportes directos de un manager**. Esta es la pieza causal o estructural desde la que se inicia **spans, layers y managerial load**: antes de medir capas y spans reales, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El **tramo de control** es el número de reportes directos de un líder. Las **capas** son los niveles entre el máximo ejecutivo y quienes realizan el trabajo. La **carga directiva** es la fracción del tiempo de un líder dedicada a gestionar (reuniones, aprobaciones, reportes, coordinación) frente a trabajo propio o con clientes. Las tres están relacionadas: para un mismo número de empleados, tramos más angostos implican más capas y más gestores; tramos más anchos, menos capas y líderes con más personas a su cargo. Una organización de 1.200 personas con tramo promedio de 5 necesita cerca de 300 líderes y unas seis capas; con tramo promedio de 8, unos 170 líderes y cinco capas.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **median span**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué determina un tramo razonable
 
-Relaciona el mecanismo con **layer**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+No hay número mágico. Los factores que permiten tramos más anchos: **trabajo similar y estandarizado** entre los reportes, **personas experimentadas y autónomas**, **procesos y sistemas** que coordinan por sí mismos, **medidas claras de desempeño**, **menor necesidad de supervisión** y **líderes que también hacen trabajo operativo** poco. Los que exigen tramos más angostos: **trabajo complejo y variado**, **personas nuevas** o en transición, **alta interdependencia** entre los reportes, **necesidad de coaching**, **riesgo alto** (seguridad, regulación) y **geografía dispersa**. Hackman observa que los equipos eficaces necesitan una **estructura que los habilite** y un líder que dedique tiempo a las condiciones del equipo, no solo a las tareas.
 
-### 2. layer: frontera conceptual y error de clasificación
+### 3. El costo de una capa
 
-**Definición operacional:** nivel jerárquico entre frontline y cima. Su valor está en distinguirlo de **span of control** y **managerial load**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada capa tiene **costos directos** (los salarios y beneficios de los líderes) e **indirectos**: **demora** (cada nivel agrega tiempo para pasar información y aprobar), **distorsión** de la información (cada traspaso la filtra), **dilución de la responsabilidad** (nadie siente que decide), **reducción de autonomía** y **costo de coordinación** entre niveles. Una estimación: si cada decisión pasa por tres niveles y cada uno demora tres días, la decisión tarda nueve días antes de comenzar a ejecutarse. Reducir una capa puede acortar los ciclos de decisión de forma notable, siempre que se defina quién decide qué (clase 173) y que los líderes restantes puedan asumir la carga.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **layer** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **layers to CEO** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Carga directiva y uso del tiempo
 
-Antes de segmentar por complejidad del trabajo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Drucker insistía en que el recurso más escaso de un ejecutivo es el **tiempo** y en la importancia de conocer en qué se va realmente. Mankins y Garton proponen **medir el uso del tiempo** de los líderes con **registros** o análisis de calendarios: cuántas horas por semana en reuniones, con quién, en qué tipo de decisión, cuánto en clientes o en desarrollo de personas. Los hallazgos típicos: **reuniones de coordinación** que concentran más de 30 % del tiempo, **reportes** que alimentan otros reportes, **aprobaciones** de decisiones que podrían tomar niveles inferiores y **poco tiempo** para conversar con personas y clientes. Se hace con transparencia y no se usa para vigilar individuos sino para rediseñar el sistema.
 
-### 3. managerial load: operacionalización y medición
+### 5. Diagnóstico: sobrecarga y subutilización
 
-**managerial load** significa **demanda de coordinación coaching y decisión que soporta un rol**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La **sobrecarga** se manifiesta en líderes con muchas personas a cargo y trabajo complejo, **reuniones de uno a uno** que se cancelan, **retrasos en aprobaciones**, **errores** de coordinación, **quejas del equipo** («no tengo con quién hablar»), **rotación** de líderes y de personas, y **desarrollo descuidado**. La **subutilización** aparece como líderes con muy pocos reportes (menos de 3) que dedican tiempo a supervisar de más, **capas con poco valor agregado** y **duplicación** entre niveles. Se compara el **tramo real** con un **rango razonable** según el tipo de trabajo, y se analizan **casos extremos** (líderes con 1 o 2 reportes, o con más de 15).
 
-John P. Kotter — *Leading Change* orienta este bloque mediante **urgencia, coalición, visión, movilización y consolidación del cambio**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **manager time allocation**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cómo aplanar sin romper
 
-Al llegar a cuantificar carga de management, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Aplanar una organización no es eliminar cargos al azar. Una secuencia útil: **(1) definir qué decisiones se toman en cada nivel** (derechos de decisión, clase 173); **(2) diseñar procesos y herramientas** que permitan más autonomía (estándares, paneles, indicadores, formación); **(3) revisar roles** de los líderes, que pasan de supervisar a habilitar y desarrollar; **(4) ajustar tramos** según el tipo de trabajo; **(5) proteger el desarrollo** de nuevos líderes (si se eliminan las capas intermedias, ¿cómo se forman?); **(6) medir** tiempos de decisión, calidad, clima y rotación. Si los líderes quedan sobrecargados, el beneficio desaparece. Los cambios que afecten cargos, funciones o remuneraciones requieren verificar normas laborales.
 
-### 4. delayering: trade-offs y efectos de segundo orden
+### 7. Cuando las capas sí aportan
 
-**Definición:** reducción deliberada de niveles. Este concepto obliga a abandonar la idea de que **spans, layers y managerial load** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar capas sin valor decisional, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Frederic Laloux — *Reinventing Organizations* aporta una lente sobre **perspectiva de Diseño organizacional aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **decision latency** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **spans, layers y managerial load**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **delayering** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. manager ratio: gobernanza, límites e integración
-
-**manager ratio** se define como **proporción de managers respecto a contribuyentes individuales** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stanley McChrystal et al. — *Team of Teams* se utiliza para estudiar **adaptabilidad, conciencia compartida y ejecución descentralizada** y contrastar la recomendación final. Al ejecutar rediseñar y monitorear calidad de liderazgo, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Spans más amplios pueden empoderar o abandonar. No optimices solo headcount de managers; mide calidad de decisión, desarrollo y coordinación.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **span of control**, **layer**, **managerial load**, **delayering** y **manager ratio** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **spans, layers y managerial load** no consiste en sumar cinco definiciones. Empieza por **span of control**, contrasta **layer** con **managerial load**, incorpora **delayering** como restricción o mecanismo y usa **manager ratio** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Las capas cumplen funciones legítimas: **traducir** estrategia en prioridades, **integrar** unidades, **desarrollar** a las personas, **asignar** recursos y **gestionar** riesgos. En organizaciones grandes y complejas, una capa puede ser necesaria para integrar y evitar que el nivel superior se sature. El objetivo no es el menor número de capas sino que **cada capa agregue valor** a las decisiones y a las personas. Una prueba: ¿qué se perdería si se eliminara esta capa? Si la respuesta es «nada, solo pasaría la información», probablemente sobra; si es «la integración entre estas cuatro unidades», se mantiene o se rediseña.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **spans, layers y managerial load** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **spans, layers y managerial load** ayuda a desafiar? |
-| John P. Kotter — *Leading Change* | urgencia, coalición, visión, movilización y consolidación del cambio | ¿Qué supuesto de **spans, layers y managerial load** ayuda a desafiar? |
-| Frederic Laloux — *Reinventing Organizations* | perspectiva de Diseño organizacional aplicada al problema de la clase | ¿Qué supuesto de **spans, layers y managerial load** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **spans, layers y managerial load** ayuda a desafiar? |
-
-En **spans, layers y managerial load**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **span of control**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Mankins y Garton | Medir tiempo y energía de la organización y de los líderes. | Datos de grandes empresas. | ¿En qué se va el tiempo de tus líderes? |
+| Drucker | Efectividad personal y gestión del tiempo del ejecutivo. | Principios generales. | ¿Sabes en qué gastas tu tiempo realmente? |
+| Hackman (*Leading Teams*) | Condiciones que habilitan a los equipos y rol del líder. | Se centra en equipos. | ¿Tu estructura habilita a los equipos? |
+| Galbraith | Mecanismos de coordinación y diseño. | Marco general. | ¿Qué mecanismo reemplaza una capa? |
+| McChrystal et al. | Coordinación y decisiones descentralizadas con información compartida. | Contexto militar. | ¿Qué información necesitan los equipos para decidir? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa decreta mínimo ocho reportes por manager. Líderes de equipos de I+D con trabajo altamente interdependiente pasan de cinco a nueve y dejan de hacer coaching técnico.
+**Situación (hipotética).** Una empresa de servicios de ingeniería con 1.200 empleados tiene 6 capas y un tramo promedio de 4,6. Hay 262 personas con personal a cargo (22 % de la plantilla). Un análisis de calendarios de 60 líderes durante 4 semanas muestra que el 41 % de su tiempo se va en reuniones de coordinación y aprobaciones, el 17 % en reportes y solo el 9 % en conversaciones con clientes y con su equipo. El tiempo de aprobación de una oferta técnica es de 11 días.
 
-**Paso 1 — medir capas y spans reales.** La gerencia escribe primero el supuesto asociado a **span of control** y evita convertirlo en hecho. Luego busca **median span** para contrastarlo en el caso de **spans, layers y managerial load**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Distribución de tramos.**
 
-**Paso 2 — segmentar por complejidad del trabajo.** La gerencia escribe primero el supuesto asociado a **layer** y evita convertirlo en hecho. Luego busca **layers to CEO** para contrastarlo en el caso de **spans, layers y managerial load**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tramo | Líderes | % |
+|---|---|---|
+| 1 a 3 reportes | 91 | 35 % |
+| 4 a 7 | 128 | 49 % |
+| 8 a 12 | 36 | 14 % |
+| 13 o más | 7 | 3 % |
 
-**Paso 3 — cuantificar carga de management.** La gerencia escribe primero el supuesto asociado a **managerial load** y evita convertirlo en hecho. Luego busca **manager time allocation** para contrastarlo en el caso de **spans, layers y managerial load**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Un 35 % de los líderes tiene 3 o menos reportes (capas con poco valor); el 3 % tiene 13 o más con trabajo complejo (sobrecarga). La estructura no se explica por la complejidad del trabajo, sino por la acumulación de cargos.
 
-**Paso 4 — identificar capas sin valor decisional.** La gerencia escribe primero el supuesto asociado a **delayering** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **spans, layers y managerial load**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo del costo de capas.** Si el costo medio de un líder es USD 95.000 al año (con cargas), los 91 líderes con 1 a 3 reportes cuestan USD 8,6 millones. Pasar a un tramo medio de 7 en trabajo estándar y de 5 en proyectos complejos reduciría los líderes a unos 195 (−67), con un ahorro bruto de USD 6,4 millones, antes de costos de transición y del valor de las funciones que cumplen.
 
-**Paso 5 — rediseñar y monitorear calidad de liderazgo.** La gerencia escribe primero el supuesto asociado a **manager ratio** y evita convertirlo en hecho. Luego busca **engagement by span** para contrastarlo en el caso de **spans, layers y managerial load**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño por principios.** (1) Reducir de 6 a 5 capas fusionando niveles de jefaturas con 1 a 3 reportes; (2) derechos de decisión: ofertas bajo USD 500.000 las aprueba el jefe de proyecto con un revisor técnico; entre 500.000 y 2 millones, el gerente de unidad; sobre 2 millones, comité; (3) rol de líder redefinido: 50 % en desarrollo del equipo y clientes; (4) tablero común de indicadores; (5) programa de desarrollo para quienes pasen a roles de especialista o de coach; (6) redistribución de los 7 líderes con 13 o más reportes en subunidades.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **spans, layers y managerial load**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Medidas.** Tiempo de aprobación de ofertas (11 días → meta 4), porcentaje de tiempo de líderes en clientes y equipo (9 % → 25 %), rotación de líderes, clima de equipo y calidad de las ofertas (tasa de adjudicación).
+
+**Resultados a 9 meses (piloto en una división).** Tiempo de aprobación de 11 a 4,5 días; tiempo en clientes y equipo sube a 22 %; adjudicación sube de 28 % a 33 %; dos de los 12 líderes ajustados dejan la empresa y la rotación del equipo permanece estable. Se amplía a otras divisiones con ajustes en el rol de especialistas.
+
+**Legal y personas.** Los cambios de cargos y las remuneraciones se tratan con las normas laborales vigentes y con asesoría, y se acompañan de conversación individual con cada afectado.
+
+**Qué muestra.** (1) Tramos y capas se midieron con datos. (2) El rediseño incluyó decisiones, roles y herramientas, no solo eliminar cargos. (3) El piloto mostró beneficios y un costo en rotación que se gestionó.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **span of control** | número de reportes directos de un manager | Cuando median span es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **layer** | nivel jerárquico entre frontline y cima | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Aplanar frente a delegar.** Reducir capas sin delegar decisiones sobrecarga a los líderes que quedan; delegar sin reducir capas no acorta los ciclos. Ambas acciones se combinan.
 
-**Frontera de aplicación:** Spans más amplios pueden empoderar o abandonar. No optimices solo headcount de managers; mide calidad de decisión, desarrollo y coordinación.
+**Límites.** No existe un tramo óptimo universal; los rangos son orientativos. La medición del tiempo es aproximada y puede percibirse como vigilancia. El aplanamiento puede reducir las oportunidades de promoción y requiere repensar las carreras. El ahorro bruto no incluye costos de indemnizaciones, reasignación ni pérdida de conocimiento. Los cambios de estructura exigen cumplimiento de la normativa laboral y de protección de datos de los registros de tiempo. Las cifras son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre spans, layers y managerial load |
+| Nivel | Cómo participa en tramos y capas |
 |---|---|
-| **Profesional** | usa **spans, layers y managerial load** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **span of control** y **layer** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta median span con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si spans, layers y managerial load cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de spans, layers y managerial load reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **spans, layers y managerial load** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Decide dentro de su autonomía y escala solo lo necesario. |
+| **Jefe / Team Lead** | Cuida su tramo, su tiempo y el desarrollo de su equipo. |
+| **Gerente** | Diseña tramos y capas según el tipo de trabajo. |
+| **CEO / Director** | Mide el costo de las capas y protege el tiempo de los líderes. |
+| **Founder / Owner** | Evita agregar niveles antes de necesitarlos y delega con claridad. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa decreta mínimo ocho reportes por manager. Líderes de equipos de I+D con trabajo altamente interdependiente pasan de cinco a nueve y dejan de hacer coaching técnico.
+Una cadena de supermercados con 14.000 empleados y 210 tiendas tiene 7 capas desde el gerente general hasta el cajero. Cada tienda tiene un gerente, un subgerente, 6 jefes de sección con 3 a 5 personas cada uno y supervisores de turno. Entre las tiendas y la gerencia general hay jefes de zona (14), gerentes regionales (5) y directores (3). Una decisión de precio o de promoción pasa por 5 niveles y tarda 12 días. Los jefes de sección dedican 55 % de su tiempo a tareas operativas y 45 % a reportes. La rotación de jefes de sección es de 38 %. La directora de operaciones quiere aplanar a 5 capas; el director de personas teme perder el camino de carrera y una caída del servicio.
 
-Entrega un **decision brief de spans, layers y managerial load** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de tramos, capas y carga directiva** que contenga: (a) las métricas actuales con los datos que pedirías; (b) los factores que justifican tramos más anchos o más angostos en cada nivel; (c) el costo de las capas y la demora; (d) un rediseño con derechos de decisión, roles y herramientas; (e) las medidas de transición, de desarrollo de líderes y de carrera; (f) las verificaciones laborales y de datos que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **spans, layers y managerial load** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta median span, layers to CEO; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el tramo promedio y el número de capas de tu organización.
+2. Analiza tu calendario de cuatro semanas: porcentaje en reuniones, reportes, clientes y personas.
+3. Identifica cinco decisiones que suben más de dos niveles y propón dónde deberían tomarse.
+4. Estima el costo de una capa y la demora que agrega a una decisión típica.
+5. Define tres medidas para saber si aplanar mejora o daña.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar span of control y layer como sinónimos | Se pierde la distinción entre “número de reportes directos de un manager” y “nivel jerárquico entre frontline y cima” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “rediseñar y monitorear calidad de liderazgo” | Se saltó “medir capas y spans reales” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. medir capas y spans reales → 2. segmentar por complejidad del trabajo → 3. cuantificar carga de management → 4. identificar capas sin valor decisional → 5. rediseñar y monitorear calidad de liderazgo y marca el primer supuesto no demostrado. |
-| Optimizar solo median span | La métrica local sustituyó al resultado del sistema | Contrástala con layers to CEO y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre spans, layers y managerial load | Spans más amplios pueden empoderar o abandonar. No optimices solo headcount de managers; mide calidad de decisión, desarrollo y coordinación. |
-| No fijar revisión | Una decisión sobre spans, layers y managerial load se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Tramo único para todos | Se busca simplicidad | Ajustar a la complejidad y madurez. |
+| Aplanar sin delegar | Se piensa en cargos | Definir derechos de decisión y herramientas. |
+| Capas por acumulación | Se agregan por conveniencia | Preguntar qué se perdería sin esa capa. |
+| Líderes sin tiempo para su equipo | La carga lo impide | Medir y reducir gestión sin valor. |
+| Ignorar las carreras | Se mira el costo | Rediseñar caminos de desarrollo. |
+| Medir el tiempo como vigilancia | No se explica el propósito | Transparencia y foco en el sistema. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **span of control** y **layer** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **managerial load** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **medir capas y spans reales → segmentar por complejidad del trabajo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **median span** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **spans, layers y managerial load**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Spans más amplios pueden empoderar o abandonar. No optimices solo headcount de managers; mide calidad de decisión, desarrollo y coordinación.**?
+1. ¿Qué son el tramo de control, las capas y la carga directiva?
+2. ¿Qué factores permiten un tramo más ancho?
+3. ¿Qué costos agrega una capa?
+4. ¿Cómo se mide la carga directiva?
+5. ¿Cuáles son signos de sobrecarga y de subutilización?
+6. ¿Qué se debe hacer antes de aplanar?
+7. ¿Cuándo aportan valor las capas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El tramo es el número de reportes directos; las capas son los niveles jerárquicos; la carga directiva es el tiempo y esfuerzo de un líder dedicado a gestionar.
+2. Trabajo similar y estandarizado, personas experimentadas, procesos y sistemas que coordinan, medidas claras de desempeño y poca necesidad de supervisión.
+3. Salarios y beneficios, demora, distorsión de información, dilución de responsabilidad y costos de coordinación.
+4. Analizando calendarios y registros de uso del tiempo de los líderes, con transparencia y sin fines de vigilancia individual.
+5. Sobrecarga: reuniones canceladas, aprobaciones demoradas, rotación de líderes; subutilización: líderes con muy pocos reportes y capas que solo pasan información.
+6. Definir qué decisiones se toman en cada nivel, preparar procesos y herramientas, redefinir roles de los líderes y proteger el desarrollo de nuevos líderes.
+7. Cuando traducen estrategia, integran unidades, desarrollan personas, asignan recursos o gestionan riesgos que el nivel superior no podría.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/171-spans-layers-y-managerial-load/`:
 
-- `risk-governance-brief.md` con el problema específico de **spans, layers y managerial load**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **spans, layers y managerial load** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **span of control**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa decreta mínimo ocho reportes por manager. Líderes de equipos de I+D con trabajo altamente interdependiente pasan de cinco a nueve y dejan de hacer coaching técnico.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con los riesgos del rediseño del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con tramos, capas y derechos de decisión propuestos;
+- `decision-journal.md` con las métricas de línea base y los criterios de éxito.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Frederic Laloux — *Reinventing Organizations* (Nelson Parker, 2014). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9782960133516](https://openlibrary.org/isbn/9782960133516).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- John P. Kotter — *Accelerate* (Harvard Business Review Press, 2014). **Uso en esta clase:** perspectiva de Cambio aplicada al problema de la clase. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9781625271747](https://openlibrary.org/isbn/9781625271747).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **spans, layers y managerial load** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **spans, layers y managerial load** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **spans, layers y managerial load** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **spans, layers y managerial load** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** medir tiempo y energía de la organización y de los líderes. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad personal y gestión del tiempo del ejecutivo. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones que habilitan a los equipos y rol del líder. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** mecanismos de coordinación y diseño. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** coordinación y decisiones descentralizadas con información compartida. Lectura selectiva sobre **spans, layers y managerial load**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
 
-> **Regla de fuentes para Spans, layers y managerial load:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **spans, layers y managerial load** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Spans, layers y managerial load:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

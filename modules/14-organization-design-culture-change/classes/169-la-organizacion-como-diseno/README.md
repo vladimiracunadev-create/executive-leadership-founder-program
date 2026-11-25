@@ -10,217 +10,194 @@
 
 ## 🎯 Propósito
 
-Diseño organizacional alinea estrategia, estructura, procesos, recompensas y personas. El Star Model de Galbraith ayuda a evitar el error de reorganizar cajas del organigrama sin cambiar decisiones, información o incentivos. La organización es un sistema socio-técnico, no un dibujo.
+Las organizaciones se heredan más de lo que se diseñan. Un área se crea porque apareció un problema, una jefatura porque hubo una persona valiosa que retener, un comité porque algo salió mal. Años después, el resultado es una estructura que nadie eligió en conjunto y que produce comportamientos que nadie quiere: decisiones lentas, áreas que compiten, información que no llega, personas con responsabilidades confusas. Pensar la organización **como un diseño** significa tratarla como un sistema de decisiones interdependientes —estructura, procesos, recompensas y personas— que se pueden examinar, ajustar y alinear con la estrategia.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **la organización como diseño** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el modelo de la estrella de Galbraith para el diseño organizacional, en el estudio clásico de Lawrence y Lorsch sobre diferenciación e integración, en el análisis de Mankins y Garton sobre el uso del tiempo y la energía de las organizaciones y en los aportes de McChrystal y otros sobre cómo coordinar equipos en entornos complejos. Al terminar sabrás describir una organización con cinco decisiones de diseño, evaluar su encaje con la estrategia, diagnosticar problemas de coordinación y plantear un rediseño por etapas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `organization design`, `structure`, `process`, `reward`, `people practices` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decision latency, handoff count, span of control sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** una organización con las cinco decisiones de diseño y sus relaciones.
+2. **Evaluar** el encaje entre estrategia, estructura, procesos, recompensas y personas.
+3. **Aplicar** la idea de diferenciación e integración para analizar la coordinación.
+4. **Diagnosticar** síntomas de mal diseño y sus causas.
+5. **Formular** un rediseño con hipótesis y pruebas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define organization design y structure sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decision latency y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión importante de tu empresa tarda más de lo razonable y por qué? |
+| 20–60 min | Modelo de la estrella, diferenciación e integración, síntomas y diagnóstico. |
+| 60–105 min | Ejemplo trabajado: diagnóstico del diseño de una red de clínicas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **organization design** | elección deliberada de estructuras y mecanismos para ejecutar estrategia | Distingue un hecho compatible y otro que lo refute. |
-| **structure** | agrupación formal de responsabilidades y líneas de autoridad | Distingue un hecho compatible y otro que lo refute. |
-| **process** | flujo transversal de trabajo e información | Distingue un hecho compatible y otro que lo refute. |
-| **reward** | señal formal o informal que orienta conducta | Distingue un hecho compatible y otro que lo refute. |
-| **people practices** | sistemas de talento que soportan capacidades requeridas | Distingue un hecho compatible y otro que lo refute. |
+| **Diseño organizacional** | Conjunto de decisiones sobre cómo se divide, coordina y orienta el trabajo. | Estructura, procesos, recompensas y personas. |
+| **Modelo de la estrella** | Marco con cinco decisiones: estrategia, estructura, procesos, recompensas y personas. | Se evalúa su encaje. |
+| **Diferenciación** | Grado en que las áreas se especializan y se distinguen en enfoque y lenguaje. | Cada área ve el mundo distinto. |
+| **Integración** | Grado de colaboración entre áreas para lograr un resultado común. | Mecanismos de coordinación. |
+| **Encaje (fit)** | Coherencia entre las decisiones de diseño y la estrategia. | Las partes se refuerzan. |
+| **Mecanismo de integración** | Herramienta para coordinar: jerarquía, procesos, roles de enlace, equipos. | Reduce la distancia entre áreas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 169: 1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos](modelo-mental.svg)
+![Las cinco decisiones de diseño que deben encajar: estrategia, estructura, procesos, recompensas y personas, con retorno por el que cambiar una obliga a revisar las demás.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Diseño organizacional alinea estrategia, estructura, procesos, recompensas y personas. El Star Model de Galbraith ayuda a evitar el error de reorganizar cajas del organigrama sin cambiar decisiones, información o incentivos. La organización es un sistema socio-técnico, no un dibujo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas.**
+**Cómo leer el diagrama.** Cinco decisiones encadenadas. La **estrategia** dice qué se quiere lograr; la **estructura** cómo se divide el trabajo y quién decide; los **procesos** cómo fluyen la información y el trabajo; las **recompensas** qué se mide y se premia; las **personas** qué capacidades hay y cómo se seleccionan y desarrollan. La flecha de retorno indica que cambiar una decisión obliga a revisar las demás. La nota advierte que cambiar solo la estructura sin tocar incentivos y procesos suele reproducir el comportamiento anterior.
 
 ## 📖 Desarrollo
 
-### 1. organization design: mecanismo central
+### 1. El diseño como sistema
 
-**organization design** se entiende aquí como **elección deliberada de estructuras y mecanismos para ejecutar estrategia**. Esta es la pieza causal o estructural desde la que se inicia **la organización como diseño**: antes de partir de estrategia y capacidades, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Galbraith describe el diseño organizacional como un conjunto de **decisiones interdependientes** que deben ser coherentes entre sí y con la estrategia. Las cinco áreas del modelo de la estrella son: **estrategia** (dirección, objetivos, valores), **estructura** (poder y autoridad: dónde se agrupan las actividades, cómo se reparten las decisiones), **procesos** (flujos de información y de decisión, verticales y laterales), **recompensas** (indicadores, incentivos, reconocimiento) y **personas** (políticas de selección, movilidad, formación y desarrollo). Una organización con una estrategia de colaboración y recompensas por desempeño individual está incoherente: las personas seguirán lo que se premia.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decision latency**; regístrala con periodo, unidad, población y baseline.
+### 2. Diferenciación e integración
 
-Relaciona el mecanismo con **structure**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Lawrence y Lorsch estudiaron empresas de distintas industrias y encontraron que las áreas se **diferencian** (en orientación al tiempo, a objetivos, en estructura formal y en estilo interpersonal) según las demandas de su entorno específico: ventas, producción e investigación enfrentan incertidumbres distintas. Pero cuanto más diferenciadas, más necesitan **integrarse** para producir un resultado común. Los hallazgos principales: las empresas de mejor desempeño en entornos más inciertos lograban **más diferenciación y más integración** a la vez, con mecanismos adecuados (equipos, roles de enlace, mecanismos de resolución de conflictos). La pregunta de diseño: ¿cuánta diferenciación necesita cada área y con qué mecanismos se integra?
 
-### 2. structure: frontera conceptual y error de clasificación
+### 3. Mecanismos de coordinación
 
-**Definición operacional:** agrupación formal de responsabilidades y líneas de autoridad. Su valor está en distinguirlo de **organization design** y **process**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Galbraith ordena los mecanismos de coordinación por su capacidad de procesar información: **reglas y procedimientos** (rutinas estables), **jerarquía** (derivar a un nivel superior), **planificación** y metas, **roles de enlace** y **equipos** (coordinación lateral), **fuerzas de tarea** y **estructuras matriciales** (coordinación intensa), y **sistemas de información** que amplían la capacidad de coordinar. A medida que aumenta la incertidumbre y la interdependencia, se necesitan mecanismos más ricos y más costosos. El error común es **sobrecargar la jerarquía**: las decisiones suben, se acumulan y se demoran; una buena coordinación lateral reduce la carga del nivel superior.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **structure** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **handoff count** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Síntomas de mal diseño
 
-Antes de diagnosticar fricciones del sistema, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Algunos síntomas: **decisiones lentas** o que suben siempre; **duplicación** de esfuerzos; **áreas que compiten** por recursos o clientes; **información que no llega** o llega tarde; **responsabilidades ambiguas** (no se sabe quién decide); **reuniones sin fin**; **cuellos de botella** en pocas personas; **iniciativas que mueren** en traspasos; **rotación de personas clave**; **resultados distintos** entre áreas con las mismas reglas. Estos síntomas suelen atribuirse a personas; en muchos casos son consecuencias de un diseño que exige coordinar lo que no se puede coordinar con los mecanismos disponibles. Rizzo, House y Lirtzman mostraron que la ambigüedad y el conflicto de rol deterioran la satisfacción y el desempeño.
 
-### 3. process: operacionalización y medición
+### 5. Energía, tiempo y atención
 
-**process** significa **flujo transversal de trabajo e información**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Mankins y Garton argumentan que el recurso más escaso de una organización es la **energía organizacional** y que muchas empresas la desperdician en **reuniones, procesos de coordinación y comités** que no agregan valor. Proponen medir el **uso del tiempo** de personas y equipos: cuánto se dedica a reuniones, a correos, a trabajo individual, a clientes. Un diseño que obliga a que cada decisión pase por seis personas consume horas y energía que no se ven en el presupuesto. Una buena pregunta de diseño es cuánto tiempo de la organización se dedica a **coordinarse** versus a **crear valor** y cómo reducir lo primero sin perder control.
 
-Chip Heath & Dan Heath — *Switch* orienta este bloque mediante **dirección racional, motivación emocional y diseño del entorno para cambiar conducta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **span of control**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Diseñar desde la estrategia
 
-Al llegar a diseñar estructura y procesos juntos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El diseño se deriva de la estrategia (parte 13): ¿qué capacidades críticas necesita? ¿qué debe hacerse excepcionalmente bien y dónde reside? ¿qué decisiones deben ser rápidas y cuáles deben tener control? ¿qué interdependencias son más importantes? A partir de ello se definen **criterios de diseño** (por ejemplo, «velocidad de decisión en el cliente», «escala en operaciones», «aprendizaje compartido entre sedes») y se evalúan **alternativas** de estructura y de coordinación contra esos criterios (clase 170). McChrystal y sus coautores muestran, desde un entorno militar, cómo la **conciencia compartida** y la **ejecución empoderada** permiten coordinar equipos en entornos que cambian demasiado rápido para una jerarquía clásica.
 
-### 4. reward: trade-offs y efectos de segundo orden
+### 7. Cambiar el diseño con cuidado
 
-**Definición:** señal formal o informal que orienta conducta. Este concepto obliga a abandonar la idea de que **la organización como diseño** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de alinear rewards y people practices, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Frederic Laloux — *Reinventing Organizations* aporta una lente sobre **perspectiva de Diseño organizacional aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cross-functional outcome** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **la organización como diseño**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **reward** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. people practices: gobernanza, límites e integración
-
-**people practices** se define como **sistemas de talento que soportan capacidades requeridas** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stanley McChrystal et al. — *Team of Teams* se utiliza para estudiar **adaptabilidad, conciencia compartida y ejecución descentralizada** y contrastar la recomendación final. Al ejecutar pilotear y medir efectos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **organization design**, **structure**, **process**, **reward** y **people practices** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **la organización como diseño** no consiste en sumar cinco definiciones. Empieza por **organization design**, contrasta **structure** con **process**, incorpora **reward** como restricción o mecanismo y usa **people practices** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un rediseño es una **intervención sobre personas y relaciones**, con costos elevados y efectos difíciles de revertir. Se **diagnostica** antes (síntomas, causas, datos de uso del tiempo y de decisiones), se **formula** una hipótesis de diseño («si agrupamos por cliente y no por función, bajaremos el tiempo de respuesta de 12 a 5 días»), se **prueba** en una parte de la organización cuando es posible, se **mide** y se **ajusta**. Se alinean los cinco elementos y se gestiona el cambio con atención a las personas (clases 176 a 179). Los cambios de estructura que afectan a cargos o funciones tienen condiciones laborales que se verifican con asesoría y normas vigentes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **la organización como diseño** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **la organización como diseño** ayuda a desafiar? |
-| Chip Heath & Dan Heath — *Switch* | dirección racional, motivación emocional y diseño del entorno para cambiar conducta | ¿Qué supuesto de **la organización como diseño** ayuda a desafiar? |
-| Frederic Laloux — *Reinventing Organizations* | perspectiva de Diseño organizacional aplicada al problema de la clase | ¿Qué supuesto de **la organización como diseño** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **la organización como diseño** ayuda a desafiar? |
-
-En **la organización como diseño**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **organization design**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Galbraith | Modelo de la estrella y mecanismos de coordinación. | Marco general; no dice qué diseño elegir. | ¿Las cinco decisiones encajan? |
+| Lawrence y Lorsch (1967) | Diferenciación e integración según el entorno. | Estudio de pocas industrias, de otra época. | ¿Cuánta diferenciación e integración necesita tu entorno? |
+| Mankins y Garton | Energía y tiempo como recursos del diseño. | Datos de grandes empresas. | ¿En qué se va el tiempo de la organización? |
+| McChrystal et al. | Coordinación en entornos complejos con equipos de equipos. | Contexto militar. | ¿Cómo se comparte la información entre equipos? |
+| Rizzo, House y Lirtzman | Efectos de la ambigüedad y el conflicto de rol. | Estudio de los años 70. | ¿Cada persona sabe qué se espera de ella? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa duplica tamaño y crea cinco vicepresidencias. Los mismos tres fundadores siguen aprobando precios, contratación y roadmap; el organigrama cambió, el operating model no.
+**Situación (hipotética).** Una red de 9 clínicas privadas (2.200 empleados) quiere acortar el tiempo desde que un paciente pide un examen hasta que recibe resultados (promedio 6,5 días; meta: 3). Cada clínica tiene su laboratorio; hay una gerencia central de «procesos» y una de «calidad»; los médicos son evaluados por productividad individual; los técnicos, por exámenes procesados por turno.
 
-**Paso 1 — partir de estrategia y capacidades.** La gerencia escribe primero el supuesto asociado a **organization design** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **la organización como diseño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico con la estrella.**
 
-**Paso 2 — diagnosticar fricciones del sistema.** La gerencia escribe primero el supuesto asociado a **structure** y evita convertirlo en hecho. Luego busca **handoff count** para contrastarlo en el caso de **la organización como diseño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Estado | Encaje con la meta |
+|---|---|---|
+| Estrategia | «Diagnóstico rápido y de calidad» | Declarada |
+| Estructura | 9 laboratorios independientes; derivación entre clínicas pasa por gerencia central | Bajo: no hay quien responda por el flujo completo |
+| Procesos | Pedidos en papel en 3 clínicas; resultados sin alerta al médico | Bajo |
+| Recompensas | Técnicos por volumen; médicos por consultas; nadie por tiempo total | Contradictorio |
+| Personas | Rotación de técnicos de 28 %; poca capacitación cruzada | Bajo |
 
-**Paso 3 — diseñar estructura y procesos juntos.** La gerencia escribe primero el supuesto asociado a **process** y evita convertirlo en hecho. Luego busca **span of control** para contrastarlo en el caso de **la organización como diseño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos de tiempos.** Del total de 6,5 días: 1,4 en espera de agenda del examen, 2,2 en procesamiento (de las cuales 1,3 son colas entre turnos), 1,6 en validación del resultado (un solo especialista por turno) y 1,3 en entrega al médico y al paciente. Las derivaciones entre clínicas tardan 2 días adicionales por la gerencia central. El 38 % del tiempo del jefe de laboratorio se va en reuniones de coordinación.
 
-**Paso 4 — alinear rewards y people practices.** La gerencia escribe primero el supuesto asociado a **reward** y evita convertirlo en hecho. Luego busca **cross-functional outcome** para contrastarlo en el caso de **la organización como diseño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diferenciación e integración.** Los laboratorios y las clínicas están muy diferenciados (objetivos, lenguaje, tiempos), pero hay una integración débil: sin roles de enlace ni equipos de proceso.
 
-**Paso 5 — pilotear y medir efectos.** La gerencia escribe primero el supuesto asociado a **people practices** y evita convertirlo en hecho. Luego busca **role clarity** para contrastarlo en el caso de **la organización como diseño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis de diseño.** (1) Un **dueño del proceso** de punta a punta con indicadores compartidos (tiempo total); (2) laboratorio central de alto volumen para pruebas complejas y laboratorios locales para urgencias; (3) historia clínica digital con alertas; (4) recompensas por tiempo total y calidad; (5) capacitación cruzada y carrera técnica; (6) equipo de coordinación diaria de 20 minutos reemplaza reuniones largas.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **la organización como diseño**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Piloto.** En 3 clínicas durante 6 meses. Resultado: tiempo total de 6,5 a 3,9 días; colas entre turnos bajan 55 %; reuniones del jefe de laboratorio bajan de 38 % a 20 % del tiempo; rotación de técnicos baja a 19 %. Se decide ampliar por etapas, ajustando los incentivos de los médicos y vigilando la calidad (retrabajos y errores).
+
+**Aspectos legales.** Los cambios de funciones y turnos del personal se revisan con las normas laborales vigentes y con asesoría; los datos de salud y su circulación entre centros con la normativa de protección de datos.
+
+**Qué muestra.** (1) El mal desempeño venía del diseño, no de las personas. (2) Las cinco decisiones debían moverse juntas. (3) El piloto probó la hipótesis antes de generalizar.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **organization design** | elección deliberada de estructuras y mecanismos para ejecutar estrategia | Cuando decision latency es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **structure** | agrupación formal de responsabilidades y líneas de autoridad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Diseño formal frente a organización informal.** El diseño formal define estructuras y roles; la organización informal (redes, confianza, hábitos) determina en gran parte cómo se trabaja. Un buen diseño aprovecha lo informal y lo acompaña.
 
-**Frontera de aplicación:** No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas.
+**Límites.** El modelo de la estrella es una guía de diagnóstico, no una fórmula. Los estudios de diferenciación e integración se hicieron en contextos y épocas específicas. Los datos de uso del tiempo y de decisiones son difíciles de reunir y pueden sentirse como vigilancia si no se explica su propósito. Los rediseños tienen efectos humanos y legales; deben respetar la normativa laboral y de protección de datos. Los números del ejemplo son ilustrativos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre la organización como diseño |
+| Nivel | Cómo participa en el diseño organizacional |
 |---|---|
-| **Profesional** | usa **la organización como diseño** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **organization design** y **structure** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decision latency con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si la organización como diseño cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de la organización como diseño reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **la organización como diseño** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala cuellos de botella y traspasos que no funcionan. |
+| **Jefe / Team Lead** | Ajusta procesos y roles de su equipo para coordinar mejor. |
+| **Gerente** | Diagnostica el diseño de su área y propone cambios coherentes. |
+| **CEO / Director** | Alinea estrategia, estructura, recompensas y personas. |
+| **Founder / Owner** | Diseña desde temprano cómo se decidirá cuando la empresa crezca. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa duplica tamaño y crea cinco vicepresidencias. Los mismos tres fundadores siguen aprobando precios, contratación y roadmap; el organigrama cambió, el operating model no.
+Una empresa de software con 650 personas pasó de 80 a 650 empleados en cuatro años. Tiene cinco divisiones por producto, un área central de tecnología, una de ventas, una de «éxito del cliente» y un área de «transformación» con 30 personas. Las decisiones sobre precios se toman en tres comités; el lanzamiento de una función requiere aprobaciones de 7 áreas; los clientes grandes reciben ofertas contradictorias de distintas divisiones; los incentivos de ventas premian el cierre de contratos por producto; los ingenieros son evaluados por entregas, no por adopción; la rotación de gerentes medios es de 24 %. El CEO dice que «la cultura se diluyó»; el director de personas, que «falta estructura»; el de producto, que «hay demasiada estructura».
 
-Entrega un **decision brief de la organización como diseño** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico de diseño organizacional** que contenga: (a) la evaluación de las cinco decisiones de diseño y su encaje con la estrategia; (b) el análisis de diferenciación, integración y mecanismos de coordinación con los datos que pedirías; (c) los síntomas observados y sus causas probables; (d) tres hipótesis de rediseño con criterios de elección y un plan de prueba; (e) el uso del tiempo de la organización y cómo lo medirás sin vigilancia indebida; (f) las verificaciones laborales y de datos que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **la organización como diseño** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decision latency, handoff count; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Evalúa las cinco decisiones de diseño de tu área con una nota de encaje del 1 al 5 y un dato por cada una.
+2. Dibuja una decisión importante recientemente tomada y cuenta cuántas personas intervinieron y cuánto tardó.
+3. Identifica un síntoma de mal diseño y tres causas posibles.
+4. Formula una hipótesis de rediseño con su prueba y su medida.
+5. Estima el porcentaje de tu tiempo dedicado a coordinación frente a trabajo de valor.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar organization design y structure como sinónimos | Se pierde la distinción entre “elección deliberada de estructuras y mecanismos para ejecutar estrategia” y “agrupación formal de responsabilidades y líneas de autoridad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “pilotear y medir efectos” | Se saltó “partir de estrategia y capacidades” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos y marca el primer supuesto no demostrado. |
-| Optimizar solo decision latency | La métrica local sustituyó al resultado del sistema | Contrástala con handoff count y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre la organización como diseño | No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas. |
-| No fijar revisión | Una decisión sobre la organización como diseño se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Cambiar solo la estructura | Es lo más visible | Alinear procesos, recompensas y personas. |
+| Atribuir problemas a las personas | Se ve la conducta, no el sistema | Buscar causas de diseño. |
+| Sobrecargar la jerarquía | Es el mecanismo conocido | Coordinación lateral y reglas claras. |
+| Diseñar sin datos | Se confía en la intuición | Medir uso del tiempo y de decisiones. |
+| Rediseñar de golpe | Se busca rapidez | Pilotos y ajustes. |
+| Ignorar lo informal | Se piensa en el organigrama | Considerar redes y hábitos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **organization design** y **structure** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **process** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de estrategia y capacidades → diagnosticar fricciones del sistema** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decision latency** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **la organización como diseño**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas.**?
+1. ¿Cuáles son las cinco decisiones del modelo de la estrella?
+2. ¿Qué diferencia hay entre diferenciación e integración?
+3. ¿Qué mecanismos de coordinación existen y cuándo se necesitan los más ricos?
+4. ¿Qué síntomas muestran un mal diseño?
+5. ¿Por qué Mankins y Garton hablan de energía organizacional?
+6. ¿Cómo se deriva el diseño de la estrategia?
+7. ¿Qué límites tiene el modelo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Estrategia, estructura, procesos, recompensas y personas.
+2. La diferenciación es la especialización de las áreas en enfoque y estilo; la integración es la colaboración entre ellas para un resultado común; a más diferenciación, más integración.
+3. Reglas, jerarquía, planificación, roles de enlace, equipos, fuerzas de tarea, matrices y sistemas de información; los más ricos se necesitan cuando hay más incertidumbre e interdependencia.
+4. Decisiones lentas, duplicación, áreas que compiten, información que no llega, responsabilidades ambiguas, reuniones interminables y rotación de personas clave.
+5. Porque el tiempo y la atención son el recurso más escaso y se desperdician en coordinación que no agrega valor.
+6. A partir de las capacidades críticas, las decisiones que deben ser rápidas o controladas y las interdependencias, definiendo criterios de diseño y evaluando alternativas.
+7. Es una guía de diagnóstico, los estudios son de contextos específicos y los datos de tiempo pueden percibirse como vigilancia.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/169-la-organizacion-como-diseno/`:
 
-- `leadership-decision-brief.md` con el problema específico de **la organización como diseño**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **la organización como diseño** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **organization design**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa duplica tamaño y crea cinco vicepresidencias. Los mismos tres fundadores siguen aprobando precios, contratación y roadmap; el organigrama cambió, el operating model no.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diagnóstico del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con las cinco decisiones, el encaje y las hipótesis de rediseño;
+- `decision-journal.md` con los síntomas, los datos usados y el plan de prueba.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Chip Heath & Dan Heath — *Switch* (Penguin Random House, 1999). **Uso en esta clase:** dirección racional, motivación emocional y diseño del entorno para cambiar conducta. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9781847940308](https://openlibrary.org/isbn/9781847940308).
-- Frederic Laloux — *Reinventing Organizations* (Nelson Parker, 2014). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9782960133516](https://openlibrary.org/isbn/9782960133516).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **la organización como diseño** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **la organización como diseño**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **la organización como diseño** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **la organización como diseño** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **la organización como diseño** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** modelo de la estrella y mecanismos de coordinación. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Paul R. Lawrence & Jay W. Lorsch — *Differentiation and Integration in Complex Organizations* (Administrative Science Quarterly, 1967). **Uso en esta clase:** diferenciación e integración según el entorno. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [DOI 10.2307/2391211](https://doi.org/10.2307/2391211).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** energía y tiempo como recursos del diseño. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** coordinación en entornos complejos con equipos de equipos. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
+- John R. Rizzo, Robert J. House & Sidney I. Lirtzman — *Role Conflict and Ambiguity in Complex Organizations* (Administrative Science Quarterly, 1970). **Uso en esta clase:** efectos de la ambigüedad y el conflicto de rol. Lectura selectiva sobre **la organización como diseño**. **Localizador:** [DOI 10.2307/2391486](https://doi.org/10.2307/2391486).
 
-> **Regla de fuentes para La organización como diseño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **la organización como diseño** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para La organización como diseño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

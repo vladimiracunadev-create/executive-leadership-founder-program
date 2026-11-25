@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **incentive** de **principal-agent problem** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **Goodhart law** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **gaming** con **balanced incentive**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué se dice que un incentivo es una señal?
+2. ¿Qué mostraron Gneezy y Rustichini con las guarderías?
+3. ¿Qué indica el metaanálisis de Deci, Koestner y Ryan sobre las recompensas?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un call center paga por número de llamadas cerradas. Duración baja 20%, pero repeat calls y quejas suben; agentes transfieren casos complejos para proteger su ranking.
+**Caso:** Una empresa de servicios de 900 personas tiene un centro de atención con 120 agentes. Se les mide por **tiempo medio de llamada** (objetivo de 5 minutos) con un bono mensual de 8 % del sueldo si lo cumplen. En seis meses, el tiempo medio bajó de 7,2 a 4,6 minutos, pero las **llamadas repetidas** por el mismo problema subieron de 18 % a 34 %, la satisfacción cayó de 82 a 68 puntos y la rotación de agentes pasó a 41 % anual. El gerente quiere «subir el bono a 12 % para motivar» y mantener la métrica.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir outcome real → mapear conductas deseadas y no deseadas → identificar métricas manipulables → diseñar recompensa y guardrails → monitorear efectos y corregir**. Debes utilizar o diseñar cómo obtener **metric gaming, quality guardrail, bonus distribution**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **rediseño de incentivos** que contenga: (a) el diagnóstico de la conducta que el esquema produce y su efecto en el cliente; (b) el ejercicio «cómo lo jugaría» y las contramedidas; (c) la nueva combinación de métricas, con una principal y medidas de equilibrio, y los umbrales; (d) el equilibrio entre incentivo individual y de equipo según la interdependencia; (e) incentivos no monetarios y conductas de liderazgo; (f) la verificación laboral y tributaria y el plan de transición y comunicación. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No toda motivación responde a dinero y recompensas externas pueden desplazar motivación intrínseca. Usa compensación como parte de un sistema, no como única palanca.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La evidencia de laboratorio y de campo sobre incentivos varía según la tarea, la cultura y el monto.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

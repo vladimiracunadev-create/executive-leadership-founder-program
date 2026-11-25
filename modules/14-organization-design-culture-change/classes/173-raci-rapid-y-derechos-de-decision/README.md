@@ -10,217 +10,191 @@
 
 ## 🎯 Propósito
 
-RACI y RAPID son herramientas para aclarar roles y derechos de decisión, pero resuelven problemas distintos. RACI aclara participación en trabajo; RAPID separa Recommend, Agree, Perform, Input y Decide para decisiones complejas. El valor está en reducir ambigüedad sin multiplicar aprobadores.
+Una de las formas más caras de perder velocidad es no saber **quién decide**. Las decisiones se discuten en reuniones sin un responsable, se reabren cuando alguien que no participó se entera, suben al nivel superior por inseguridad, se frenan por vetos que nadie sabía que existían o se toman dos veces, en dos lugares, con resultados distintos. Los **derechos de decisión** —la asignación explícita de quién recomienda, quién debe estar de acuerdo, quién aporta información, quién decide y quién ejecuta— convierten esa niebla en reglas conocidas. Marcos como **RACI** y **RAPID** son herramientas para hacerlo; su valor está menos en la tabla que en la conversación que obligan a tener.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **rACI, RAPID y derechos de decisión** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de rol y ambigüedad de Rizzo, House y Lirtzman, en los principios de coordinación de Galbraith y en la visión de McChrystal de decisiones cercanas a la acción con información compartida. Al terminar sabrás distinguir los roles de una decisión, usar RACI y RAPID, evitar los errores típicos (demasiados vetos, sin decisor, aportes que se confunden con decisión), definir qué decisiones se toman en cada nivel y medir la calidad del sistema de decisiones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `RACI`, `RAPID`, `decision right`, `single accountable`, `consultation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. inventariar decisiones recurrentes → 2. distinguir trabajo de decisión → 3. elegir RACI o RAPID según problema → 4. asignar un D o Accountable claro → 5. medir latencia y conflictos para ajustar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decision time, approval count, reopened decisions sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** los roles de una decisión: recomendar, acordar, aportar, decidir y ejecutar.
+2. **Aplicar** RACI y RAPID a decisiones reales.
+3. **Detectar** ambigüedad y conflicto de rol en una organización.
+4. **Clasificar** las decisiones por nivel, riesgo y reversibilidad.
+5. **Medir** la velocidad y la calidad del sistema de decisiones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define RACI y RAPID sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decision time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: elige una decisión reciente de tu equipo y anota quién recomendó, quién aportó, quién decidió y quién ejecutó. |
+| 20–60 min | Roles, marcos, errores, clasificación y medición. |
+| 60–105 min | Ejemplo trabajado: reparto de derechos de decisión en la fijación de precios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **RACI** | matriz de Responsible Accountable Consulted e Informed | Distingue un hecho compatible y otro que lo refute. |
-| **RAPID** | marco Recommend Agree Perform Input Decide | Distingue un hecho compatible y otro que lo refute. |
-| **decision right** | autoridad explícita para tomar una decisión | Distingue un hecho compatible y otro que lo refute. |
-| **single accountable** | principio de un owner final claramente identificable | Distingue un hecho compatible y otro que lo refute. |
-| **consultation** | aporte previo que no equivale a veto | Distingue un hecho compatible y otro que lo refute. |
+| **Derecho de decisión** | Autoridad explícita para decidir un tipo de asunto. | Se sabe quién tiene la última palabra. |
+| **RACI** | Marco que asigna Responsable, Aprobador (Accountable), Consultado e Informado. | Matriz de tareas y roles. |
+| **RAPID** | Marco de decisiones con Recomienda, Acuerda, Aporta, Decide y Ejecuta. | Foco en el flujo de la decisión. |
+| **Ambigüedad de rol** | Falta de claridad sobre lo que se espera de una persona. | «No sé si esto me corresponde». |
+| **Conflicto de rol** | Expectativas incompatibles sobre una misma persona. | Dos jefes piden cosas opuestas. |
+| **Decisión reversible** | Decisión cuyo error se corrige a bajo costo. | Se puede delegar y decidir rápido. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 173: 1. inventariar decisiones recurrentes → 2. distinguir trabajo de decisión → 3. elegir RACI o RAPID según problema → 4. asignar un D o Accountable claro → 5. medir latencia y conflictos para ajustar](modelo-mental.svg)
+![Cinco roles en una decisión importante: recomienda, acuerda, aporta, decide y ejecuta, con qué hace cada uno y el riesgo si falta o sobra.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar decisiones recurrentes → 2. distinguir trabajo de decisión → 3. elegir RACI o RAPID según problema → 4. asignar un D o Accountable claro → 5. medir latencia y conflictos para ajustar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **RACI y RAPID son herramientas para aclarar roles y derechos de decisión, pero resuelven problemas distintos. RACI aclara participación en trabajo; RAPID separa Recommend, Agree, Perform, Input y Decide para decisiones complejas. El valor está en reducir ambigüedad sin multiplicar aprobadores.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro.**
+**Cómo leer el diagrama.** Una tabla con los cinco roles. **Recomienda** reúne datos y propone una opción; sin él, nadie se hace cargo de la propuesta. **Acuerda** tiene un veto o una condición necesaria; demasiados vetos paralizan. **Aporta** da información o experiencia pero no decide; el riesgo es confundir aportar con decidir. **Decide** elige y asume la responsabilidad; sin decisor único la decisión se diluye. **Ejecuta** implementa lo decidido; si no participó, ejecuta sin comprender. La nota recuerda que la ambigüedad y el conflicto de rol dañan el desempeño y que un buen reparto reduce reuniones y reprocesos.
 
 ## 📖 Desarrollo
 
-### 1. RACI: mecanismo central
+### 1. Por qué importan los derechos de decisión
 
-**RACI** se entiende aquí como **matriz de Responsible Accountable Consulted e Informed**. Esta es la pieza causal o estructural desde la que se inicia **rACI, RAPID y derechos de decisión**: antes de inventariar decisiones recurrentes, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Rizzo, House y Lirtzman estudiaron la **ambigüedad de rol** (falta de información clara sobre lo que se espera de una persona) y el **conflicto de rol** (demandas incompatibles) y encontraron que ambos se asocian con menor satisfacción, mayor tensión y peor desempeño. En organizaciones, la ambigüedad sobre decisiones se manifiesta como **parálisis** (nadie decide), **escalamiento excesivo** (todo sube), **decisiones duplicadas** y **resentimiento** por decisiones que se sienten arbitrarias. Aclarar quién decide es una de las intervenciones de diseño más baratas y de mayor efecto, siempre que se discuta de verdad y no sea una tabla que nadie usa.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decision time**; regístrala con periodo, unidad, población y baseline.
+### 2. Los cinco roles de una decisión
 
-Relaciona el mecanismo con **RAPID**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una decisión importante tiene cinco funciones, que pueden recaer en personas distintas. **Recomienda**: reúne los datos, analiza las opciones y propone una; responde por la calidad del análisis. **Acuerda** (o veta): su conformidad es necesaria por razones legales, financieras, técnicas o de riesgo; debe ser **acotado** a quienes realmente tienen esa potestad. **Aporta**: ofrece información, experiencia o perspectiva; su opinión se escucha pero no decide. **Decide**: elige entre las opciones y asume la responsabilidad; debe haber **uno solo**. **Ejecuta**: implementa lo decidido; conviene que participe antes para comprender el porqué. Una buena práctica es **escribir** los roles de las diez decisiones más frecuentes y revisarlos.
 
-### 2. RAPID: frontera conceptual y error de clasificación
+### 3. RACI
 
-**Definición operacional:** marco Recommend Agree Perform Input Decide. Su valor está en distinguirlo de **RACI** y **decision right**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+RACI es una matriz que cruza actividades o entregables con personas o roles, asignando una letra: **R** (responsable: hace el trabajo), **A** (aprobador o dueño: responde del resultado y tiene la última palabra; **uno solo**), **C** (consultado: aporta antes de decidir) e **I** (informado: se entera después). Es útil para **proyectos y procesos** con muchas tareas. Sus problemas frecuentes: **demasiadas C** (consultar a todos), **más de un A**, **ninguna R**, **I que nunca reciben información** y **matrices que no se actualizan**. Se aplica con una regla simple: cada fila tiene exactamente un A y el menor número posible de C.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **RAPID** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **approval count** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. RAPID
 
-Antes de distinguir trabajo de decisión, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+RAPID, desarrollado en el ámbito de la consultoría de gestión, se centra en las **decisiones** (no en las tareas) y en su flujo. Sus cinco roles —**Recomienda, Acuerda, Aporta, Decide, Ejecuta** (en inglés, *Recommend, Agree, Perform, Input, Decide*, de donde sale la sigla)— describen quién propone, quién debe estar de acuerdo, quién aporta información, quién decide y quién implementa. Aclara la secuencia: la recomendación se construye con aportes, se somete a quienes deben acordar, y finalmente decide una persona. Se usa para **decisiones recurrentes o críticas** (precios, contrataciones clave, inversiones, lanzamientos) donde la ambigüedad es costosa.
 
-### 3. decision right: operacionalización y medición
+### 5. Clasificar las decisiones
 
-**decision right** significa **autoridad explícita para tomar una decisión**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No todas las decisiones merecen el mismo proceso. Se clasifican por **impacto** (cuánto afectan al negocio), **reversibilidad** (si el error se corrige a bajo costo), **frecuencia** y **conocimiento necesario** (quién sabe más). Las decisiones **reversibles y de bajo impacto** se delegan al nivel más cercano a la información; las **irreversibles y de alto impacto** se elevan, con proceso explícito. McChrystal propone acercar las decisiones a quienes tienen la **información y el contexto**, con **conciencia compartida** sobre el propósito y los límites; el nivel superior define **principios y límites**, no cada decisión. Se establecen **umbrales** (por monto, riesgo o cliente) que indican cuándo una decisión sube.
 
-Patrick Lencioni — *The Advantage* orienta este bloque mediante **perspectiva de Salud organizacional aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **reopened decisions**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Errores frecuentes
 
-Al llegar a elegir raci o rapid según problema, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+**Demasiados acuerdos**: cada área pide un veto «por si acaso»; se frena todo. **Decisores múltiples**: dos personas creen que deciden y se contradicen. **Consultas que son decisiones**: se pide opinión y luego se decide en contra sin explicar, lo que daña la confianza. **Reapertura constante**: quienes no participaron reabren la decisión. **Aportes sin cierre**: las opiniones se acumulan sin que alguien decida. **Decisiones sin ejecutor**: nadie las lleva adelante. **Matrices desactualizadas**: reflejan una organización que ya no existe. Para cada error hay una regla: un decisor, vetos acotados y justificados, razones comunicadas, registro de decisiones y revisión periódica.
 
-### 4. single accountable: trade-offs y efectos de segundo orden
+### 7. Medir el sistema de decisiones
 
-**Definición:** principio de un owner final claramente identificable. Este concepto obliga a abandonar la idea de que **rACI, RAPID y derechos de decisión** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar un d o accountable claro, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Stanley McChrystal et al. — *Team of Teams* aporta una lente sobre **adaptabilidad, conciencia compartida y ejecución descentralizada**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **escalations** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **rACI, RAPID y derechos de decisión**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **single accountable** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. consultation: gobernanza, límites e integración
-
-**consultation** se define como **aporte previo que no equivale a veto** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John P. Kotter — *Accelerate* se utiliza para estudiar **perspectiva de Cambio aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir latencia y conflictos para ajustar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **RACI**, **RAPID**, **decision right**, **single accountable** y **consultation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **rACI, RAPID y derechos de decisión** no consiste en sumar cinco definiciones. Empieza por **RACI**, contrasta **RAPID** con **decision right**, incorpora **single accountable** como restricción o mecanismo y usa **consultation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar decisiones recurrentes → 2. distinguir trabajo de decisión → 3. elegir RACI o RAPID según problema → 4. asignar un D o Accountable claro → 5. medir latencia y conflictos para ajustar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se miden: **tiempo de decisión** (desde que surge hasta que se toma), **tiempo de ejecución**, **número de reuniones** por decisión, **escalamientos** innecesarios, **reaperturas** y **calidad percibida** de las decisiones (con retrospectivas). Mankins y Garton sugieren relacionar el sistema de decisiones con el uso del tiempo de la organización. Se establece un **registro de decisiones** (qué, quién, cuándo, por qué, qué alternativas, qué supuestos) y se revisa cada trimestre qué decisiones se demoraron y por qué. Se acuerda también la **forma de disentir y comprometerse**: quien disiente expone sus razones y, tomada la decisión, la apoya en la ejecución.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **rACI, RAPID y derechos de decisión** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **rACI, RAPID y derechos de decisión** ayuda a desafiar? |
-| Patrick Lencioni — *The Advantage* | perspectiva de Salud organizacional aplicada al problema de la clase | ¿Qué supuesto de **rACI, RAPID y derechos de decisión** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **rACI, RAPID y derechos de decisión** ayuda a desafiar? |
-| John P. Kotter — *Accelerate* | perspectiva de Cambio aplicada al problema de la clase | ¿Qué supuesto de **rACI, RAPID y derechos de decisión** ayuda a desafiar? |
-
-En **rACI, RAPID y derechos de decisión**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **RACI**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rizzo, House y Lirtzman (1970) | Ambigüedad y conflicto de rol y sus efectos. | Estudio de una época. | ¿Cada persona sabe qué se espera de ella? |
+| Galbraith | Mecanismos de coordinación y derechos de decisión como parte del diseño. | Marco general. | ¿La decisión está en el nivel con la información? |
+| McChrystal et al. | Decisiones cerca de la acción con información compartida. | Contexto militar. | ¿Qué principios y límites guían las decisiones locales? |
+| Mankins y Garton | Costo del sistema de decisiones en tiempo y energía. | Datos de grandes empresas. | ¿Cuánto tiempo consume una decisión típica? |
+| Lencioni (*Death by Meeting*) | Diseño de reuniones según el tipo de decisión. | Enfoque práctico. | ¿Qué reunión es táctica y cuál estratégica? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa crea RACI para pricing con seis personas A. Cada excepción sube al CEO porque nadie acepta que una sola función decida.
+**Situación (hipotética).** Una empresa de equipos para laboratorios (USD 140 millones, 500 empleados) tiene un problema con la **fijación de precios** de ofertas a clientes: ventas, finanzas, producto y el gerente regional intervienen sin reglas claras. El tiempo medio para responder una oferta es de 16 días; el 30 % de las ofertas se reabre; los clientes se quejan de precios inconsistentes entre regiones.
 
-**Paso 1 — inventariar decisiones recurrentes.** La gerencia escribe primero el supuesto asociado a **RACI** y evita convertirlo en hecho. Luego busca **decision time** para contrastarlo en el caso de **rACI, RAPID y derechos de decisión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Se mapean 40 ofertas de los últimos tres meses: en 22 intervinieron más de seis personas; en 9 hubo dos decisiones contradictorias; el tiempo se va en reuniones de aprobación y en reaperturas.
 
-**Paso 2 — distinguir trabajo de decisión.** La gerencia escribe primero el supuesto asociado a **RAPID** y evita convertirlo en hecho. Luego busca **approval count** para contrastarlo en el caso de **rACI, RAPID y derechos de decisión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Clasificación y reglas.**
 
-**Paso 3 — elegir RACI o RAPID según problema.** La gerencia escribe primero el supuesto asociado a **decision right** y evita convertirlo en hecho. Luego busca **reopened decisions** para contrastarlo en el caso de **rACI, RAPID y derechos de decisión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tipo de oferta | Decide | Recomienda | Acuerda (veto) | Aporta | Ejecuta |
+|---|---|---|---|---|---|
+| Lista estándar, descuento hasta 10 % | Ejecutivo de ventas | Ejecutivo de ventas | — | — | Ventas |
+| Descuento de 10 % a 20 % o cliente nuevo | Gerente regional | Ejecutivo de ventas | Finanzas (solo margen mínimo) | Producto | Ventas |
+| Descuento sobre 20 % o contrato mayor a USD 500.000 | Comité de precios (3 personas) | Gerente regional | Finanzas (margen y riesgo de crédito) y Legal (cláusulas) | Producto, Servicio | Gerente regional |
+| Condiciones especiales (garantías, plazos de pago) | Director financiero | Gerente regional | Legal | Ventas | Finanzas |
 
-**Paso 4 — asignar un D o Accountable claro.** La gerencia escribe primero el supuesto asociado a **single accountable** y evita convertirlo en hecho. Luego busca **escalations** para contrastarlo en el caso de **rACI, RAPID y derechos de decisión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reglas adicionales.** Un solo decisor por oferta; los vetos de finanzas se limitan al margen mínimo y al riesgo de crédito; todo veto se justifica por escrito en 24 horas; las decisiones se registran con razones; una oferta decidida no se reabre salvo que cambie un hecho relevante.
 
-**Paso 5 — medir latencia y conflictos para ajustar.** La gerencia escribe primero el supuesto asociado a **consultation** y evita convertirlo en hecho. Luego busca **role ambiguity** para contrastarlo en el caso de **rACI, RAPID y derechos de decisión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Registro y medición.** Línea base: 16 días de respuesta; 30 % de reaperturas; 9 contradicciones de cada 40. Metas: 5 días para ofertas de nivel 2, 8 para nivel 3; reaperturas menores a 8 %; cero contradicciones.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **rACI, RAPID y derechos de decisión**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultados a seis meses.** Tiempo medio de respuesta: 6,2 días; reaperturas: 9 %; ofertas de nivel 1: 58 % del total, decididas en el mismo día; el comité de precios se reúne dos veces por semana 30 minutos. Un problema: el margen bajó 0,8 puntos porque algunos ejecutivos usan el descuento del 10 % de forma sistemática; se agrega una regla de revisión mensual de descuentos por ejecutivo y una explicación de excepciones (clase 129).
+
+**Qué muestra.** (1) Se clasificaron las decisiones por impacto. (2) Se acotaron los vetos y se unificó el decisor. (3) Se midió y se corrigió un efecto no deseado.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **RACI** | matriz de Responsible Accountable Consulted e Informed | Cuando decision time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **RAPID** | marco Recommend Agree Perform Input Decide | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Derechos de decisión frente a consenso.** El consenso busca que todos estén de acuerdo; los derechos de decisión buscan que alguien decida con la información de otros. No son excluyentes: se puede decidir de forma consultiva y comunicar las razones.
 
-**Frontera de aplicación:** Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro.
+**Límites.** Los marcos son herramientas simples para situaciones complejas; no sustituyen la confianza ni la cultura. Las matrices se desactualizan. Demasiada formalización puede volver rígida la organización; pocos derechos definidos producen ambigüedad. Los derechos de decisión en cuestiones legales, financieras o de seguridad pueden estar fijados por normas (por ejemplo, responsabilidades de directores y apoderados) que se verifican en las fuentes vigentes y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre rACI, RAPID y derechos de decisión |
+| Nivel | Cómo participa en los derechos de decisión |
 |---|---|
-| **Profesional** | usa **rACI, RAPID y derechos de decisión** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **RACI** y **RAPID** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decision time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si rACI, RAPID y derechos de decisión cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de rACI, RAPID y derechos de decisión reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **rACI, RAPID y derechos de decisión** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Sabe qué decide, qué recomienda y cuándo escalar. |
+| **Jefe / Team Lead** | Delega decisiones reversibles y explica las razones de las demás. |
+| **Gerente** | Define derechos de decisión de su área y los registra. |
+| **CEO / Director** | Fija principios y límites, y evita decidir lo que otros pueden decidir. |
+| **Founder / Owner** | Suelta decisiones a medida que la empresa crece y define dónde mantiene control. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa crea RACI para pricing con seis personas A. Cada excepción sube al CEO porque nadie acepta que una sola función decida.
+Un hospital privado con 2.400 empleados tiene un problema recurrente: las decisiones de **compras de equipamiento médico** (entre USD 50.000 y USD 3 millones) tardan en promedio 11 meses. Participan el jefe de servicio, el director médico, el gerente de compras, el de finanzas, el de ingeniería clínica, el comité de ética (cuando hay implicancias), el gerente general y el directorio para montos mayores. Cada área puede «frenar». En los últimos 18 meses, 14 compras se aprobaron y luego se reabrieron; en 6 casos el equipo adquirido no era compatible con los sistemas; los médicos dicen que «las decisiones se toman en el pasillo»; compras dice que «todo llega tarde y mal especificado».
 
-Entrega un **decision brief de rACI, RAPID y derechos de decisión** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de derechos de decisión** que contenga: (a) el mapa del flujo actual con los roles reales y los tiempos; (b) la clasificación de las decisiones por monto, riesgo y reversibilidad; (c) la matriz RAPID (o RACI) de cada clase con un único decisor y vetos acotados; (d) las reglas contra la reapertura y para el registro; (e) las métricas del sistema de decisiones y las metas; (f) las verificaciones normativas de adquisiciones, seguridad de pacientes y gobierno corporativo que se harán en las normas vigentes y con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **rACI, RAPID y derechos de decisión** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar decisiones recurrentes → 2. distinguir trabajo de decisión → 3. elegir RACI o RAPID según problema → 4. asignar un D o Accountable claro → 5. medir latencia y conflictos para ajustar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decision time, approval count; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige cinco decisiones recurrentes de tu área y define quién recomienda, acuerda, aporta, decide y ejecuta.
+2. Revisa una matriz RACI existente y detecta filas con dos A o sin R.
+3. Clasifica diez decisiones por impacto y reversibilidad y decide cuáles delegar.
+4. Define umbrales de escalamiento por monto o riesgo.
+5. Diseña un registro de decisiones simple y las medidas de velocidad y reapertura.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar RACI y RAPID como sinónimos | Se pierde la distinción entre “matriz de Responsible Accountable Consulted e Informed” y “marco Recommend Agree Perform Input Decide” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir latencia y conflictos para ajustar” | Se saltó “inventariar decisiones recurrentes” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar decisiones recurrentes → 2. distinguir trabajo de decisión → 3. elegir RACI o RAPID según problema → 4. asignar un D o Accountable claro → 5. medir latencia y conflictos para ajustar y marca el primer supuesto no demostrado. |
-| Optimizar solo decision time | La métrica local sustituyó al resultado del sistema | Contrástala con approval count y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre rACI, RAPID y derechos de decisión | Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro. |
-| No fijar revisión | Una decisión sobre rACI, RAPID y derechos de decisión se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Dos decisores | Se evita elegir uno | Un solo decisor por decisión. |
+| Vetos por si acaso | Se teme el riesgo | Vetos acotados y justificados. |
+| Consultar y decidir en contra sin explicar | Se evita el conflicto | Comunicar razones. |
+| Decisiones que se reabren | No hay registro | Registro y regla de reapertura. |
+| Matrices desactualizadas | Se hacen una vez | Revisión periódica. |
+| Delegar lo irreversible o escalar lo trivial | No se clasifican las decisiones | Clasificar por impacto y reversibilidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **RACI** y **RAPID** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **decision right** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar decisiones recurrentes → distinguir trabajo de decisión** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decision time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **rACI, RAPID y derechos de decisión**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro.**?
+1. ¿Qué roles tiene una decisión?
+2. ¿Qué significa cada letra de RACI?
+3. ¿En qué se diferencia RAPID de RACI?
+4. ¿Qué es la ambigüedad de rol y qué efectos tiene?
+5. ¿Qué decisiones se delegan y cuáles se elevan?
+6. ¿Qué errores comunes tiene el reparto de decisiones?
+7. ¿Qué se mide para evaluar el sistema?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Recomienda, acuerda, aporta, decide y ejecuta.
+2. Responsable (hace), Aprobador (responde del resultado, uno solo), Consultado (aporta antes) e Informado (se entera después).
+3. RAPID se centra en el flujo de una decisión y sus roles; RACI asigna roles a tareas o entregables.
+4. Falta de claridad sobre lo que se espera de una persona; se asocia con menor satisfacción, más tensión y peor desempeño.
+5. Se delegan las reversibles y de bajo impacto al nivel con la información; se elevan las irreversibles y de alto impacto con un proceso explícito.
+6. Demasiados vetos, decisores múltiples, consultas que son decisiones, reapertura, aportes sin cierre, decisiones sin ejecutor y matrices desactualizadas.
+7. Tiempo de decisión, tiempo de ejecución, reuniones por decisión, escalamientos, reaperturas y calidad percibida.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/173-raci-rapid-y-derechos-de-decision/`:
 
-- `leadership-decision-brief.md` con el problema específico de **rACI, RAPID y derechos de decisión**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **rACI, RAPID y derechos de decisión** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **RACI**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa crea RACI para pricing con seis personas A. Cada excepción sube al CEO porque nadie acepta que una sola función decida.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con las matrices de derechos de decisión y las reglas;
+- `decision-journal.md` con el registro de decisiones y las métricas de línea base.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Patrick Lencioni — *The Advantage* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** perspectiva de Salud organizacional aplicada al problema de la clase. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- John P. Kotter — *Accelerate* (Harvard Business Review Press, 2014). **Uso en esta clase:** perspectiva de Cambio aplicada al problema de la clase. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9781625271747](https://openlibrary.org/isbn/9781625271747).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **raci, rapid y derechos de decisión** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **raci, rapid y derechos de decisión** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **raci, rapid y derechos de decisión** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **raci, rapid y derechos de decisión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- John R. Rizzo, Robert J. House & Sidney I. Lirtzman — *Role Conflict and Ambiguity in Complex Organizations* (Administrative Science Quarterly, 1970). **Uso en esta clase:** ambigüedad y conflicto de rol y sus efectos. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [DOI 10.2307/2391486](https://doi.org/10.2307/2391486).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** coordinación y derechos de decisión como parte del diseño. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** decisiones cerca de la acción con información compartida. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** costo del sistema de decisiones en tiempo y energía. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Patrick Lencioni — *Death by Meeting* (Audio Renaissance, 2004). **Uso en esta clase:** diseño de reuniones según el tipo de decisión. Lectura selectiva sobre **raci, rapid y derechos de decisión**. **Localizador:** [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411).
 
-> **Regla de fuentes para RACI, RAPID y derechos de decisión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **rACI, RAPID y derechos de decisión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para RACI, RAPID y derechos de decisión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de adquisiciones, seguridad de pacientes y gobierno corporativo. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

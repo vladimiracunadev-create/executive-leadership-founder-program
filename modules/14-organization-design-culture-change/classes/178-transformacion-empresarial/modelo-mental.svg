@@ -1,89 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 630.6" width="1040" role="img" aria-labelledby="t-g178 d-g178" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g178">Ficha visual de la clase 178: Transformación empresarial</title>
-<desc id="d-g178">Conceptos: transformation; transformation thesis; workstream; benefit realization; transformation office. Método: definir tesis y value case → traducir a capabilities y workstreams → secuenciar dependencias y quick wins → gobernar beneficios y riesgos → institucionalizar capacidades y retirar estructura temporal.</desc>
-<defs><marker id="p-g178" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="630.6" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 178 · Transformación empresarial</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 14 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >transformation</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >programa de cambio sistémico que modifica capacidades y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultados materiales</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >transformation thesis</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >argumento de por qué un conjunto de cambios producirá</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor</text>
-<circle cx="38" cy="256.24" r="5" fill="#bc4c00"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >workstream</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >flujo coordinado de iniciativas dentro de la</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >transformación</text>
-<circle cx="38" cy="328.36" r="5" fill="#bc4c00"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >benefit realization</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >medición de resultados económicos u operativos</text>
-<text x="54" y="367.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obtenidos</text>
-<circle cx="38" cy="400.48" r="5" fill="#bc4c00"/>
-<text x="54" y="405.48" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >transformation office</text>
-<text x="54" y="423.48" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mecanismo temporal de coordinación escalamiento y</text>
-<text x="54" y="440.04" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evidencia</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir tesis y</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >value case</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >traducir a</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capabilities y</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >workstreams</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >secuenciar</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >dependencias y</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >quick wins</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >gobernar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >beneficios y</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >riesgos</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >institucionalizar</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capacidades y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >retirar estructura</text>
-<text x="692" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >temporal</text>
-<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g178)"/>
-<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g178)"/>
-<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g178)"/>
-<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g178)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g178)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="486.6" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="498.6" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="511.6" r="3.5" fill="#bc4c00"/>
-<text x="52" y="516.1" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >benefits realized</text>
-<rect x="181.3" y="498.6" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="194.3" cy="511.6" r="3.5" fill="#bc4c00"/>
-<text x="205.3" y="516.1" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capability maturity</text>
-<rect x="348.4" y="498.6" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="361.4" cy="511.6" r="3.5" fill="#bc4c00"/>
-<text x="372.4" y="516.1" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >adoption</text>
-<rect x="439.6" y="498.6" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="452.6" cy="511.6" r="3.5" fill="#bc4c00"/>
-<text x="463.6" y="516.1" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash impact</text>
-<rect x="551.5" y="498.6" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="564.5" cy="511.6" r="3.5" fill="#bc4c00"/>
-<text x="575.5" y="516.1" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependency risk</text>
-<rect x="28" y="544.6" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="544.6" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="564.6" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="582.6" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el</text>
-<text x="48" y="599.85" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >trabajo pasa a la operación normal.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 419.31" width="1040" role="img" aria-labelledby="t-s178 d-s178" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s178">Clase 178 · Una transformación gestiona tres frentes a la vez</title>
+<desc id="d-s178">Tres frentes de una transformación empresarial: estabilizar la base, construir lo nuevo y transferir y anclar.</desc>
+<defs><marker id="p-s178" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="419.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 178 · Una transformación gestiona tres frentes a la vez</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Kotter (2014) · Dignan · Laloux (2014)</text>
+<rect x="28" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Estabilizar la base</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Proteger el negocio que paga hoy.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Resolver los problemas que bloquean.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Liberar capacidad para el cambio.</text>
+<rect x="362.667" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Construir lo nuevo</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#1a7f37"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Pilotos y equipos que prueban el</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >modelo.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#1a7f37"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Capacidades nuevas y decisiones por</text>
+<text x="398.667" y="219.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >evidencia.</text>
+<circle cx="384.6666666666667" cy="243.0" r="4" fill="#1a7f37"/>
+<text x="398.667" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Aprender y ajustar.</text>
+<rect x="697.333" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Transferir y anclar</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Escalar lo que funciona.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cambiar incentivos, roles y gobierno.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cerrar lo que ya no se usa.</text>
+<rect x="28" y="292.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La transformación fracasa cuando se descuida la operación actual o cuando la innovación queda aislada. Kotter propone una estructura</text>
+<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >dual: la jerarquía que opera y una red que impulsa el cambio.</text>
+<text x="28" y="378.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las empresas que se organizan de forma más fluida (Laloux, Dignan) lo hacen por etapas y con experimentos, no por decreto.</text>
 </svg>

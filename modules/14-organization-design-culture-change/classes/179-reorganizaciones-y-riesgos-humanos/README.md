@@ -10,217 +10,197 @@
 
 ## 🎯 Propósito
 
-Una reorganización redistribuye roles, reporting y poder; por eso genera riesgos humanos y operativos antes de producir beneficios. Debe diseñarse alrededor de trabajo y decisiones, proteger continuidad, tratar personas con claridad y medir si el nuevo sistema resuelve el problema original.
+Toda reorganización se justifica en un organigrama y se paga en personas. Cambiar jefaturas, fusionar áreas o mover funciones altera relaciones, estatus, rutinas y seguridad laboral de personas concretas, y esos efectos aparecen antes y duran más que los beneficios del nuevo diseño. Es frecuente ver reorganizaciones técnicamente razonables que destruyen confianza, hacen perder talento clave, generan meses de ambigüedad de roles y terminan revertidas. El costo humano no es un «daño colateral»: es una variable del diseño que se estima, se reduce y se gestiona.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **reorganizaciones y riesgos humanos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase integra la evidencia sobre ambigüedad y conflicto de rol (Rizzo, House y Lirtzman), sobre seguridad psicológica (Edmondson), sobre cambios organizacionales (Kotter) y sobre la dinámica de los equipos (Katzenbach y Smith). Al terminar sabrás estimar los riesgos humanos de una reorganización, reducir la ambigüedad rápido, tratar con justicia a las personas afectadas, retener a quienes importan sin crear privilegios opacos y verificar los aspectos laborales con asesoría y normas vigentes.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `reorganization`, `role mapping`, `transition risk`, `organizational justice`, `business continuity` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** critical-role vacancy, service disruption, regretted attrition sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estimar** los riesgos humanos y operativos de una reorganización antes de decidirla.
+2. **Reducir** la ambigüedad de roles y de decisión con rapidez.
+3. **Diseñar** un proceso justo, con criterios conocidos y apoyo a los afectados.
+4. **Retener** conocimiento y talento crítico sin generar inequidad opaca.
+5. **Verificar** el marco laboral y de datos con asesoría y fuentes oficiales.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define reorganization y role mapping sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con critical-role vacancy y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué costó realmente la última reorganización de tu empresa, más allá del organigrama? |
+| 20–60 min | Riesgos, ambigüedad, comunicación, justicia, retención y verificación. |
+| 60–105 min | Ejemplo trabajado: fusión de dos áreas de operaciones con 140 personas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **reorganization** | cambio deliberado en estructura y distribución de responsabilidades | Distingue un hecho compatible y otro que lo refute. |
-| **role mapping** | asignación de personas y posiciones al diseño futuro | Distingue un hecho compatible y otro que lo refute. |
-| **transition risk** | riesgo durante el paso entre estructuras | Distingue un hecho compatible y otro que lo refute. |
-| **organizational justice** | percepción de equidad en proceso trato y resultados | Distingue un hecho compatible y otro que lo refute. |
-| **business continuity** | capacidad de mantener operaciones críticas durante el cambio | Distingue un hecho compatible y otro que lo refute. |
+| **Ambigüedad de rol** | Falta de claridad sobre qué se espera, con qué autoridad y con qué criterio de evaluación. | «No sé quién decide esto». |
+| **Conflicto de rol** | Expectativas incompatibles de distintas personas sobre un mismo rol. | Dos jefes piden cosas opuestas. |
+| **Justicia procedimental** | Percepción de que el proceso para decidir es justo. | Criterios conocidos, voz y trato respetuoso. |
+| **Persona crítica** | Quien concentra conocimiento o relaciones difíciles de reemplazar. | Su salida frena un proceso. |
+| **Fuga de conocimiento** | Pérdida de saber tácito cuando se van las personas. | Aumentan errores tras las salidas. |
+| **Período de transición** | Lapso entre el anuncio y el nuevo funcionamiento estable. | Mezcla estructuras y reglas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 179: 1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios](modelo-mental.svg)
+![Reorganizar cuidando a las personas o dañándolas: razones claras, roles definidos pronto y proceso justo frente a rumores, ambigüedad prolongada y decisiones opacas.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Una reorganización redistribuye roles, reporting y poder; por eso genera riesgos humanos y operativos antes de producir beneficios. Debe diseñarse alrededor de trabajo y decisiones, proteger continuidad, tratar personas con claridad y medir si el nuevo sistema resuelve el problema original.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, una reorganización cuidadosa: **razones claras y datos**, **roles definidos pronto** y **proceso justo** con criterios conocidos y apoyo. A la derecha, una que daña: **rumores y silencio**, **ambigüedad prolongada** y **decisiones opacas** con favoritismos percibidos. La nota explica que las reorganizaciones tienen costo humano directo y que reducir la ambigüedad rápido es parte del diseño; el pie recuerda que los cambios que afectan cargos, funciones o contratos tienen condiciones laborales que se verifican con asesoría y normas vigentes.
 
 ## 📖 Desarrollo
 
-### 1. reorganization: mecanismo central
+### 1. El costo oculto de reorganizar
 
-**reorganization** se entiende aquí como **cambio deliberado en estructura y distribución de responsabilidades**. Esta es la pieza causal o estructural desde la que se inicia **reorganizaciones y riesgos humanos**: antes de definir problema que requiere reorg, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los costos visibles son indemnizaciones, traslados y capacitación. Los **ocultos** suelen ser mayores: pérdida de productividad durante meses, salida de personas valiosas, decisiones paralizadas por no saber quién decide, conflictos entre equipos recién mezclados y erosión de la confianza en la dirección. Una regla práctica es estimar, antes de decidir, tres escenarios del impacto en productividad durante la transición (optimista, base y pesimista) y compararlos con el beneficio esperado. Si el beneficio depende de que no haya ninguna pérdida de productividad, el diseño es frágil. También se compara con alternativas menos invasivas: ajustar procesos, derechos de decisión o interfaces antes de mover personas.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **critical-role vacancy**; regístrala con periodo, unidad, población y baseline.
+### 2. Ambigüedad y conflicto de rol
 
-Relaciona el mecanismo con **role mapping**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Rizzo, House y Lirtzman estudiaron cómo la **ambigüedad** (no saber qué se espera) y el **conflicto** (recibir exigencias incompatibles) se asocian con menor satisfacción y mayor tensión en el trabajo. Una reorganización los genera de forma natural: durante semanas, las personas no saben quién es su jefe, qué decisiones les corresponden ni cómo se evaluará su desempeño. La respuesta es **definir rápido y por escrito** lo esencial: a quién reporta cada persona, qué decisiones toma cada rol (clase 173), cuáles son sus metas del período y cómo se resolverán los conflictos entre jefaturas. Lo que no se puede definir aún, se dice con una fecha en la que se definirá.
 
-### 2. role mapping: frontera conceptual y error de clasificación
+### 3. Comunicar con verdad y a tiempo
 
-**Definición operacional:** asignación de personas y posiciones al diseño futuro. Su valor está en distinguirlo de **reorganization** y **transition risk**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+En ausencia de información, las personas **inventan** explicaciones, casi siempre peores. Una comunicación efectiva incluye: **qué se decidió y por qué** (con datos), **qué no se ha decidido** y cuándo se sabrá, **cómo afecta a cada grupo**, **qué apoyos habrá** y **dónde se pueden hacer preguntas**. Se informa primero a los directamente afectados y a sus jefes inmediatos, antes de cualquier comunicación general, y se evita que se enteren por la prensa o por terceros. Los jefes necesitan material y entrenamiento para dar noticias difíciles. Se aclara además qué información es confidencial y se cumple con los deberes de información que la normativa laboral y de datos establezca, que se verifican con asesoría.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **role mapping** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **service disruption** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Proceso justo
 
-Antes de diseñar target operating model, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **justicia procedimental** importa tanto como el resultado: las personas aceptan mejor decisiones adversas cuando el proceso es percibido como justo. Elementos: **criterios conocidos** (por ejemplo, para seleccionar a quién ocupa un cargo nuevo), **voz** (posibilidad de ser escuchado antes de decidir), **consistencia** (mismas reglas para todos), **trato respetuoso** y **explicación** (razones comprensibles). Se documentan las decisiones y los criterios, y se evita que las personas sean elegidas por relaciones. Si hay desvinculaciones, el proceso respeta la normativa vigente, que se verifica con asesoría laboral, y se acompaña con apoyo concreto (outplacement, plazos, certificados) más allá del mínimo legal cuando sea posible.
 
-### 3. transition risk: operacionalización y medición
+### 5. Retener sin crear privilegios opacos
 
-**transition risk** significa **riesgo durante el paso entre estructuras**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Es habitual querer **retener** a personas críticas con bonos o mejoras. Esto puede ser razonable, pero tiene riesgos: genera percepción de inequidad si no se explican criterios, y no sustituye la claridad de rol ni la perspectiva de futuro. Antes de ofrecer retención se identifican **personas y conocimientos críticos** (qué procesos se detendrían sin ellas), se **documenta** el saber tácito y se prepara **reemplazo o respaldo**. La retención se ofrece con criterios, plazos y condiciones acordes con la política de compensación y las normas vigentes. La mejor retención es un trabajo con sentido, un jefe confiable y claridad sobre el futuro.
 
-Chip Heath & Dan Heath — *Switch* orienta este bloque mediante **dirección racional, motivación emocional y diseño del entorno para cambiar conducta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **regretted attrition**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Equipos nuevos y confianza
 
-Al llegar a mapear roles talento y decisiones, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Al mezclar equipos, las personas llegan con lealtades, rutinas y lenguajes distintos. Katzenbach y Smith muestran que los equipos efectivos requieren propósito, metas de desempeño, habilidades complementarias y responsabilidad mutua; esto **no ocurre automáticamente** al juntar personas. Se facilita con una **definición de metas comunes**, **reglas de trabajo** (team charter), espacios para conocerse, **ganancias tempranas** compartidas y un líder que escuche. Edmondson subraya la seguridad psicológica: sin ella, los equipos recién formados ocultan errores y dudas justo cuando más se necesitan. Se mide con conversaciones y con indicadores de conducta, no solo con encuestas.
 
-### 4. organizational justice: trade-offs y efectos de segundo orden
+### 7. Medir, ajustar y aprender
 
-**Definición:** percepción de equidad en proceso trato y resultados. Este concepto obliga a abandonar la idea de que **reorganizaciones y riesgos humanos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de planificar transición y comunicación, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Frederic Laloux — *Reinventing Organizations* aporta una lente sobre **perspectiva de Diseño organizacional aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **role clarity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **reorganizaciones y riesgos humanos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **organizational justice** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. business continuity: gobernanza, límites e integración
-
-**business continuity** se define como **capacidad de mantener operaciones críticas durante el cambio** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stanley McChrystal et al. — *Team of Teams* se utiliza para estudiar **adaptabilidad, conciencia compartida y ejecución descentralizada** y contrastar la recomendación final. Al ejecutar medir continuidad claridad y beneficios, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **reorganization**, **role mapping**, **transition risk**, **organizational justice** y **business continuity** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **reorganizaciones y riesgos humanos** no consiste en sumar cinco definiciones. Empieza por **reorganization**, contrasta **role mapping** con **transition risk**, incorpora **organizational justice** como restricción o mecanismo y usa **business continuity** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una reorganización se trata como hipótesis: se definen indicadores de **negocio** (productividad, calidad, tiempos), de **personas** (rotación voluntaria, ausentismo, clima, ambigüedad percibida) y de **gobierno** (decisiones escaladas, conflictos entre jefaturas). Se fijan **revisiones** a los 30, 90 y 180 días con autoridad para ajustar diseño o reglas. Se acepta que el diseño original tendrá errores y se corrige sin culpas. Se registra lo aprendido para la próxima vez. Un error común es no medir nada después del anuncio y asumir que el nuevo organigrama «funciona» por existir.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **reorganizaciones y riesgos humanos** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **reorganizaciones y riesgos humanos** ayuda a desafiar? |
-| Chip Heath & Dan Heath — *Switch* | dirección racional, motivación emocional y diseño del entorno para cambiar conducta | ¿Qué supuesto de **reorganizaciones y riesgos humanos** ayuda a desafiar? |
-| Frederic Laloux — *Reinventing Organizations* | perspectiva de Diseño organizacional aplicada al problema de la clase | ¿Qué supuesto de **reorganizaciones y riesgos humanos** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **reorganizaciones y riesgos humanos** ayuda a desafiar? |
-
-En **reorganizaciones y riesgos humanos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **reorganization**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rizzo, House y Lirtzman | Conflicto y ambigüedad de rol y su efecto en las personas. | Estudio de 1970 en ciertas organizaciones. | ¿Quién decide esto hoy? |
+| Edmondson | Seguridad psicológica y aprendizaje en equipos. | No da pasos específicos para una fusión. | ¿Se pueden decir errores aquí? |
+| Kotter | Errores comunes y pasos de cambios sostenidos. | Marco general. | ¿Qué paso falta en esta reorganización? |
+| Katzenbach y Smith | Qué distingue un equipo de un grupo de trabajo. | No fija el diseño organizacional. | ¿Tenemos metas y responsabilidad mutua? |
+| Galbraith | Diseño de estructura, procesos, personas y recompensas. | Poco sobre el proceso humano de transición. | ¿El diseño toma en cuenta la transición? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una compañía anuncia nueva estructura antes de definir roles. Durante seis semanas nadie sabe quién aprueba descuentos ni quién gestiona incidentes de clientes enterprise.
+**Situación (hipotética).** Una empresa de logística fusiona dos áreas de operaciones (zona norte, 80 personas, y zona sur, 60 personas) en una sola dirección con 140 personas para ahorrar costos. Se prevén 6 salidas por duplicidad de cargos directivos y un ahorro anual de 410 millones de pesos. El plan inicial: anunciar el lunes y comenzar a operar el 1 del mes siguiente.
 
-**Paso 1 — definir problema que requiere reorg.** La gerencia escribe primero el supuesto asociado a **reorganization** y evita convertirlo en hecho. Luego busca **critical-role vacancy** para contrastarlo en el caso de **reorganizaciones y riesgos humanos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estimación de riesgos humanos.**
 
-**Paso 2 — diseñar target operating model.** La gerencia escribe primero el supuesto asociado a **role mapping** y evita convertirlo en hecho. Luego busca **service disruption** para contrastarlo en el caso de **reorganizaciones y riesgos humanos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Riesgo | Evidencia | Probabilidad e impacto |
+|---|---|---|
+| Ambigüedad de decisión entre jefaturas | Dos jefes de planificación con roles solapados | Alta y alto |
+| Salida de personas críticas | 9 personas con conocimiento exclusivo de rutas y clientes | Media y alto |
+| Pérdida de productividad | Casos previos con caída de 8–12 % por tres meses | Alta y medio |
+| Conflicto entre equipos | Diferencias de turnos y de bonos entre zonas | Media y medio |
 
-**Paso 3 — mapear roles talento y decisiones.** La gerencia escribe primero el supuesto asociado a **transition risk** y evita convertirlo en hecho. Luego busca **regretted attrition** para contrastarlo en el caso de **reorganizaciones y riesgos humanos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo de la transición.** Si la productividad cae 10 % durante 3 meses en una operación cuyo costo mensual es de 700 millones (nivel de personas y flota), la pérdida estimada es 10 % × 700 × 3 = 210 millones. Si la caída fuera 12 % durante 4 meses: 12 % × 700 × 4 = 336 millones. El ahorro anual de 410 millones se recupera en 6 a 10 meses, no «de inmediato»; por tanto, el diseño es viable pero exige proteger la transición.
 
-**Paso 4 — planificar transición y comunicación.** La gerencia escribe primero el supuesto asociado a **organizational justice** y evita convertirlo en hecho. Luego busca **role clarity** para contrastarlo en el caso de **reorganizaciones y riesgos humanos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diseño del proceso.**
 
-**Paso 5 — medir continuidad claridad y beneficios.** La gerencia escribe primero el supuesto asociado a **business continuity** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **reorganizaciones y riesgos humanos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. Definición de roles y reporte para todos los cargos en 15 días, con criterios publicados para seleccionar a las jefaturas; una persona de cada zona participa en un panel.
+2. Anuncio escalonado: primero a los afectados directos y jefes, luego a todos con preguntas y respuestas, y un canal para consultas.
+3. Matriz de decisiones (clase 173) para planificación, asignación de rutas y atención de clientes durante la transición.
+4. Identificación de las 9 personas críticas, documentación de su conocimiento en 30 días y conversaciones individuales sobre su rol futuro; retención solo con criterios y dentro de la política vigente.
+5. Para las 6 salidas: proceso conforme a la normativa laboral vigente, verificado con asesoría; apoyo de transición laboral y plazos razonables.
+6. Equipos mixtos con metas comunes, team charter y primeras victorias compartidas.
+7. Revisiones a los 30, 90 y 180 días con indicadores de productividad, entregas a tiempo, rotación y ambigüedad percibida.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **reorganizaciones y riesgos humanos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultados a seis meses (hipotéticos).** Productividad cayó 7 % el primer mes y 3,5 % el segundo, y se recuperó el nivel previo en el tercero; la pérdida estimada fue 7 % × 700 + 3,5 % × 700 = 49 + 24,5 = 73,5 millones, bastante menor que el escenario base de 210 millones; se perdió una persona crítica de las nueve; la rotación voluntaria fue de 6 %. Se ajustó la matriz de decisiones en la revisión de los 30 días.
+
+**Qué muestra.** (1) El costo de transición se estimó con escenarios. (2) La ambigüedad se redujo con roles y decisiones definidos pronto. (3) Se cuidó el proceso y se verificó el marco laboral.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **reorganization** | cambio deliberado en estructura y distribución de responsabilidades | Cuando critical-role vacancy es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **role mapping** | asignación de personas y posiciones al diseño futuro | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Reorganizar frente a ajustar.** A veces basta con cambiar derechos de decisión, interfaces o procesos sin mover personas. Se evalúa esta alternativa antes de recurrir a una reestructura completa.
 
-**Frontera de aplicación:** No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural.
+**Límites.** Las estimaciones de productividad perdida son aproximadas y dependen del contexto. Los estudios de ambigüedad de rol son antiguos y de contextos específicos, aunque sus ideas siguen siendo útiles. Las condiciones de desvinculación, modificación de funciones, traslados, información y consulta a representantes de las personas trabajadoras dependen de la legislación y de los contratos y convenios vigentes; esta clase no las interpreta y remite a fuentes oficiales y asesoría laboral. Los datos personales se tratan con confidencialidad.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre reorganizaciones y riesgos humanos |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **reorganizaciones y riesgos humanos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **reorganization** y **role mapping** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta critical-role vacancy con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si reorganizaciones y riesgos humanos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de reorganizaciones y riesgos humanos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **reorganizaciones y riesgos humanos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Hace preguntas, documenta lo que sabe y cuida la continuidad. |
+| **Jefe / Team Lead** | Comunica con honestidad, cuida al equipo y pide aclaraciones de rol. |
+| **Gerente** | Define roles y decisiones rápido y vigila los indicadores de personas. |
+| **CEO / Director** | Decide con alternativas, asume el costo humano y sostiene el proceso justo. |
+| **Founder / Owner** | Es consciente del efecto de sus decisiones sobre la confianza. |
 
 ## 🏢 Caso ejecutivo
 
-Una compañía anuncia nueva estructura antes de definir roles. Durante seis semanas nadie sabe quién aprueba descuentos ni quién gestiona incidentes de clientes enterprise.
+Una empresa de retail con 3.200 personas anuncia un viernes por la tarde, mediante un correo, una nueva estructura por categorías que elimina las gerencias regionales. El nuevo organigrama entra en vigencia en 20 días. Se desconoce a quién reportarán 140 personas de sucursales y 45 de abastecimiento. Circula una lista no oficial de 90 cargos que desaparecerían. Tres gerentes regionales clave presentan su renuncia; las ventas de la categoría electro bajan 6 % en dos semanas; una encuesta interna muestra que solo 29 % comprende los motivos. El directorio exige ahorros de 1.900 millones de pesos al año y pide «no detener el plan».
 
-Entrega un **decision brief de reorganizaciones y riesgos humanos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de reorganización responsable** que contenga: (a) la estimación de riesgos humanos y operativos con escenarios y costo de transición; (b) las alternativas menos invasivas consideradas; (c) la definición de roles, reportes y decisiones con plazos; (d) el plan de comunicación y de proceso justo; (e) el plan de retención y de conocimiento crítico; (f) los indicadores de negocio, de personas y de gobierno con sus revisiones; (g) las verificaciones laborales, de datos y de comunicación con asesoría y normas vigentes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **reorganizaciones y riesgos humanos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta critical-role vacancy, service disruption; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Estima el costo de transición de una reorganización con tres escenarios.
+2. Escribe qué decisiones tomará cada rol durante los primeros 90 días.
+3. Redacta un mensaje de anuncio con lo decidido, lo no decidido y los apoyos.
+4. Identifica cinco personas críticas y un plan para documentar su conocimiento.
+5. Define tres indicadores de personas y fechas de revisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar reorganization y role mapping como sinónimos | Se pierde la distinción entre “cambio deliberado en estructura y distribución de responsabilidades” y “asignación de personas y posiciones al diseño futuro” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir continuidad claridad y beneficios” | Se saltó “definir problema que requiere reorg” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios y marca el primer supuesto no demostrado. |
-| Optimizar solo critical-role vacancy | La métrica local sustituyó al resultado del sistema | Contrástala con service disruption y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre reorganizaciones y riesgos humanos | No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural. |
-| No fijar revisión | Una decisión sobre reorganizaciones y riesgos humanos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Anunciar sin definir roles | Se quiere avanzar | Definir reportes y decisiones antes o junto al anuncio. |
+| Silencio por confidencialidad | Se teme a los rumores | Comunicar lo que se pueda y fijar fechas para lo demás. |
+| Ignorar el costo de transición | Se mira solo el ahorro | Estimar escenarios y comparar. |
+| Retener con privilegios opacos | Se actúa por urgencia | Criterios, plazos y coherencia con la política. |
+| Mezclar equipos sin metas | Se asume que funcionará | Team charter y objetivos comunes. |
+| No medir después del anuncio | Se da por terminado | Revisiones a los 30, 90 y 180 días. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **reorganization** y **role mapping** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **transition risk** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir problema que requiere reorg → diseñar target operating model** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **critical-role vacancy** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **reorganizaciones y riesgos humanos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural.**?
+1. ¿Qué costos ocultos tiene una reorganización?
+2. ¿Qué son la ambigüedad y el conflicto de rol?
+3. ¿Qué debe incluir una comunicación de reorganización?
+4. ¿Qué elementos componen la justicia procedimental?
+5. ¿Qué riesgos tiene una retención con bonos opacos?
+6. ¿Qué indicadores se usan para medir la reorganización?
+7. ¿Qué verificaciones externas se necesitan y por qué?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Pérdida de productividad, salida de talento, decisiones paralizadas, conflictos entre equipos y erosión de la confianza.
+2. Ambigüedad: no saber qué se espera o con qué autoridad; conflicto: recibir exigencias incompatibles sobre el mismo rol.
+3. Lo decidido y por qué, lo no decidido y cuándo se sabrá, el efecto por grupo, los apoyos y dónde preguntar.
+4. Criterios conocidos, voz, consistencia, trato respetuoso y explicación.
+5. Percepción de inequidad, incentivos distorsionados y falsa sensación de seguridad si no se aclaran el rol y el futuro.
+6. De negocio (productividad, calidad), de personas (rotación, clima, ambigüedad) y de gobierno (decisiones escaladas, conflictos).
+7. Las normas laborales, de datos y de comunicación vigentes y los convenios aplicables, que se verifican con asesoría y fuentes oficiales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/179-reorganizaciones-y-riesgos-humanos/`:
 
-- `risk-governance-brief.md` con el problema específico de **reorganizaciones y riesgos humanos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **reorganizaciones y riesgos humanos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **reorganization**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una compañía anuncia nueva estructura antes de definir roles. Durante seis semanas nadie sabe quién aprueba descuentos ni quién gestiona incidentes de clientes enterprise.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `people-decision-brief.md` (plantilla [People decision brief](../../../../templates/people-decision-brief.md)) con el proceso justo, los criterios y la retención;
+- `decision-journal.md` con los escenarios de costo, los indicadores y las revisiones.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Chip Heath & Dan Heath — *Switch* (Penguin Random House, 1999). **Uso en esta clase:** dirección racional, motivación emocional y diseño del entorno para cambiar conducta. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9781847940308](https://openlibrary.org/isbn/9781847940308).
-- Frederic Laloux — *Reinventing Organizations* (Nelson Parker, 2014). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9782960133516](https://openlibrary.org/isbn/9782960133516).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **reorganizaciones y riesgos humanos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **reorganizaciones y riesgos humanos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **reorganizaciones y riesgos humanos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **reorganizaciones y riesgos humanos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- John R. Rizzo, Robert J. House & Sidney I. Lirtzman — *Role Conflict and Ambiguity in Complex Organizations* (Administrative Science Quarterly, 1970). **Uso en esta clase:** conflicto y ambigüedad de rol y su efecto en las personas. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [DOI 10.2307/2391486](https://doi.org/10.2307/2391486).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad psicológica y aprendizaje en equipos. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** errores y pasos de un cambio sostenido. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
+- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** qué distingue un equipo de un grupo de trabajo. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** diseño de estructura, procesos, personas y recompensas. Lectura selectiva sobre **reorganizaciones y riesgos humanos**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
 
-> **Regla de fuentes para Reorganizaciones y riesgos humanos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **reorganizaciones y riesgos humanos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Reorganizaciones y riesgos humanos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales, de datos y de comunicación aplicables a reorganizaciones y desvinculaciones. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

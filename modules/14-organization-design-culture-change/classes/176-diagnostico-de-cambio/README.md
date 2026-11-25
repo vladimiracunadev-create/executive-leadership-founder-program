@@ -10,217 +10,196 @@
 
 ## 🎯 Propósito
 
-Diagnosticar cambio significa entender por qué el estado actual se sostiene: intereses, hábitos, capacidades, identidad, sistemas y restricciones. Modelos como Kotter o ADKAR ayudan a estructurar, pero el diagnóstico debe distinguir falta de comprensión, voluntad, capacidad y refuerzo.
+La mayoría de los cambios organizacionales se anuncian antes de entenderse. Se decide una reestructura, un sistema nuevo o una fusión de áreas, y luego se «comunica» para que las personas se alineen. El resultado habitual es resistencia, adopción superficial y vuelta a las viejas prácticas. Un **diagnóstico de cambio** invierte el orden: antes de diseñar la estrategia de adopción, se averigua **qué cambia, para quién, con qué impacto, con qué disposición y con qué riesgos**. No es un trámite: decide el ritmo, la secuencia y el tipo de apoyo.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **diagnóstico de cambio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la lógica de Kotter sobre cambios que se sostienen, en el modelo de Armenakis y Harris sobre cómo crear disposición al cambio mediante el mensaje, en las ideas de Heath y Heath sobre conductas concretas y entorno, y en la visión sistémica de Meadows y Senge para anticipar efectos. Al terminar sabrás describir un cambio con precisión, identificar grupos afectados, medir impacto y disposición por grupo, detectar riesgos y elegir una estrategia diferenciada.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `change diagnosis`, `stakeholder`, `readiness`, `resistance`, `reinforcement` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** adoption by segment, proficiency, resistance themes sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** un cambio como una diferencia concreta de conducta, no como una consigna.
+2. **Identificar** los grupos afectados y el impacto en cada uno.
+3. **Evaluar** la disposición con conversaciones y datos de comportamiento.
+4. **Detectar** riesgos humanos, operativos y de sostenibilidad.
+5. **Elegir** una estrategia de cambio distinta para cada grupo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define change diagnosis y stakeholder sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con adoption by segment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe un cambio que fracasó en tu organización y qué se ignoró al lanzarlo. |
+| 20–60 min | Definición del cambio, grupos, impacto, disposición, riesgos y estrategia. |
+| 60–105 min | Ejemplo trabajado: diagnóstico de un nuevo sistema de planificación en una empresa de distribución. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **change diagnosis** | análisis de fuerzas que sostienen estado actual y obstaculizan estado deseado | Distingue un hecho compatible y otro que lo refute. |
-| **stakeholder** | actor afectado o capaz de afectar el cambio | Distingue un hecho compatible y otro que lo refute. |
-| **readiness** | capacidad y disposición para adoptar | Distingue un hecho compatible y otro que lo refute. |
-| **resistance** | señal de costo pérdida riesgo o desacuerdo frente al cambio | Distingue un hecho compatible y otro que lo refute. |
-| **reinforcement** | mecanismo que estabiliza nuevas conductas | Distingue un hecho compatible y otro que lo refute. |
+| **Diagnóstico de cambio** | Análisis previo de qué cambia, a quién afecta y con qué disposición. | Precede al plan de comunicación. |
+| **Brecha de conducta** | Diferencia entre cómo se trabaja hoy y cómo se trabajará. | Se describe en acciones observables. |
+| **Grupo afectado** | Conjunto de personas con el mismo tipo de impacto. | Comparte roles, riesgos y beneficios. |
+| **Disposición al cambio** | Grado en que las personas creen que el cambio es necesario, viable y bueno para ellas. | Se infiere de conversaciones y conductas. |
+| **Impacto** | Magnitud de lo que el cambio exige a un grupo: tareas, habilidades, poder, estatus. | Se estima por grupo. |
+| **Fatiga de cambio** | Cansancio por la acumulación de iniciativas simultáneas. | Baja la adopción de todo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 176: 1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback](modelo-mental.svg)
+![Cuadrante de impacto del cambio y disposición de las personas: preparar y escuchar, acelerar con cuidado, informar y acompañar, avanzar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Diagnosticar cambio significa entender por qué el estado actual se sostiene: intereses, hábitos, capacidades, identidad, sistemas y restricciones. Modelos como Kotter o ADKAR ayudan a estructurar, pero el diagnóstico debe distinguir falta de comprensión, voluntad, capacidad y refuerzo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema.**
+**Cómo leer el diagrama.** Un cuadrante con la disposición de las personas en el eje horizontal (de baja a alta) y el impacto del cambio en el vertical (de bajo a alto). Alto impacto con baja disposición exige **preparar y escuchar**; alto impacto con alta disposición permite **acelerar con cuidado**; bajo impacto con baja disposición pide **informar y acompañar**; bajo impacto con alta disposición permite **avanzar**. La nota subraya que el diagnóstico se hace por grupos, no en promedio.
 
 ## 📖 Desarrollo
 
-### 1. change diagnosis: mecanismo central
+### 1. Definir el cambio con precisión
 
-**change diagnosis** se entiende aquí como **análisis de fuerzas que sostienen estado actual y obstaculizan estado deseado**. Esta es la pieza causal o estructural desde la que se inicia **diagnóstico de cambio**: antes de definir conducta futura observable, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+«Ser más ágiles» o «digitalizar la operación» no son cambios; son aspiraciones. Un cambio se describe como **diferencia observable**: antes, los pedidos se aprobaban por correo en tres niveles; después, se aprobarán en el sistema con un nivel y reglas de excepción. Para cada cambio se especifican: qué **deja de hacerse**, qué **empieza a hacerse**, qué **continúa**, quiénes lo ejecutan y desde cuándo. Esta precisión evita que cada grupo interprete algo distinto, revela decisiones aún no tomadas y permite estimar el esfuerzo real. Heath y Heath recomiendan «**guiones de conducta críticos**»: acciones concretas que la gente pueda ejecutar el primer día.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **adoption by segment**; regístrala con periodo, unidad, población y baseline.
+### 2. Mapear grupos afectados
 
-Relaciona el mecanismo con **stakeholder**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se identifican los **grupos** que viven el cambio de formas distintas: quienes lo diseñan, quienes lo operan, quienes dependen de sus resultados, quienes pierden poder o estatus, quienes ganan capacidad. Para cada grupo se registra: tamaño, qué cambia para ellos, qué ganan y qué pierden, qué habilidades necesitan, qué calendario tienen (por ejemplo, cierre de mes o temporada alta) y quién los influye. Un mapa de partes interesadas ayuda, pero el foco aquí es el **impacto sobre el trabajo diario**. Un cambio que parece menor para la dirección puede ser enorme para un turno de operaciones.
 
-### 2. stakeholder: frontera conceptual y error de clasificación
+### 3. Estimar el impacto
 
-**Definición operacional:** actor afectado o capaz de afectar el cambio. Su valor está en distinguirlo de **change diagnosis** y **readiness**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El impacto se estima en varias dimensiones: **tareas** (cuántas cambian), **habilidades** (qué nuevo hay que aprender), **relaciones** (con quién se trabaja), **poder y estatus** (quién decide, quién pierde control), **carga** (más trabajo temporal durante la transición) y **riesgo personal** (empleo, evaluación, desempeño). Una escala simple de bajo, medio y alto, con una frase de justificación por dimensión, es suficiente. Lo importante es **no promediar**: un grupo pequeño con impacto alto, como los coordinadores de planta, puede decidir el éxito del cambio.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **stakeholder** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **proficiency** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Medir la disposición
 
-Antes de mapear stakeholders y pérdidas, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Armenakis y Harris proponen que la disposición al cambio se construye con **mensajes** que responden cinco creencias: que hay una **discrepancia** (algo debe cambiar), que el cambio es **apropiado** (la solución es adecuada), que existe **eficacia** (somos capaces), que hay **apoyo** principal (los líderes están comprometidos) y que hay **valencia** (me beneficia). Un diagnóstico explora cada creencia por grupo mediante **conversaciones**, **observación** y **datos de comportamiento** (asistencia a capacitaciones, uso de pilotos, preguntas, quejas). Una encuesta ayuda, pero tiene límites: las personas no siempre dicen lo que piensan en un entorno de temor o de fatiga.
 
-### 3. readiness: operacionalización y medición
+### 5. Riesgos del cambio
 
-**readiness** significa **capacidad y disposición para adoptar**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se listan riesgos **humanos** (pérdida de personas clave, conflictos, desgaste), **operativos** (caída de servicio durante la transición, errores por doble sistema), **técnicos** (datos migrados incorrectamente, integraciones), **de gobierno** (decisiones sin dueño, derechos de decisión ambiguos) y **de sostenibilidad** (regresión a la práctica anterior al terminar el proyecto). Meadows y Senge enseñan a mirar la **dinámica del sistema**: retardos entre acción y efecto, ciclos de refuerzo y soluciones que mueven el problema a otra parte. Un riesgo frecuente es la **fatiga de cambio**: si diez iniciativas llegan a la vez a un mismo equipo, ninguna se adopta.
 
-Stanley McChrystal et al. — *Team of Teams* orienta este bloque mediante **adaptabilidad, conciencia compartida y ejecución descentralizada**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **resistance themes**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Elegir la estrategia por grupo
 
-Al llegar a diagnosticar conocimiento motivación y capacidad, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La estrategia depende de la combinación de impacto y disposición. Con **alto impacto y baja disposición**, se prepara y se escucha: espacios para plantear dudas, razones claras, participación en el diseño y apoyo concreto. Con **alto impacto y alta disposición**, se acelera con cuidado: se aprovechan campeones, se asegura capacitación y se evita saturarlos. Con **bajo impacto y baja disposición**, se informa y se acompaña. Con **bajo impacto y alta disposición**, se avanza con comunicación simple. Se decide también el **ritmo**: piloto en un grupo, olas secuenciales o implantación simultánea, según riesgo y dependencia.
 
-### 4. resistance: trade-offs y efectos de segundo orden
+### 7. Del diagnóstico a la decisión
 
-**Definición:** señal de costo pérdida riesgo o desacuerdo frente al cambio. Este concepto obliga a abandonar la idea de que **diagnóstico de cambio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar barreras de sistema, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John P. Kotter — *Leading Change* aporta una lente sobre **urgencia, coalición, visión, movilización y consolidación del cambio**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **process compliance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **diagnóstico de cambio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **resistance** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. reinforcement: gobernanza, límites e integración
-
-**reinforcement** se define como **mecanismo que estabiliza nuevas conductas** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Patrick Lencioni — *The Advantage* se utiliza para estudiar **perspectiva de Salud organizacional aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar diseñar intervención segmentada y feedback, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **change diagnosis**, **stakeholder**, **readiness**, **resistance** y **reinforcement** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **diagnóstico de cambio** no consiste en sumar cinco definiciones. Empieza por **change diagnosis**, contrasta **stakeholder** con **readiness**, incorpora **resistance** como restricción o mecanismo y usa **reinforcement** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El diagnóstico termina en **decisiones**: qué se hará, con qué secuencia, qué se pospone, qué se necesita para empezar (condiciones previas) y con qué indicadores se sabrá si funciona. Se definen **criterios de parada o ajuste**: por ejemplo, si el uso del sistema nuevo no supera 60 % a las seis semanas, se revisa. El diagnóstico se actualiza durante el cambio, porque la disposición evoluciona. Kotter advierte que declarar victoria demasiado pronto es una causa común de regresión; por eso se mide más allá del lanzamiento.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **diagnóstico de cambio** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **diagnóstico de cambio** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **diagnóstico de cambio** ayuda a desafiar? |
-| John P. Kotter — *Leading Change* | urgencia, coalición, visión, movilización y consolidación del cambio | ¿Qué supuesto de **diagnóstico de cambio** ayuda a desafiar? |
-| Patrick Lencioni — *The Advantage* | perspectiva de Salud organizacional aplicada al problema de la clase | ¿Qué supuesto de **diagnóstico de cambio** ayuda a desafiar? |
-
-En **diagnóstico de cambio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **change diagnosis**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kotter (*Leading Change*) | Pasos y errores típicos de un cambio sostenido. | Es un marco, no un diagnóstico cuantitativo. | ¿Qué paso estamos saltando? |
+| Armenakis y Harris | Mensajes que crean disposición según cinco creencias. | Exige conversaciones reales para evaluar creencias. | ¿Cuál de las cinco creencias falta? |
+| Heath y Heath | Guiones de conducta críticos, emoción y entorno. | Marco práctico, no medición. | ¿Qué acción concreta cambia el primer día? |
+| Meadows | Pensamiento sistémico, retardos y ciclos. | Es abstracto y requiere aplicación. | ¿Dónde puede mover el problema a otro sitio? |
+| Senge | Aprendizaje organizacional y modelos mentales. | Exige tiempo y práctica. | ¿Qué supuestos impiden ver el efecto? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un ERP se lanza con capacitación general. Finanzas adopta, operaciones crea planillas paralelas y ventas evita registrar oportunidades porque el nuevo flujo duplica carga administrativa.
+**Situación (hipotética).** Una distribuidora de 1.400 personas implementará un sistema de planificación de demanda que reemplaza hojas de cálculo en cuatro regiones. La dirección piensa en una implantación simultánea en tres meses y un plan de comunicación con carteles.
 
-**Paso 1 — definir conducta futura observable.** La gerencia escribe primero el supuesto asociado a **change diagnosis** y evita convertirlo en hecho. Luego busca **adoption by segment** para contrastarlo en el caso de **diagnóstico de cambio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cambio definido.** Antes: cada coordinador regional estima la demanda en su planilla y la corrige con su criterio. Después: se usa un pronóstico central con ajustes autorizados y registro de cada ajuste. Deja de hacerse: reescribir planillas locales. Empieza: registrar ajustes con motivo. Continúa: la validación con el cliente clave.
 
-**Paso 2 — mapear stakeholders y pérdidas.** La gerencia escribe primero el supuesto asociado a **stakeholder** y evita convertirlo en hecho. Luego busca **proficiency** para contrastarlo en el caso de **diagnóstico de cambio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Grupos e impacto.**
 
-**Paso 3 — diagnosticar conocimiento motivación y capacidad.** La gerencia escribe primero el supuesto asociado a **readiness** y evita convertirlo en hecho. Luego busca **resistance themes** para contrastarlo en el caso de **diagnóstico de cambio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Grupo | Personas | Impacto | Disposición (conversaciones) |
+|---|---|---|---|
+| Coordinadores regionales | 24 | Alto: pierden control de su planilla | Baja: «el sistema no conoce mi zona» |
+| Planificadores centrales | 12 | Alto: nuevas tareas y responsabilidad | Alta |
+| Vendedores | 180 | Medio: nuevas fechas de corte | Media |
+| Bodegueros | 320 | Bajo: reciben órdenes más estables | Alta |
+| Finanzas | 15 | Medio: cambia el proceso de proyección | Media |
 
-**Paso 4 — identificar barreras de sistema.** La gerencia escribe primero el supuesto asociado a **resistance** y evita convertirlo en hecho. Luego busca **process compliance** para contrastarlo en el caso de **diagnóstico de cambio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos de comportamiento.** De 24 coordinadores, 9 asistieron a la demostración voluntaria; el piloto en la región sur mostró un error de pronóstico de 14 % con el sistema frente a 19 % con planillas, pero los coordinadores corrigieron manualmente 31 % de las recomendaciones.
 
-**Paso 5 — diseñar intervención segmentada y feedback.** La gerencia escribe primero el supuesto asociado a **reinforcement** y evita convertirlo en hecho. Luego busca **benefit realization** para contrastarlo en el caso de **diagnóstico de cambio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Riesgos.** Pérdida de coordinadores con conocimiento local (riesgo humano); doble sistema durante el cierre de año (riesgo operativo); ajustes manuales que anulan el modelo (sostenibilidad).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **diagnóstico de cambio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Estrategia.** Los coordinadores son el grupo crítico: no es solo informar, es **preparar y escuchar**. Se incorporan 6 de ellos al diseño de las reglas de ajuste, se reconoce su conocimiento local como insumo autorizado, se programa la implantación en tres olas separadas por dos meses (sur, centro y norte con la cuarta región) y se evita el cierre de año. La capacitación se hace con casos reales y los líderes usan el sistema primero. Criterio de ajuste: si los ajustes manuales superan 20 % a las seis semanas de cada ola, se revisan las reglas con los coordinadores.
+
+**Indicadores.** Error de pronóstico (meta: 12 %); uso del sistema (meta: 85 %); ajustes manuales (meta: bajo 20 %); rotación de coordinadores; satisfacción de coordinadores; nivel de servicio.
+
+**Cuidados.** Si el cambio afecta cargos o funciones, las condiciones laborales se verifican con asesoría y normas vigentes; la información de personas se trata de forma confidencial.
+
+**Qué muestra.** (1) El impacto y la disposición se analizaron por grupo. (2) El grupo crítico no era el más numeroso. (3) La estrategia cambió la secuencia y el diseño.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **change diagnosis** | análisis de fuerzas que sostienen estado actual y obstaculizan estado deseado | Cuando adoption by segment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **stakeholder** | actor afectado o capaz de afectar el cambio | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Diagnóstico frente a comunicación.** La comunicación informa; el diagnóstico decide qué se informa, a quién y cuándo, y qué se debe cambiar antes de comunicar.
 
-**Frontera de aplicación:** Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema.
+**Límites.** La disposición es difícil de medir y cambia con el tiempo. Las conversaciones dependen de la confianza; las encuestas, de su anonimato percibido. Los marcos de Kotter y de Armenakis y Harris son modelos, no leyes. Las cifras del ejemplo son ilustrativas. Los cambios que afectan condiciones laborales exigen revisión legal y laboral actual.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre diagnóstico de cambio |
+| Nivel | Cómo participa en el diagnóstico |
 |---|---|
-| **Profesional** | usa **diagnóstico de cambio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **change diagnosis** y **stakeholder** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta adoption by segment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si diagnóstico de cambio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de diagnóstico de cambio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **diagnóstico de cambio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Dice con franqueza qué cambia en su trabajo y qué le preocupa. |
+| **Jefe / Team Lead** | Recoge las dudas del equipo y las lleva al diseño. |
+| **Gerente** | Hace el diagnóstico por grupos y ajusta el ritmo. |
+| **CEO / Director** | Prioriza cambios para evitar fatiga y protege a los grupos críticos. |
+| **Founder / Owner** | Cuida que el cambio se explique con razones reales y con coherencia. |
 
 ## 🏢 Caso ejecutivo
 
-Un ERP se lanza con capacitación general. Finanzas adopta, operaciones crea planillas paralelas y ventas evita registrar oportunidades porque el nuevo flujo duplica carga administrativa.
+Un banco regional con 2.600 empleados decide unificar sus tres plataformas de atención en una sola y, a la vez, reorganizar las sucursales en zonas, implementar un nuevo sistema de evaluación y migrar el correo. La dirección prevé hacerlo todo en el segundo semestre. Una encuesta rápida mostró 58 % de acuerdo con «la unificación es necesaria»; pero entre los ejecutivos de sucursal, solo 31 %. En otro análisis se ve que el 22 % de los equipos de sucursales participa en más de tres iniciativas simultáneas, y la rotación en ese segmento subió de 11 % a 17 %.
 
-Entrega un **decision brief de diagnóstico de cambio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico de cambio** que contenga: (a) la definición precisa de cada cambio y la brecha de conducta; (b) el mapa de grupos afectados con su impacto; (c) la disposición por grupo con las evidencias y sus límites; (d) los riesgos, incluida la fatiga de cambio, y una propuesta de secuencia y priorización; (e) la estrategia diferenciada por grupo; (f) los indicadores, los criterios de ajuste y las verificaciones laborales necesarias.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **diagnóstico de cambio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta adoption by segment, proficiency; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Describe un cambio de tu organización como antes, después y qué deja de hacerse.
+2. Identifica cinco grupos afectados y estima su impacto y disposición.
+3. Planifica tres conversaciones con el grupo de mayor impacto para evaluar las cinco creencias de Armenakis y Harris.
+4. Lista los cambios simultáneos que recibe un equipo y propone qué posponer.
+5. Define dos criterios de ajuste y los indicadores para monitorear la adopción.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar change diagnosis y stakeholder como sinónimos | Se pierde la distinción entre “análisis de fuerzas que sostienen estado actual y obstaculizan estado deseado” y “actor afectado o capaz de afectar el cambio” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “diseñar intervención segmentada y feedback” | Se saltó “definir conducta futura observable” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback y marca el primer supuesto no demostrado. |
-| Optimizar solo adoption by segment | La métrica local sustituyó al resultado del sistema | Contrástala con proficiency y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre diagnóstico de cambio | Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema. |
-| No fijar revisión | Una decisión sobre diagnóstico de cambio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Comunicar antes de diagnosticar | Se busca avanzar rápido | Diagnosticar primero y diferenciar mensajes. |
+| Promediar la disposición | Es más simple | Analizar por grupo y destacar los críticos. |
+| Cambio vago | Se usan consignas | Describir la diferencia de conducta. |
+| Ignorar la fatiga de cambio | Cada iniciativa se ve aislada | Priorizar y secuenciar el portafolio de cambios. |
+| Confiar solo en encuestas | Son rápidas | Triangular con conversaciones y comportamientos. |
+| Declarar victoria al lanzar | Se mide la implementación | Medir adopción y sostenibilidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **change diagnosis** y **stakeholder** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **readiness** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir conducta futura observable → mapear stakeholders y pérdidas** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **adoption by segment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **diagnóstico de cambio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema.**?
+1. ¿Por qué hay que describir un cambio como una diferencia de conducta?
+2. ¿Qué dimensiones tiene el impacto de un cambio sobre un grupo?
+3. ¿Qué cinco creencias subyacen a la disposición según Armenakis y Harris?
+4. ¿Qué estrategia corresponde a alto impacto y baja disposición?
+5. ¿Qué es la fatiga de cambio y cómo se maneja?
+6. ¿Por qué no se debe promediar la disposición?
+7. ¿Qué límites tiene el diagnóstico de cambio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque permite saber qué se hará distinto, estimar el esfuerzo real, evitar interpretaciones diferentes y definir acciones concretas.
+2. Tareas, habilidades, relaciones, poder y estatus, carga y riesgo personal.
+3. Discrepancia, adecuación del cambio, eficacia, apoyo de los líderes y valencia (beneficio personal).
+4. Preparar y escuchar: diálogo, razones claras, participación en el diseño y apoyo concreto.
+5. Cansancio por demasiadas iniciativas simultáneas; se prioriza y se secuencia el portafolio de cambios.
+6. Porque un grupo pequeño con alto impacto y baja disposición puede determinar el resultado, y el promedio lo oculta.
+7. La disposición es difícil de medir y cambia; los marcos son modelos; las cifras de ejemplos son ilustrativas y las condiciones laborales exigen revisión actual.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/176-diagnostico-de-cambio/`:
 
-- `risk-governance-brief.md` con el problema específico de **diagnóstico de cambio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **diagnóstico de cambio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **change diagnosis**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un ERP se lanza con capacitación general. Finanzas adopta, operaciones crea planillas paralelas y ventas evita registrar oportunidades porque el nuevo flujo duplica carga administrativa.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el diagnóstico del caso ejecutivo;
+- `stakeholder-legitimacy-map.md` (plantilla [Stakeholder legitimacy map](../../../../templates/stakeholder-legitimacy-map.md)) con los grupos afectados;
+- `decision-journal.md` con las evidencias de disposición y los criterios de ajuste.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Patrick Lencioni — *The Advantage* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** perspectiva de Salud organizacional aplicada al problema de la clase. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856).
-- Chip Heath & Dan Heath — *Switch* (Penguin Random House, 1999). **Uso en esta clase:** dirección racional, motivación emocional y diseño del entorno para cambiar conducta. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9781847940308](https://openlibrary.org/isbn/9781847940308).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **diagnóstico de cambio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **diagnóstico de cambio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **diagnóstico de cambio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **diagnóstico de cambio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** pasos y errores de un cambio sostenido. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
+- Achilles A. Armenakis & Stanley G. Harris — *Crafting a change message to create transformational readiness* (Journal of Organizational Change Management, 2002). **Uso en esta clase:** mensajes que crean disposición al cambio. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [DOI 10.1108/09534810210423080](https://doi.org/10.1108/09534810210423080).
+- Chip Heath & Dan Heath — *Switch* (Penguin Random House, 1999). **Uso en esta clase:** guiones de conducta, emoción y entorno. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9781847940308](https://openlibrary.org/isbn/9781847940308).
+- Donella H. Meadows — *Thinking in Systems* (Earthscan, 2009). **Uso en esta clase:** pensamiento sistémico, retardos y ciclos. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9781849773386](https://openlibrary.org/isbn/9781849773386).
+- Peter M. Senge — *The Fifth Discipline* (Random House Audio, 1994). **Uso en esta clase:** aprendizaje organizacional y modelos mentales. Lectura selectiva sobre **diagnóstico de cambio**. **Localizador:** [ISBN-13 9780553473216](https://openlibrary.org/isbn/9780553473216).
 
-> **Regla de fuentes para Diagnóstico de cambio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diagnóstico de cambio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Diagnóstico de cambio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales de los cambios que afecten cargos o funciones. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

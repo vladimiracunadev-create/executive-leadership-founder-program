@@ -10,217 +10,200 @@
 
 ## 🎯 Propósito
 
-Estructuras funcionales, divisionales y matriciales resuelven problemas distintos de especialización y coordinación. La elección depende de diversidad de productos, geografías, clientes, escala y necesidad de compartir capacidades. Una matriz agrega ejes de accountability, pero también costo de negociación.
+Cada estructura organizacional es una **apuesta** sobre qué es más importante coordinar. Agrupar por función (ventas, producción, finanzas) favorece la especialización y la eficiencia; agrupar por producto, cliente o región favorece el foco y la responsabilidad por resultados; una matriz intenta tener ambas cosas a costa de doble mando. Ninguna es mejor en abstracto: resuelve un problema de coordinación y crea otro. Los reordenamientos recurrentes —centralizar, descentralizar, volver a centralizar— suelen ser oscilaciones entre dos soluciones imperfectas, cuando lo que se necesita es **decidir qué dimensión se prioriza** y **cómo se compensa la que se sacrifica**.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **estructuras funcionales, divisionales y matriciales** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de estructuras de Galbraith, en la teoría de diferenciación e integración de Lawrence y Lorsch, en el trabajo de Skelton y Pais sobre topologías de equipos (que aplica la idea de que la estructura de la organización condiciona la arquitectura de los sistemas) y en la visión de McChrystal sobre equipos de equipos. Al terminar sabrás comparar las estructuras básicas, evaluar qué problema de coordinación resuelve cada una, diseñar interfaces entre unidades, decidir cuándo conviene una matriz y planificar una transición con los riesgos que implica.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `functional structure`, `divisional structure`, `matrix`, `P&L ownership`, `shared service` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decision conflicts, duplicate roles, shared-service SLA sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** las estructuras funcional, divisional, matricial y por equipos.
+2. **Evaluar** qué problema de coordinación resuelve cada una y qué costo genera.
+3. **Diseñar** interfaces y reglas entre unidades para reducir el costo de la estructura elegida.
+4. **Decidir** cuándo una matriz es justificable y cómo gestionarla.
+5. **Planificar** una transición estructural con riesgos y medidas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define functional structure y divisional structure sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decision conflicts y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: dibuja tu organigrama y marca dónde ocurre la coordinación más difícil. |
+| 20–60 min | Estructuras, criterios, interfaces y matriz. |
+| 60–105 min | Ejemplo trabajado: de estructura funcional a divisional en una empresa de alimentos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **functional structure** | agrupación por disciplina o función | Distingue un hecho compatible y otro que lo refute. |
-| **divisional structure** | agrupación por producto cliente o geografía con mayor autonomía | Distingue un hecho compatible y otro que lo refute. |
-| **matrix** | doble o múltiple dimensión de responsabilidad | Distingue un hecho compatible y otro que lo refute. |
-| **P&L ownership** | accountability por ingresos y costos de una unidad | Distingue un hecho compatible y otro que lo refute. |
-| **shared service** | capacidad centralizada que sirve a varias unidades | Distingue un hecho compatible y otro que lo refute. |
+| **Estructura funcional** | Agrupación por especialidad o función. | Ventas, producción, finanzas, tecnología. |
+| **Estructura divisional** | Agrupación por producto, mercado, cliente o región. | Cada división tiene sus funciones. |
+| **Estructura matricial** | Doble línea de autoridad: función y producto o proyecto. | Personas con dos jefaturas. |
+| **Equipo alineado al flujo** | Equipo responsable de un flujo de valor de punta a punta. | Entrega con poca dependencia de otros. |
+| **Interfaz** | Acuerdo sobre cómo interactúan dos unidades. | Servicios, plazos, información. |
+| **Ley de Conway** | Observación de que los sistemas reflejan la estructura de comunicación de quien los construye. | La arquitectura copia el organigrama. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 170: 1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo](modelo-mental.svg)
+![Cuatro estructuras: funcional, divisional, matricial y por equipos y plataformas, con cuándo conviene cada una, su ventaja y su costo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Estructuras funcionales, divisionales y matriciales resuelven problemas distintos de especialización y coordinación. La elección depende de diversidad de productos, geografías, clientes, escala y necesidad de compartir capacidades. Una matriz agrega ejes de accountability, pero también costo de negociación.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación.**
+**Cómo leer el diagrama.** Una tabla con cuatro estructuras. La **funcional** conviene con un producto principal y eficiencia por especialidad; su costo son los silos. La **divisional** conviene cuando hay productos, mercados o regiones distintos; su costo es la duplicación y la competencia por recursos. La **matricial** coordina dos dimensiones a la vez; su costo es el doble mando. Los **equipos y plataformas** dan velocidad; exigen interfaces y gobierno claros. La nota recuerda que cada estructura resuelve un problema y crea otro y que se elige la que resuelve el que más importa.
 
 ## 📖 Desarrollo
 
-### 1. functional structure: mecanismo central
+### 1. La estructura funcional
 
-**functional structure** se entiende aquí como **agrupación por disciplina o función**. Esta es la pieza causal o estructural desde la que se inicia **estructuras funcionales, divisionales y matriciales**: antes de mapear variedad e interdependencia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Agrupa a las personas por **especialidad**: todos los vendedores juntos, todos los ingenieros juntos, todos los contadores juntos. **Ventajas**: **economías de escala** (recursos compartidos), **profundidad técnica** (las personas aprenden de colegas), **carreras claras** por especialidad y **control** central. **Costos**: **silos** (cada función optimiza lo suyo), **coordinación lenta** entre funciones para responder a un cliente o producto, **responsabilidad difusa** por el resultado global y **sobrecarga** de la alta dirección, que es el único punto de integración. Funciona bien en empresas con un producto o línea principal y entornos relativamente estables.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decision conflicts**; regístrala con periodo, unidad, población y baseline.
+### 2. La estructura divisional
 
-Relaciona el mecanismo con **divisional structure**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Agrupa por **producto, mercado, cliente o geografía**, y cada división reúne las funciones necesarias para operar con autonomía. **Ventajas**: **foco y responsabilidad** (un líder responde por el resultado de su negocio), **velocidad** de respuesta a clientes o mercados específicos, **medición clara** del desempeño. **Costos**: **duplicación** de funciones (cada división tiene sus propias áreas de finanzas, tecnología, personas), **pérdida de escala** y de pericia compartida, **competencia interna** por recursos y por clientes, y **dificultad para integrar** lo que sea común (marca, tecnología, relación con grandes clientes). Se justifica cuando las diferencias entre divisiones pesan más que las economías de compartir.
 
-### 2. divisional structure: frontera conceptual y error de clasificación
+### 3. La estructura matricial
 
-**Definición operacional:** agrupación por producto cliente o geografía con mayor autonomía. Su valor está en distinguirlo de **functional structure** y **matrix**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Combina dos dimensiones: por ejemplo, los especialistas dependen de su función y trabajan para proyectos o productos dirigidos por otros líderes. **Ventajas**: **flexibilidad** para asignar recursos, **coordinación** entre dimensiones y uso de **expertos** en varios frentes. **Costos**: **doble mando** (las personas responden a dos jefes con prioridades distintas), **conflictos de poder** entre las líneas, **decisiones lentas** y **sobrecarga de reuniones**. Galbraith y otros señalan que una matriz funciona solo si se **clarifican los derechos de decisión** (quién decide qué: prioridades, personas, presupuesto), se **forma a los líderes** para negociar y se **limita** su alcance a donde es indispensable (clase 173).
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **divisional structure** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **duplicate roles** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Equipos alineados al flujo y plataformas
 
-Antes de identificar unidad primaria de accountability, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Skelton y Pais proponen, para organizaciones que construyen software, cuatro tipos de equipos: **alineados al flujo de valor** (entregan un flujo de punta a punta), **habilitadores** (ayudan a otros a adquirir capacidades), **de subsistemas complicados** (con conocimiento muy especializado) y **de plataforma** (ofrecen servicios internos que reducen la carga de los demás), con **tres modos de interacción**: colaboración, servicio y facilitación. La idea de fondo se aplica más allá de la tecnología: reducir las **dependencias** que obligan a coordinar con muchos, dar a cada equipo **autonomía y claridad de propósito** y gestionar con cuidado las **interfaces**. Reconocen la llamada **ley de Conway**: los sistemas reflejan la estructura de comunicación de quien los diseña; por eso se diseña la organización para que genere la arquitectura que se desea.
 
-### 3. matrix: operacionalización y medición
+### 5. Cómo elegir
 
-**matrix** significa **doble o múltiple dimensión de responsabilidad**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se parte de la **estrategia** y se pregunta: ¿qué dimensión es la más importante de coordinar (producto, cliente, región, tecnología, función)?, ¿dónde están las **mayores interdependencias** (mayor flujo de información y de decisiones)?, ¿qué **economías de escala** vale la pena conservar?, ¿qué capacidades críticas deben protegerse?, ¿qué tan **estable** es el entorno? Se evalúan alternativas con criterios explícitos (clase 169) y se explicita el **costo** de cada una y cómo se mitigará (por ejemplo, funciones compartidas en una estructura divisional, o un centro de excelencia para sostener la pericia). Una pregunta útil: ¿qué decisiones tomarán hoy más rápido con esta estructura y cuáles más lento?
 
-Patrick Lencioni — *The Advantage* orienta este bloque mediante **perspectiva de Salud organizacional aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **shared-service SLA**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Interfaces y mecanismos de integración
 
-Al llegar a evaluar economías de escala, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Toda estructura crea fronteras que hay que cruzar. Las **interfaces** definen cómo colaboran las unidades: **servicios internos** con niveles acordados (clase 092), **calendarios compartidos**, **roles de enlace**, **comités de coordinación**, **datos comunes**, **reglas de asignación de recursos** y **procesos de escalamiento** (clase 107). Lawrence y Lorsch muestran que, a mayor diferenciación entre unidades, más integración se necesita; una estructura divisional con poca integración produce islas, y una funcional con integración débil, silos. Se mide la **calidad de la coordinación**: tiempo de ciclo entre áreas, retrabajo, escalamientos, quejas internas.
 
-### 4. P&L ownership: trade-offs y efectos de segundo orden
+### 7. Transición: riesgos y cuidados
 
-**Definición:** accountability por ingresos y costos de una unidad. Este concepto obliga a abandonar la idea de que **estructuras funcionales, divisionales y matriciales** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar interfaces entre ejes, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aaron Dignan — *Brave New Work* aporta una lente sobre **perspectiva de Diseño organizacional aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **P&L clarity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **estructuras funcionales, divisionales y matriciales**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **P&L ownership** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. shared service: gobernanza, límites e integración
-
-**shared service** se define como **capacidad centralizada que sirve a varias unidades** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* se utiliza para estudiar **perspectiva de Organización aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar probar decisiones críticas en el modelo, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **functional structure**, **divisional structure**, **matrix**, **P&L ownership** y **shared service** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **estructuras funcionales, divisionales y matriciales** no consiste en sumar cinco definiciones. Empieza por **functional structure**, contrasta **divisional structure** con **matrix**, incorpora **P&L ownership** como restricción o mecanismo y usa **shared service** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Cambiar de estructura es una intervención compleja. **Riesgos**: pérdida de **talento** y de **relaciones** informales que funcionaban, **ambigüedad** durante la transición, **desmotivación** de quienes pierden poder o estatus, **doble trabajo** de adaptación y **caída del desempeño** mientras la gente aprende a trabajar de otra forma. Medidas: **explicar el porqué** con datos, **definir pronto los roles y los derechos de decisión**, **mantener estables** los procesos críticos, **hacer la transición por etapas**, **medir** el efecto y **ajustar**. Los cambios que afectan a cargos, funciones, jornadas o lugares de trabajo deben cumplir las normas laborales vigentes y verificarse con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **estructuras funcionales, divisionales y matriciales** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **estructuras funcionales, divisionales y matriciales** ayuda a desafiar? |
-| Patrick Lencioni — *The Advantage* | perspectiva de Salud organizacional aplicada al problema de la clase | ¿Qué supuesto de **estructuras funcionales, divisionales y matriciales** ayuda a desafiar? |
-| Aaron Dignan — *Brave New Work* | perspectiva de Diseño organizacional aplicada al problema de la clase | ¿Qué supuesto de **estructuras funcionales, divisionales y matriciales** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **estructuras funcionales, divisionales y matriciales** ayuda a desafiar? |
-
-En **estructuras funcionales, divisionales y matriciales**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **functional structure**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Galbraith | Tipos de estructura y mecanismos de coordinación. | Marco general. | ¿Qué dimensión coordinas más? |
+| Lawrence y Lorsch (1967) | Relación entre diferenciación e integración. | Estudio de una época. | ¿Cuánta integración exige tu estructura? |
+| Skelton y Pais | Tipos de equipos, modos de interacción y ley de Conway. | Contexto de tecnología. | ¿Qué dependencias reducirías? |
+| McChrystal et al. | Equipos de equipos y conciencia compartida. | Contexto militar. | ¿Cómo comparten información tus unidades? |
+| Mankins y Garton | Costo de coordinación en tiempo y energía. | Visión de grandes empresas. | ¿Cuánto cuesta coordinar en tu estructura? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una firma global crea matriz producto x país. Cada gerente cree tener veto sobre precio y staffing; una oferta enterprise tarda seis semanas en aprobarse.
+**Situación (hipotética).** Una empresa de alimentos (ventas USD 480 millones, 3.800 empleados) tiene una estructura funcional con ventas, producción, compras, marketing y finanzas centralizadas, y tres líneas: lácteos, snacks y congelados. Tardan 14 semanas en lanzar un producto nuevo; los clientes grandes (supermercados) quieren un solo interlocutor por categoría; hay conflictos permanentes sobre prioridades de producción.
 
-**Paso 1 — mapear variedad e interdependencia.** La gerencia escribe primero el supuesto asociado a **functional structure** y evita convertirlo en hecho. Luego busca **decision conflicts** para contrastarlo en el caso de **estructuras funcionales, divisionales y matriciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos.**
 
-**Paso 2 — identificar unidad primaria de accountability.** La gerencia escribe primero el supuesto asociado a **divisional structure** y evita convertirlo en hecho. Luego busca **duplicate roles** para contrastarlo en el caso de **estructuras funcionales, divisionales y matriciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Indicador | Valor |
+|---|---|
+| Tiempo de lanzamiento de un producto | 14 semanas |
+| Reuniones de priorización por mes (producción–ventas–marketing) | 16 |
+| Escalamientos a la dirección general por conflicto de prioridades | 9 al mes |
+| Margen operacional | Lácteos 9 %, snacks 14 %, congelados 5 % |
+| Costo de funciones corporativas | USD 38 millones (7,9 % de ventas) |
 
-**Paso 3 — evaluar economías de escala.** La gerencia escribe primero el supuesto asociado a **matrix** y evita convertirlo en hecho. Luego busca **shared-service SLA** para contrastarlo en el caso de **estructuras funcionales, divisionales y matriciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Alternativas.**
 
-**Paso 4 — diseñar interfaces entre ejes.** La gerencia escribe primero el supuesto asociado a **P&L ownership** y evita convertirlo en hecho. Luego busca **P&L clarity** para contrastarlo en el caso de **estructuras funcionales, divisionales y matriciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Alternativa | Lanzamiento | Costo adicional | Riesgos |
+|---|---|---|---|
+| A. Mantener funcional con comité de producto | 11 semanas | USD 0,5 millones | Los conflictos continúan; más reuniones |
+| B. Divisional por línea (lácteos, snacks, congelados) con funciones compartidas de compras, finanzas y logística | 7 semanas | USD 6 millones (duplicación de roles comerciales y de marketing) | Competencia entre líneas por supermercados; pérdida de poder de compra |
+| C. Matricial: línea (producto) × función | 9 semanas | USD 3 millones | Doble mando; lentitud si no se definen decisiones |
 
-**Paso 5 — probar decisiones críticas en el modelo.** La gerencia escribe primero el supuesto asociado a **shared service** y evita convertirlo en hecho. Luego busca **coordination load** para contrastarlo en el caso de **estructuras funcionales, divisionales y matriciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Evaluación.** La interdependencia más fuerte es **producto–cliente** (supermercados quieren interlocutor por categoría y las líneas tienen mercados distintos), con economías de escala en compras y logística. Se elige **B con servicios compartidos** y un **responsable único de cliente clave** para integrar la oferta de las tres líneas ante los supermercados.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **estructuras funcionales, divisionales y matriciales**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Interfaces.** Servicios compartidos de compras y logística con acuerdos de nivel de servicio internos; regla de asignación de capacidad de producción por trimestre; un gerente de cuentas clave con autoridad sobre la propuesta integrada; ritmo mensual de revisión.
+
+**Riesgos de la transición.** Los jefes funcionales pierden un nivel de autoridad; los especialistas de marketing temen perder comunidad profesional; se planifica una **comunidad de práctica** por función, roles definidos en 30 días y piloto en la línea de snacks durante 6 meses antes de extender.
+
+**Resultados del piloto.** Tiempo de lanzamiento en snacks: de 14 a 8 semanas; escalamientos: de 9 a 3 al mes; costo adicional de la división: USD 1,6 millones al año; rotación de especialistas de marketing sube a 14 % en el semestre (se refuerza la comunidad de práctica y la carrera).
+
+**Qué muestra.** (1) La elección partió de la interdependencia principal. (2) Se diseñaron interfaces para compensar el costo. (3) El piloto probó la estructura y reveló un riesgo de talento.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **functional structure** | agrupación por disciplina o función | Cuando decision conflicts es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **divisional structure** | agrupación por producto cliente o geografía con mayor autonomía | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Estructura formal frente a modelo operativo.** La estructura define agrupaciones y líneas de autoridad; el modelo operativo (clase 172) define cómo se trabaja de punta a punta, con procesos, información y gobierno. Una estructura sin modelo operativo es un organigrama.
 
-**Frontera de aplicación:** Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación.
+**Límites.** No hay estructura que elimine los conflictos de coordinación. Los beneficios de un cambio son estimaciones y tardan en aparecer; los costos de transición son inmediatos. Las estructuras por equipos requieren madurez de gestión. La ley de Conway es una regularidad observada en software, no una ley universal. Los cambios que afecten a personas, contratos o ubicaciones deben respetar las normas laborales vigentes y verificarse con asesoría. Las cifras son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre estructuras funcionales, divisionales y matriciales |
+| Nivel | Cómo participa en la estructura |
 |---|---|
-| **Profesional** | usa **estructuras funcionales, divisionales y matriciales** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **functional structure** y **divisional structure** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decision conflicts con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si estructuras funcionales, divisionales y matriciales cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de estructuras funcionales, divisionales y matriciales reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **estructuras funcionales, divisionales y matriciales** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple las interfaces acordadas y señala cuándo fallan. |
+| **Jefe / Team Lead** | Gestiona la coordinación de su equipo con otras unidades. |
+| **Gerente** | Diseña interfaces y mide la calidad de la coordinación. |
+| **CEO / Director** | Elige la dimensión que se prioriza y acepta el costo de la elegida. |
+| **Founder / Owner** | Evita crear funciones antes de necesitarlas y diseña con la próxima etapa en mente. |
 
 ## 🏢 Caso ejecutivo
 
-Una firma global crea matriz producto x país. Cada gerente cree tener veto sobre precio y staffing; una oferta enterprise tarda seis semanas en aprobarse.
+Un grupo de servicios financieros con una aseguradora, un banco y una administradora de fondos (6.500 empleados) opera con estructuras separadas, cada una con su propia tecnología, canales y atención al cliente. Los clientes que tienen varios productos reciben tres facturas, tres claves y tres conversaciones distintas con ejecutivos de cada empresa. El directorio quiere «una sola relación con el cliente»; el CEO del banco teme perder autonomía regulatoria; la aseguradora ve riesgo de canibalización; las tres empresas están reguladas por autoridades distintas. Una consultora propone una estructura matricial por segmentos de clientes (personas, pymes, empresas) cruzada con las tres líneas de producto, con un nuevo canal único. El equipo directivo está dividido.
 
-Entrega un **decision brief de estructuras funcionales, divisionales y matriciales** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **evaluación de alternativas de estructura** que contenga: (a) las interdependencias principales y las economías de escala que se desean preservar; (b) al menos tres alternativas (por ejemplo, mantener la separación con una capa de integración comercial, divisional por segmento, matricial) con sus ventajas, costos y riesgos; (c) la recomendación con criterios; (d) el diseño de interfaces y los derechos de decisión en la alternativa elegida; (e) el plan de transición por etapas con los riesgos humanos y regulatorios; (f) las verificaciones normativas de separación regulatoria, protección de datos y laborales que se harán en las normas vigentes y con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **estructuras funcionales, divisionales y matriciales** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decision conflicts, duplicate roles; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja tu estructura actual y señala la dimensión que prioriza y la que sacrifica.
+2. Lista las tres interdependencias que más tiempo consumen y qué interfaz las gestiona.
+3. Compara dos alternativas de estructura con ventajas, costos y riesgos.
+4. Diseña una interfaz de servicio interno entre dos unidades con un acuerdo de nivel.
+5. Escribe tres medidas para proteger el talento durante una transición.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar functional structure y divisional structure como sinónimos | Se pierde la distinción entre “agrupación por disciplina o función” y “agrupación por producto cliente o geografía con mayor autonomía” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “probar decisiones críticas en el modelo” | Se saltó “mapear variedad e interdependencia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo y marca el primer supuesto no demostrado. |
-| Optimizar solo decision conflicts | La métrica local sustituyó al resultado del sistema | Contrástala con duplicate roles y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre estructuras funcionales, divisionales y matriciales | Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación. |
-| No fijar revisión | Una decisión sobre estructuras funcionales, divisionales y matriciales se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Reorganizar oscilando | Se cambia sin decidir qué priorizar | Elegir la dimensión y compensar el costo. |
+| Matriz sin derechos de decisión | Se busca lo mejor de ambos mundos | Clarificar quién decide qué. |
+| Dividir sin integrar | Se descentraliza sin interfaces | Diseñar mecanismos de coordinación. |
+| Duplicar funciones sin medir | Se acepta como inevitable | Medir el costo y compartir lo que tiene escala. |
+| Ignorar el talento | Se ve el organigrama | Medidas de retención y comunidades de práctica. |
+| Cambiar sin piloto | Se busca rapidez | Probar y ajustar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **functional structure** y **divisional structure** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **matrix** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear variedad e interdependencia → identificar unidad primaria de accountability** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decision conflicts** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **estructuras funcionales, divisionales y matriciales**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación.**?
+1. ¿Qué dimensión agrupa cada estructura básica?
+2. ¿Cuál es el principal costo de la estructura funcional?
+3. ¿Cuál es el principal costo de la divisional?
+4. ¿Qué exige una matriz para funcionar?
+5. ¿Qué dicen Skelton y Pais sobre los tipos de equipo?
+6. ¿Qué es una interfaz entre unidades?
+7. ¿Qué riesgos tiene una transición de estructura?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La funcional agrupa por especialidad; la divisional por producto, mercado, cliente o región; la matricial combina dos dimensiones.
+2. Los silos: cada función optimiza lo suyo y la coordinación entre funciones es lenta.
+3. La duplicación de funciones, la pérdida de escala y la competencia interna por recursos.
+4. Derechos de decisión claros, líderes capacitados para negociar y alcance limitado a donde es indispensable.
+5. Que conviene organizar equipos alineados al flujo, habilitadores, de subsistemas complicados y de plataforma, con modos de interacción definidos para reducir dependencias.
+6. Un acuerdo sobre cómo interactúan dos unidades, con servicios, plazos e información compartida.
+7. Pérdida de talento y relaciones informales, ambigüedad, desmotivación, doble trabajo y caída temporal del desempeño.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/170-estructuras-funcionales-divisionales-y-matriciales/`:
 
-- `risk-governance-brief.md` con el problema específico de **estructuras funcionales, divisionales y matriciales**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **estructuras funcionales, divisionales y matriciales** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **functional structure**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una firma global crea matriz producto x país. Cada gerente cree tener veto sobre precio y staffing; una oferta enterprise tarda seis semanas en aprobarse.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con los riesgos de la transición del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con la evaluación de alternativas y las interfaces;
+- `decision-journal.md` con los criterios de elección y el plan por etapas.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- Patrick Lencioni — *The Advantage* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** perspectiva de Salud organizacional aplicada al problema de la clase. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856).
-- Aaron Dignan — *Brave New Work* (Portfolio, 2019). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780525536208](https://openlibrary.org/isbn/9780525536208).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **estructuras funcionales, divisionales y matriciales** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **estructuras funcionales, divisionales y matriciales** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **estructuras funcionales, divisionales y matriciales** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **estructuras funcionales, divisionales y matriciales** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** tipos de estructura y mecanismos de coordinación. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Paul R. Lawrence & Jay W. Lorsch — *Differentiation and Integration in Complex Organizations* (Administrative Science Quarterly, 1967). **Uso en esta clase:** relación entre diferenciación e integración. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [DOI 10.2307/2391211](https://doi.org/10.2307/2391211).
+- Matthew Skelton & Manuel Pais — *Team Topologies* (IT Revolution Press, 2019). **Uso en esta clase:** tipos de equipo, modos de interacción y ley de Conway. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9781942788812](https://openlibrary.org/isbn/9781942788812).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** equipos de equipos y conciencia compartida. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** costo de coordinación en tiempo y energía. Lectura selectiva sobre **estructuras funcionales, divisionales y matriciales**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
 
-> **Regla de fuentes para Estructuras funcionales, divisionales y matriciales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **estructuras funcionales, divisionales y matriciales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Estructuras funcionales, divisionales y matriciales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de separación regulatoria de entidades financieras. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

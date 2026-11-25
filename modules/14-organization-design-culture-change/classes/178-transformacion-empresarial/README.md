@@ -10,217 +10,196 @@
 
 ## 🎯 Propósito
 
-Transformación empresarial implica cambiar simultáneamente estrategia, operating model, capacidades, tecnología y comportamiento para lograr un outcome material. Un portafolio de proyectos no es transformación si no altera cómo crea y captura valor la organización.
+Una transformación empresarial no es un proyecto grande: es un cambio simultáneo en **cómo se genera valor, cómo se organiza el trabajo y cómo se toman decisiones**. Por eso suele ser larga, costosa y arriesgada. Las empresas que se transforman se enfrentan a una tensión permanente: deben seguir operando el negocio que paga las cuentas mientras construyen el que podría pagarlas en el futuro. Descuidar lo primero pone en riesgo la caja; descuidar lo segundo, la relevancia. La mayoría de las transformaciones fracasa por una de esas dos razones, o por perder el hilo entre la intención estratégica y el trabajo diario.
 
-La salida de esta parte es **diseñar estructura, derechos de decisión, cultura y cambio como un sistema**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **transformación empresarial** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la propuesta de Kotter de una estructura dual (jerarquía y red), en las ideas de Dignan sobre sistemas operativos organizacionales más adaptativos, en el panorama de Laloux sobre formas de organizar el trabajo, y en las ideas de Senge sobre aprendizaje organizacional. Al terminar sabrás delimitar una transformación, organizarla en tres frentes, decidir qué se prueba y qué se escala, gobernarla con indicadores y detectar señales de que se estanca.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `transformation`, `transformation thesis`, `workstream`, `benefit realization`, `transformation office` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** benefits realized, capability maturity, adoption sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Delimitar** una transformación y distinguirla de proyectos y mejoras.
+2. **Organizar** tres frentes: estabilizar la base, construir lo nuevo y transferir y anclar.
+3. **Decidir** qué se prueba, qué se escala y qué se cierra.
+4. **Gobernar** la transformación con indicadores, hitos y puntos de decisión.
+5. **Detectar** señales de estancamiento y de agotamiento organizacional.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define transformation y transformation thesis sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con benefits realized y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué transformación vivió tu organización y qué frente se descuidó? |
+| 20–60 min | Delimitación, tres frentes, pilotos, escalamiento, gobierno y señales. |
+| 60–105 min | Ejemplo trabajado: transformación de un distribuidor tradicional hacia un modelo mixto. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **transformation** | programa de cambio sistémico que modifica capacidades y resultados materiales | Distingue un hecho compatible y otro que lo refute. |
-| **transformation thesis** | argumento de por qué un conjunto de cambios producirá valor | Distingue un hecho compatible y otro que lo refute. |
-| **workstream** | flujo coordinado de iniciativas dentro de la transformación | Distingue un hecho compatible y otro que lo refute. |
-| **benefit realization** | medición de resultados económicos u operativos obtenidos | Distingue un hecho compatible y otro que lo refute. |
-| **transformation office** | mecanismo temporal de coordinación escalamiento y evidencia | Distingue un hecho compatible y otro que lo refute. |
+| **Transformación** | Cambio profundo y simultáneo en modelo, organización y conducta. | Afecta varias áreas y dura años. |
+| **Estructura dual** | Jerarquía para operar y red para impulsar el cambio. | Coexisten equipos permanentes y voluntarios. |
+| **Estabilizar la base** | Proteger y mejorar el negocio actual. | Se financia y se opera sin descuidos. |
+| **Piloto** | Prueba acotada para aprender antes de escalar. | Tiene hipótesis, plazo y métricas. |
+| **Escalar** | Extender lo que funcionó a más áreas. | Exige cambios de roles, incentivos y gobierno. |
+| **Sistema operativo organizacional** | Conjunto de prácticas con que una organización decide, coordina y aprende. | Reuniones, presupuestos, roles, reglas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 178: 1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal](modelo-mental.svg)
+![Una transformación gestiona tres frentes a la vez: estabilizar la base, construir lo nuevo, transferir y anclar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Transformación empresarial implica cambiar simultáneamente estrategia, operating model, capacidades, tecnología y comportamiento para lograr un outcome material. Un portafolio de proyectos no es transformación si no altera cómo crea y captura valor la organización.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal.**
+**Cómo leer el diagrama.** Tres columnas. **Estabilizar la base**: proteger el negocio que paga hoy, resolver los problemas que bloquean y liberar capacidad para el cambio. **Construir lo nuevo**: pilotos y equipos que prueban el modelo, capacidades nuevas, decisiones por evidencia. **Transferir y anclar**: escalar lo que funciona, cambiar incentivos, roles y gobierno, y cerrar lo que ya no se usa. La nota explica que la transformación fracasa cuando se descuida la operación actual o cuando la innovación queda aislada, y que Kotter propone una estructura dual.
 
 ## 📖 Desarrollo
 
-### 1. transformation: mecanismo central
+### 1. Qué es y qué no es una transformación
 
-**transformation** se entiende aquí como **programa de cambio sistémico que modifica capacidades y resultados materiales**. Esta es la pieza causal o estructural desde la que se inicia **transformación empresarial**: antes de definir tesis y value case, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una **mejora** optimiza lo existente (reducir el tiempo de despacho). Un **proyecto** entrega algo definido con plazo (implementar un sistema). Una **transformación** altera **la forma de ganar dinero y de trabajar**: nuevos clientes o canales, nuevas capacidades, nuevas reglas de decisión, otra estructura. Se reconoce porque requiere **cambios en varias dimensiones a la vez** (estrategia, estructura, procesos, personas, tecnología, cultura) y porque ningún área puede hacerla sola. Nombrar como «transformación» cualquier iniciativa diluye el término y la atención de la dirección. Antes de lanzarla, se escribe en una página: qué problema u oportunidad la justifica, qué será distinto en tres años y qué se arriesga.
 
-La lectura rectora de este bloque es Jay R. Galbraith — *Designing Organizations*. Su aporte se usa para examinar **alineación de estrategia, estructura, procesos, recompensas y personas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **benefits realized**; regístrala con periodo, unidad, población y baseline.
+### 2. Tres frentes simultáneos
 
-Relaciona el mecanismo con **transformation thesis**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El diagrama propone tres frentes. **Estabilizar la base** asegura que el negocio actual siga generando caja, servicio y confianza: sin ello no hay recursos ni credibilidad. **Construir lo nuevo** crea capacidades y modelos en espacios protegidos: equipos pequeños, pilotos, métricas de aprendizaje. **Transferir y anclar** lleva lo que funciona a la organización principal, cambia incentivos, roles y gobierno y cierra lo que ya no se usa. Los frentes se **coordinan** pero no se mezclan: exigir que el equipo piloto cumpla las métricas de la base lo ahoga, y dejarlo aislado impide que lo aprendido llegue al núcleo. Las personas se asignan con claridad para evitar sobrecargar a quienes operan.
 
-### 2. transformation thesis: frontera conceptual y error de clasificación
+### 3. Estructura dual
 
-**Definición operacional:** argumento de por qué un conjunto de cambios producirá valor. Su valor está en distinguirlo de **transformation** y **workstream**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Kotter plantea que las organizaciones jerárquicas son buenas para operar con eficiencia, pero lentas para detectar y aprovechar cambios. Propone sumar a la jerarquía una **red** de personas voluntarias de distintas áreas y niveles, orientada a oportunidades estratégicas, con una **coalición guía** y una visión compartida. La red no reemplaza la jerarquía: la complementa. Su éxito depende de que la jerarquía **libere tiempo y atención** de las personas, de que la dirección apoye sus propuestas y de que haya canales para convertir ideas en decisiones. Sin esos elementos, la red es un club de entusiastas sin efecto.
 
-Contrasta el problema con Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*, que aporta una mirada sobre **supuestos básicos, valores declarados y artefactos culturales**. Formula dos mini-casos: uno que sí satisface la definición de **transformation thesis** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **capability maturity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Pilotos y aprendizaje
 
-Antes de traducir a capabilities y workstreams, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un buen piloto tiene una **hipótesis** (qué creemos que ocurrirá), un **alcance acotado**, un **plazo**, **métricas** definidas antes (de resultado y de aprendizaje) y **criterios de decisión** (escalar, ajustar, cerrar). Senge enfatiza el aprendizaje organizacional: los pilotos solo valen si lo aprendido circula. Se evita el «piloto eterno» sin decisión y el «piloto de laboratorio» con recursos que no existirán al escalar. Se registran los fracasos con la misma seriedad que los éxitos. Un piloto exitoso en condiciones especiales (mejores personas, más atención) puede no repetirse; por eso se prueba la capacidad de replicar.
 
-### 3. workstream: operacionalización y medición
+### 5. Escalar y anclar
 
-**workstream** significa **flujo coordinado de iniciativas dentro de la transformación**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Escalar exige **cambiar el sistema** que rodea a lo nuevo: roles y cargos, incentivos, presupuestos, procesos de aprobación, gobierno de datos y capacitación. Se decide la **secuencia** (por unidad, región o proceso), se cuida el **ritmo** para no saturar a los equipos y se establece un **dueño** claro. Anclar significa **cerrar lo antiguo**: apagar sistemas, eliminar reportes y reunir presupuestos, para evitar dobles cargas. Los incentivos (clase 175), los derechos de decisión (clase 173) y la cultura (clase 174) deben coincidir con lo nuevo; si no, la organización vuelve al comportamiento anterior.
 
-John P. Kotter — *Accelerate* orienta este bloque mediante **perspectiva de Cambio aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **adoption**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Otras formas de organizar el trabajo
 
-Al llegar a secuenciar dependencias y quick wins, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Laloux describe organizaciones que operan con **autogestión** y propósito evolutivo, y Dignan propone mejorar el «sistema operativo» de las organizaciones (cómo se decide, se financia, se estructura y se aprende) mediante experimentos pequeños. Estas ideas ofrecen ejemplos y preguntas útiles: ¿qué decisiones podrían tomarse más cerca del trabajo?, ¿qué reuniones y aprobaciones pueden eliminarse? Sin embargo, la evidencia sobre su aplicabilidad general es limitada y proviene principalmente de casos; se adaptan por etapas, con experimentos y con atención a los límites legales y de gobierno de cada empresa, y no como moda.
 
-### 4. benefit realization: trade-offs y efectos de segundo orden
+### 7. Gobierno y señales de estancamiento
 
-**Definición:** medición de resultados económicos u operativos obtenidos. Este concepto obliga a abandonar la idea de que **transformación empresarial** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de gobernar beneficios y riesgos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John P. Kotter — *Leading Change* aporta una lente sobre **urgencia, coalición, visión, movilización y consolidación del cambio**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash impact** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **transformación empresarial**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **benefit realization** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. transformation office: gobernanza, límites e integración
-
-**transformation office** se define como **mecanismo temporal de coordinación escalamiento y evidencia** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Patrick Lencioni — *The Advantage* se utiliza para estudiar **perspectiva de Salud organizacional aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar institucionalizar capacidades y retirar estructura temporal, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **transformation**, **transformation thesis**, **workstream**, **benefit realization** y **transformation office** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **transformación empresarial** no consiste en sumar cinco definiciones. Empieza por **transformation**, contrasta **transformation thesis** con **workstream**, incorpora **benefit realization** como restricción o mecanismo y usa **transformation office** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una transformación necesita **gobierno**: un patrocinador con autoridad, un equipo de dirección con tiempo, una **oficina o función de coordinación** ligera, reuniones periódicas de decisión (no solo de informe), un **tablero** con indicadores de resultado, de adopción, de salud de la base y de personas, y **puntos de decisión** fijados de antemano (continuar, reorientar, detener). Señales de estancamiento: los hitos se cumplen pero los resultados no mejoran; los mejores talentos salen o se agotan; la base se deteriora; los pilotos no llegan a escala; el discurso cambia pero no los incentivos; la dirección pierde interés tras la primera fase. Ante estas señales se revisa la hipótesis, no solo la ejecución.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **transformación empresarial** ayuda a desafiar? |
-| Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* | supuestos básicos, valores declarados y artefactos culturales | ¿Qué supuesto de **transformación empresarial** ayuda a desafiar? |
-| John P. Kotter — *Accelerate* | perspectiva de Cambio aplicada al problema de la clase | ¿Qué supuesto de **transformación empresarial** ayuda a desafiar? |
-| John P. Kotter — *Leading Change* | urgencia, coalición, visión, movilización y consolidación del cambio | ¿Qué supuesto de **transformación empresarial** ayuda a desafiar? |
-| Patrick Lencioni — *The Advantage* | perspectiva de Salud organizacional aplicada al problema de la clase | ¿Qué supuesto de **transformación empresarial** ayuda a desafiar? |
-
-En **transformación empresarial**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **transformation**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kotter (*Accelerate*) | Estructura dual de jerarquía y red. | Basado en casos; requiere apoyo de la dirección. | ¿Qué libera tiempo a la red? |
+| Kotter (*Leading Change*) | Etapas de un cambio sostenido. | No detalla métricas de negocio. | ¿Qué etapa está débil? |
+| Dignan | Experimentar con el sistema operativo de la organización. | Evidencia mayormente de casos. | ¿Qué decisión puede acercarse al trabajo? |
+| Laloux | Panorama de organizaciones autogestionadas. | Aplicabilidad general discutida. | ¿Qué condiciones se necesitan? |
+| Senge | Aprendizaje organizacional y pensamiento sistémico. | Exige disciplina y tiempo. | ¿Qué aprendimos y dónde se registró? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa llama transformación digital a 38 proyectos tecnológicos. Cada uno entrega outputs, pero no existe outcome empresarial común ni owner de beneficios después del go-live.
+**Situación (hipotética).** Un distribuidor mayorista de ferretería con 1.500 personas vende 85 % por vendedores en terreno y 15 % en un canal digital incipiente. Su margen operativo cayó de 8,0 % a 4,5 % en tres años por la competencia de plataformas. Facturación: 240.000 millones de pesos. La dirección anuncia una «transformación digital» con 30 iniciativas simultáneas.
 
-**Paso 1 — definir tesis y value case.** La gerencia escribe primero el supuesto asociado a **transformation** y evita convertirlo en hecho. Luego busca **benefits realized** para contrastarlo en el caso de **transformación empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Delimitación.** No es una mejora ni un proyecto: cambia el modelo (de venta presencial a venta mixta), la organización (equipos de producto y de datos) y la conducta (decisiones por evidencia). Se escribe en una página: por qué, qué será distinto en tres años y qué se arriesga.
 
-**Paso 2 — traducir a capabilities y workstreams.** La gerencia escribe primero el supuesto asociado a **transformation thesis** y evita convertirlo en hecho. Luego busca **capability maturity** para contrastarlo en el caso de **transformación empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tres frentes.**
 
-**Paso 3 — secuenciar dependencias y quick wins.** La gerencia escribe primero el supuesto asociado a **workstream** y evita convertirlo en hecho. Luego busca **adoption** para contrastarlo en el caso de **transformación empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Frente | Contenido | Dueño |
+|---|---|---|
+| Estabilizar la base | Margen y servicio de la venta presencial: renegociar condiciones con 40 proveedores, reducir 12 % el costo logístico, proteger a los 60 vendedores principales | Gerencia comercial y operaciones |
+| Construir lo nuevo | Equipo de 25 personas para el canal digital con piloto en dos regiones, catálogo, precios y logística de última milla | Director digital |
+| Transferir y anclar | Cambiar incentivos de vendedores para premiar clientes migrados, rediseñar roles y cerrar tres reportes y dos sistemas | Gerente general y personas |
 
-**Paso 4 — gobernar beneficios y riesgos.** La gerencia escribe primero el supuesto asociado a **benefit realization** y evita convertirlo en hecho. Luego busca **cash impact** para contrastarlo en el caso de **transformación empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reducción de iniciativas.** De 30 a 7, con un criterio explícito: alineada con tres hipótesis, con dueño y con impacto estimado. Cada iniciativa tiene una métrica.
 
-**Paso 5 — institucionalizar capacidades y retirar estructura temporal.** La gerencia escribe primero el supuesto asociado a **transformation office** y evita convertirlo en hecho. Luego busca **dependency risk** para contrastarlo en el caso de **transformación empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estructura dual.** Se crea una red de 60 voluntarios, 4 horas semanales, liberados por sus jefes, con una coalición guía de 8 personas y reunión quincenal.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **transformación empresarial**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Cifras de referencia.** El margen de 4,5 % sobre 240.000 millones equivale a 10.800 millones; con 8 % serían 19.200 millones, una diferencia de 8.400 millones. Meta a tres años: 6,5 % con ventas de 255.000 millones, es decir 16.575 millones. El piloto se financia con 1.800 millones (0,75 % de la facturación). El canal digital debe alcanzar 12 % de las ventas.
+
+**Piloto y decisión.** Hipótesis: 30 % de los clientes pequeños migra al canal digital con un costo de servir 35 % menor. A los seis meses migró 22 %, el costo de servir bajó 28 %, pero la logística de última milla excede lo previsto. Decisión: continuar, ajustar logística y extender a una región más.
+
+**Señales de seguimiento.** Margen, ventas digitales, migración, costo de servir, rotación de vendedores clave, satisfacción, adopción de la red y salud de la base.
+
+**Cuidados.** Los cambios de roles de vendedores y de condiciones se verifican con asesoría laboral y normas vigentes; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Delimitar reduce iniciativas dispersas. (2) Cada frente tiene dueño y métrica. (3) El gobierno decide con evidencia del piloto.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **transformation** | programa de cambio sistémico que modifica capacidades y resultados materiales | Cuando benefits realized es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **transformation thesis** | argumento de por qué un conjunto de cambios producirá valor | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Transformación frente a mejora continua.** La mejora continua refina; la transformación cambia el modelo. Ambas son necesarias y se confunden con facilidad.
 
-**Frontera de aplicación:** La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal.
+**Límites.** No hay una receta única; la evidencia proviene en gran parte de casos y de marcos de consultoría y académicos con alcances distintos. Las organizaciones con alta regulación o con restricciones laborales y sindicales tienen más condiciones que verificar. Las cifras del ejemplo son ilustrativas y no corresponden a una empresa real.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre transformación empresarial |
+| Nivel | Cómo participa en la transformación |
 |---|---|
-| **Profesional** | usa **transformación empresarial** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **transformation** y **transformation thesis** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta benefits realized con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si transformación empresarial cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de transformación empresarial reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **transformación empresarial** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Participa en pilotos y comparte aprendizajes. |
+| **Jefe / Team Lead** | Libera tiempo para la red y protege la operación. |
+| **Gerente** | Dirige un frente con métricas y dueños claros. |
+| **CEO / Director** | Patrocina, prioriza y decide en los puntos de revisión. |
+| **Founder / Owner** | Asegura caja y propósito durante el cambio de modelo. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa llama transformación digital a 38 proyectos tecnológicos. Cada uno entrega outputs, pero no existe outcome empresarial común ni owner de beneficios después del go-live.
+Una empresa de educación técnica con 2.100 personas y 38 sedes quiere pasar de un modelo presencial a uno híbrido. Hay 26 iniciativas, tres consultoras trabajando en paralelo y un comité directivo que se reúne mensualmente para escuchar reportes. La matrícula presencial cayó 9 % anual; el 14 % de los docentes ha participado en alguna prueba de contenidos digitales; el margen bajó de 11 % a 6 %. Un grupo de sedes del sur logró un modelo híbrido con 82 % de aprobación estudiantil, pero se le exige cumplir los mismos indicadores que a las sedes tradicionales, y varios directivos de sede piden detener todo para «no perder matrícula».
 
-Entrega un **decision brief de transformación empresarial** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de transformación** que contenga: (a) la delimitación en una página; (b) los tres frentes con dueños y presupuesto; (c) la reducción y priorización de iniciativas; (d) la estructura dual y el gobierno, con puntos de decisión; (e) los pilotos con hipótesis, métricas y criterios de escalamiento; (f) las señales de estancamiento, los indicadores del tablero y las verificaciones laborales y regulatorias.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **transformación empresarial** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta benefits realized, capability maturity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe una página con el problema, el estado a tres años y el riesgo de una transformación.
+2. Asigna iniciativas a los tres frentes y define un dueño para cada una.
+3. Diseña un piloto con hipótesis, métricas y criterios de decisión.
+4. Elimina o pospone cinco iniciativas y explica el criterio.
+5. Define seis indicadores para el tablero y tres puntos de decisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar transformation y transformation thesis como sinónimos | Se pierde la distinción entre “programa de cambio sistémico que modifica capacidades y resultados materiales” y “argumento de por qué un conjunto de cambios producirá valor” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “institucionalizar capacidades y retirar estructura temporal” | Se saltó “definir tesis y value case” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal y marca el primer supuesto no demostrado. |
-| Optimizar solo benefits realized | La métrica local sustituyó al resultado del sistema | Contrástala con capability maturity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre transformación empresarial | La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal. |
-| No fijar revisión | Una decisión sobre transformación empresarial se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Llamar transformación a todo | Se busca relevancia | Delimitar y reservar el término para cambios de modelo. |
+| Descuidar la base | La atención va a lo nuevo | Asignar dueños y metas a la operación actual. |
+| Piloto aislado | Se protege a la innovación | Definir el camino de transferencia desde el inicio. |
+| Demasiadas iniciativas | Cada área propone las suyas | Priorizar por hipótesis, impacto y capacidad. |
+| Gobierno de informes | Se prefieren los reportes | Reuniones de decisión con puntos de revisión. |
+| No cerrar lo antiguo | Se teme el riesgo | Apagar con plan y fechas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **transformation** y **transformation thesis** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **workstream** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir tesis y value case → traducir a capabilities y workstreams** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **benefits realized** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **transformación empresarial**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal.**?
+1. ¿En qué se diferencia una transformación de una mejora o un proyecto?
+2. ¿Cuáles son los tres frentes de la transformación?
+3. ¿Qué propone Kotter con la estructura dual?
+4. ¿Qué elementos debe tener un buen piloto?
+5. ¿Qué hay que cambiar para escalar lo que funcionó?
+6. ¿Qué señales indican estancamiento?
+7. ¿Qué límites tienen las ideas de Laloux y Dignan?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La transformación cambia el modelo, la organización y la conducta a la vez; la mejora optimiza lo existente y el proyecto entrega algo definido.
+2. Estabilizar la base, construir lo nuevo y transferir y anclar.
+3. Sumar a la jerarquía una red de voluntarios orientada a oportunidades, con coalición guía y visión compartida.
+4. Hipótesis, alcance acotado, plazo, métricas previas y criterios de decisión.
+5. Roles, incentivos, presupuestos, procesos, gobierno de datos y capacitación, con un dueño claro, y cerrar lo antiguo.
+6. Hitos que se cumplen sin resultados, salida o agotamiento de talento, deterioro de la base, pilotos que no escalan o dirección que pierde interés.
+7. La evidencia proviene sobre todo de casos; su aplicabilidad general es discutida y se adapta por etapas y con límites legales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/178-transformacion-empresarial/`:
 
-- `risk-governance-brief.md` con el problema específico de **transformación empresarial**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **transformación empresarial** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **transformation**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa llama transformación digital a 38 proyectos tecnológicos. Cada uno entrega outputs, pero no existe outcome empresarial común ni owner de beneficios después del go-live.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `project-charter.md` (plantilla [Project charter](../../../../templates/project-charter.md)) con los frentes, dueños e hitos;
+- `decision-journal.md` con las hipótesis de los pilotos y los puntos de decisión.
 
 ## 📗 Fuentes y verificación
 
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership* (John Wiley & Sons, Incorporated, 1991). **Uso en esta clase:** supuestos básicos, valores declarados y artefactos culturales. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562).
-- John P. Kotter — *Accelerate* (Harvard Business Review Press, 2014). **Uso en esta clase:** perspectiva de Cambio aplicada al problema de la clase. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9781625271747](https://openlibrary.org/isbn/9781625271747).
-- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
-- Patrick Lencioni — *The Advantage* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** perspectiva de Salud organizacional aplicada al problema de la clase. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856).
-- Aaron Dignan — *Brave New Work* (Portfolio, 2019). **Uso en esta clase:** perspectiva de Diseño organizacional aplicada al problema de la clase. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780525536208](https://openlibrary.org/isbn/9780525536208).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **transformación empresarial** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **transformación empresarial**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **transformación empresarial** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **transformación empresarial** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **transformación empresarial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- John P. Kotter — *Accelerate* (Harvard Business Review Press, 2014). **Uso en esta clase:** estructura dual de jerarquía y red. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9781625271747](https://openlibrary.org/isbn/9781625271747).
+- John P. Kotter — *Leading Change* (Harvard Business School Press, 1996). **Uso en esta clase:** etapas de un cambio sostenido. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780875847474](https://openlibrary.org/isbn/9780875847474).
+- Aaron Dignan — *Brave New Work* (Portfolio, 2019). **Uso en esta clase:** experimentos sobre el sistema operativo de la organización. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780525536208](https://openlibrary.org/isbn/9780525536208).
+- Frederic Laloux — *Reinventing Organizations* (Nelson Parker, 2014). **Uso en esta clase:** panorama de organizaciones autogestionadas. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9782960133516](https://openlibrary.org/isbn/9782960133516).
+- Peter M. Senge — *The Fifth Discipline* (Random House Audio, 1994). **Uso en esta clase:** aprendizaje organizacional y pensamiento sistémico. Lectura selectiva sobre **transformación empresarial**. **Localizador:** [ISBN-13 9780553473216](https://openlibrary.org/isbn/9780553473216).
 
-> **Regla de fuentes para Transformación empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **transformación empresarial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Transformación empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales y regulatorias de los cambios de roles. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

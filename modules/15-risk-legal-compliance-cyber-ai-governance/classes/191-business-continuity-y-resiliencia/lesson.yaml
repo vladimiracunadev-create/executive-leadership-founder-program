@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir BIA de RTO mediante evidencia observable."
-  - "Aplicar la secuencia: realizar BIA → priorizar servicios y dependencias → definir RTO y RPO → diseñar estrategias y planes → ejercitar medir brechas y mejorar."
-  - "Interpretar RTO achievement, RPO achievement, exercise findings sin atribuir causalidad automática."
-  - "Resolver el caso de business continuity y resiliencia con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Realizar un análisis de impacto de negocio e identificar procesos críticos."
+  - "Definir objetivos de recuperación de tiempo y de datos con criterio de negocio."
+  - "Comparar estrategias de continuidad por costo, tiempo y riesgo."
+  - "Planificar y probar la continuidad con ejercicios realistas."
+  - "Cultivar prácticas de resiliencia y aprendizaje de las fallas."
 deliverable: "risk-governance-brief.md"
 references:
-  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
-  - "John C. Hull — *Risk Management and Financial Institutions*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "ISO — *ISO 31000 Risk management*"
-  - "Richard A. Clarke & Robert K. Knake — *The Fifth Domain*"
-  - "Bob Tricker — *Corporate Governance*"
-  - "NIST — *AI Risk Management Framework*. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>."
+  - "ISO — *ISO 22301 Business continuity management systems*"
+  - "Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected*"
+  - "Charles Perrow — *Normal Accidents*"
+  - "Diane Vaughan — *The Challenger Launch Decision*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
 limits:
-  - "RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos."
+  - "Los costos de interrupción y las probabilidades son estimaciones."
 evidence_signals:
-  - "RTO achievement"
-  - "RPO achievement"
-  - "exercise findings"
-  - "single points of failure"
-  - "recovery dependency"
+  - "procesos críticos y tolerables definidos"
+  - "RTO y RPO por proceso"
+  - "estrategias comparadas por costo"
+  - "pruebas con tiempos reales"

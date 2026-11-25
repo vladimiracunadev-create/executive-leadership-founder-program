@@ -6,7 +6,7 @@
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
 <text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 048 · Liderar cuando el problema son las personas</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Coombs (2007) · Colquitt et al. (2001) · Heifetz et al. (2009)</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Coombs (2007) · Colquitt et al. (2001) · Heifetz et al. (2009)</text>
 <rect x="28" y="92" width="320" height="396" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
 <path d="M28,138 V104 a12,12 0 0 1 12,-12 H336 a12,12 0 0 1 12,12 V138 Z" fill="#cf222e"/>
 <text x="44" y="112" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.2">0–6 HORAS</text>

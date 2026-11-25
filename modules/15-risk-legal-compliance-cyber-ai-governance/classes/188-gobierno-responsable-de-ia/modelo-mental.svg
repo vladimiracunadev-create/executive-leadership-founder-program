@@ -1,68 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g188 d-g188" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g188">Ficha visual de la clase 188: Gobierno responsable de IA</title>
-<desc id="d-g188">Conceptos: AI governance; AI risk; human oversight; model evaluation; AI inventory. Método: inventariar casos de IA → clasificar impacto y contexto → definir evaluación y guardrails → asignar accountability y human oversight → monitorizar drift incidentes y cambios.</desc>
-<defs><marker id="p-g188" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 188 · Gobierno responsable de IA</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >AI governance</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >sistema de responsabilidades y controles para</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desarrollar o usar IA</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >AI risk</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >posible daño o pérdida derivada de comportamiento uso o</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >dependencia de IA</text>
-<circle cx="38" cy="256.24" r="5" fill="#bc4c00"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >human oversight</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intervención humana con autoridad y capacidad real de</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >revisar</text>
-<circle cx="38" cy="328.36" r="5" fill="#bc4c00"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >model evaluation</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >medición de desempeño robustez y riesgos en contexto</text>
-<circle cx="38" cy="386.36" r="5" fill="#bc4c00"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >AI inventory</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >registro de sistemas owners finalidad datos y</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >criticidad</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >inventariar casos de IA</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >clasificar impacto y contexto</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir evaluación y guardrails</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >asignar accountability y human oversight</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >monitorizar drift incidentes y cambios</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#bc4c00"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >AI inventory coverage</text>
-<rect x="208.9" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="221.9" cy="497.48" r="3.5" fill="#bc4c00"/>
-<text x="232.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >evaluation pass rate</text>
-<rect x="382.9" y="484.48" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="395.9" cy="497.48" r="3.5" fill="#bc4c00"/>
-<text x="406.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >human override</text>
-<rect x="515.5" y="484.48" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="528.5" cy="497.48" r="3.5" fill="#bc4c00"/>
-<text x="539.5" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >incident rate</text>
-<rect x="641.2" y="484.48" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="654.2" cy="497.48" r="3.5" fill="#bc4c00"/>
-<text x="665.2" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >model drift</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >como excusa para ignorar privacidad, discriminación o seguridad.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.06" width="1040" role="img" aria-labelledby="t-s188 d-s188" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s188">Clase 188 · Cuánto gobierno necesita un sistema de IA</title>
+<desc id="d-s188">Cuadrante de impacto de la decisión y autonomía del sistema para graduar la supervisión de la inteligencia artificial.</desc>
+<defs><marker id="p-s188" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 188 · Cuánto gobierno necesita un sistema de IA</text>
+<text x="1012" y="43" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >NIST AI RMF · OECD AI Principles · Reglamento (UE) 2024/1689</text>
+<text x="362.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Una persona decide</text>
+<text x="799.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >El sistema decide solo</text>
+<text transform="translate(120,160.25) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Alto impacto</text>
+<text transform="translate(120,268.75) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Bajo impacto</text>
+<rect x="150" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="150.0" y="112.0" width="425.0" height="34" rx="12" fill="#bc4c00"/>
+<text x="166" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Con control humano</text>
+<text x="166" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alto impacto con una persona que decide: documentar y</text>
+<text x="166" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >asegurar que revise de verdad.</text>
+<rect x="587" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="587.0" y="112.0" width="425.0" height="34" rx="12" fill="#cf222e"/>
+<text x="603" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Supervisión intensiva</text>
+<text x="603" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alto impacto con decisión automática: evaluación previa,</text>
+<text x="603" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pruebas, bitácora y revisión humana efectiva.</text>
+<rect x="150" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="150.0" y="220.5" width="425.0" height="34" rx="12" fill="#1a7f37"/>
+<text x="166" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Uso con reglas básicas</text>
+<text x="166" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Bajo impacto con una persona que decide: guía de uso y</text>
+<text x="166" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >datos permitidos.</text>
+<rect x="587" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="587.0" y="220.5" width="425.0" height="34" rx="12" fill="#0969da"/>
+<text x="603" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Monitoreo ligero</text>
+<text x="603" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Bajo impacto con decisión automática: métricas de</text>
+<text x="603" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >calidad y revisión periódica.</text>
+<rect x="28" y="329" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La intensidad del gobierno se gradúa por el impacto sobre las personas y el negocio, no por la sofisticación de la técnica. Las</text>
+<text x="44" y="368.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >decisiones sobre derechos o dinero de una persona merecen la mayor atención.</text>
+<text x="28" y="415.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las obligaciones legales sobre IA varían por jurisdicción y cambian con rapidez; se verifican en la fuente oficial.</text>
 </svg>

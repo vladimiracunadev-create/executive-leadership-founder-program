@@ -10,225 +10,196 @@
 
 ## 🎯 Propósito
 
-Gobernanza de ciberseguridad traduce riesgo técnico a exposición empresarial, responsabilidades, tolerancias y decisiones de inversión. NIST CSF 2.0 incorpora Govern junto a Identify, Protect, Detect, Respond y Recover: el directorio supervisa riesgo, no configura firewalls.
+Cuando una empresa sufre un ciberataque, la pregunta del directorio no es técnica: ¿por qué no estábamos preparados?, ¿quién era responsable?, ¿cuánto nos costó y cuánto pudo costarnos?, ¿qué le dijimos a los clientes y a las autoridades? La ciberseguridad se trata muchas veces como un asunto de informática, delegado en un equipo técnico que pide presupuesto sin un lenguaje de negocio, y una dirección que aprueba o recorta sin entender qué protege ni qué riesgo acepta. El resultado son controles básicos incompletos, incidentes que se descubren tarde y decisiones de crisis improvisadas.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **gobierno de ciberseguridad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase trata la ciberseguridad como **riesgo de negocio con gobierno de dirección**: qué activos importan, qué escenarios amenazan al negocio, cuánto riesgo se acepta, qué controles básicos son innegociables, cómo se mide el avance y cómo se responde. Se apoya en el marco de ciberseguridad del NIST en su versión 2.0, que incorporó el gobierno como función central, en la visión de ingeniería y economía de la seguridad de Anderson, en el análisis estratégico de Clarke y Knake, y remite a las fuentes oficiales chilenas (la legislación de ciberseguridad y la Agencia Nacional de Ciberseguridad) para las obligaciones. Al terminar sabrás conducir una conversación ejecutiva de ciberseguridad, priorizar con criterio de riesgo, exigir indicadores significativos y preparar la respuesta.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `cyber risk`, `NIST CSF`, `critical asset`, `security control`, `incident response` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** critical asset coverage, MFA coverage, MTTD sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Traducir** la ciberseguridad a escenarios de negocio con activos críticos e impacto.
+2. **Estructurar** el gobierno con roles, apetito, políticas y reporte al directorio.
+3. **Priorizar** controles básicos según el riesgo y el costo.
+4. **Exigir** indicadores que midan reducción de riesgo y no actividad.
+5. **Preparar** la respuesta y la comunicación con verificación legal de obligaciones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define cyber risk y NIST CSF sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con critical asset coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuáles son los tres activos digitales sin los cuales tu empresa no opera? |
+| 20–60 min | Activos, escenarios, marco NIST, controles básicos, terceros, métricas y respuesta. |
+| 60–105 min | Ejemplo trabajado: priorización de inversión frente a un escenario de ransomware. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **cyber risk** | posible pérdida derivada de amenazas sobre sistemas datos y operación | Distingue un hecho compatible y otro que lo refute. |
-| **NIST CSF** | marco de funciones Govern Identify Protect Detect Respond y Recover | Distingue un hecho compatible y otro que lo refute. |
-| **critical asset** | activo cuya afectación causa impacto material | Distingue un hecho compatible y otro que lo refute. |
-| **security control** | salvaguarda técnica administrativa o física | Distingue un hecho compatible y otro que lo refute. |
-| **incident response** | capacidad organizada para contener erradicar y recuperar | Distingue un hecho compatible y otro que lo refute. |
+| **Ciberriesgo** | Riesgo de pérdida por fallas o ataques a sistemas y datos. | Se expresa en escenarios con impacto de negocio. |
+| **Activos críticos** | Sistemas, datos y procesos sin los que el negocio no opera. | Su caída detiene ingresos o genera daños graves. |
+| **Función Gobernar** | Conjunto de decisiones de estrategia, roles, políticas y supervisión. | Incorporada como función propia en NIST CSF 2.0. |
+| **Control básico** | Medida de alto efecto y bajo costo relativo. | Autenticación fuerte, parches, respaldos, privilegios mínimos. |
+| **Superficie de ataque** | Conjunto de puntos por los que se puede atacar. | Se amplía con proveedores, nube y trabajo remoto. |
+| **Tiempos de recuperación** | Cuánto tarda la empresa en volver a operar. | Se prueban, no se suponen. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 187: 1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones](modelo-mental.svg)
+![El gobierno de la ciberseguridad: gobernar, identificar y proteger, y detectar, responder y recuperar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gobernanza de ciberseguridad traduce riesgo técnico a exposición empresarial, responsabilidades, tolerancias y decisiones de inversión. NIST CSF 2.0 incorpora Govern junto a Identify, Protect, Detect, Respond y Recover: el directorio supervisa riesgo, no configura firewalls.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales.**
+**Cómo leer el diagrama.** Tres columnas. **Gobernar**: roles, apetito y políticas aprobadas por la dirección, reporte de riesgo cibernético al directorio y presupuesto alineado con el riesgo. **Identificar y proteger**: inventario de activos y de proveedores críticos, accesos, parches y respaldos, capacitación y hábitos de seguridad. **Detectar, responder y recuperar**: monitoreo y criterios de incidente, plan de respuesta ensayado, recuperación y lecciones aprendidas. La nota subraya que la ciberseguridad es un riesgo de negocio con decisiones de la alta dirección; el pie, que los plazos y obligaciones de reporte se verifican en la fuente oficial.
 
 ## 📖 Desarrollo
 
-### 1. cyber risk: mecanismo central
+### 1. Qué protege la ciberseguridad
 
-**cyber risk** se entiende aquí como **posible pérdida derivada de amenazas sobre sistemas datos y operación**. Esta es la pieza causal o estructural desde la que se inicia **gobierno de ciberseguridad**: antes de mapear activos y procesos críticos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La seguridad de la información se suele describir con tres propiedades: **confidencialidad** (solo accede quien debe), **integridad** (los datos y sistemas no se alteran sin autorización) y **disponibilidad** (el servicio funciona cuando se necesita). Para un ejecutivo, la pregunta útil es qué **procesos de negocio** dependen de qué sistemas y datos, y qué ocurre si se pierde cada propiedad: filtración de información de clientes (confidencialidad), manipulación de precios o registros (integridad), detención de la planta o de la tienda en línea (disponibilidad). De este análisis surgen los **activos críticos** y los escenarios prioritarios, que alimentan el mapa de riesgos (clase 181) y el apetito (clase 182).
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **critical asset coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. El marco de ciberseguridad del NIST 2.0
 
-Relaciona el mecanismo con **NIST CSF**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El marco de ciberseguridad (CSF) del NIST, en su versión 2.0, organiza los resultados deseables en seis funciones: **Gobernar**, **Identificar**, **Proteger**, **Detectar**, **Responder** y **Recuperar**. La novedad de la versión 2.0 es que **Gobernar** pasa a ser una función propia: define el contexto organizacional, la estrategia de gestión de riesgos, los roles y responsabilidades, las políticas, la supervisión y la gestión de riesgos de la cadena de suministro. Esto refleja que los incidentes más graves suelen tener causas de gobierno: nadie era dueño, el presupuesto no seguía al riesgo o el directorio no recibía información útil. El marco es voluntario y flexible; se adapta según el tamaño y el riesgo, y su texto vigente se consulta en la fuente oficial del NIST.
 
-### 2. NIST CSF: frontera conceptual y error de clasificación
+### 3. Gobernar: roles, apetito y reporte
 
-**Definición operacional:** marco de funciones Govern Identify Protect Detect Respond y Recover. Su valor está en distinguirlo de **cyber risk** y **critical asset**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El gobierno comienza con **dueños**: un responsable de seguridad de la información (a veces llamado CISO) con acceso al comité de dirección y a quien corresponda del directorio, con independencia suficiente para informar sin filtros; y **dueños de negocio** de los activos y procesos críticos, que aceptan o no los riesgos. El directorio aprueba el **apetito** de ciberriesgo y supervisa; la dirección ejecuta y rinde cuentas. Se aprueban políticas básicas (acceso, uso aceptable, gestión de incidentes, proveedores) y un **presupuesto** coherente con el riesgo. El reporte al directorio debe ser breve, con **escenarios**, **tendencias**, **excepciones** y **decisiones requeridas**; un informe de cientos de alertas técnicas informa poco.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **NIST CSF** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **MFA coverage** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Controles básicos: lo que más reduce el riesgo
 
-Antes de definir escenarios e impacto, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Gran parte de los incidentes explota fallas básicas, no sofisticaciones. Un conjunto de **controles básicos** de alto efecto incluye: **autenticación multifactor** en accesos críticos y remotos; **parches** de vulnerabilidades críticas en plazos definidos; **respaldos** con copia fuera de línea y **pruebas de restauración**; **privilegios mínimos** y revisión de accesos; **segmentación** de redes críticas; **protección de correo y de equipos**; **capacitación** y simulacros; y **registro y monitoreo** de actividades. Anderson insiste en que la seguridad depende de incentivos y de diseño: los controles que obstaculizan el trabajo se evaden; los que se incorporan al flujo funcionan. Se prioriza con criterio de riesgo y costo, no con listas interminables.
 
-### 3. critical asset: operacionalización y medición
+### 5. Cadena de suministro y terceros
 
-**critical asset** significa **activo cuya afectación causa impacto material**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La superficie de ataque incluye **proveedores** con acceso a sistemas o datos, **software** de terceros, **servicios en la nube** y **socios**. Muchos incidentes entran por un tercero. Se clasifican los proveedores por criticidad, se exigen **requisitos de seguridad** en contratos (clase 185), se verifican con evidencias proporcionales (certificaciones, cuestionarios, pruebas) y se definen **planes de contingencia** si un proveedor crítico falla o es atacado. También se considera la **concentración**: depender de un único proveedor de nube o de un solo software de producción es un riesgo estratégico, no solo técnico.
 
-OECD — *G20/OECD Principles of Corporate Governance 2023* orienta este bloque mediante **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **MTTD**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Métricas que importan
 
-Al llegar a establecer governance y controles, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las métricas de actividad (número de alertas, de bloqueos, de capacitaciones) no dicen si el riesgo baja. Se prefieren **indicadores de reducción de riesgo**: porcentaje de sistemas críticos con autenticación multifactor; tiempo medio para corregir vulnerabilidades críticas; porcentaje de respaldos probados con éxito en el último trimestre; tiempo de detección y de contención de incidentes; proporción de proveedores críticos evaluados; resultados de simulacros de phishing y de respuesta. Cada indicador tiene **meta**, **dueño** y **umbral de escalamiento**. Y se complementa con **pruebas independientes** (pruebas de intrusión, auditorías) que verifican la realidad y no solo los reportes internos.
 
-### 4. security control: trade-offs y efectos de segundo orden
+### 7. Respuesta, recuperación y obligaciones
 
-**Definición:** salvaguarda técnica administrativa o física. Este concepto obliga a abandonar la idea de que **gobierno de ciberseguridad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de medir detección respuesta y recuperación, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-NIST — *AI Risk Management Framework (AI RMF 1.0)* aporta una lente sobre **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **MTTR** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **gobierno de ciberseguridad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **security control** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. incident response: gobernanza, límites e integración
-
-**incident response** se define como **capacidad organizada para contener erradicar y recuperar** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-ISO — *ISO 31000 Risk management* se utiliza para estudiar **principios, marco y proceso de gestión de riesgos** y contrastar la recomendación final. Al ejecutar reportar exposición residual y decisiones, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **cyber risk**, **NIST CSF**, **critical asset**, **security control** y **incident response** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **gobierno de ciberseguridad** no consiste en sumar cinco definiciones. Empieza por **cyber risk**, contrasta **NIST CSF** con **critical asset**, incorpora **security control** como restricción o mecanismo y usa **incident response** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### NIST CSF 2.0 desde gobierno
-
-CSF 2.0 organiza outcomes en **Govern, Identify, Protect, Detect, Respond, Recover**. Para un ejecutivo, `Govern` es crucial: contexto, roles, políticas, riesgo de terceros y supervisión. El objetivo no es “cumplir un framework” sino traducir riesgo cibernético a decisiones de negocio y resiliencia.
-
-Pide evidencia de cobertura de activos críticos, identidad/acceso, backups probados, detección, respuesta ejercitada y recuperación. Una herramienta comprada no equivale a una capacidad operativa.
+Un **plan de respuesta** define: quién declara el incidente, quién lidera, cómo se contiene, cómo se preserva evidencia, cuándo se informa a clientes, autoridades y seguros, y quién habla (clase 190). Se **ensaya** con ejercicios de mesa que incluyan a la dirección. La **recuperación** se mide en tiempos reales de restauración (clase 191). Clarke y Knake argumentan que la defensa efectiva combina **resiliencia** (poder operar bajo ataque y recuperarse) con **prevención**; asumir que el atacante podría entrar orienta las inversiones hacia detección y recuperación. Las **obligaciones legales** de reporte de incidentes y de gestión de ciberseguridad en Chile, incluidas las que derivan de la legislación de ciberseguridad y de datos y de las instrucciones de la Agencia Nacional de Ciberseguridad, tienen sujetos obligados, plazos y contenidos que se verifican en las fuentes oficiales vigentes y con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **gobierno de ciberseguridad** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **gobierno de ciberseguridad** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **gobierno de ciberseguridad** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **gobierno de ciberseguridad** ayuda a desafiar? |
-| ISO — *ISO 31000 Risk management* | principios, marco y proceso de gestión de riesgos | ¿Qué supuesto de **gobierno de ciberseguridad** ayuda a desafiar? |
-
-En **gobierno de ciberseguridad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **cyber risk**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| NIST CSF 2.0 | Seis funciones, incluida Gobernar, y un lenguaje común. | No dice qué controles concretos implementar en cada caso. | ¿Quién gobierna y rinde cuentas? |
+| Anderson | Seguridad como ingeniería, economía e incentivos. | Técnico; hay que traducirlo para decisiones ejecutivas. | ¿Qué incentivos favorecen al atacante? |
+| Clarke y Knake | Resiliencia y estrategia de defensa frente a ataques. | Enfoque de seguridad nacional más que empresarial. | ¿Podemos operar bajo ataque? |
+| LeyChile (BCN) | Textos oficiales de la legislación de ciberseguridad y delitos informáticos. | No es asesoría ni interpretación. | ¿Somos sujeto obligado y desde cuándo? |
+| ANCI | Portal oficial de la autoridad de ciberseguridad de Chile. | No reemplaza la lectura del texto legal. | ¿Qué instrucciones vigentes nos aplican? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un ransomware cifra ERP y backups conectados. El directorio recibía un KPI verde de 99% antivirus actualizado, pero nunca revisó recuperación ni dependencia de identidades.
+**Situación (hipotética).** Una empresa de comercio electrónico con 900 personas tiene ingresos de 50.000 millones de pesos y un EBITDA de 3.600 millones. El comité evalúa el escenario de **ransomware** que cifra los sistemas de pedidos y de bodega.
 
-**Paso 1 — mapear activos y procesos críticos.** La gerencia escribe primero el supuesto asociado a **cyber risk** y evita convertirlo en hecho. Luego busca **critical asset coverage** para contrastarlo en el caso de **gobierno de ciberseguridad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estimación del escenario sin mejoras.** Probabilidad anual: 12 %. Tiempo de recuperación: 9 días. Pérdida diaria de ventas y margen: 60 millones. Costos de respuesta (especialistas, comunicaciones, soporte, restauración): 200 millones.
 
-**Paso 2 — definir escenarios e impacto.** La gerencia escribe primero el supuesto asociado a **NIST CSF** y evita convertirlo en hecho. Luego busca **MFA coverage** para contrastarlo en el caso de **gobierno de ciberseguridad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Impacto: 9 × 60 + 200 = 540 + 200 = 740 millones.
+- Pérdida esperada anual: 0,12 × 740 = 88,8 millones.
 
-**Paso 3 — establecer governance y controles.** La gerencia escribe primero el supuesto asociado a **critical asset** y evita convertirlo en hecho. Luego busca **MTTD** para contrastarlo en el caso de **gobierno de ciberseguridad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paquete de controles básicos propuesto (45 millones al año).** Autenticación multifactor para todos los accesos administrativos y remotos, copias fuera de línea con pruebas trimestrales de restauración, segmentación de la red de bodega, revisión de privilegios y simulacros de respuesta. Efecto estimado: probabilidad baja a 5 %; tiempo de recuperación baja a 3 días.
 
-**Paso 4 — medir detección respuesta y recuperación.** La gerencia escribe primero el supuesto asociado a **security control** y evita convertirlo en hecho. Luego busca **MTTR** para contrastarlo en el caso de **gobierno de ciberseguridad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Impacto: 3 × 60 + 200 = 180 + 200 = 380 millones.
+- Pérdida esperada anual: 0,05 × 380 = 19,0 millones.
+- Reducción: 88,8 − 19,0 = 69,8 millones.
+- Relación beneficio/costo: 69,8 ÷ 45 ≈ 1,55.
 
-**Paso 5 — reportar exposición residual y decisiones.** La gerencia escribe primero el supuesto asociado a **incident response** y evita convertirlo en hecho. Luego busca **recovery test success** para contrastarlo en el caso de **gobierno de ciberseguridad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Peor caso razonable.** Si la recuperación demora 15 días: 15 × 60 + 200 = 1.100 millones, el 30,6 % del EBITDA (1.100 ÷ 3.600). Con el paquete, el peor caso razonable baja a 6 días: 560 millones (15,6 %).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **gobierno de ciberseguridad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Lo que el cálculo no incluye.** Obligaciones de notificación, daño reputacional, posible filtración de datos de clientes, sanciones y efectos en seguros. Por eso la decisión no se toma solo por el valor esperado.
+
+**Indicadores propuestos para el directorio.** Porcentaje de accesos críticos con autenticación multifactor (meta 100 %); tiempo de corrección de vulnerabilidades críticas (meta de 14 días como máximo); respaldos restaurados con éxito en la prueba trimestral (meta 100 %); proveedores críticos evaluados (meta 100 % de 12); tiempo de detección y de contención en el simulacro.
+
+**Decisión.** Aprobar el paquete, designar dueños, programar un ejercicio de mesa con el comité y verificar con asesoría las obligaciones de reporte y la cobertura del seguro.
+
+**Cuidados.** Las probabilidades y los costos son estimaciones; las obligaciones legales aplicables a la empresa dependen de su sector y tamaño y se verifican en las fuentes oficiales.
+
+**Qué muestra.** (1) El escenario se tradujo a pesos y días. (2) Los controles básicos redujeron probabilidad y tiempo. (3) La decisión consideró lo que el cálculo no captura.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **cyber risk** | posible pérdida derivada de amenazas sobre sistemas datos y operación | Cuando critical asset coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **NIST CSF** | marco de funciones Govern Identify Protect Detect Respond y Recover | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Seguridad frente a cumplimiento.** Cumplir una norma o una lista no garantiza estar seguro; estar seguro no garantiza cumplir. Se necesitan ambos, con foco en el riesgo real.
 
-**Frontera de aplicación:** Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales.
+**Límites.** Las probabilidades de ataque son inciertas y cambian con rapidez. Un marco como el del NIST es voluntario y genérico. Ninguna defensa es perfecta; el objetivo es reducir probabilidad e impacto y recuperarse. Las obligaciones legales chilenas de ciberseguridad y de reporte dependen de normas recientes y de sus plazos de aplicación; se verifican en LeyChile, en el portal de la ANCI y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre gobierno de ciberseguridad |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **gobierno de ciberseguridad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **cyber risk** y **NIST CSF** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta critical asset coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si gobierno de ciberseguridad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de gobierno de ciberseguridad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **gobierno de ciberseguridad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple los hábitos de seguridad y reporta lo sospechoso sin demora. |
+| **Jefe / Team Lead** | Controla accesos de su equipo y no pide excepciones por comodidad. |
+| **Gerente** | Es dueño de los procesos críticos y acepta o corrige riesgos con datos. |
+| **CEO / Director** | Fija el apetito, asigna presupuesto según riesgo y exige reportes útiles. |
+| **Founder / Owner** | Reconoce que un ataque grave puede poner en riesgo la empresa completa. |
 
 ## 🏢 Caso ejecutivo
 
-Un ransomware cifra ERP y backups conectados. El directorio recibía un KPI verde de 99% antivirus actualizado, pero nunca revisó recuperación ni dependencia de identidades.
+Un operador logístico con 2.800 empleados y ingresos de 140.000 millones de pesos descubre que un atacante lleva tres semanas dentro de su red. Los hechos: el acceso remoto no usa autenticación multifactor; hay 14 cuentas administrativas compartidas; los respaldos están conectados a la misma red y nunca se probó su restauración; el área de seguridad (cuatro personas) depende de tecnología y reporta una vez al año; tres proveedores críticos tienen acceso permanente a los sistemas; un reporte técnico reciente de 200 páginas no llegó al directorio. El atacante cifra los sistemas de despacho un viernes y exige un pago. Los clientes principales piden información y la prensa pregunta. El gerente general dice: «pagar es más barato que parar»; el responsable de seguridad pide detener todo; el director de operaciones quiere seguir operando con papel.
 
-Entrega un **decision brief de gobierno de ciberseguridad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan ejecutivo de gobierno de ciberseguridad** que contenga: (a) los activos críticos y los escenarios con impacto de negocio; (b) la estructura de gobierno, roles, apetito y reporte al directorio; (c) los controles básicos priorizados con costo y efecto; (d) la gestión de proveedores críticos; (e) los indicadores con meta y dueño; (f) el plan de respuesta, incluidas las decisiones sobre pagos y comunicación, y las verificaciones legales de obligaciones de reporte con asesoría y fuentes oficiales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **gobierno de ciberseguridad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta critical asset coverage, MFA coverage; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Identifica tres procesos críticos y los sistemas y datos de los que dependen.
+2. Redacta un escenario de ciberataque con probabilidad, impacto en días y pesos y costos de respuesta.
+3. Prioriza cinco controles básicos con costo estimado y reducción de riesgo.
+4. Define seis indicadores para el directorio con meta, dueño y umbral.
+5. Diseña un ejercicio de mesa de una hora con las decisiones que debería tomar la dirección.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar cyber risk y NIST CSF como sinónimos | Se pierde la distinción entre “posible pérdida derivada de amenazas sobre sistemas datos y operación” y “marco de funciones Govern Identify Protect Detect Respond y Recover” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “reportar exposición residual y decisiones” | Se saltó “mapear activos y procesos críticos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones y marca el primer supuesto no demostrado. |
-| Optimizar solo critical asset coverage | La métrica local sustituyó al resultado del sistema | Contrástala con MFA coverage y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre gobierno de ciberseguridad | Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales. |
-| No fijar revisión | Una decisión sobre gobierno de ciberseguridad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Delegar todo en tecnología | Se ve como asunto técnico | Dueños de negocio y reporte al directorio. |
+| Medir actividad | Es fácil de contar | Indicadores de reducción de riesgo. |
+| Respaldos no probados | Se asume que funcionan | Pruebas de restauración periódicas. |
+| Ignorar a los proveedores | Se confía en ellos | Clasificar, exigir y verificar. |
+| Improvisar la respuesta | No hay plan | Plan ensayado con decisiones previas. |
+| Ceder al pánico | Se decide bajo presión | Criterios previos y asesoría especializada. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **cyber risk** y **NIST CSF** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **critical asset** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear activos y procesos críticos → definir escenarios e impacto** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **critical asset coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **gobierno de ciberseguridad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales.**?
+1. ¿Cuáles son las seis funciones del marco NIST CSF 2.0 y qué aporta Gobernar?
+2. ¿Qué tres propiedades protege la seguridad de la información?
+3. ¿Qué controles básicos reducen más el riesgo?
+4. ¿Por qué hay que gobernar la cadena de suministro?
+5. ¿Qué diferencia hay entre una métrica de actividad y una de reducción de riesgo?
+6. ¿Qué debe incluir un plan de respuesta?
+7. ¿Qué se verifica en fuentes oficiales y con asesoría?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Gobernar, Identificar, Proteger, Detectar, Responder y Recuperar; Gobernar fija contexto, estrategia de riesgos, roles, políticas, supervisión y cadena de suministro.
+2. Confidencialidad, integridad y disponibilidad.
+3. Autenticación multifactor, parches, respaldos probados, privilegios mínimos, segmentación, protección de correo y equipos, capacitación y monitoreo.
+4. Porque los proveedores, el software y la nube amplían la superficie de ataque y muchos incidentes entran por terceros.
+5. La de actividad cuenta acciones (alertas, capacitaciones); la de reducción de riesgo mide la mejora (por ejemplo, porcentaje de accesos con autenticación multifactor).
+6. Quién declara y lidera, contención, evidencia, comunicación a clientes, autoridades y seguros, voceros y ensayos.
+7. Las obligaciones de ciberseguridad y de reporte de incidentes, sus sujetos obligados, plazos y contenidos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/187-gobierno-de-ciberseguridad/`:
 
-- `risk-governance-brief.md` con el problema específico de **gobierno de ciberseguridad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **gobierno de ciberseguridad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **cyber risk**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un ransomware cifra ERP y backups conectados. El directorio recibía un KPI verde de 99% antivirus actualizado, pero nunca revisó recuperación ni dependencia de identidades.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el reporte de ciberriesgo al directorio;
+- `decision-journal.md` con los escenarios, los indicadores y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **gobierno de ciberseguridad**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** principios, marco y proceso de gestión de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** funciones de gobierno, identificación, protección, detección, respuesta y recuperación como marco de la decisión. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gobierno de ciberseguridad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gobierno de ciberseguridad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **gobierno de ciberseguridad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **gobierno de ciberseguridad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gobierno de ciberseguridad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** seis funciones del marco, incluida Gobernar. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
+- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** seguridad como ingeniería, economía e incentivos. Lectura selectiva sobre **gobierno de ciberseguridad**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
+- Richard A. Clarke & Robert K. Knake — *The Fifth Domain* (Penguin Press, 2019). **Uso en esta clase:** resiliencia y estrategia de defensa. Lectura selectiva sobre **gobierno de ciberseguridad**. **Localizador:** [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965).
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: ciberseguridad y delitos informáticos (Ley 21.663 y Ley 21.459)* (2024). **Uso en esta clase:** texto oficial de la legislación de ciberseguridad y delitos informáticos. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
+- Agencia Nacional de Ciberseguridad de Chile — *Portal oficial de la ANCI* (2024). **Uso en esta clase:** portal oficial de la autoridad de ciberseguridad de Chile. **Fuente primaria:** <https://www.anci.gob.cl/>.
 
-> **Regla de fuentes para Gobierno de ciberseguridad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gobierno de ciberseguridad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Gobierno de ciberseguridad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las obligaciones de ciberseguridad y los plazos de notificación de incidentes. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

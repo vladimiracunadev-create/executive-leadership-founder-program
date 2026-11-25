@@ -5,29 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir risk appetite de risk tolerance mediante evidencia observable."
-  - "Aplicar la secuencia: derivar apetito desde estrategia y capacidad → traducirlo a tolerancias → establecer límites y owners → definir breach y escalamiento → revisar apetito ante cambios de estrategia."
-  - "Interpretar limit utilization, breaches, loss absorption capacity sin atribuir causalidad automática."
-  - "Resolver el caso de apetito, tolerancia y límites de riesgo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir capacidad, apetito, tolerancia y límite de riesgo."
+  - "Redactar un enunciado de apetito con criterios medibles por tipo de riesgo."
+  - "Derivar límites e indicadores con umbrales y acciones."
+  - "Probar un límite con pruebas de estrés antes de adoptarlo."
+  - "Gobernar excepciones y excesos con roles y plazos."
 deliverable: "risk-governance-brief.md"
 references:
   - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "ISO — *ISO 31000 Risk management*"
   - "John C. Hull — *Risk Management and Financial Institutions*"
-  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
-  - "Ross Anderson — *Security Engineering*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "NIST — *AI Risk Management Framework*. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>."
-  - "COSO — *Enterprise Risk Management* / *Internal Control*. Fuente institucional: <https://www.coso.org/>."
+  - "Daniel Kahneman & Amos Tversky — *Prospect Theory: An Analysis of Decision under Risk*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
 limits:
-  - "Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito."
+  - "Los números dependen de supuestos y de la calidad de los datos."
 evidence_signals:
-  - "limit utilization"
-  - "breaches"
-  - "loss absorption capacity"
-  - "override count"
-  - "escalation time"
+  - "capacidad calculada con restricciones duras"
+  - "apetito con dirección, medida y nivel"
+  - "límites con umbrales y dueños"
+  - "pruebas de estrés aplicadas"

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **risk portfolio** de **risk aggregation** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **KRI** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **control assurance** con **risk treatment plan**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué debe contener el mandato de un comité integrado de riesgos?
+2. ¿Por qué se necesita un lenguaje y un mapa comunes?
+3. ¿Cómo se distinguen restricciones duras y preferencias económicas?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa enfrenta simultáneamente proveedor cloud único, investigación regulatoria y alta rotación de seguridad. Cada riesgo es medio por separado, pero todos dependen del mismo equipo de plataforma.
+**Caso:** Una empresa de servicios de salud con 2.600 empleados, ingresos de 90.000 millones de pesos y un EBITDA de 8.100 millones no tiene un comité integrado. Cada área mantiene su registro: tecnología (36 riesgos), clínica (41), legal (19), finanzas (22) y personas (17). En un trimestre ocurrieron: un incidente de ransomware que dejó sin historia clínica electrónica a dos centros durante 18 horas; una denuncia de acoso con investigación de 95 días; una fiscalización por tratamiento de datos de salud; un contrato con un proveedor de IA de apoyo diagnóstico sin evaluación de sesgo; y una falla de un proveedor de gases medicinales que casi detiene cirugías. El presupuesto de riesgo disponible es de 520 millones de pesos. El directorio pide, en 45 días, un paquete de decisión integrado y un diseño de comité.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir top risks por objetivo → analizar concentración y escenarios → comparar residual con apetito → decidir tratamientos y capital → asignar assurance y seguimiento**. Debes utilizar o diseñar cómo obtener **top-risk exposure, KRI breaches, control assurance**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **paquete de decisión del comité integrado** que contenga: (a) el mandato, la composición y las reglas del comité; (b) el mapa integrado con criterios comunes, interdependencias y estimaciones con rangos; (c) la medición contra el apetito y las restricciones duras; (d) la priorización del presupuesto con cálculo, lo no financiado y las medidas interinas; (e) el tablero, los dueños, los indicadores y las reglas de escalamiento; (f) los supuestos, los límites y las verificaciones legales, regulatorias y contractuales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El orden por reducción por peso invertido depende de estimaciones inciertas y no captura daños no cuantificables ni obligaciones legales y éticas.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

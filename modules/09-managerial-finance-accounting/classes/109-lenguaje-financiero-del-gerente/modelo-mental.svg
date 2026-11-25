@@ -6,7 +6,7 @@
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
 <text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 109 · Tres estados, tres preguntas distintas</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Palepu, Healy &amp; Peek · Kieso, Weygandt &amp; Warfield · IFRS Foundation</text>
+<text x="1012" y="43" font-size="10.5" font-weight="400" fill="#59636e" text-anchor="end" >Palepu, Healy &amp; Peek · Kieso, Weygandt &amp; Warfield · IFRS Foundation</text>
 <rect x="28" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
 <path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
 <text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Estado de resultados</text>

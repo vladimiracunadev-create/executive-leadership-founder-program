@@ -18,17 +18,23 @@ mismo registro y el resumen del [README](../README.md#-registro-de-fuentes).
 
 | Organismo | Recurso | URL | Consultado | Estado |
 |---|---|---|---|---|
+| ACFE | Occupational Fraud: Report to the Nations | <https://www.acfe.com/report-to-the-nations/2024/> | 2026-11-25 | verificada |
 | AFC Chile | Seguro de Cesantía: información y operación oficial | <https://www.afc.cl/> | 2026-08-19 | verificada |
+| Agencia Nacional de Ciberseguridad de Chile | Portal oficial de la ANCI | <https://www.anci.gob.cl/> | 2026-11-25 | verificada |
 | agilemanifesto.org | Manifesto for Agile Software Development | <https://agilemanifesto.org/> | 2026-11-25 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: ciberseguridad y delitos informáticos (Ley 21.663 y Ley 21.459) | <https://www.bcn.cl/leychile/> | 2026-11-25 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Código del Trabajo (texto vigente) | <https://www.bcn.cl/leychile/navegar?idNorma=207436> | 2026-08-19 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Código del Trabajo y legislación laboral vigente | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Ley N.º 20.659 y normativa vinculada | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: protección de datos personales (Ley 19.628 y Ley 21.719) | <https://www.bcn.cl/leychile/> | 2026-11-25 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393) | <https://www.bcn.cl/leychile/> | 2026-11-25 | verificada |
 | ChileAtiende | Trámites y orientación del Estado | <https://www.chileatiende.gob.cl/> | 2026-08-19 | verificada |
 | Colegio de Contadores de Chile | Normativa contable aplicable y NIIF según tipo de entidad | — (pendiente) | — | pendiente |
 | Comisión para el Mercado Financiero (Chile) | Normativa e información del mercado financiero | <https://www.cmfchile.cl/> | 2026-08-19 | verificada |
 | Corporación de Fomento de la Producción (Chile) | Programas, instrumentos y apoyo empresarial | <https://www.corfo.cl/> | 2026-08-19 | verificada |
 | COSO | Enterprise Risk Management—Integrating with Strategy and Performance | <https://www.coso.org/> | 2026-08-19 | verificada |
+| COSO | Internal Control - Integrated Framework | <https://www.coso.org/guidance-on-ic> | 2026-11-25 | verificada |
 | Departamento de Derechos Intelectuales (Chile) | Derecho de autor: registro y orientación oficial | <https://www.propiedadintelectual.gob.cl/> | 2026-08-19 | verificada |
 | Dirección ChileCompra | Mercado Público y normativa de compras públicas | <https://www.chilecompra.cl/> | 2026-08-19 | verificada |
 | Dirección del Trabajo (Chile) | Cláusulas mínimas del contrato de trabajo | <https://www.dt.gob.cl/portal/1628/w3-article-60800.html> | 2026-08-19 | verificada |
@@ -36,6 +42,8 @@ mismo registro y el resumen del [README](../README.md#-registro-de-fuentes).
 | Dirección del Trabajo (Chile) | Implementación de la rebaja de jornada a 42 horas (Ord. N°253/21) | <https://dt.gob.cl/legislacion/1624/w3-article-129189.html> | 2026-08-19 | verificada |
 | Dirección del Trabajo (Chile) | Ley Karin y dictámenes asociados | <https://www.dt.gob.cl/legislacion/1624/w3-propertyvalue-194488.html> | 2026-08-19 | verificada |
 | Dirección del Trabajo (Chile) | Normativa y orientación oficial | <https://www.dt.gob.cl/> | 2026-08-19 | verificada |
+| EUR-Lex | Reglamento (UE) 2016/679 de protección de datos | <https://eur-lex.europa.eu/eli/reg/2016/679/oj> | 2026-11-25 | verificada |
+| EUR-Lex | Reglamento (UE) 2024/1689 sobre inteligencia artificial | <https://eur-lex.europa.eu/eli/reg/2024/1689/oj> | 2026-11-25 | verificada |
 | For Entrepreneurs (Matrix Partners) | SaaS Metrics resources | <https://www.forentrepreneurs.com/saas-metrics-2/> | 2026-08-19 | verificada |
 | IFRS Foundation | IFRS Accounting Standards | <https://www.ifrs.org/> | — | pendiente |
 | INAPI (Chile) | Propiedad industrial y orientación oficial | <https://www.inapi.cl/> | 2026-08-19 | verificada |

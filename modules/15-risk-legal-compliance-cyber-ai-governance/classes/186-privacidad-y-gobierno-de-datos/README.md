@@ -10,217 +10,193 @@
 
 ## 🎯 Propósito
 
-Gobierno de datos define quién puede recopilar, usar, compartir, retener y eliminar datos, con qué propósito y controles. Privacidad exige principios como finalidad, minimización, seguridad y derechos; una empresa debe mapear datos y decisiones, no solo publicar una política.
+Los datos de clientes, empleados y proveedores son uno de los activos más valiosos de una empresa y, a la vez, una de sus mayores fuentes de riesgo. Se recolectan por costumbre («por si sirven»), se copian a planillas, se comparten con proveedores sin revisar qué hacen con ellos, se conservan indefinidamente y se descubren recién cuando hay una filtración, una solicitud de una persona o una fiscalización. Gobernar los datos no es una tarea técnica reservada al área de tecnología: exige decisiones de negocio sobre qué datos se necesitan, para qué, quién puede usarlos, con quién se comparten, cuánto tiempo se guardan y cómo se atienden los derechos de las personas.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **privacidad y gobierno de datos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la taxonomía de problemas de privacidad de Solove, en las obligaciones y principios que formulan el Reglamento europeo de protección de datos y la legislación chilena (a la que remite sin interpretarla), en la visión de seguridad de Anderson y en la responsabilidad del gobierno corporativo descrita por Tricker. Al terminar sabrás mapear datos, aplicar principios de minimización y finalidad, gobernar a los proveedores que los tratan, preparar la respuesta a incidentes y a solicitudes de las personas, y decidir con criterio qué verificar con asesoría y fuentes oficiales.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `data governance`, `data minimization`, `purpose limitation`, `legal basis`, `data lineage` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** data inventory coverage, access exceptions, retention violations sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** el ciclo de vida de los datos personales en una organización.
+2. **Aplicar** los principios de finalidad, minimización, calidad, seguridad y conservación limitada.
+3. **Gobernar** a proveedores y terceros que tratan datos.
+4. **Preparar** la respuesta a incidentes y a solicitudes de las personas.
+5. **Verificar** las obligaciones legales en fuentes oficiales sin interpretarlas de memoria.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define data governance y data minimization sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con data inventory coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿dónde están hoy los datos personales de tus clientes y quién puede verlos? |
+| 20–60 min | Inventario, principios, terceros, derechos, incidentes y gobierno. |
+| 60–105 min | Ejemplo trabajado: minimización y retención en una empresa de comercio. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **data governance** | roles políticas y controles sobre ciclo de vida de datos | Distingue un hecho compatible y otro que lo refute. |
-| **data minimization** | recopilar solo datos necesarios para propósito legítimo | Distingue un hecho compatible y otro que lo refute. |
-| **purpose limitation** | usar datos de acuerdo con finalidad definida | Distingue un hecho compatible y otro que lo refute. |
-| **legal basis** | fundamento jurídico que autoriza tratamiento cuando la ley lo exige | Distingue un hecho compatible y otro que lo refute. |
-| **data lineage** | rastreo de origen transformación y uso de datos | Distingue un hecho compatible y otro que lo refute. |
+| **Dato personal** | Información que identifica o puede identificar a una persona. | Nombre, identificador, ubicación, datos de uso. |
+| **Dato sensible** | Dato cuyo tratamiento puede afectar gravemente a la persona. | Salud, biometría, creencias; categorías según la ley vigente. |
+| **Tratamiento** | Cualquier operación sobre datos: recolectar, usar, compartir, almacenar, eliminar. | Cubre todo el ciclo de vida. |
+| **Finalidad** | Propósito específico y legítimo para el que se usan los datos. | Informado a la persona y registrado. |
+| **Minimización** | Recolectar y conservar solo lo necesario. | Cada campo tiene justificación. |
+| **Responsable y encargado** | Quien decide sobre el tratamiento y quien lo ejecuta por cuenta de otro. | Se verifican los términos en la ley aplicable. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 186: 1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso](modelo-mental.svg)
+![El ciclo de vida de los datos personales: recolectar, usar, compartir, conservar y eliminar, sostenido por un inventario de datos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gobierno de datos define quién puede recopilar, usar, compartir, retener y eliminar datos, con qué propósito y controles. Privacidad exige principios como finalidad, minimización, seguridad y derechos; una empresa debe mapear datos y decisiones, no solo publicar una política.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar.**
+**Cómo leer el diagrama.** Una cadena de cinco etapas. **Recolectar**: solo lo necesario y con una finalidad clara. **Usar**: dentro de la finalidad informada y con acceso mínimo. **Compartir**: con terceros bajo contrato y medidas de seguridad. **Conservar**: por el tiempo necesario y protegido. **Eliminar**: cuando cesa la necesidad o se solicita. Una flecha de retorno indica que el inventario de datos mantiene todo al día. La nota recuerda que gobernar datos es saber qué hay, por qué se tiene, quién accede y cuándo se elimina; el pie, que las obligaciones concretas dependen de la ley vigente.
 
 ## 📖 Desarrollo
 
-### 1. data governance: mecanismo central
+### 1. Por qué la privacidad es un problema de negocio
 
-**data governance** se entiende aquí como **roles políticas y controles sobre ciclo de vida de datos**. Esta es la pieza causal o estructural desde la que se inicia **privacidad y gobierno de datos**: antes de inventariar datos y finalidades, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Solove propone entender la privacidad no como un concepto único, sino como una familia de **problemas**: recolección, procesamiento, difusión e intrusión, cada uno con daños distintos (pérdida de control, discriminación, exposición, manipulación, inseguridad). Para una empresa, esto significa que el riesgo de datos no se limita a una filtración: incluye usos que la persona no esperaba, decisiones automatizadas injustas, retención excesiva y comunicaciones no solicitadas. Los daños recaen sobre las personas, pero vuelven a la empresa en forma de **sanciones**, **demandas**, **pérdida de confianza** y **costos operativos**. Tricker subraya que el cumplimiento y la protección de información son parte de la responsabilidad del gobierno corporativo; el directorio y la alta dirección responden por el marco, no solo el área técnica.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **data inventory coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. Saber qué datos hay: inventario y clasificación
 
-Relaciona el mecanismo con **data minimization**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+No se puede proteger lo que no se conoce. El primer paso es un **inventario de tratamientos**: qué datos, de quién, para qué, dónde se guardan, quién accede, con quién se comparten, por cuánto tiempo y con qué base legal o autorización. Se **clasifican** por sensibilidad (públicos, internos, confidenciales, sensibles) y se asocia cada clase a controles mínimos. El inventario descubre sorpresas: planillas con datos de clientes en correos personales, bases de pruebas con datos reales, copias olvidadas en proveedores. Debe tener un **dueño de negocio** por cada conjunto de datos, no solo un administrador de sistemas, y actualizarse cuando cambian procesos, sistemas o proveedores.
 
-### 2. data minimization: frontera conceptual y error de clasificación
+### 3. Principios de tratamiento
 
-**Definición operacional:** recopilar solo datos necesarios para propósito legítimo. Su valor está en distinguirlo de **data governance** y **purpose limitation**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La legislación de protección de datos de distintos países, entre ellas el Reglamento (UE) 2016/679 y las leyes chilenas, se organiza en torno a principios comunes que el ejecutivo debe conocer en su idea central, sin sustituir la lectura del texto vigente: **licitud y lealtad** (tratar datos con una base legítima y de forma justa), **finalidad** (usos específicos y compatibles con lo informado), **minimización** (solo lo necesario), **calidad** (datos exactos y actualizados), **limitación del plazo de conservación**, **seguridad** (medidas adecuadas al riesgo), **transparencia** (informar de forma clara) y **responsabilidad proactiva** (poder demostrar el cumplimiento). Los términos exactos, las bases de licitud, las categorías especiales y los plazos de aplicación en Chile, incluida la entrada en vigor de la normativa más reciente, se verifican en LeyChile y con asesoría.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **data minimization** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **access exceptions** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Terceros: proveedores y socios
 
-Antes de clasificar sensibilidad y bases, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Gran parte de los incidentes ocurre en la cadena de proveedores. Antes de compartir datos se pregunta: ¿es necesario?, ¿qué hace el tercero con ellos?, ¿cómo los protege?, ¿en qué países los almacena?, ¿quiénes son sus subcontratistas?, ¿cómo avisará de un incidente?, ¿qué ocurre con los datos al terminar el contrato? Se formalizan estas condiciones en el contrato (clase 185) y se **verifica** periódicamente con cuestionarios, certificaciones o auditorías según la criticidad. La empresa que decide el uso de los datos sigue siendo responsable frente a las personas aunque los trate un proveedor. Los términos legales (quién es responsable y quién encargado, y qué obligaciones tiene cada uno) dependen de la ley aplicable y se confirman con asesoría.
 
-### 3. purpose limitation: operacionalización y medición
+### 5. Derechos de las personas
 
-**purpose limitation** significa **usar datos de acuerdo con finalidad definida**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las leyes de protección de datos reconocen derechos de las personas sobre sus datos, como **acceder** a ellos, **rectificarlos**, **eliminarlos** o **oponerse** a ciertos tratamientos, con alcances y plazos que fija cada norma. Operativamente, esto requiere un **proceso**: un canal para recibir solicitudes, verificación de identidad, ubicación de los datos en todos los sistemas, decisión y respuesta documentada dentro del plazo legal. Sin inventario, atender un solo pedido puede tomar semanas. La respuesta debe ser coherente con los demás deberes (por ejemplo, conservación de documentos por obligación legal). Los derechos concretos, los plazos y las excepciones se verifican en la fuente oficial vigente.
 
-Richard A. Clarke & Robert K. Knake — *The Fifth Domain* orienta este bloque mediante **perspectiva de Ciberseguridad aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retention violations**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Incidentes de seguridad con datos
 
-Al llegar a definir acceso retención y sharing, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un incidente de datos requiere responder rápido con orden: **contener** el problema, **evaluar** qué datos y personas están afectados, **notificar** a las autoridades y a las personas cuando la ley lo exija, **corregir** las causas y **aprender**. El Reglamento europeo, por ejemplo, establece un plazo corto de notificación a la autoridad en ciertos casos, y las normas chilenas de ciberseguridad y de datos establecen sus propias obligaciones; los **plazos y requisitos exactos** se verifican en las fuentes oficiales y con asesoría, y se incorporan al plan de respuesta (clases 187 y 190). Anderson recuerda que la seguridad es un problema de ingeniería y de incentivos: sistemas diseñados con acceso amplio, contraseñas compartidas o cuentas sin revisar crean los incidentes que luego se lamentan.
 
-### 4. legal basis: trade-offs y efectos de segundo orden
+### 7. Gobierno de datos
 
-**Definición:** fundamento jurídico que autoriza tratamiento cuando la ley lo exige. Este concepto obliga a abandonar la idea de que **privacidad y gobierno de datos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de implementar derechos y controles, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* aporta una lente sobre **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **privacy requests** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **privacidad y gobierno de datos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **legal basis** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. data lineage: gobernanza, límites e integración
-
-**data lineage** se define como **rastreo de origen transformación y uso de datos** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *OECD AI Principles* se utiliza para estudiar **principios para IA confiable, responsable y centrada en las personas** y contrastar la recomendación final. Al ejecutar monitorear incidentes y cambios de uso, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **data governance**, **data minimization**, **purpose limitation**, **legal basis** y **data lineage** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **privacidad y gobierno de datos** no consiste en sumar cinco definiciones. Empieza por **data governance**, contrasta **data minimization** con **purpose limitation**, incorpora **legal basis** como restricción o mecanismo y usa **data lineage** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Gobernar datos es asignar **roles y reglas**: un comité o responsable que fije políticas, dueños de datos por dominio, un responsable de privacidad (o función equivalente, con independencia cuando la ley o el tamaño lo requieran), **evaluaciones de impacto** antes de proyectos con alto riesgo (nuevas bases, perfilamiento, datos sensibles, uso de IA), **capacitación** y **auditoría**. Se establecen métricas: porcentaje de sistemas inventariados, solicitudes atendidas a tiempo, incidentes, proveedores evaluados y datos eliminados por vencimiento. Y se cuida el equilibrio: el exceso de restricciones paraliza el negocio y lleva a los equipos a usar herramientas no autorizadas; el defecto genera riesgo. La mejor protección es **tener menos datos**: lo que no se recolecta ni se conserva no se puede filtrar.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **privacidad y gobierno de datos** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **privacidad y gobierno de datos** ayuda a desafiar? |
-| Richard A. Clarke & Robert K. Knake — *The Fifth Domain* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **privacidad y gobierno de datos** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **privacidad y gobierno de datos** ayuda a desafiar? |
-| OECD — *OECD AI Principles* | principios para IA confiable, responsable y centrada en las personas | ¿Qué supuesto de **privacidad y gobierno de datos** ayuda a desafiar? |
-
-En **privacidad y gobierno de datos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **data governance**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Solove | Taxonomía de problemas y daños de privacidad. | No da obligaciones legales. | ¿Qué daño sufriría la persona? |
+| Reglamento (UE) 2016/679 | Principios, derechos y obligaciones de un régimen influyente. | No rige en Chile por sí mismo; se usa como comparación. | ¿Qué principio ilustra este caso? |
+| LeyChile (BCN) | Textos oficiales de la normativa chilena de datos. | No es asesoría ni resumen. | ¿Qué versión y qué fecha de vigencia? |
+| Anderson | Seguridad como ingeniería e incentivos. | Técnico; hay que traducirlo a decisiones. | ¿Quién tiene acceso y por qué? |
+| Tricker | Responsabilidad del gobierno corporativo. | No es específico de datos. | ¿Quién responde ante el directorio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Marketing compra una base de 300.000 contactos y la cruza con datos de clientes para entrenar un modelo de propensión. Nadie puede explicar origen, consentimiento, base legal ni retención.
+**Situación (hipotética).** Una empresa de comercio minorista tiene 500.000 registros de clientes distribuidos en 14 sistemas. Un inventario muestra que el formulario de registro pide 38 campos, de los cuales solo 21 se usan en algún proceso; que los registros se conservan por tiempo indefinido y que el 40 % corresponde a clientes sin compras en más de tres años.
 
-**Paso 1 — inventariar datos y finalidades.** La gerencia escribe primero el supuesto asociado a **data governance** y evita convertirlo en hecho. Luego busca **data inventory coverage** para contrastarlo en el caso de **privacidad y gobierno de datos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escenario de incidente.** Una filtración expondría el 20 % de la base. Costo estimado por registro expuesto (notificación, soporte, monitoreo, asesoría, pérdidas de clientes): 12.000 pesos. Probabilidad anual de incidente con exposición: 8 %.
 
-**Paso 2 — clasificar sensibilidad y bases.** La gerencia escribe primero el supuesto asociado a **data minimization** y evita convertirlo en hecho. Luego busca **access exceptions** para contrastarlo en el caso de **privacidad y gobierno de datos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Antes.** Registros expuestos: 0,20 × 500.000 = 100.000. Costo del incidente: 100.000 × 12.000 = 1.200 millones. Pérdida esperada anual: 0,08 × 1.200 = 96 millones.
 
-**Paso 3 — definir acceso retención y sharing.** La gerencia escribe primero el supuesto asociado a **purpose limitation** y evita convertirlo en hecho. Luego busca **retention violations** para contrastarlo en el caso de **privacidad y gobierno de datos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Medidas de minimización.**
 
-**Paso 4 — implementar derechos y controles.** La gerencia escribe primero el supuesto asociado a **legal basis** y evita convertirlo en hecho. Luego busca **privacy requests** para contrastarlo en el caso de **privacidad y gobierno de datos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. Eliminar los 17 campos innecesarios (38 − 21) del formulario y de la base.
+2. Anonimizar o eliminar los registros de clientes inactivos por más de tres años (40 %): 200.000 registros; quedan 300.000.
+3. Reducir los sistemas con copias de los datos de 14 a 9.
+4. Establecer un plazo de conservación y una purga automática.
 
-**Paso 5 — monitorear incidentes y cambios de uso.** La gerencia escribe primero el supuesto asociado a **data lineage** y evita convertirlo en hecho. Luego busca **data incidents** para contrastarlo en el caso de **privacidad y gobierno de datos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Después.** Registros expuestos: 0,20 × 300.000 = 60.000. Costo del incidente: 60.000 × 12.000 = 720 millones. Pérdida esperada anual: 0,08 × 720 = 57,6 millones. Reducción: 96 − 57,6 = 38,4 millones al año. Si el proyecto cuesta 45 millones una vez, se recupera en 45 ÷ 38,4 ≈ 1,2 años (unos 14 meses). Además, bajan el riesgo de sanciones y los costos de atender solicitudes.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **privacidad y gobierno de datos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Lo que el cálculo no captura.** El daño a las personas, la pérdida de confianza y la sanción regulatoria no se reducen a un costo por registro; los datos sensibles, si existieran, requerirían tratamiento especial.
+
+**Gobierno.** Cada conjunto de datos tiene un dueño; se aprueba una política de conservación; se crea un procedimiento de solicitudes de personas con plazo interno de 10 días hábiles; se revisan los 30 proveedores con acceso a datos, priorizando los 6 más críticos.
+
+**Cuidados.** El costo por registro es una hipótesis para el ejemplo; las bases legales, los plazos de conservación, los derechos y las obligaciones de notificación se verifican en la normativa vigente con asesoría.
+
+**Qué muestra.** (1) El inventario reveló datos innecesarios. (2) Tener menos datos redujo la exposición. (3) El gobierno asignó dueños y procesos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **data governance** | roles políticas y controles sobre ciclo de vida de datos | Cuando data inventory coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **data minimization** | recopilar solo datos necesarios para propósito legítimo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Privacidad frente a seguridad.** La seguridad protege los datos frente a accesos indebidos; la privacidad decide qué datos se tratan, para qué y con qué derechos. Sin seguridad no hay privacidad; con seguridad sola, se puede tratar datos de forma inapropiada.
 
-**Frontera de aplicación:** Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar.
+**Límites.** Esta clase no interpreta normas ni sustituye asesoría. La normativa chilena de datos ha cambiado y tiene plazos de aplicación diferenciados; el Reglamento europeo se cita como comparación y no como norma aplicable por sí misma. Los costos por registro varían ampliamente y las cifras del ejemplo son ilustrativas. Las decisiones automatizadas y el uso de IA añaden obligaciones que se verifican por separado (clase 188).
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre privacidad y gobierno de datos |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **privacidad y gobierno de datos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **data governance** y **data minimization** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta data inventory coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si privacidad y gobierno de datos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de privacidad y gobierno de datos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **privacidad y gobierno de datos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Trata los datos con el mínimo necesario y reporta incidentes de inmediato. |
+| **Jefe / Team Lead** | Conoce qué datos maneja su equipo y controla los accesos. |
+| **Gerente** | Es dueño de datos de su dominio y evalúa a sus proveedores. |
+| **CEO / Director** | Fija la política, financia el programa y rinde cuentas al directorio. |
+| **Founder / Owner** | Entiende que la confianza en el uso de datos es parte del valor de la empresa. |
 
 ## 🏢 Caso ejecutivo
 
-Marketing compra una base de 300.000 contactos y la cruza con datos de clientes para entrenar un modelo de propensión. Nadie puede explicar origen, consentimiento, base legal ni retención.
+Una aseguradora de salud con 1.400 empleados y 380.000 afiliados usa datos de salud para tarificar y para ofrecer programas de bienestar. Un proveedor de marketing recibió una base con 120.000 afiliados, incluidos diagnósticos, para una campaña, sin contrato específico de protección de datos. Un empleado de atención descargó listados a su correo personal para «trabajar desde casa». El sistema de análisis conserva datos de afiliados que se retiraron hace diez años. Una afiliada pidió por correo que se le informe qué datos tiene la empresa y ante quién se han compartido; la solicitud lleva 40 días sin respuesta. Se detecta además que un proveedor de nube de un país extranjero almacena respaldos con datos de salud. El directorio pregunta «si estamos en regla».
 
-Entrega un **decision brief de privacidad y gobierno de datos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **programa de gobierno de datos** que contenga: (a) el inventario y la clasificación de los tratamientos críticos; (b) la evaluación de los principios aplicados y de las brechas, con las fuentes oficiales a verificar; (c) la gobernanza de proveedores y de transferencias; (d) el proceso de atención de solicitudes y el de respuesta a incidentes con roles y plazos a confirmar con asesoría; (e) las medidas de minimización y de conservación; (f) los indicadores y el reporte al directorio.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **privacidad y gobierno de datos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta data inventory coverage, access exceptions; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Inventaria cinco conjuntos de datos personales de tu área con finalidad, ubicación, accesos y plazo.
+2. Clasifica los datos por sensibilidad y define controles mínimos.
+3. Revisa un proveedor con una lista de siete preguntas y detecta brechas.
+4. Diseña el procedimiento interno para atender una solicitud de acceso o eliminación.
+5. Elimina o reduce tres datos que tu equipo guarda sin necesidad y estima el beneficio.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar data governance y data minimization como sinónimos | Se pierde la distinción entre “roles políticas y controles sobre ciclo de vida de datos” y “recopilar solo datos necesarios para propósito legítimo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “monitorear incidentes y cambios de uso” | Se saltó “inventariar datos y finalidades” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso y marca el primer supuesto no demostrado. |
-| Optimizar solo data inventory coverage | La métrica local sustituyó al resultado del sistema | Contrástala con access exceptions y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre privacidad y gobierno de datos | Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar. |
-| No fijar revisión | Una decisión sobre privacidad y gobierno de datos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Recolectar «por si sirve» | Se piensa que más es mejor | Justificar cada campo y eliminar lo innecesario. |
+| Dejar la privacidad en tecnología | Se cree que es técnico | Dueños de negocio y gobierno corporativo. |
+| Compartir sin contrato | Se confía en el proveedor | Contratos, verificación y control de subcontratistas. |
+| Conservar indefinidamente | Es más fácil no borrar | Plazos de conservación y purga automática. |
+| No tener proceso de solicitudes | No se anticipa | Canal, responsables y plazos definidos. |
+| Improvisar ante incidentes | No hay plan | Plan ensayado con roles y verificación legal. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **data governance** y **data minimization** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **purpose limitation** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar datos y finalidades → clasificar sensibilidad y bases** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **data inventory coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **privacidad y gobierno de datos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar.**?
+1. ¿Qué problemas distingue Solove en materia de privacidad?
+2. ¿Qué contiene un inventario de tratamientos?
+3. ¿Qué principios comunes organizan la protección de datos?
+4. ¿Qué se pregunta antes de compartir datos con un tercero?
+5. ¿Qué requiere operativamente atender los derechos de las personas?
+6. ¿Qué pasos sigue la respuesta a un incidente de datos?
+7. ¿Por qué se dice que la mejor protección es tener menos datos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Recolección, procesamiento, difusión e intrusión, con daños distintos como pérdida de control, discriminación o exposición.
+2. Qué datos, de quién, para qué, dónde se guardan, quién accede, con quién se comparten, por cuánto tiempo y con qué base legal.
+3. Licitud y lealtad, finalidad, minimización, calidad, conservación limitada, seguridad, transparencia y responsabilidad proactiva.
+4. Si es necesario, qué hará con ellos, cómo los protege, dónde los almacena, quiénes son sus subcontratistas, cómo avisará de incidentes y qué pasa al terminar.
+5. Un proceso con canal, verificación de identidad, ubicación de los datos, respuesta documentada en plazo y coherencia con otros deberes.
+6. Contener, evaluar, notificar según la ley, corregir causas y aprender.
+7. Porque lo que no se recolecta ni se conserva no se puede filtrar, y se reducen costos y obligaciones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/186-privacidad-y-gobierno-de-datos/`:
 
-- `risk-governance-brief.md` con el problema específico de **privacidad y gobierno de datos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **privacidad y gobierno de datos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **data governance**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Marketing compra una base de 300.000 contactos y la cruza con datos de clientes para entrenar un modelo de propensión. Nadie puede explicar origen, consentimiento, base legal ni retención.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el programa del caso ejecutivo;
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con los riesgos de datos, dueños y controles;
+- `decision-journal.md` con el inventario, las brechas y las fuentes oficiales a verificar.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **privacidad y gobierno de datos**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- Richard A. Clarke & Robert K. Knake — *The Fifth Domain* (Penguin Press, 2019). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **privacidad y gobierno de datos**. **Localizador:** [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- OECD — *OECD AI Principles*. **Uso en esta clase:** principios para IA confiable, responsable y centrada en las personas. **Fuente primaria:** <https://oecd.ai/en/ai-principles>.
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **privacidad y gobierno de datos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **privacidad y gobierno de datos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **privacidad y gobierno de datos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **privacidad y gobierno de datos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **privacidad y gobierno de datos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Daniel J. Solove — *Understanding Privacy* (Harvard University Press, 2008). **Uso en esta clase:** taxonomía de problemas y daños de privacidad. Lectura selectiva sobre **privacidad y gobierno de datos**. **Localizador:** [ISBN-13 9780674035072](https://openlibrary.org/isbn/9780674035072).
+- Unión Europea — *Reglamento (UE) 2016/679 de protección de datos* (EUR-Lex, 2016). **Uso en esta clase:** principios, derechos y obligaciones de un régimen de referencia. **Fuente primaria:** <https://eur-lex.europa.eu/eli/reg/2016/679/oj>.
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: protección de datos personales (Ley 19.628 y Ley 21.719)* (2024). **Uso en esta clase:** texto oficial de la normativa chilena de datos personales. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
+- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** seguridad como ingeniería e incentivos. Lectura selectiva sobre **privacidad y gobierno de datos**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** responsabilidad del gobierno corporativo sobre el cumplimiento. Lectura selectiva sobre **privacidad y gobierno de datos**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
 
-> **Regla de fuentes para Privacidad y gobierno de datos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **privacidad y gobierno de datos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Privacidad y gobierno de datos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular la legislación de datos personales, sus plazos de aplicación y las obligaciones de notificación de incidentes. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

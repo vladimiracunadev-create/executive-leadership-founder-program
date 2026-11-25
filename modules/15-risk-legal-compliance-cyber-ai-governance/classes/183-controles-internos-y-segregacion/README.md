@@ -10,217 +10,197 @@
 
 ## 🎯 Propósito
 
-Control interno reduce riesgos a un nivel aceptable mediante ambiente de control, evaluación, actividades, información y monitoreo. Segregación de funciones evita que una persona pueda iniciar, aprobar, ejecutar y ocultar una transacción material sin detección.
+Casi todos los fraudes internos y muchos errores graves tienen una causa común: una sola persona podía iniciar, aprobar, ejecutar y registrar una operación, y nadie más miraba. Los controles internos existen para que la empresa no dependa de la honestidad ni de la atención perfecta de nadie: reparten funciones, exigen segundas miradas y dejan huellas. Un buen control no es un obstáculo burocrático; es la diferencia entre una empresa que detecta una irregularidad en semanas y otra que la descubre al año, cuando ya es una pérdida material. Y un mal control, aparatoso y fácil de esquivar, cuesta tiempo y entrega una falsa seguridad.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **controles internos y segregación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el marco COSO de control interno, en la visión de Anderson sobre ingeniería de seguridad y separación de funciones, en el modelo de capas de defensa de Reason, en los datos del informe de la ACFE sobre fraude ocupacional y en la ISO 31000 para integrar controles con riesgos. Al terminar sabrás diseñar controles preventivos, detectivos y correctivos, aplicar la segregación de funciones, compensar cuando el tamaño del equipo no la permite y probar si los controles realmente funcionan.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `internal control`, `segregation of duties`, `preventive control`, `detective control`, `control owner` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** control exceptions, SoD conflicts, test failure rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** los componentes del control interno y su relación con los riesgos.
+2. **Diseñar** controles preventivos, detectivos y correctivos para un proceso.
+3. **Aplicar** la segregación de funciones y controles compensatorios.
+4. **Probar** el diseño y la operación de un control con evidencia.
+5. **Equilibrar** el costo del control con el riesgo que reduce.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define internal control y segregation of duties sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con control exceptions y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué proceso de tu empresa depende de la confianza en una sola persona? |
+| 20–60 min | Marco, tipos de control, segregación, compensación, pruebas y costo. |
+| 60–105 min | Ejemplo trabajado: control de pagos a proveedores. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **internal control** | proceso diseñado para dar seguridad razonable sobre objetivos | Distingue un hecho compatible y otro que lo refute. |
-| **segregation of duties** | separación de funciones incompatibles para reducir fraude o error | Distingue un hecho compatible y otro que lo refute. |
-| **preventive control** | control que evita ocurrencia | Distingue un hecho compatible y otro que lo refute. |
-| **detective control** | control que identifica después de ocurrir | Distingue un hecho compatible y otro que lo refute. |
-| **control owner** | rol responsable de diseño y operación del control | Distingue un hecho compatible y otro que lo refute. |
+| **Control interno** | Proceso que da seguridad razonable sobre objetivos de operaciones, reporte y cumplimiento. | Está incorporado en el trabajo diario. |
+| **Control preventivo** | Impide que ocurra el error o el abuso. | Autorización previa, límites de acceso. |
+| **Control detectivo** | Descubre lo que ya ocurrió. | Conciliaciones, alertas, auditoría. |
+| **Control correctivo** | Repara y evita la repetición. | Plan de acción, ajuste, sanción. |
+| **Segregación de funciones** | Reparto de tareas incompatibles entre personas distintas. | Quien aprueba no ejecuta ni registra. |
+| **Control compensatorio** | Control alternativo cuando no se puede segregar. | Revisión del dueño, límites y alertas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 183: 1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas](modelo-mental.svg)
+![Tres tipos de control y la separación de funciones: prevenir, detectar y corregir.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Control interno reduce riesgos a un nivel aceptable mediante ambiente de control, evaluación, actividades, información y monitoreo. Segregación de funciones evita que una persona pueda iniciar, aprobar, ejecutar y ocultar una transacción material sin detección.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Separar toda función puede ser inviable en equipos pequeños. Usa controles compensatorios —revisión independiente, límites, alertas, reconciliación— proporcionales al riesgo.**
+**Cómo leer el diagrama.** Tres columnas. **Prevenir**: autorizaciones antes de actuar, separación entre quien pide, aprueba, ejecuta y registra, y accesos con el mínimo necesario. **Detectar**: conciliaciones y revisiones periódicas, alertas por patrones atípicos y auditoría o pruebas independientes. **Corregir**: respuesta a hallazgos con dueño y plazo, aprendizaje sin culpas y ajuste del control o del proceso. La nota recuerda que ningún control es perfecto y que las barreras se combinan en capas; el pie, que el costo de un control se compara con el riesgo que reduce.
 
 ## 📖 Desarrollo
 
-### 1. internal control: mecanismo central
+### 1. Qué es un sistema de control interno
 
-**internal control** se entiende aquí como **proceso diseñado para dar seguridad razonable sobre objetivos**. Esta es la pieza causal o estructural desde la que se inicia **controles internos y segregación**: antes de mapear riesgo y objetivo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El marco COSO de control interno, ampliamente usado, define el control interno como un proceso, ejecutado por el directorio, la dirección y el resto del personal, diseñado para dar una **seguridad razonable** (no absoluta) sobre el logro de objetivos de operaciones, de reporte y de cumplimiento. Describe cinco componentes: **ambiente de control** (integridad, estructura, responsabilidades), **evaluación de riesgos**, **actividades de control**, **información y comunicación** y **monitoreo**. Subraya que el control no es un departamento: es una responsabilidad de todos, y que el tono de la dirección determina si los controles se respetan o se sortean. Su texto vigente se consulta en la fuente oficial.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **control exceptions**; regístrala con periodo, unidad, población y baseline.
+### 2. De los riesgos a los controles
 
-Relaciona el mecanismo con **segregation of duties**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un control sin riesgo asociado es burocracia; un riesgo sin control es una apuesta. El diseño parte de los **escenarios** (clase 181): «un empleado crea un proveedor ficticio y se aprueban facturas falsas». Para cada uno se pregunta qué control **previene**, cuál **detecta** y cuál **corrige**. Se prefiere combinar: un control preventivo fuerte y barato (doble aprobación) más uno detectivo (conciliación mensual de proveedores nuevos contra el maestro de proveedores). Los controles se documentan con: objetivo, riesgo que cubre, responsable, frecuencia, evidencia y qué se hace con las excepciones. Y se prefiere **automatizarlos** cuando se pueda, porque los controles manuales dependen de la disciplina y se debilitan con la rutina.
 
-### 2. segregation of duties: frontera conceptual y error de clasificación
+### 3. Segregación de funciones
 
-**Definición operacional:** separación de funciones incompatibles para reducir fraude o error. Su valor está en distinguirlo de **internal control** y **preventive control**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El principio es simple: las tareas **incompatibles** no deben concentrarse en una persona. Se consideran incompatibles las que, juntas, permiten cometer y ocultar un error o un abuso: **iniciar**, **autorizar**, **custodiar** (los activos), **ejecutar** y **registrar** o **conciliar**. En pagos, por ejemplo, quien da de alta un proveedor no debe aprobar sus facturas ni emitir los pagos; quien custodia el inventario no debe registrarlo. Anderson, en su tratado de ingeniería de seguridad, muestra que la separación de funciones y el **control dual** (dos personas deben actuar) son defensas clásicas que tienen un equivalente en sistemas informáticos: roles, privilegios mínimos y registros de auditoría. Pero también muestra sus límites: dos personas pueden coludirse, y los sistemas con permisos acumulados con los años anulan la separación sin que nadie lo note.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **segregation of duties** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **SoD conflicts** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cuando no se puede segregar
 
-Antes de identificar puntos de fraude o error, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En equipos pequeños, una persona puede hacer varias tareas. No es una excusa para abandonar el control: se usan **controles compensatorios**. Ejemplos: el dueño o el gerente revisa **mensualmente** la conciliación bancaria y los pagos fuera de patrón; se fijan **límites** por transacción con aprobación de un segundo; se rota al personal en tareas sensibles; se obliga a **vacaciones** continuas en puestos de riesgo; un tercero externo verifica periódicamente. Se documenta qué segregación falta, qué control la compensa y quién lo ejecuta. El control compensatorio debe ser **independiente** y **efectivo**: una firma sin revisión real es solo un trámite.
 
-### 3. preventive control: operacionalización y medición
+### 5. Capas de defensa y fallas latentes
 
-**preventive control** significa **control que evita ocurrencia**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Reason, en su análisis de errores y accidentes, describe las defensas como **capas con agujeros**, como rebanadas de queso: los accidentes ocurren cuando los agujeros se alinean. Los agujeros pueden ser **fallas activas** (un error de una persona) o **condiciones latentes** (diseño deficiente, accesos excesivos, presión por resultados) que existían antes. De aquí se deducen dos prácticas: combinar controles distintos e independientes (de manera que fallen por razones diferentes) y **buscar las condiciones latentes** antes de culpar a la persona. Un control que depende de que alguien «se acuerde» es frágil; uno incorporado al flujo (el sistema no permite pagar sin doble aprobación) es robusto.
 
-OECD — *OECD AI Principles* orienta este bloque mediante **principios para IA confiable, responsable y centrada en las personas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **test failure rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Fraude, presión y oportunidad
 
-Al llegar a diseñar control preventivo y detective, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El informe de la ACFE sobre fraude ocupacional recopila casos reales y muestra patrones: muchos fraudes duran meses o años antes de detectarse, y una parte importante se descubre por **denuncias** de personas, más que por auditorías. Esto refuerza la importancia de un canal de denuncia confiable (clase 189) y de controles detectivos. Una explicación clásica del fraude combina **presión** (necesidad o meta imposible), **oportunidad** (control débil) y **racionalización** (justificación interna). El control interno actúa sobre la oportunidad; la cultura y los incentivos sobre la presión y la racionalización. Las cifras del informe se consultan en su edición vigente y se interpretan con cautela, porque provienen de casos reportados.
 
-### 4. detective control: trade-offs y efectos de segundo orden
+### 7. Probar que el control funciona
 
-**Definición:** control que identifica después de ocurrir. Este concepto obliga a abandonar la idea de que **controles internos y segregación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de separar funciones incompatibles, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard A. Clarke & Robert K. Knake — *The Fifth Domain* aporta una lente sobre **perspectiva de Ciberseguridad aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **override count** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **controles internos y segregación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **detective control** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. control owner: gobernanza, límites e integración
-
-**control owner** se define como **rol responsable de diseño y operación del control** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Bob Tricker — *Corporate Governance* se utiliza para estudiar **separación entre dirección, supervisión, accountability y gobierno corporativo** y contrastar la recomendación final. Al ejecutar testear evidencia y remediar fallas, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Separar toda función puede ser inviable en equipos pequeños. Usa controles compensatorios —revisión independiente, límites, alertas, reconciliación— proporcionales al riesgo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **internal control**, **segregation of duties**, **preventive control**, **detective control** y **control owner** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **controles internos y segregación** no consiste en sumar cinco definiciones. Empieza por **internal control**, contrasta **segregation of duties** con **preventive control**, incorpora **detective control** como restricción o mecanismo y usa **control owner** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un control puede estar bien **diseñado** pero **no operar** (nadie lo ejecuta), o operar pero no cubrir el riesgo. Se prueba con **evidencia**: observación, revisión de registros y **muestreo**. Si se prueba una muestra de 25 aprobaciones y hay 2 excepciones (8 %), y la tolerancia definida es 4 %, el control no es efectivo y se corrige. La función de **auditoría interna**, independiente, evalúa; en el modelo de tres líneas, la primera línea (la gerencia operativa) es dueña de los riesgos y controles, la segunda (riesgos, cumplimiento) los supervisa y desafía, y la tercera (auditoría interna) aporta aseguramiento independiente al directorio. Y se vigila el **costo**: un control cuesta tiempo y dinero; si la fricción supera el riesgo, la gente lo evita y se pierde el control completo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **controles internos y segregación** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **controles internos y segregación** ayuda a desafiar? |
-| OECD — *OECD AI Principles* | principios para IA confiable, responsable y centrada en las personas | ¿Qué supuesto de **controles internos y segregación** ayuda a desafiar? |
-| Richard A. Clarke & Robert K. Knake — *The Fifth Domain* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **controles internos y segregación** ayuda a desafiar? |
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **controles internos y segregación** ayuda a desafiar? |
-
-En **controles internos y segregación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **internal control**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| COSO Control Interno | Cinco componentes y el concepto de seguridad razonable. | No diseña controles específicos. | ¿Qué componente está débil? |
+| Anderson | Separación de funciones, control dual y sus límites técnicos. | Orientado a seguridad de sistemas. | ¿Qué permisos acumuló esta persona? |
+| Reason | Capas de defensa y condiciones latentes. | Modelo conceptual, no una receta. | ¿Qué agujeros se pueden alinear? |
+| ACFE | Patrones de fraude ocupacional, duración y detección. | Casos reportados, no toda la población. | ¿Cómo lo habríamos detectado? |
+| ISO 31000 | Integra controles con el tratamiento de riesgos. | No define controles. | ¿Qué riesgo cubre este control? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una pyme permite que la misma persona cree proveedores, cargue facturas y apruebe pagos porque confían en ella. Un proveedor ficticio pasa inadvertido seis meses.
+**Situación (hipotética).** Una empresa mediana procesa 1.200 pagos a proveedores al mes. Una analista de compras con permisos de alta de proveedores y de aprobación de facturas registró un proveedor ficticio y aprobó una factura mensual de 6,5 millones de pesos durante 14 meses, hasta que una conciliación detectó una cuenta bancaria repetida en dos proveedores.
 
-**Paso 1 — mapear riesgo y objetivo.** La gerencia escribe primero el supuesto asociado a **internal control** y evita convertirlo en hecho. Luego busca **control exceptions** para contrastarlo en el caso de **controles internos y segregación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pérdida.** 6,5 × 14 = 91 millones de pesos.
 
-**Paso 2 — identificar puntos de fraude o error.** La gerencia escribe primero el supuesto asociado a **segregation of duties** y evita convertirlo en hecho. Luego busca **SoD conflicts** para contrastarlo en el caso de **controles internos y segregación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** No había separación entre alta de proveedor, aprobación y registro; el único control detectivo era una conciliación anual; las facturas no se contrastaban con recepción de bienes; el sistema no alertaba cuentas bancarias repetidas.
 
-**Paso 3 — diseñar control preventivo y detective.** La gerencia escribe primero el supuesto asociado a **preventive control** y evita convertirlo en hecho. Luego busca **test failure rate** para contrastarlo en el caso de **controles internos y segregación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diseño de controles.**
 
-**Paso 4 — separar funciones incompatibles.** La gerencia escribe primero el supuesto asociado a **detective control** y evita convertirlo en hecho. Luego busca **override count** para contrastarlo en el caso de **controles internos y segregación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tipo | Control | Responsable | Frecuencia |
+|---|---|---|---|
+| Preventivo | Alta de proveedores solo por finanzas, con verificación externa de existencia | Finanzas | Cada alta |
+| Preventivo | Aprobación dual para pagos sobre 2 millones | Jefatura y tesorería | Cada pago |
+| Preventivo | Pago solo con recepción conforme (tres vías: orden, recepción, factura) | Sistema | Automático |
+| Detectivo | Alerta por cuenta bancaria repetida o proveedor nuevo con pagos recurrentes | Sistema y control interno | Semanal |
+| Detectivo | Conciliación mensual y revisión por el gerente de pagos atípicos | Gerente financiero | Mensual |
+| Correctivo | Revocación de accesos, revisión de la muestra de 24 meses y plan de acción | Control interno | Por caso |
 
-**Paso 5 — testear evidencia y remediar fallas.** La gerencia escribe primero el supuesto asociado a **control owner** y evita convertirlo en hecho. Luego busca **reconciliation breaks** para contrastarlo en el caso de **controles internos y segregación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo del control principal.** Si el 18 % de los pagos supera 2 millones: 0,18 × 1.200 = 216 pagos al mes. Con 6 minutos adicionales de aprobación por pago: 216 × 6 = 1.296 minutos, es decir 21,6 horas al mes. A 12.000 pesos la hora, el costo es 259.200 pesos al mes, unos 3,1 millones al año. Frente a una pérdida de 91 millones, la relación es de unas 29 veces (91 ÷ 3,1).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **controles internos y segregación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Prueba de operación.** A los seis meses se toma una muestra de 25 pagos sobre 2 millones: 2 no tienen doble aprobación (8 %). La tolerancia es 4 %. El control no es efectivo: se descubre que el sistema permite una aprobación de emergencia sin registro. Se bloquea la ruta y se exige justificación por escrito; la nueva prueba arroja 0 excepciones en 25.
+
+**Compensación.** En la sucursal de dos personas, donde no es posible separar, el gerente revisa semanalmente los pagos y concilia el banco cada mes, y finanzas revisa una muestra trimestral.
+
+**Cuidados.** Las obligaciones de registro, de información y de protección de datos de proveedores se verifican con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La concentración de funciones permitió el fraude. (2) Los controles combinaron prevenir, detectar y corregir. (3) La prueba de operación encontró una falla latente.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **internal control** | proceso diseñado para dar seguridad razonable sobre objetivos | Cuando control exceptions es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **segregation of duties** | separación de funciones incompatibles para reducir fraude o error | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Control interno frente a auditoría.** El control interno es parte del trabajo diario y lo ejecuta la gerencia; la auditoría evalúa de forma independiente si los controles funcionan.
 
-**Frontera de aplicación:** Separar toda función puede ser inviable en equipos pequeños. Usa controles compensatorios —revisión independiente, límites, alertas, reconciliación— proporcionales al riesgo.
+**Límites.** El control interno da seguridad razonable, no absoluta: puede fallar por colusión, error humano o presión de la dirección. Un exceso de controles reduce la agilidad y genera evasión. Los casos de la ACFE provienen de fraudes reportados y no representan a todas las empresas. Las exigencias legales de control y de reporte (sociedades abiertas, sectores regulados) se verifican en su fuente. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre controles internos y segregación |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **controles internos y segregación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **internal control** y **segregation of duties** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta control exceptions con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si controles internos y segregación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de controles internos y segregación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **controles internos y segregación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple los controles aunque sean incómodos y avisa de debilidades. |
+| **Jefe / Team Lead** | Revisa con atención y no aprueba por costumbre. |
+| **Gerente** | Es dueño de los controles de su proceso y prueba que operan. |
+| **CEO / Director** | Marca el tono, no pide excepciones por conveniencia y exige aseguramiento independiente. |
+| **Founder / Owner** | Acepta revisar personalmente lo que no se puede segregar. |
 
 ## 🏢 Caso ejecutivo
 
-Una pyme permite que la misma persona cree proveedores, cargue facturas y apruebe pagos porque confían en ella. Un proveedor ficticio pasa inadvertido seis meses.
+Una cadena de farmacias con 40 locales y 1.100 empleados tiene un sistema de inventario donde los encargados de local pueden ajustar existencias sin aprobación. En un año, los ajustes negativos pasaron de 0,6 % a 1,9 % de las ventas (que son de 52.000 millones de pesos), y tres locales concentran el 55 % de los ajustes. Las cajas se cuadran con una firma de la misma persona que cuenta el efectivo; los descuentos manuales no tienen tope; en la central, un analista tiene permisos para crear usuarios y modificar sus roles. Una denuncia anónima, que llegó a un correo sin responsable, menciona colusión entre un encargado y un proveedor de medicamentos de alta rotación. La gerencia propone contratar más supervisores; el directorio pide «un sistema de control moderno» sin aumentar la planilla.
 
-Entrega un **decision brief de controles internos y segregación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de controles** que contenga: (a) los escenarios de riesgo con su estimación; (b) la matriz de segregación de funciones en local y en central; (c) los controles preventivos, detectivos y correctivos con responsable, frecuencia y evidencia; (d) los controles compensatorios para los locales pequeños; (e) el plan de prueba de diseño y de operación con muestreo y tolerancias; (f) el costo de los controles frente al riesgo y las verificaciones legales y laborales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **controles internos y segregación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta control exceptions, SoD conflicts; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige un proceso (pagos, compras, nómina o inventario) y dibuja quién inicia, autoriza, ejecuta y registra.
+2. Identifica las tareas incompatibles que hoy concentra una persona.
+3. Diseña un control preventivo, uno detectivo y uno correctivo para un escenario.
+4. Define una prueba de operación con tamaño de muestra y tolerancia.
+5. Estima el costo anual del control y compáralo con la pérdida del escenario.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar internal control y segregation of duties como sinónimos | Se pierde la distinción entre “proceso diseñado para dar seguridad razonable sobre objetivos” y “separación de funciones incompatibles para reducir fraude o error” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “testear evidencia y remediar fallas” | Se saltó “mapear riesgo y objetivo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas y marca el primer supuesto no demostrado. |
-| Optimizar solo control exceptions | La métrica local sustituyó al resultado del sistema | Contrástala con SoD conflicts y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre controles internos y segregación | Separar toda función puede ser inviable en equipos pequeños. Usa controles compensatorios —revisión independiente, límites, alertas, reconciliación— proporcionales al riesgo. |
-| No fijar revisión | Una decisión sobre controles internos y segregación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Un solo control | Se confía en la persona | Combinar preventivos, detectivos y correctivos. |
+| Segregar solo en el papel | Los permisos se acumulan | Revisar accesos con frecuencia. |
+| Control que depende de la memoria | Se omite la automatización | Incorporarlo al flujo del sistema. |
+| Nunca probar | Se asume que funciona | Probar diseño y operación con evidencia. |
+| Culpar a la persona | Se ve el error activo | Buscar condiciones latentes. |
+| Controlar todo igual | Se quiere cubrir todo | Concentrar en riesgos materiales y comparar costos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **internal control** y **segregation of duties** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **preventive control** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear riesgo y objetivo → identificar puntos de fraude o error** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **control exceptions** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **controles internos y segregación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Separar toda función puede ser inviable en equipos pequeños. Usa controles compensatorios —revisión independiente, límites, alertas, reconciliación— proporcionales al riesgo.**?
+1. ¿Qué componentes tiene el control interno según COSO?
+2. ¿Qué diferencia hay entre control preventivo, detectivo y correctivo?
+3. ¿Qué tareas se consideran incompatibles y por qué?
+4. ¿Qué es un control compensatorio y qué condiciones debe cumplir?
+5. ¿Qué enseña el modelo de capas con agujeros de Reason?
+6. ¿Cómo se prueba la operación de un control?
+7. ¿Qué papel tienen las tres líneas en el control?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Ambiente de control, evaluación de riesgos, actividades de control, información y comunicación, y monitoreo.
+2. El preventivo impide el hecho, el detectivo lo descubre y el correctivo lo repara y evita su repetición.
+3. Iniciar, autorizar, custodiar, ejecutar y registrar o conciliar, porque juntas permiten cometer y ocultar un abuso o error.
+4. Un control alternativo cuando no se puede segregar; debe ser independiente, efectivo, documentado y ejecutarse de verdad.
+5. Que los incidentes ocurren cuando se alinean fallas en varias defensas y que hay que buscar condiciones latentes y combinar controles independientes.
+6. Con evidencia: observación, revisión de registros y muestreo comparado con una tolerancia definida.
+7. La primera línea es dueña de riesgos y controles, la segunda supervisa y desafía, y la tercera (auditoría interna) da aseguramiento independiente.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/183-controles-internos-y-segregacion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **controles internos y segregación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **controles internos y segregación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **internal control**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una pyme permite que la misma persona cree proveedores, cargue facturas y apruebe pagos porque confían en ella. Un proveedor ficticio pasa inadvertido seis meses.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño de controles del caso ejecutivo;
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con los escenarios de fraude y error y sus controles;
+- `decision-journal.md` con la matriz de segregación, el plan de pruebas y los controles compensatorios.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **controles internos y segregación**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- OECD — *OECD AI Principles*. **Uso en esta clase:** principios para IA confiable, responsable y centrada en las personas. **Fuente primaria:** <https://oecd.ai/en/ai-principles>.
-- Richard A. Clarke & Robert K. Knake — *The Fifth Domain* (Penguin Press, 2019). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **controles internos y segregación**. **Localizador:** [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965).
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **controles internos y segregación**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **controles internos y segregación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **controles internos y segregación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **controles internos y segregación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **controles internos y segregación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **controles internos y segregación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- COSO — *Internal Control - Integrated Framework* (2013). **Uso en esta clase:** componentes del control interno y seguridad razonable. **Fuente primaria:** <https://www.coso.org/guidance-on-ic>.
+- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** separación de funciones, control dual y sus límites técnicos. Lectura selectiva sobre **controles internos y segregación**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
+- James Reason — *Human error: models and management* (BMJ, 2000). **Uso en esta clase:** capas de defensa y condiciones latentes. Lectura selectiva sobre **controles internos y segregación**. **Localizador:** [DOI 10.1136/bmj.320.7237.768](https://doi.org/10.1136/bmj.320.7237.768).
+- ACFE — *Occupational Fraud: Report to the Nations* (2024). **Uso en esta clase:** patrones de fraude ocupacional, duración y detección. **Fuente primaria:** <https://www.acfe.com/report-to-the-nations/2024/>.
+- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** integración de controles con el tratamiento de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
 
-> **Regla de fuentes para Controles internos y segregación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **controles internos y segregación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Controles internos y segregación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los marcos de control y las exigencias legales de control y reporte. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

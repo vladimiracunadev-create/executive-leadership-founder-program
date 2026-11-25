@@ -10,226 +10,201 @@
 
 ## 🎯 Propósito
 
-Gobernanza responsable de IA aborda valor, riesgo, accountability, datos, evaluación, supervisión humana y monitoreo a lo largo del ciclo de vida. NIST AI RMF organiza Govern, Map, Measure y Manage; el desafío ejecutivo es decidir dónde IA es apropiada y bajo qué controles.
+La inteligencia artificial entra a las empresas por la puerta de atrás: un equipo prueba una herramienta generativa con datos de clientes, un proveedor incorpora un modelo en su software sin avisar, un área compra un sistema de selección de personal o de aprobación de crédito que «puntúa» personas. Cuando la dirección pregunta qué sistemas de IA se usan, quién los aprobó, con qué datos, con qué pruebas y quién responde si se equivocan, a menudo nadie sabe. El riesgo no es la tecnología en sí, sino usarla sin gobierno: decisiones injustas o erróneas, fuga de información, dependencia de proveedores, incumplimientos y pérdida de confianza.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **gobierno responsable de IA** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un gobierno proporcional al riesgo. Se apoya en el marco de gestión de riesgos de IA del NIST (con sus funciones Gobernar, Mapear, Medir y Gestionar), en los principios de la OCDE para una IA confiable, en el enfoque basado en riesgos del reglamento europeo de IA (como referencia comparada, remitiendo a su texto oficial) y en las prácticas de documentación propuestas por las fichas de modelos (Mitchell y otros) y las hojas de datos (Gebru y otros). Al terminar sabrás inventariar usos de IA, clasificarlos por riesgo, definir supervisión humana efectiva, exigir pruebas y documentación, y gobernar a los proveedores.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `AI governance`, `AI risk`, `human oversight`, `model evaluation`, `AI inventory` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** AI inventory coverage, evaluation pass rate, human override sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Inventariar** y clasificar los usos de IA según el impacto sobre personas y negocio.
+2. **Definir** roles, políticas y supervisión humana efectiva.
+3. **Exigir** pruebas de desempeño, sesgo y robustez antes y después del despliegue.
+4. **Documentar** modelos y datos con fichas y registros.
+5. **Gobernar** proveedores y verificar obligaciones legales con fuentes oficiales.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define AI governance y AI risk sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con AI inventory coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué sistemas de IA usa tu empresa hoy, incluidos los que nadie aprobó formalmente? |
+| 20–60 min | Inventario, clasificación, marcos, supervisión, pruebas, documentación y proveedores. |
+| 60–105 min | Ejemplo trabajado: un sistema de preselección de candidatos y su prueba de sesgo. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **AI governance** | sistema de responsabilidades y controles para desarrollar o usar IA | Distingue un hecho compatible y otro que lo refute. |
-| **AI risk** | posible daño o pérdida derivada de comportamiento uso o dependencia de IA | Distingue un hecho compatible y otro que lo refute. |
-| **human oversight** | intervención humana con autoridad y capacidad real de revisar | Distingue un hecho compatible y otro que lo refute. |
-| **model evaluation** | medición de desempeño robustez y riesgos en contexto | Distingue un hecho compatible y otro que lo refute. |
-| **AI inventory** | registro de sistemas owners finalidad datos y criticidad | Distingue un hecho compatible y otro que lo refute. |
+| **Sistema de IA** | Sistema que infiere, a partir de datos, resultados como predicciones, contenidos o decisiones. | Incluye modelos propios, de proveedores y herramientas generativas. |
+| **Gobierno de IA** | Roles, políticas y controles para usar IA de forma responsable. | Inventario, aprobación, monitoreo y responsabilidades. |
+| **Supervisión humana efectiva** | Revisión por personas con información, tiempo y autoridad para corregir. | Se corrigen decisiones y se registran las intervenciones. |
+| **Sesgo** | Diferencias sistemáticas de desempeño o de resultado que perjudican a grupos. | Se mide con pruebas por grupo. |
+| **Ficha de modelo** | Documento breve sobre uso previsto, desempeño y límites de un modelo. | Acompaña el despliegue. |
+| **Deriva** | Cambio del comportamiento del modelo cuando cambian los datos o el entorno. | Se detecta con monitoreo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 188: 1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios](modelo-mental.svg)
+![Cuánto gobierno necesita un sistema de IA según el impacto de la decisión y la autonomía del sistema.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gobernanza responsable de IA aborda valor, riesgo, accountability, datos, evaluación, supervisión humana y monitoreo a lo largo del ciclo de vida. NIST AI RMF organiza Govern, Map, Measure y Manage; el desafío ejecutivo es decidir dónde IA es apropiada y bajo qué controles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad.**
+**Cómo leer el diagrama.** Un cuadrante con la autonomía en el eje horizontal (una persona decide frente a decide el sistema solo) y el impacto en el vertical (bajo frente a alto). **Alto impacto con una persona que decide**: control humano documentado, asegurando que la revisión sea real. **Alto impacto con decisión automática**: supervisión intensiva con evaluación previa, pruebas, bitácora y revisión efectiva. **Bajo impacto con una persona que decide**: uso con reglas básicas, con guía de uso y datos permitidos. **Bajo impacto con decisión automática**: monitoreo ligero con métricas de calidad. La nota indica que el gobierno se gradúa por el impacto, no por la sofisticación técnica; el pie, que las obligaciones legales cambian con rapidez.
 
 ## 📖 Desarrollo
 
-### 1. AI governance: mecanismo central
+### 1. Qué hay que gobernar
 
-**AI governance** se entiende aquí como **sistema de responsabilidades y controles para desarrollar o usar IA**. Esta es la pieza causal o estructural desde la que se inicia **gobierno responsable de IA**: antes de inventariar casos de ia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Conviene distinguir tres situaciones: **IA propia** (modelos desarrollados o ajustados por la empresa), **IA comprada** (sistemas de proveedores que incorporan modelos) y **IA de uso personal** (herramientas generativas que empleados usan por su cuenta). La tercera suele ser la menos visible y genera riesgos de **fuga de información confidencial**, de **errores** presentados con seguridad y de **propiedad intelectual**. El primer paso del gobierno es un **inventario**: qué sistemas hay, para qué, qué datos usan, quién es el dueño de negocio, qué proveedor lo sirve y qué decisiones influyen. Sin inventario, no hay gobierno.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **AI inventory coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. Clasificar por riesgo
 
-Relaciona el mecanismo con **AI risk**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La intensidad del gobierno se gradúa por el **impacto potencial** sobre las personas y el negocio y por el **grado de autonomía**. Una IA que sugiere un borrador de correo tiene un riesgo distinto de una que decide quién obtiene un crédito, quién es entrevistado o qué tratamiento se prioriza. El reglamento europeo de IA, como referencia comparada, adopta un enfoque basado en niveles de riesgo (usos prohibidos, de alto riesgo, con obligaciones de transparencia y de riesgo mínimo); sus definiciones, plazos y sujetos obligados se verifican en el texto oficial en EUR-Lex y con asesoría, y no se aplican a Chile por sí mismos. Los principios de la OCDE para una IA confiable (valores centrados en las personas, transparencia, robustez y seguridad, rendición de cuentas) ofrecen una base ética común que se traduce a criterios internos.
 
-### 2. AI risk: frontera conceptual y error de clasificación
+### 3. El marco del NIST: cuatro funciones
 
-**Definición operacional:** posible daño o pérdida derivada de comportamiento uso o dependencia de IA. Su valor está en distinguirlo de **AI governance** y **human oversight**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El marco de gestión de riesgos de IA del NIST (AI RMF 1.0) propone cuatro funciones. **Gobernar** establece cultura, políticas, roles y rendición de cuentas. **Mapear** describe el contexto del sistema: propósito, usuarios, datos, impactos posibles y quiénes podrían verse afectados. **Medir** evalúa y monitorea los riesgos con métricas y pruebas. **Gestionar** prioriza y trata los riesgos, con planes de respuesta y recuperación. El marco es voluntario, flexible y no certifica; sirve como lenguaje común y como lista de preguntas: ¿está claro el propósito?, ¿qué podría salir mal y para quién?, ¿cómo lo medimos?, ¿qué haremos si ocurre? Su texto vigente se consulta en la fuente oficial.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **AI risk** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **evaluation pass rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Supervisión humana que sí funciona
 
-Antes de clasificar impacto y contexto, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Poner «una persona en el circuito» no basta. Existe el **sesgo de automatización**: las personas tienden a confiar en las recomendaciones de un sistema, sobre todo si son frecuentes y casi siempre acertadas, y dejan de revisarlas. Una supervisión efectiva requiere: **información** suficiente para entender y cuestionar la recomendación, **tiempo** para revisar, **autoridad** real para contradecir sin consecuencias, **capacitación** en límites del sistema y **medición** de la intervención (¿con qué frecuencia se corrige una recomendación?). Si el revisor aprueba el 99,5 % sin cambios, es probable que la revisión sea formal. Para decisiones de alto impacto, se define además una vía de **reclamación** para las personas afectadas.
 
-### 3. human oversight: operacionalización y medición
+### 5. Pruebas: desempeño, sesgo y robustez
 
-**human oversight** significa **intervención humana con autoridad y capacidad real de revisar**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Antes del despliegue se evalúa: **desempeño** en datos representativos (no solo en los de entrenamiento), **sesgo** por grupos relevantes (diferencias de error y de resultados), **robustez** ante casos atípicos y entradas maliciosas, **seguridad** (filtración de datos, inyección de instrucciones en sistemas generativos) y **explicabilidad** suficiente para el uso. Después del despliegue, se **monitorea** la deriva y se registran los incidentes. Las pruebas de sesgo usan medidas como la comparación de tasas de selección entre grupos; ninguna medida única define lo justo, y las decisiones sobre qué equilibrio aceptar son de negocio y éticas, con asesoría legal, no solo estadísticas. La documentación de las pruebas queda disponible para auditoría.
 
-Bob Tricker — *Corporate Governance* orienta este bloque mediante **separación entre dirección, supervisión, accountability y gobierno corporativo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **human override**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Documentar: fichas y hojas de datos
 
-Al llegar a definir evaluación y guardrails, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Mitchell y otros propusieron las **fichas de modelo**: documentos breves que describen el uso previsto, los usos desaconsejados, el desempeño medido por grupos y condiciones, y las limitaciones. Gebru y otros propusieron las **hojas de datos para conjuntos de datos**: cómo se recolectaron los datos, con qué fines, qué contienen, qué sesgos pueden tener y cómo deben usarse. En una empresa, equivalen a una **ficha de sistema de IA** por cada uso relevante, con propósito, dueño, datos, pruebas, supervisión, límites y fecha de revisión. Para sistemas comprados, se exige al proveedor documentación equivalente y se verifica con pruebas propias en los casos de mayor impacto.
 
-### 4. model evaluation: trade-offs y efectos de segundo orden
+### 7. Proveedores, datos y obligaciones
 
-**Definición:** medición de desempeño robustez y riesgos en contexto. Este concepto obliga a abandonar la idea de que **gobierno responsable de IA** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar accountability y human oversight, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* aporta una lente sobre **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **incident rate** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **gobierno responsable de IA**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **model evaluation** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. AI inventory: gobernanza, límites e integración
-
-**AI inventory** se define como **registro de sistemas owners finalidad datos y criticidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *OECD AI Principles* se utiliza para estudiar **principios para IA confiable, responsable y centrada en las personas** y contrastar la recomendación final. Al ejecutar monitorizar drift incidentes y cambios, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **AI governance**, **AI risk**, **human oversight**, **model evaluation** y **AI inventory** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **gobierno responsable de IA** no consiste en sumar cinco definiciones. Empieza por **AI governance**, contrasta **AI risk** con **human oversight**, incorpora **model evaluation** como restricción o mecanismo y usa **AI inventory** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### NIST AI RMF y ciclo de riesgo
-
-AI RMF organiza trabajo en **Govern, Map, Measure, Manage**. `Map` obliga a comprender contexto y afectados; `Measure` evalúa propiedades/riesgos con métodos apropiados; `Manage` prioriza respuestas; `Govern` atraviesa el ciclo.
-
-Para cada caso de IA registra propósito, datos, modelo/proveedor, decisiones que afecta, supervisión humana, métricas de calidad, fallos previsibles, privacidad/seguridad, sesgo y plan de incidentes. “Tiene human-in-the-loop” no basta si la persona no tiene información, tiempo o autoridad real para intervenir.
+Con IA comprada, la empresa sigue siendo responsable de sus decisiones. Se revisa: qué datos recibe el proveedor, si los usa para entrenar sus modelos, dónde los almacena, cómo trata los incidentes, qué garantías da sobre desempeño y sesgo, qué derechos de auditoría concede y qué ocurre al terminar el contrato (clases 185 y 186). Se define una **política de uso aceptable** para herramientas generativas: qué datos no se pueden ingresar, qué usos están permitidos, cómo se verifica el contenido generado y cómo se declara su uso. Las obligaciones legales (datos personales, propiedad intelectual, no discriminación, protección del consumidor, normas sectoriales y las específicas de IA que se dicten) cambian con rapidez y se verifican en fuentes oficiales y con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **gobierno responsable de IA** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **gobierno responsable de IA** ayuda a desafiar? |
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **gobierno responsable de IA** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **gobierno responsable de IA** ayuda a desafiar? |
-| OECD — *OECD AI Principles* | principios para IA confiable, responsable y centrada en las personas | ¿Qué supuesto de **gobierno responsable de IA** ayuda a desafiar? |
-
-En **gobierno responsable de IA**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **AI governance**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| NIST AI RMF | Cuatro funciones y lenguaje común para gestionar riesgos de IA. | Voluntario y genérico; no certifica. | ¿Quién gobierna y cómo se mide? |
+| OCDE, principios de IA | Valores y principios para una IA confiable. | Principios de alto nivel. | ¿Cómo se traduce en criterios internos? |
+| Reglamento (UE) 2024/1689 | Enfoque basado en riesgos y obligaciones por nivel. | Aplica a la UE; en Chile se usa como comparación. | ¿Qué nivel tendría este uso? |
+| Mitchell y otros | Fichas de modelo con uso, desempeño y límites. | Depende de que se llenen con honestidad. | ¿Qué límites declara el modelo? |
+| Gebru y otros | Hojas de datos sobre origen y características de los datos. | Exige trabajo de documentación. | ¿De dónde vienen los datos y qué faltan? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** RR.HH. adopta un modelo externo para filtrar candidatos sin conocer datos de entrenamiento. El proveedor cambia versión automáticamente y no existe evaluación de sesgo ni mecanismo de apelación.
+**Situación (hipotética).** Una empresa de servicios con 3.000 empleados usa un sistema comprado para **preseleccionar** candidatos a partir de currículos. En el último proceso recibió 1.000 postulaciones: 600 del grupo A y 400 del grupo B (definidos para la prueba por una característica protegida que la empresa puede verificar de forma agregada y legal).
 
-**Paso 1 — inventariar casos de IA.** La gerencia escribe primero el supuesto asociado a **AI governance** y evita convertirlo en hecho. Luego busca **AI inventory coverage** para contrastarlo en el caso de **gobierno responsable de IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Clasificación.** Impacto alto (afecta oportunidades de empleo) y autonomía parcial (preselecciona; una persona entrevista). Corresponde supervisión intensiva y control humano documentado.
 
-**Paso 2 — clasificar impacto y contexto.** La gerencia escribe primero el supuesto asociado a **AI risk** y evita convertirlo en hecho. Luego busca **evaluation pass rate** para contrastarlo en el caso de **gobierno responsable de IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de resultados.**
 
-**Paso 3 — definir evaluación y guardrails.** La gerencia escribe primero el supuesto asociado a **human oversight** y evita convertirlo en hecho. Luego busca **human override** para contrastarlo en el caso de **gobierno responsable de IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Grupo | Postulantes | Preseleccionados | Tasa |
+|---|---|---|---|
+| A | 600 | 180 | 30 % |
+| B | 400 | 84 | 21 % |
 
-**Paso 4 — asignar accountability y human oversight.** La gerencia escribe primero el supuesto asociado a **model evaluation** y evita convertirlo en hecho. Luego busca **incident rate** para contrastarlo en el caso de **gobierno responsable de IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Razón de tasas.** 21 ÷ 30 = 0,70. Como referencia, la regla de los cuatro quintos usada en algunos contextos de evaluación de selección considera señal de alerta una razón menor de 0,80; no es una prueba legal ni concluyente, y su uso se discute con asesoría. Aquí la señal exige investigación.
 
-**Paso 5 — monitorizar drift incidentes y cambios.** La gerencia escribe primero el supuesto asociado a **AI inventory** y evita convertirlo en hecho. Luego busca **model drift** para contrastarlo en el caso de **gobierno responsable de IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revisión humana.** Entre las 264 preseleccionadas (180 + 84), los reclutadores modificaron 5 recomendaciones: 1,9 % (5 ÷ 264), lo que sugiere sesgo de automatización. Entre los no preseleccionados no se revisa ninguno, y es allí donde ocurre la exclusión.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **gobierno responsable de IA**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Investigación.** El sistema penaliza interrupciones de trayectoria y universidades no incluidas en su base de entrenamiento; ambas correlacionan con el grupo B. El proveedor confirma que su ficha de modelo no incluía pruebas por grupo.
+
+**Medidas.**
+
+1. Exigir al proveedor la ficha del modelo con pruebas por grupo y el derecho de auditoría.
+2. Reemplazar el filtro de trayectoria continua por criterios relacionados con el cargo.
+3. Revisar una muestra aleatoria de 10 % de los no preseleccionados por personas capacitadas.
+4. Monitoreo mensual de tasas por grupo con umbral de alerta en 0,85 y decisión del comité si cae bajo ese umbral.
+5. Canal de reclamación para candidatos y aviso de que se usa un sistema automatizado.
+
+**Resultado tras ajustes (hipotético).** Tasa del grupo A: 29 %; tasa del grupo B: 25 %; razón 25 ÷ 29 ≈ 0,86. La precisión de la preselección, medida por la proporción de preseleccionados que pasan a la entrevista final, baja de 78 % a 75 %; el comité acepta esa pérdida de 3 puntos a cambio de la mejora.
+
+**Cuidados.** Las pruebas de sesgo, el uso de datos de características protegidas, la información a los candidatos y la validez de decisiones automatizadas en selección dependen de la normativa vigente y se verifican con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La clasificación fijó la intensidad del gobierno. (2) La prueba por grupos reveló un problema invisible en el promedio. (3) La supervisión formal no bastó y se rediseñó.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **AI governance** | sistema de responsabilidades y controles para desarrollar o usar IA | Cuando AI inventory coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **AI risk** | posible daño o pérdida derivada de comportamiento uso o dependencia de IA | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Gobierno de IA frente a gobierno de datos y de ciberseguridad.** Se solapan, pero no son lo mismo: la IA añade preguntas sobre decisiones, sesgo, explicabilidad y deriva que los otros no cubren.
 
-**Frontera de aplicación:** No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad.
+**Límites.** Los marcos son voluntarios o de referencia comparada, y la regulación cambia con rapidez según el país. Ninguna medida de sesgo es suficiente por sí sola; las compensaciones entre equidad y precisión son decisiones de valor. La documentación puede ser incompleta o inexacta, especialmente en modelos de terceros. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre gobierno responsable de IA |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **gobierno responsable de IA** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **AI governance** y **AI risk** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta AI inventory coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si gobierno responsable de IA cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de gobierno responsable de IA reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **gobierno responsable de IA** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Usa IA solo con datos permitidos, verifica sus resultados y declara su uso. |
+| **Jefe / Team Lead** | Conoce los usos de IA de su equipo y revisa con criterio. |
+| **Gerente** | Es dueño de los sistemas de su área y exige pruebas y supervisión efectiva. |
+| **CEO / Director** | Aprueba la política y el apetito, y pide reportes de usos de alto impacto. |
+| **Founder / Owner** | Equilibra velocidad de adopción con confianza de clientes y empleados. |
 
 ## 🏢 Caso ejecutivo
 
-RR.HH. adopta un modelo externo para filtrar candidatos sin conocer datos de entrenamiento. El proveedor cambia versión automáticamente y no existe evaluación de sesgo ni mecanismo de apelación.
+Una entidad de crédito de consumo con 1.600 empleados usa tres sistemas de IA: un modelo de **puntaje crediticio** comprado a un proveedor, que decide automáticamente el 70 % de las solicitudes hasta cierto monto; un **asistente generativo** para el servicio al cliente, que los agentes alimentan con datos reales de clientes desde cuentas personales; y un modelo propio de **cobranza** que prioriza llamadas. En seis meses, las reclamaciones por rechazos subieron 45 %; un análisis muestra que la tasa de aprobación para solicitantes de una región es 38 % frente a 51 % del resto, con riesgo observado similar. Un agente pegó una lista de clientes en una herramienta pública. El proveedor del modelo de puntaje se niega a compartir detalles técnicos. El directorio pide un informe y un plan antes del cierre trimestral.
 
-Entrega un **decision brief de gobierno responsable de IA** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **marco de gobierno de IA** que contenga: (a) el inventario y la clasificación de los tres usos; (b) los roles, la política de uso aceptable y la estructura de aprobación; (c) las pruebas de desempeño, sesgo y robustez, con métricas y umbrales; (d) el diseño de supervisión humana y de reclamación; (e) las exigencias a proveedores y los cambios contractuales; (f) los indicadores, el monitoreo y las verificaciones legales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **gobierno responsable de IA** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta AI inventory coverage, evaluation pass rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Inventaria cinco usos de IA de tu organización y clasifícalos por impacto y autonomía.
+2. Redacta cinco reglas de uso aceptable para herramientas generativas.
+3. Diseña una prueba de resultados por grupos para un sistema que decide sobre personas.
+4. Define cómo medirías si la supervisión humana es efectiva.
+5. Lista diez preguntas que harías a un proveedor de IA antes de contratarlo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar AI governance y AI risk como sinónimos | Se pierde la distinción entre “sistema de responsabilidades y controles para desarrollar o usar IA” y “posible daño o pérdida derivada de comportamiento uso o dependencia de IA” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “monitorizar drift incidentes y cambios” | Se saltó “inventariar casos de IA” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios y marca el primer supuesto no demostrado. |
-| Optimizar solo AI inventory coverage | La métrica local sustituyó al resultado del sistema | Contrástala con evaluation pass rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre gobierno responsable de IA | No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad. |
-| No fijar revisión | Una decisión sobre gobierno responsable de IA se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| No saber qué IA se usa | Entra por áreas y proveedores | Inventario y proceso de aprobación. |
+| «Persona en el circuito» formal | Se cree que basta | Medir intervención y dar autoridad real. |
+| Probar solo el promedio | Es más simple | Pruebas por grupos y casos atípicos. |
+| Confiar en el proveedor | Se supone que ya lo probó | Exigir fichas, auditoría y pruebas propias. |
+| Prohibir sin alternativa | Se teme el riesgo | Herramientas aprobadas y reglas claras. |
+| Gobierno igual para todo | Se busca uniformidad | Graduar por impacto y autonomía. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **AI governance** y **AI risk** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **human oversight** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar casos de IA → clasificar impacto y contexto** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **AI inventory coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **gobierno responsable de IA**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad.**?
+1. ¿Cuáles son las cuatro funciones del marco NIST AI RMF?
+2. ¿Por qué se gradúa el gobierno según impacto y autonomía?
+3. ¿Qué es el sesgo de automatización y cómo se enfrenta?
+4. ¿Qué evalúan las pruebas previas y posteriores al despliegue?
+5. ¿Qué contiene una ficha de modelo?
+6. ¿Qué se revisa al contratar IA de un proveedor?
+7. ¿Qué límites tiene el uso de una sola medida de sesgo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Gobernar, Mapear, Medir y Gestionar.
+2. Porque el riesgo depende de cuánto afecta a las personas y al negocio y de cuánto decide el sistema sin una persona; así se asigna esfuerzo donde importa.
+3. La tendencia a confiar en las recomendaciones del sistema; se enfrenta con información, tiempo, autoridad, capacitación y medición de las intervenciones.
+4. Desempeño, sesgo, robustez, seguridad y explicabilidad antes; deriva e incidentes después.
+5. Uso previsto y desaconsejado, desempeño medido por grupos y condiciones, y limitaciones.
+6. Datos que recibe, uso para entrenar, almacenamiento, incidentes, garantías, derechos de auditoría y qué pasa al terminar.
+7. Ninguna medida define lo justo por sí sola; las compensaciones entre equidad y precisión son decisiones de valor que requieren asesoría legal y ética.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/188-gobierno-responsable-de-ia/`:
 
-- `risk-governance-brief.md` con el problema específico de **gobierno responsable de IA**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **gobierno responsable de IA** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **AI governance**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **RR.HH. adopta un modelo externo para filtrar candidatos sin conocer datos de entrenamiento. El proveedor cambia versión automáticamente y no existe evaluación de sesgo ni mecanismo de apelación.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el marco del caso ejecutivo;
+- `ai-business-case.md` (plantilla [AI business case](../../../../templates/ai-business-case.md)) con la evaluación de beneficios, riesgos y controles de un uso;
+- `decision-journal.md` con el inventario, las pruebas y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **gobierno responsable de ia**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **gobierno responsable de ia**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- OECD — *OECD AI Principles*. **Uso en esta clase:** principios para IA confiable, responsable y centrada en las personas. **Fuente primaria:** <https://oecd.ai/en/ai-principles>.
-- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **gobierno responsable de ia**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gobierno responsable de ia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gobierno responsable de ia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **gobierno responsable de ia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **gobierno responsable de ia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gobierno responsable de ia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** cuatro funciones para gestionar riesgos de IA. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
+- OECD — *OECD AI Principles*. **Uso en esta clase:** principios para una IA confiable. **Fuente primaria:** <https://oecd.ai/en/ai-principles>.
+- Unión Europea — *Reglamento (UE) 2024/1689 sobre inteligencia artificial* (EUR-Lex, 2024). **Uso en esta clase:** enfoque basado en riesgos como referencia comparada. **Fuente primaria:** <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>.
+- Margaret Mitchell et al. — *Model Cards for Model Reporting* (ACM FAccT, 2019). **Uso en esta clase:** fichas de modelo con uso, desempeño y límites. Lectura selectiva sobre **gobierno responsable de ia**. **Localizador:** [DOI 10.1145/3287560.3287596](https://doi.org/10.1145/3287560.3287596).
+- Timnit Gebru et al. — *Datasheets for datasets* (Communications of the ACM, 2021). **Uso en esta clase:** hojas de datos sobre origen y características de los datos. Lectura selectiva sobre **gobierno responsable de ia**. **Localizador:** [DOI 10.1145/3458723](https://doi.org/10.1145/3458723).
 
-> **Regla de fuentes para Gobierno responsable de IA:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gobierno responsable de IA** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Gobierno responsable de IA:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular la regulación de IA, de datos personales y de no discriminación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

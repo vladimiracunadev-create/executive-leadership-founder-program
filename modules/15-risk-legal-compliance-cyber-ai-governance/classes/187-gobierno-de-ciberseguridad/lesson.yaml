@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir cyber risk de NIST CSF mediante evidencia observable."
-  - "Aplicar la secuencia: mapear activos y procesos críticos → definir escenarios e impacto → establecer governance y controles → medir detección respuesta y recuperación → reportar exposición residual y decisiones."
-  - "Interpretar critical asset coverage, MFA coverage, MTTD sin atribuir causalidad automática."
-  - "Resolver el caso de gobierno de ciberseguridad con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Traducir la ciberseguridad a escenarios de negocio con activos críticos e impacto."
+  - "Estructurar el gobierno con roles, apetito, políticas y reporte al directorio."
+  - "Priorizar controles básicos según el riesgo y el costo."
+  - "Exigir indicadores que midan reducción de riesgo y no actividad."
+  - "Preparar la respuesta y la comunicación con verificación legal de obligaciones."
 deliverable: "risk-governance-brief.md"
 references:
-  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
-  - "John C. Hull — *Risk Management and Financial Institutions*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
-  - "ISO — *ISO 31000 Risk management*"
   - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "NIST — *Cybersecurity Framework 2.0*. Fuente primaria: <https://www.nist.gov/cyberframework>."
+  - "Ross Anderson — *Security Engineering*"
+  - "Richard A. Clarke & Robert K. Knake — *The Fifth Domain*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: ciberseguridad y delitos informáticos (Ley 21.663 y Ley 21.459)*"
+  - "Agencia Nacional de Ciberseguridad de Chile — *Portal oficial de la ANCI*"
 limits:
-  - "Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales."
+  - "Las probabilidades de ataque son inciertas y cambian con rapidez."
 evidence_signals:
-  - "critical asset coverage"
-  - "MFA coverage"
-  - "MTTD"
-  - "MTTR"
-  - "recovery test success"
+  - "activos críticos identificados"
+  - "gobierno y reporte al directorio"
+  - "controles básicos priorizados"
+  - "indicadores de reducción de riesgo"

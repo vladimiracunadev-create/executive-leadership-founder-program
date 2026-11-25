@@ -10,217 +10,211 @@
 
 ## 🎯 Propósito
 
-El comité integrado de riesgos debe priorizar exposición agregada y decisiones, no escuchar reportes aislados de legal, cyber, operaciones y compliance. El capstone conecta objetivos, escenarios, apetito, controles, indicadores, incidentes y capital requerido.
+Esta clase integra la parte 15. Cada una de las clases anteriores trató un tipo de riesgo con su lenguaje y sus herramientas: escenarios y exposición (181), apetito y límites (182), controles (183), temas legales y contratos (184 y 185), datos (186), ciberseguridad (187), inteligencia artificial (188), cumplimiento y ética (189), crisis (190) y continuidad (191). En una empresa real, los riesgos no llegan separados: un incidente de ciberseguridad es también un riesgo legal, de datos, de continuidad, de reputación y de cumplimiento; una decisión sobre un proveedor de IA afecta el contrato, los datos, el sesgo y la dependencia. El **comité integrado de riesgos** existe para mirar esas interacciones, decidir con un lenguaje común y asignar recursos limitados donde más reducen el riesgo.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: comité integrado de riesgos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+El trabajo es un **paquete de decisión para el comité**: mapa de riesgos integrado, priorización con restricciones, plan de respuesta con dueños, tablero y reglas de escalamiento. Se apoya en COSO, ISO 31000, el marco de ciberseguridad y el de IA del NIST y en el gobierno corporativo de Tricker, y se cierra con honestidad sobre lo que se sabe, lo que se supone y lo que debe verificarse con asesoría y fuentes oficiales. Al terminar tendrás un documento que podrías presentar a un directorio.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `risk portfolio`, `risk aggregation`, `KRI`, `control assurance`, `risk treatment plan` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** top-risk exposure, KRI breaches, control assurance sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Integrar** riesgos de distintos dominios en un mapa único con un lenguaje común.
+2. **Priorizar** inversiones con costo, efecto, restricciones y apetito.
+3. **Asignar** dueños, controles, indicadores y plazos.
+4. **Diseñar** el reporte y las reglas de escalamiento del comité.
+5. **Declarar** supuestos, límites y verificaciones legales pendientes.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define risk portfolio y risk aggregation sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con top-risk exposure y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué riesgo de tu empresa se activa cuando otro falla y quién lo ve hoy? |
+| 20–60 min | Mandato, mapa integrado, lenguaje común, priorización, tablero y escalamiento. |
+| 60–105 min | Ejemplo trabajado: asignar 195 millones entre siete riesgos de una empresa. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **risk portfolio** | vista agregada de exposiciones y dependencias | Distingue un hecho compatible y otro que lo refute. |
-| **risk aggregation** | análisis de cómo riesgos interactúan o se concentran | Distingue un hecho compatible y otro que lo refute. |
-| **KRI** | indicador que señala cambio en exposición | Distingue un hecho compatible y otro que lo refute. |
-| **control assurance** | evidencia independiente sobre diseño y operación de controles | Distingue un hecho compatible y otro que lo refute. |
-| **risk treatment plan** | acciones owner y plazo para llevar riesgo al nivel aceptado | Distingue un hecho compatible y otro que lo refute. |
+| **Comité integrado de riesgos** | Instancia que revisa, prioriza y decide sobre los riesgos de todos los dominios. | Tiene mandato, miembros, agenda y decisiones. |
+| **Mapa común** | Registro único de escenarios con los mismos criterios de medición. | Todas las áreas usan la misma escala. |
+| **Restricción dura** | Condición que no se negocia, como un límite legal o un periodo máximo tolerable. | Prevalece sobre el cálculo de costo-beneficio. |
+| **Riesgo interdependiente** | Riesgo que se activa o agrava cuando otro ocurre. | Comparten proveedor, sistema, persona o dato. |
+| **Regla de escalamiento** | Criterio que lleva una decisión al directorio. | Umbrales de monto, impacto o apetito. |
+| **Tablero de riesgos** | Vista breve con tendencias, excepciones y decisiones requeridas. | Una o dos páginas con indicadores. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 192: 1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento](modelo-mental.svg)
+![Cómo un comité integrado gobierna los riesgos: inventariar, medir contra el apetito, asignar, reportar, y decidir y revisar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El comité integrado de riesgos debe priorizar exposición agregada y decisiones, no escuchar reportes aislados de legal, cyber, operaciones y compliance. El capstone conecta objetivos, escenarios, apetito, controles, indicadores, incidentes y capital requerido.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Inventariar**: riesgos operativos, legales, de datos, ciberseguridad e IA en un mapa común. **Medir contra el apetito**: exposición residual frente a límites aprobados. **Asignar**: dueño, control y plazo para cada riesgo relevante. **Reportar**: un tablero para la dirección con tendencias y excepciones. **Decidir y revisar**: aceptar, reducir, transferir o evitar, y volver a medir. La flecha de retorno indica que las decisiones y los incidentes actualizan el mapa. La nota afirma que el valor del comité está en ver las interacciones entre riesgos y en decidir con un mismo lenguaje.
 
 ## 📖 Desarrollo
 
-### 1. risk portfolio: mecanismo central
+### 1. Mandato y composición
 
-**risk portfolio** se entiende aquí como **vista agregada de exposiciones y dependencias**. Esta es la pieza causal o estructural desde la que se inicia **capstone: comité integrado de riesgos**: antes de definir top risks por objetivo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un comité integrado necesita un **mandato escrito**: qué decide, qué recomienda al directorio, con qué frecuencia se reúne y qué información recibe. Tricker recuerda que el gobierno corporativo asigna al directorio la supervisión del riesgo y a la dirección su gestión; el comité es el espacio donde la dirección rinde cuentas y se alinea. Su **composición** incluye a quienes pueden decidir y ejecutar: gerencia general o su delegado, finanzas, operaciones, tecnología y seguridad, legal y cumplimiento, personas y, según el caso, auditoría interna como observador independiente. Se evita que sea un comité de «informar»: cada sesión tiene decisiones, responsables y fechas. Y se cuida que la función de riesgos no sea dueña de los riesgos de las áreas: facilita, consolida y desafía, pero los dueños son los gerentes.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **top-risk exposure**; regístrala con periodo, unidad, población y baseline.
+### 2. Un mapa y un lenguaje comunes
 
-Relaciona el mecanismo con **risk aggregation**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El primer trabajo es unificar. Los registros de cada área suelen usar escalas, definiciones y horizontes distintos. El comité define **criterios comunes**: escalas de probabilidad e impacto en pesos, en días de interrupción, en personas afectadas y en consecuencias legales; horizonte temporal; categorías de riesgo; y reglas para estimar. COSO e ISO 31000 coinciden en la importancia de un proceso y un lenguaje compartidos. El mapa se construye con **escenarios** (clase 181), cada uno con dueño, estimación inherente y residual, controles, indicadores y vínculos con otros escenarios. Se identifican las **interdependencias**: un mismo proveedor, sistema, persona o conjunto de datos que aparece en varios escenarios, lo que sugiere riesgos de concentración.
 
-### 2. risk aggregation: frontera conceptual y error de clasificación
+### 3. Medir contra el apetito y las restricciones
 
-**Definición operacional:** análisis de cómo riesgos interactúan o se concentran. Su valor está en distinguirlo de **risk portfolio** y **KRI**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada escenario se compara con el **apetito y los límites** aprobados (clase 182): ¿está dentro, en tolerancia o fuera? Se distinguen las **restricciones duras** (cumplimiento legal, seguridad de las personas, periodo máximo tolerable de procesos críticos, covenants) de las **preferencias económicas**. Las restricciones duras se cumplen primero; el análisis costo-beneficio ordena lo demás. Un escenario cuyo peor caso razonable supera un umbral del apetito (por ejemplo, 25 % del EBITDA) requiere tratamiento aunque su pérdida esperada sea baja. Se incluye el **riesgo de cola** y los escenarios combinados: ¿qué pasa si un ciberataque ocurre cuando falla el proveedor único?
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **risk aggregation** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **KRI breaches** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Priorizar con recursos limitados
 
-Antes de analizar concentración y escenarios, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El presupuesto de riesgo es limitado, y el comité asigna con un procedimiento explícito: 1) financiar las **restricciones duras**; 2) ordenar el resto por **reducción de pérdida esperada por peso invertido**; 3) revisar el **riesgo de cola** y las interdependencias; 4) considerar **medidas de bajo costo** que reducen varios riesgos; 5) decidir qué **no se financia**, con una **medida interina** y un dueño que acepta formalmente el riesgo remanente. La priorización es un apoyo para la decisión y no un cálculo automático: los datos son estimaciones, hay efectos no cuantificables (reputación, confianza, seguridad de las personas) y las obligaciones legales y éticas no se negocian por precio.
 
-### 3. KRI: operacionalización y medición
+### 5. Dueños, controles e indicadores
 
-**KRI** significa **indicador que señala cambio en exposición**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cada riesgo priorizado tiene un **dueño** con autoridad, un **plan** con hitos y fechas, **indicadores** con umbrales y un **responsable del monitoreo**. Se alinean los controles entre dominios: un mismo control puede servir a varios riesgos (autenticación multifactor reduce riesgos de ciberseguridad, de fraude y de datos). Se vigila la **carga** sobre los equipos para no saturarlos y se coordina con otras iniciativas de cambio (clase 176). Los **incentivos** se revisan: si los bonos premian metas que empujan a asumir riesgos, los controles no bastan (clase 175). La **auditoría interna** evalúa de forma independiente el diseño y la operación.
 
-NIST — *AI Risk Management Framework (AI RMF 1.0)* orienta este bloque mediante **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **control assurance**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Tablero y reglas de escalamiento
 
-Al llegar a comparar residual con apetito, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El tablero para el comité y el directorio cabe en una o dos páginas: **top de riesgos** (por exposición residual), **tendencia** frente al período anterior, **indicadores en rojo o ámbar** con su causa y su plan, **excepciones** y **aceptaciones de riesgo** vigentes, **incidentes** relevantes y lecciones, y **decisiones requeridas**. Las **reglas de escalamiento** definen cuándo un tema pasa al directorio: riesgos fuera de apetito, incidentes con impacto sobre un umbral, hallazgos graves de auditoría, cambios regulatorios relevantes, sospecha de delito. Se establecen plazos: por ejemplo, un incidente grave se informa al presidente del directorio en 24 horas. El tablero es honesto: incluye lo que va mal.
 
-### 4. control assurance: trade-offs y efectos de segundo orden
+### 7. Integración con la crisis, la continuidad y el aprendizaje
 
-**Definición:** evidencia independiente sobre diseño y operación de controles. Este concepto obliga a abandonar la idea de que **capstone: comité integrado de riesgos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de decidir tratamientos y capital, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+El comité conecta con el **comité de crisis** (clase 190): define qué incidentes lo activan y revisa sus lecciones; con la **continuidad** (clase 191): aprueba objetivos de recuperación y verifica resultados de pruebas; con **cumplimiento** (clase 189): recibe el reporte de denuncias y casos; con **ciberseguridad** (clase 187), **datos** (clase 186) e **IA** (clase 188): revisa indicadores y excepciones. Después de cada incidente se hace una **revisión sin culpas** que actualiza el mapa, los controles y los supuestos. Cada año se **revisa el apetito**, se **valida** el mapa con datos propios y se **prueba** el comité con un ejercicio que incluya un escenario combinado.
 
-Ross Anderson — *Security Engineering* aporta una lente sobre **perspectiva de Ciberseguridad aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **overdue actions** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+### 8. Declarar lo que no se sabe
 
-Haz un *pre-mortem* de **capstone: comité integrado de riesgos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **control assurance** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. risk treatment plan: gobernanza, límites e integración
-
-**risk treatment plan** se define como **acciones owner y plazo para llevar riesgo al nivel aceptado** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar asignar assurance y seguimiento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **risk portfolio**, **risk aggregation**, **KRI**, **control assurance** y **risk treatment plan** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: comité integrado de riesgos** no consiste en sumar cinco definiciones. Empieza por **risk portfolio**, contrasta **risk aggregation** con **KRI**, incorpora **control assurance** como restricción o mecanismo y usa **risk treatment plan** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un buen paquete de decisión separa **evidencia** (datos y pruebas), **supuestos** (probabilidades, costos, efectividad de controles) y **juicio** (criterios de priorización), e indica **qué se verificará** con asesoría y fuentes oficiales: contratos, normas de datos, ciberseguridad e IA, obligaciones sectoriales, seguros, plazos de notificación. También indica qué decisiones **dependen** de esas verificaciones. Evita la falsa precisión: presenta rangos y sensibilidades. Y es explícito sobre lo que **no** se financia y por qué. La credibilidad del comité nace de esa honestidad.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **capstone: comité integrado de riesgos** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **capstone: comité integrado de riesgos** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **capstone: comité integrado de riesgos** ayuda a desafiar? |
-| Ross Anderson — *Security Engineering* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **capstone: comité integrado de riesgos** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **capstone: comité integrado de riesgos** ayuda a desafiar? |
-
-En **capstone: comité integrado de riesgos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **risk portfolio**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| COSO ERM | Integración del riesgo con estrategia y desempeño. | No fija métodos de medición. | ¿Qué objetivo está en juego? |
+| ISO 31000 | Proceso y lenguaje comunes de gestión del riesgo. | Norma genérica. | ¿Estamos usando los mismos criterios? |
+| NIST CSF 2.0 | Gobierno y resultados de ciberseguridad. | No prioriza entre dominios. | ¿Cómo entra el ciberriesgo en el mapa común? |
+| NIST AI RMF | Gestión de riesgos de IA con cuatro funciones. | Voluntario y genérico. | ¿Qué usos de IA están en el inventario? |
+| Tricker | Gobierno corporativo y responsabilidades del directorio. | No es específico de riesgos. | ¿Qué debe decidir el directorio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa enfrenta simultáneamente proveedor cloud único, investigación regulatoria y alta rotación de seguridad. Cada riesgo es medio por separado, pero todos dependen del mismo equipo de plataforma.
+**Situación (hipotética).** El comité de la empresa de comercio electrónico de las clases anteriores (ingresos de 50.000 millones y EBITDA de 3.600 millones) debe asignar un presupuesto anual de riesgo de **195 millones de pesos** entre siete escenarios. La regla de apetito dice que todo escenario cuyo peor caso razonable supere el 25 % del EBITDA (900 millones) debe tratarse.
 
-**Paso 1 — definir top risks por objetivo.** La gerencia escribe primero el supuesto asociado a **risk portfolio** y evita convertirlo en hecho. Luego busca **top-risk exposure** para contrastarlo en el caso de **capstone: comité integrado de riesgos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mapa integrado (valores anuales, en millones de pesos).**
 
-**Paso 2 — analizar concentración y escenarios.** La gerencia escribe primero el supuesto asociado a **risk aggregation** y evita convertirlo en hecho. Luego busca **KRI breaches** para contrastarlo en el caso de **capstone: comité integrado de riesgos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| # | Escenario | Pérdida esperada inherente | Pérdida esperada residual con la medida | Costo anual de la medida | Reducción | Reducción por peso invertido |
+|---|---|---|---|---|---|---|
+| 1 | Ransomware en sistemas de pedidos | 88,8 | 19,0 | 45 | 69,8 | 1,55 |
+| 2 | Fraude en pagos a proveedores | 60,0 | 9,0 | 10 | 51,0 | 5,10 |
+| 3 | Falla del proveedor único de envases | 300,0 | 48,0 | 40 | 252,0 | 6,30 |
+| 4 | Filtración de datos de clientes | 96,0 | 57,6 | 15 (45 en tres años) | 38,4 | 2,56 |
+| 5 | Sesgo en la preselección con IA | 40,0 | 10,0 | 20 | 30,0 | 1,50 |
+| 6 | Soluciones de continuidad del sistema de pedidos | 14,4 | 2,4 | 48 adicionales | 12,0 | 0,25 |
+| 7 | Incumplimiento anticorrupción en licitaciones | 120,0 | 30,0 | 35 | 90,0 | 2,57 |
+| | **Total inherente** | **719,2** | | | | |
 
-**Paso 3 — comparar residual con apetito.** La gerencia escribe primero el supuesto asociado a **KRI** y evita convertirlo en hecho. Luego busca **control assurance** para contrastarlo en el caso de **capstone: comité integrado de riesgos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paso 1: restricciones duras.** (a) El escenario 6 es obligatorio: el periodo máximo tolerable de 12 horas exige el sitio en espera (clase 191), con un costo adicional de 48 millones (60 menos 12 de la opción actual). (b) El escenario 1 debe tratarse: su peor caso razonable es 1.100 millones, que equivale al 30,6 % del EBITDA (1.100 ÷ 3.600), por encima del 25 %. Costo comprometido: 48 + 45 = 93 millones. Quedan 195 − 93 = 102 millones.
 
-**Paso 4 — decidir tratamientos y capital.** La gerencia escribe primero el supuesto asociado a **control assurance** y evita convertirlo en hecho. Luego busca **overdue actions** para contrastarlo en el caso de **capstone: comité integrado de riesgos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paso 2: orden por reducción por peso.** Proveedor único (6,30) con 40 millones, queda 62. Fraude de pagos (5,10) con 10, queda 52. Incumplimiento anticorrupción (2,57) con 35, queda 17. Datos de clientes (2,56) con 15, queda 2. El escenario 5, con 20 millones, no cabe.
 
-**Paso 5 — asignar assurance y seguimiento.** La gerencia escribe primero el supuesto asociado a **risk treatment plan** y evita convertirlo en hecho. Luego busca **scenario loss** para contrastarlo en el caso de **capstone: comité integrado de riesgos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: comité integrado de riesgos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+- Costo total: 93 + 40 + 10 + 35 + 15 = 193 millones, dentro de los 195.
+- Reducción total de pérdida esperada: 12,0 + 69,8 + 252,0 + 51,0 + 90,0 + 38,4 = 513,2 millones.
+- Relación global: 513,2 ÷ 193 ≈ 2,66.
+- Pérdida esperada residual: 719,2 − 513,2 = 206,0 millones (suma de 19,0 + 9,0 + 48,0 + 57,6 + 40,0 + 30,0 + 2,4).
+
+**Lo que no se financia.** El escenario 5 (IA) queda con un residual de 40 millones. Medida interina sin costo adicional: se suspende el rechazo automático, toda preselección pasa por revisión humana con muestra de las descartadas, y el dueño (gerente de personas) acepta formalmente el riesgo remanente hasta el próximo ciclo, con revisión en 90 días.
+
+**Interdependencias.** El proveedor único de envases y el ransomware comparten un sistema de integración; si ambos ocurren, el impacto combinado es mayor que la suma. El comité pide un escenario combinado y un ejercicio de mesa.
+
+**Reglas de escalamiento.** Al directorio: cualquier incidente con impacto estimado sobre 300 millones o con datos personales de más de 10.000 personas (informar en 24 horas); cualquier riesgo fuera de apetito por más de 30 días; y hallazgos graves de auditoría.
+
+**Cuidados.** Las estimaciones son hipotéticas y con incertidumbre; las obligaciones de datos, ciberseguridad, IA, anticorrupción y contratos se verifican con asesoría y fuentes oficiales; la lista de lo no financiado se informa al directorio.
+
+**Qué muestra.** (1) Las restricciones duras se financiaron primero. (2) El resto se ordenó por reducción por peso invertido. (3) Lo no financiado tiene dueño, medida interina y fecha de revisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **risk portfolio** | vista agregada de exposiciones y dependencias | Cuando top-risk exposure es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **risk aggregation** | análisis de cómo riesgos interactúan o se concentran | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Comité integrado frente a comités por dominio.** Los comités especializados profundizan; el integrado decide asignaciones y mira interacciones. Pueden coexistir si sus mandatos están claros.
 
-**Frontera de aplicación:** Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura.
+**Límites.** El orden por reducción por peso invertido depende de estimaciones inciertas y no captura daños no cuantificables ni obligaciones legales y éticas. Las interdependencias se detectan con análisis cuidadoso y se subestiman con facilidad. Un comité sin autoridad real o sin información veraz no gobierna. Las cifras del ejemplo son ilustrativas y no describen a ninguna empresa real.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: comité integrado de riesgos |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **capstone: comité integrado de riesgos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **risk portfolio** y **risk aggregation** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta top-risk exposure con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: comité integrado de riesgos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: comité integrado de riesgos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: comité integrado de riesgos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reporta riesgos y cumple los controles asignados. |
+| **Jefe / Team Lead** | Mantiene los escenarios de su área con datos y señales. |
+| **Gerente** | Es dueño de riesgos, presenta al comité y ejecuta sus decisiones. |
+| **CEO / Director** | Preside el comité, fija el apetito y decide qué no se financia. |
+| **Founder / Owner** | Acepta o no los riesgos remanentes que afectan su patrimonio y su empresa. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa enfrenta simultáneamente proveedor cloud único, investigación regulatoria y alta rotación de seguridad. Cada riesgo es medio por separado, pero todos dependen del mismo equipo de plataforma.
+Una empresa de servicios de salud con 2.600 empleados, ingresos de 90.000 millones de pesos y un EBITDA de 8.100 millones no tiene un comité integrado. Cada área mantiene su registro: tecnología (36 riesgos), clínica (41), legal (19), finanzas (22) y personas (17). En un trimestre ocurrieron: un incidente de ransomware que dejó sin historia clínica electrónica a dos centros durante 18 horas; una denuncia de acoso con investigación de 95 días; una fiscalización por tratamiento de datos de salud; un contrato con un proveedor de IA de apoyo diagnóstico sin evaluación de sesgo; y una falla de un proveedor de gases medicinales que casi detiene cirugías. El presupuesto de riesgo disponible es de 520 millones de pesos. El directorio pide, en 45 días, un paquete de decisión integrado y un diseño de comité.
 
-Entrega un **decision brief de capstone: comité integrado de riesgos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **paquete de decisión del comité integrado** que contenga: (a) el mandato, la composición y las reglas del comité; (b) el mapa integrado con criterios comunes, interdependencias y estimaciones con rangos; (c) la medición contra el apetito y las restricciones duras; (d) la priorización del presupuesto con cálculo, lo no financiado y las medidas interinas; (e) el tablero, los dueños, los indicadores y las reglas de escalamiento; (f) los supuestos, los límites y las verificaciones legales, regulatorias y contractuales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: comité integrado de riesgos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta top-risk exposure, KRI breaches; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Reúne los registros de riesgos de tres áreas y unifícalos en un solo formato con criterios comunes.
+2. Identifica tres interdependencias (proveedor, sistema, persona o dato) entre riesgos de distintos dominios.
+3. Fija una regla de apetito para riesgos de cola y aplícala a tu mapa.
+4. Asigna un presupuesto hipotético con el procedimiento de restricciones duras y reducción por peso invertido.
+5. Diseña un tablero de una página con diez indicadores y tres reglas de escalamiento.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar risk portfolio y risk aggregation como sinónimos | Se pierde la distinción entre “vista agregada de exposiciones y dependencias” y “análisis de cómo riesgos interactúan o se concentran” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “asignar assurance y seguimiento” | Se saltó “definir top risks por objetivo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento y marca el primer supuesto no demostrado. |
-| Optimizar solo top-risk exposure | La métrica local sustituyó al resultado del sistema | Contrástala con KRI breaches y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: comité integrado de riesgos | Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura. |
-| No fijar revisión | Una decisión sobre capstone: comité integrado de riesgos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Sumar registros sin unificar | Cada área usa su escala | Criterios comunes de probabilidad e impacto. |
+| Comité para informar | Se evita decidir | Agenda con decisiones, dueños y fechas. |
+| Priorizar solo por promedios | Es más simple | Revisar cola, interdependencias y restricciones duras. |
+| No decidir qué no se financia | Se evita el conflicto | Medida interina, dueño y revisión. |
+| Tablero cargado de indicadores | Se quiere mostrar todo | Dos páginas con tendencias y excepciones. |
+| Ocultar lo que va mal | Se teme al directorio | Reporte honesto y lecciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **risk portfolio** y **risk aggregation** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **KRI** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir top risks por objetivo → analizar concentración y escenarios** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **top-risk exposure** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: comité integrado de riesgos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura.**?
+1. ¿Qué debe contener el mandato de un comité integrado de riesgos?
+2. ¿Por qué se necesita un lenguaje y un mapa comunes?
+3. ¿Cómo se distinguen restricciones duras y preferencias económicas?
+4. ¿Qué pasos sigue la priorización con recursos limitados?
+5. ¿Qué incluye un tablero de riesgos para el directorio?
+6. ¿Qué reglas de escalamiento conviene definir?
+7. ¿Qué debe declarar un paquete de decisión honesto?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Qué decide y qué recomienda, frecuencia, miembros, información que recibe y obligación de producir decisiones con dueños y fechas.
+2. Para comparar riesgos de distintas áreas con las mismas escalas y poder agregar y priorizar entre ellos.
+3. Las restricciones duras (leyes, seguridad de las personas, periodo máximo tolerable, covenants) se cumplen primero; las preferencias económicas se ordenan por costo y efecto.
+4. Financiar restricciones duras, ordenar por reducción por peso invertido, revisar colas e interdependencias, considerar medidas transversales y decidir lo no financiado con medida interina.
+5. Principales riesgos, tendencias, indicadores en rojo o ámbar con plan, excepciones y aceptaciones vigentes, incidentes y decisiones requeridas.
+6. Riesgos fuera de apetito, incidentes sobre un umbral de impacto, hallazgos graves de auditoría, cambios regulatorios relevantes y sospecha de delito, con plazos.
+7. Evidencia, supuestos y juicio; verificaciones pendientes; incertidumbre con rangos; y lo que no se financia con sus razones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/192-capstone-comite-integrado-de-riesgos/`:
 
-- `risk-governance-brief.md` con el problema específico de **capstone: comité integrado de riesgos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: comité integrado de riesgos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **risk portfolio**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa enfrenta simultáneamente proveedor cloud único, investigación regulatoria y alta rotación de seguridad. Cada riesgo es medio por separado, pero todos dependen del mismo equipo de plataforma.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el paquete de decisión del caso ejecutivo;
+- `enterprise-risk.md` (plantilla [Enterprise risk](../../../../templates/enterprise-risk.md)) con el mapa integrado y la priorización;
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el tablero y las reglas de escalamiento;
+- `decision-journal.md` con los supuestos, las medidas interinas y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **capstone: comité integrado de riesgos**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **capstone: comité integrado de riesgos**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: comité integrado de riesgos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: comité integrado de riesgos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: comité integrado de riesgos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: comité integrado de riesgos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comité integrado de riesgos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** integración del riesgo con estrategia y desempeño. **Fuente primaria:** <https://www.coso.org/>.
+- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** proceso y lenguaje comunes de gestión del riesgo. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno y resultados de ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
+- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gestión de riesgos de IA con cuatro funciones. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** gobierno corporativo y responsabilidades del directorio. Lectura selectiva sobre **capstone: comité integrado de riesgos**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
 
-> **Regla de fuentes para Capstone: comité integrado de riesgos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comité integrado de riesgos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para el Capstone del comité integrado de riesgos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones de datos, ciberseguridad, IA, anticorrupción y sectoriales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

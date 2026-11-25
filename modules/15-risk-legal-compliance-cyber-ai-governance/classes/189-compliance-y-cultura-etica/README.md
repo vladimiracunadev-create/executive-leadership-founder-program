@@ -10,235 +10,203 @@
 
 ## 🎯 Propósito
 
-Compliance efectivo combina reglas, incentivos, liderazgo, speak-up, investigación y remediación. Una política no es cultura ética si empleados perciben que cumplir cuesta carrera o ventas. El gerente crea o destruye compliance mediante decisiones cotidianas y excepciones.
+Casi todas las empresas tienen un código de ética, una política anticorrupción y una capacitación anual en línea. Y casi todas conocen casos en que alguien con buenos resultados quedó fuera de las reglas, una denuncia no tuvo respuesta o un gerente presionó para «cerrar la venta como sea». La brecha entre el programa de papel y la conducta real es el problema central del compliance: no se resuelve con más documentos, sino con una combinación de **diseño** (reglas claras y fáciles de cumplir), **incentivos** (que no premien lo incorrecto), **ejemplo** de los líderes, **canales** confiables y **consecuencias** consistentes. Un programa que funciona hace visible lo incorrecto y fácil lo correcto.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **compliance y cultura ética** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase integra el trabajo de Treviño, Weaver y Reynolds sobre ética conductual en las organizaciones, el concepto de desvanecimiento ético de Tenbrunsel y Messick, la mirada de Kidder sobre dilemas entre valores en conflicto, la seguridad psicológica de Edmondson como condición para hablar, y remite a las fuentes oficiales chilenas sobre responsabilidad penal de las personas jurídicas sin interpretarlas. Al terminar sabrás diseñar los elementos de un programa de cumplimiento, evaluar su efectividad con evidencia, manejar denuncias y conflictos de interés y decidir ante presiones reales.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `compliance`, `code of conduct`, `speak-up`, `retaliation`, `remediation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** hotline usage, substantiation rate, retaliation allegations sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Diseñar** un sistema de declaración de conflictos con canal confidencial, no represalia y asesoramiento independiente.
+1. **Explicar** por qué las personas incumplen y qué factores de la organización lo favorecen.
+2. **Diseñar** los elementos de un programa de cumplimiento basado en riesgos.
+3. **Gestionar** un canal de denuncias, investigaciones y medidas con protección y consistencia.
+4. **Evaluar** si el programa funciona, con indicadores de conducta y de percepción.
+5. **Decidir** ante presiones y dilemas con un método explícito.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define compliance y code of conduct sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con hotline usage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué le ocurre en tu empresa a quien denuncia algo y a quien rinde mucho y rompe una regla? |
+| 20–60 min | Por qué se incumple, elementos del programa, denuncias, incentivos, evaluación y dilemas. |
+| 60–105 min | Ejemplo trabajado: rediseño del canal de denuncias y de las investigaciones. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **compliance** | adhesión a obligaciones legales regulatorias y políticas internas | Distingue un hecho compatible y otro que lo refute. |
-| **code of conduct** | marco de comportamientos y principios esperados | Distingue un hecho compatible y otro que lo refute. |
-| **speak-up** | capacidad segura de reportar inquietudes | Distingue un hecho compatible y otro que lo refute. |
-| **retaliation** | consecuencia adversa por denunciar o participar de buena fe | Distingue un hecho compatible y otro que lo refute. |
-| **remediation** | acciones para corregir causa daño y control fallido | Distingue un hecho compatible y otro que lo refute. |
+| **Compliance** | Conjunto de políticas, procesos y controles para cumplir normas y valores propios. | Programa con responsables, riesgos, controles y revisión. |
+| **Cultura ética** | Normas compartidas sobre lo que se hace y se tolera, más allá de lo escrito. | Se ve en decisiones bajo presión. |
+| **Desvanecimiento ético** | Proceso por el que la dimensión ética de una decisión deja de verse. | Se habla de «números», «plazos» o «prácticas del mercado». |
+| **Tono desde arriba** | Señales de los líderes sobre lo que importa y lo que se permite. | Coherencia entre discurso y decisiones. |
+| **Canal de denuncia** | Vía para reportar sospechas con protección. | Confiable, accesible y con respuesta. |
+| **Represalia** | Trato adverso contra quien denuncia o colabora. | Cambios de funciones, aislamiento, evaluaciones injustas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 189: 1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia](modelo-mental.svg)
+![Programa de integridad que funciona frente a programa de papel: tono coherente, canal con respuesta y consecuencias consistentes frente a código sin práctica, denuncias sin seguimiento y excepciones para los estrella.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Compliance efectivo combina reglas, incentivos, liderazgo, speak-up, investigación y remediación. Una política no es cultura ética si empleados perciben que cumplir cuesta carrera o ventas. El gerente crea o destruye compliance mediante decisiones cotidianas y excepciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, el **programa que funciona**: tono coherente de la dirección (los líderes cumplen las reglas que exigen), canal de denuncia con respuesta (se investiga, se protege y se informa el resultado) y consecuencias consistentes (mismas reglas para todos, incluidos los que más rinden). A la derecha, el **programa de papel**: código sin práctica, denuncias sin seguimiento y excepciones para los estrella. La nota explica que las personas aprenden de lo que ocurre, no de lo que se lee; el pie, que el contenido exigible de un programa depende de la ley vigente.
 
 ## 📖 Desarrollo
 
-### 1. compliance: mecanismo central
+### 1. Por qué las personas incumplen
 
-**compliance** se entiende aquí como **adhesión a obligaciones legales regulatorias y políticas internas**. Esta es la pieza causal o estructural desde la que se inicia **compliance y cultura ética**: antes de mapear obligaciones y conductas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Treviño, Weaver y Reynolds revisaron décadas de estudios y mostraron que la conducta ética en las organizaciones depende de **factores individuales** (valores, juicio moral), pero también, y de forma importante, de **factores del contexto**: las normas del grupo, los incentivos, el ejemplo de los líderes, la claridad de las reglas y las consecuencias que se observan. Tenbrunsel y Messick describen el **desvanecimiento ético**: mediante un lenguaje que disfraza lo ético («ajustar», «optimizar»), la autoengaño y la presión por metas, las personas dejan de ver que una decisión tiene una dimensión moral y se consideran éticas aunque actúen de manera que no lo es. Por eso un programa basado solo en la capacitación sobre «lo que es correcto» llega tarde: la mayoría sabe lo que es correcto; lo que falta es **ver** la situación y tener condiciones para actuar bien.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **hotline usage**; regístrala con periodo, unidad, población y baseline.
+### 2. Elementos de un programa de cumplimiento
 
-Relaciona el mecanismo con **code of conduct**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un programa efectivo, por lo general, incluye: **evaluación de riesgos** (dónde están los riesgos de corrupción, fraude, conflictos de interés, libre competencia, acoso y datos); **políticas y procedimientos** claros y accesibles; **liderazgo y supervisión** (un responsable con independencia, acceso al directorio y recursos); **capacitación** basada en casos y roles; **canales de consulta y denuncia**; **investigación** y **medidas** consistentes; **monitoreo** y **pruebas**; y **mejora continua**. La responsabilidad penal de las personas jurídicas en Chile y el modelo de prevención de delitos que la ley contempla se consultan en su texto oficial (LeyChile) y con asesoría; esta clase no los interpreta. Las normas internacionales de sistemas de gestión de cumplimiento ofrecen guías de referencia que se consultan en la fuente.
 
-### 2. code of conduct: frontera conceptual y error de clasificación
+### 3. El riesgo manda
 
-**Definición operacional:** marco de comportamientos y principios esperados. Su valor está en distinguirlo de **compliance** y **speak-up**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un programa que trata igual a todo ofrece poca protección. Se parte de **riesgos concretos**: ¿quiénes se relacionan con funcionarios públicos?, ¿quién negocia con clientes o proveedores grandes?, ¿dónde hay pagos por intermediarios?, ¿qué áreas manejan información sensible?, ¿qué metas son agresivas?, ¿dónde hay conflictos de interés frecuentes? Para cada riesgo se definen **controles específicos** (debida diligencia de terceros, aprobación de regalos y atenciones, registro de reuniones, separación de funciones) y **señales de alerta**. El **conflicto de interés** merece atención propia: se declara por escrito, se evalúa por un tercero y se gestiona con medidas (abstención, separación, transparencia).
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **code of conduct** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **substantiation rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Hablar y ser escuchado: canal, investigación y protección
 
-Antes de diseñar políticas y training por riesgo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las personas denuncian si creen que **no habrá represalia** y que **algo ocurrirá**. Edmondson muestra que la seguridad psicológica es condición del aprendizaje y del reporte; sin ella, los problemas se esconden. Un canal efectivo es **accesible** (varios medios, confidencial o anónimo según la política), **independiente** de quienes podrían ser denunciados, **ágil** (acuse en pocos días y plazos de investigación) y **trazable**. La investigación debe ser **imparcial**, documentada, respetuosa de los derechos de todas las personas y proporcional. Se informa al denunciante, en lo posible, el cierre del caso. Se **protege** contra las represalias y se vigila activamente. Las normas laborales y de protección de denunciantes, y los protocolos obligatorios sobre ciertas conductas (por ejemplo, acoso y violencia en el trabajo), se verifican en su texto vigente y con asesoría.
 
-### 3. speak-up: operacionalización y medición
+### 5. Consecuencias consistentes
 
-**speak-up** significa **capacidad segura de reportar inquietudes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Nada comunica tanto como lo que ocurre cuando alguien rinde mucho y rompe una regla. Si se le perdona, el mensaje es que las reglas son para los demás. La **consistencia** exige criterios previos (gravedad, intención, reiteración, cooperación), decisión por una instancia que no dependa del resultado comercial del infractor y comunicación **sobria** de las medidas sin exponer innecesariamente a las personas. También exige **premiar lo correcto**: reconocer a quienes plantean dudas, rechazan un negocio dudoso o reportan un error. Los incentivos (clase 175) pueden empujar al incumplimiento: metas imposibles, bonos solo por resultados y ausencia de contrapesos.
 
-NIST — *AI Risk Management Framework (AI RMF 1.0)* orienta este bloque mediante **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retaliation allegations**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Dilemas: cuando los valores chocan
 
-Al llegar a crear canales y protección, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Kidder distingue entre dilemas de **bien contra mal** (donde la decisión es clara aunque cueste) y dilemas de **bien contra bien**, donde dos valores legítimos chocan: verdad frente a lealtad, individuo frente a comunidad, corto plazo frente a largo plazo, justicia frente a compasión. Propone principios de resolución: basarse en **resultados** (el mayor bien para el mayor número), en **reglas** (lo que se haría si todos actuaran así) o en el **cuidado** (hacer lo que querrías que hicieran contigo). Un método práctico: identificar los hechos, nombrar los valores en juego, listar opciones, probar con las tres perspectivas, consultar a alguien de confianza y a las instancias formales (compliance, legal), decidir y **documentar** el razonamiento.
 
-### 4. retaliation: trade-offs y efectos de segundo orden
+### 7. Evaluar si funciona
 
-**Definición:** consecuencia adversa por denunciar o participar de buena fe. Este concepto obliga a abandonar la idea de que **compliance y cultura ética** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de investigar con debido proceso, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-ISO — *ISO 31000 Risk management* aporta una lente sobre **principios, marco y proceso de gestión de riesgos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **repeat violations** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **compliance y cultura ética**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **retaliation** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. remediation: gobernanza, límites e integración
-
-**remediation** se define como **acciones para corregir causa daño y control fallido** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Richard A. Clarke & Robert K. Knake — *The Fifth Domain* se utiliza para estudiar **perspectiva de Ciberseguridad aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar remediar causa y monitorear recurrencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **compliance**, **code of conduct**, **speak-up**, **retaliation** y **remediation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **compliance y cultura ética** no consiste en sumar cinco definiciones. Empieza por **compliance**, contrasta **code of conduct** con **speak-up**, incorpora **retaliation** como restricción o mecanismo y usa **remediation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Declaración de conflictos, canales y asesoramiento independiente
-
-Una cultura ética se mide por lo que ocurre cuando alguien declara un problema, no por el código escrito. Este bloque aplica la clase a la **gestión de conflictos de interés e influencia indebida**.
-
-| Elemento | Qué debe existir | Señal de que falla |
-|---|---|---|
-| **Política de declaración** | Qué declarar (relaciones, regalos, intereses, ofertas inusuales), a quién y cuándo. | Nadie recuerda la última declaración. |
-| **Canal confidencial** | Vía hacia compliance, auditoría o presidente de comité, que no pase por el jefe directo. | Los reportes se resuelven en la línea jerárquica. |
-| **No represalia** | Protección explícita de quien declara de buena fe. | Quien declara pierde proyectos. |
-| **Asesoramiento independiente** | Acceso a un asesor legal o ético sin dependencia del interesado. | Solo asesora quien responde al ejecutivo en cuestión. |
-| **Registro y revisión** | Decisión, fecha, medidas de mitigación y revisión periódica. | La declaración se archiva sin consecuencias. |
-
-Un buen sistema **normaliza declarar**: declarar una relación no es confesar una falta. Si el costo de declarar supera el de callar, el sistema incentiva el silencio.
+Se necesita evidencia de efectividad, no solo de actividad. Indicadores de **actividad** (capacitados, políticas publicadas) son un mínimo. Más informativos son: **tasa de denuncias** por cada cien empleados (muy baja puede indicar desconfianza), **tiempo de cierre**, **proporción de casos con medidas**, **percepción** de que se puede denunciar sin represalias (encuestas), **incidentes** detectados por controles frente a los que llegan por denuncia, **rotación** de personas con denuncias y **resultados de pruebas** de los controles. Se revisa el programa cuando cambian riesgos, estructura o normas, y se informa al directorio con una vista honesta, incluidos los casos graves y las lecciones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **compliance y cultura ética** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **compliance y cultura ética** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **compliance y cultura ética** ayuda a desafiar? |
-| ISO — *ISO 31000 Risk management* | principios, marco y proceso de gestión de riesgos | ¿Qué supuesto de **compliance y cultura ética** ayuda a desafiar? |
-| Richard A. Clarke & Robert K. Knake — *The Fifth Domain* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **compliance y cultura ética** ayuda a desafiar? |
-
-En **compliance y cultura ética**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **compliance**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Treviño, Weaver y Reynolds | Factores individuales y de contexto de la conducta ética. | Es una revisión; no prescribe un programa. | ¿Qué factor del contexto empuja a incumplir? |
+| Tenbrunsel y Messick | Desvanecimiento ético y autoengaño. | No ofrece un procedimiento operativo. | ¿Qué lenguaje oculta la dimensión ética? |
+| Kidder | Dilemas de bien contra bien y principios de resolución. | No sustituye normas ni asesoría. | ¿Qué valores chocan aquí? |
+| Edmondson | Seguridad psicológica y reporte de problemas. | No cubre investigaciones formales. | ¿Quién calla y por qué? |
+| LeyChile (BCN) | Texto oficial sobre responsabilidad penal de personas jurídicas. | No es asesoría ni interpretación. | ¿Qué versión rige y desde cuándo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un director de ventas autoriza pagos de marketing a un intermediario sin documentos para cerrar un contrato público. El equipo sabe que cuestionarlo afecta bonus.
+**Situación (hipotética).** Una empresa de servicios con 1.800 empleados tiene un canal de denuncias externo contratado hace tres años. En el último año recibió 6 denuncias. Una encuesta de clima mostró que solo 34 % de las personas cree que «se puede denunciar sin consecuencias negativas». Una investigación sobre un jefe comercial tardó 74 días en promedio, y en dos casos la persona denunciada supervisaba a quien debía recoger los antecedentes.
 
-**Paso 1 — mapear obligaciones y conductas.** La gerencia escribe primero el supuesto asociado a **compliance** y evita convertirlo en hecho. Luego busca **hotline usage** para contrastarlo en el caso de **compliance y cultura ética**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Indicadores iniciales.**
 
-**Paso 2 — diseñar políticas y training por riesgo.** La gerencia escribe primero el supuesto asociado a **code of conduct** y evita convertirlo en hecho. Luego busca **substantiation rate** para contrastarlo en el caso de **compliance y cultura ética**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Denuncias por cada 100 empleados: 6 ÷ 1.800 × 100 = 0,33.
+- Tiempo promedio de cierre: 74 días.
+- Confianza en el canal: 34 %.
 
-**Paso 3 — crear canales y protección.** La gerencia escribe primero el supuesto asociado a **speak-up** y evita convertirlo en hecho. Luego busca **retaliation allegations** para contrastarlo en el caso de **compliance y cultura ética**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Pocas denuncias no significan pocos problemas: la desconfianza explica el silencio. Las investigaciones dependían de la línea jerárquica, y no se informaba el cierre a los denunciantes.
 
-**Paso 4 — investigar con debido proceso.** La gerencia escribe primero el supuesto asociado a **retaliation** y evita convertirlo en hecho. Luego busca **repeat violations** para contrastarlo en el caso de **compliance y cultura ética**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño.**
 
-**Paso 5 — remediar causa y monitorear recurrencia.** La gerencia escribe primero el supuesto asociado a **remediation** y evita convertirlo en hecho. Luego busca **training effectiveness** para contrastarlo en el caso de **compliance y cultura ética**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. Comité de ética independiente con la gerencia de personas, un integrante del directorio y un asesor externo; ninguna persona investiga a su línea.
+2. Plazos: acuse en 3 días, investigación en 30 días hábiles como meta y cierre informado.
+3. Protección: monitoreo de las condiciones laborales del denunciante durante 12 meses.
+4. Criterios previos de medidas por gravedad, intención, reiteración y cooperación, aplicados por el comité sin considerar el resultado comercial.
+5. Capacitación con casos reales, para líderes y para equipos, y comunicación trimestral de lecciones aprendidas (casos anonimizados).
+6. Un incentivo: 20 % del bono de gerentes depende de indicadores de cultura (cumplimiento de controles y clima ético), sin penalizar por casos reportados.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **compliance y cultura ética**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultados a 12 meses (hipotéticos).**
+
+- Denuncias: 31; por cada 100 empleados: 31 ÷ 1.800 × 100 = 1,72.
+- Casos con hallazgos sustentados: 12 de 31, es decir, 38,7 %.
+- Tiempo promedio de cierre: 28 días, una reducción de 46 días (74 − 28), el 62,2 % (46 ÷ 74).
+- Confianza en el canal: de 34 % a 58 %.
+- Un vendedor de alto desempeño, responsable del 4 % de los ingresos, es sancionado por violar una regla de regalos; se mantiene la sanción pese a la presión comercial.
+
+**Lectura.** El aumento de denuncias es una señal de mayor confianza, no necesariamente de más infracciones. La sanción al vendedor mostró consistencia. Los indicadores se vigilan junto con auditorías y pruebas de controles.
+
+**Cuidados.** Los plazos de investigación, la protección de los denunciantes, los derechos de la persona denunciada y los protocolos obligatorios se verifican con asesoría y en las fuentes oficiales vigentes; los datos de las personas se tratan con confidencialidad. Las cifras son ilustrativas.
+
+**Qué muestra.** (1) Pocas denuncias pueden ser mala señal. (2) El diseño del proceso cambió la confianza. (3) La consistencia con un estrella dio credibilidad.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **compliance** | adhesión a obligaciones legales regulatorias y políticas internas | Cuando hotline usage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **code of conduct** | marco de comportamientos y principios esperados | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Compliance frente a ética.** El cumplimiento asegura que se respeten normas; la ética va más allá: orienta lo correcto cuando la norma calla o permite algo cuestionable. Un programa sólido atiende ambos.
 
-**Frontera de aplicación:** Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto.
+**Límites.** Las evidencias sobre qué elementos de un programa reducen las infracciones son mixtas y dependen del contexto. Los indicadores de percepción pueden estar sesgados. Los dilemas no tienen respuestas únicas. Las obligaciones legales (modelos de prevención, protección de denunciantes, protocolos laborales) se verifican en LeyChile y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre compliance y cultura ética |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **compliance y cultura ética** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **compliance** y **code of conduct** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta hotline usage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si compliance y cultura ética cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de compliance y cultura ética reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **compliance y cultura ética** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple las reglas, consulta ante dudas y reporta sin temor. |
+| **Jefe / Team Lead** | Da ejemplo, escucha y no permite represalias. |
+| **Gerente** | Aplica las consecuencias con consistencia y cuida los incentivos. |
+| **CEO / Director** | Marca el tono, apoya la independencia del compliance y se somete a las mismas reglas. |
+| **Founder / Owner** | Acepta perder un negocio antes que torcer una regla. |
 
 ## 🏢 Caso ejecutivo
 
-Un director de ventas autoriza pagos de marketing a un intermediario sin documentos para cerrar un contrato público. El equipo sabe que cuestionarlo afecta bonus.
+Una empresa de construcción con 3.400 empleados participa en licitaciones públicas y privadas. En los últimos dos años se detectó que un gerente de proyectos autorizó pagos a un intermediario sin respaldo por 140 millones de pesos para «agilizar permisos». La persona es la responsable de proyectos que suman 18 % de los ingresos y está a dos años de un cargo directivo. Dos ingenieros habían advertido el problema a su jefe, que les respondió «no se metan». Uno de ellos fue trasladado a otra obra. El canal de denuncias recibe cuatro casos al año. El código de conducta tiene 70 páginas y la capacitación es anual y en línea con 96 % de asistencia. Un competidor fue sancionado por hechos similares. El directorio pide si «tenemos un problema real» y el gerente general propone «resolverlo con discreción».
 
-Entrega un **decision brief de compliance y cultura ética** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de integridad** que contenga: (a) el diagnóstico de factores de contexto y de desvanecimiento ético; (b) la evaluación de riesgos y los controles específicos (terceros, pagos, permisos, regalos, conflictos); (c) el rediseño del canal, la investigación y la protección contra represalias; (d) el tratamiento del caso del gerente con criterios previos y consistencia; (e) los incentivos, el liderazgo y la comunicación; (f) los indicadores de efectividad y las verificaciones legales y de protección de datos pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **compliance y cultura ética** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta hotline usage, substantiation rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Audita una política de declaración con la tabla de cinco elementos e identifica la señal de falla más probable.
+1. Identifica tres factores del contexto de tu organización que empujan a incumplir.
+2. Reescribe tres frases que disfrazan lo ético («ajustar», «agilizar») en lenguaje claro.
+3. Evalúa tu canal de denuncias con cinco preguntas de confianza, independencia y respuesta.
+4. Define criterios previos de medidas disciplinarias por gravedad, intención y reiteración.
+5. Resuelve un dilema de bien contra bien con los tres principios de Kidder y documenta tu razonamiento.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar compliance y code of conduct como sinónimos | Se pierde la distinción entre “adhesión a obligaciones legales regulatorias y políticas internas” y “marco de comportamientos y principios esperados” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “remediar causa y monitorear recurrencia” | Se saltó “mapear obligaciones y conductas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia y marca el primer supuesto no demostrado. |
-| Optimizar solo hotline usage | La métrica local sustituyó al resultado del sistema | Contrástala con substantiation rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre compliance y cultura ética | Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto. |
-| No fijar revisión | Una decisión sobre compliance y cultura ética se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Capacitar y dar por cumplido | Es medible y barato | Medir conducta y confianza. |
+| Excepciones a quienes rinden | Presión comercial | Criterios previos e instancia independiente. |
+| Investigar por la línea jerárquica | Es el camino habitual | Independencia del comité y de los investigadores. |
+| Premiar solo resultados | Metas y bonos | Contrapesos e indicadores de conducta. |
+| Interpretar pocas denuncias como éxito | Se mide la cantidad | Evaluar confianza, percepción y detección por controles. |
+| Resolver «con discreción» | Se teme el escándalo | Proceso formal con confidencialidad adecuada. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **compliance** y **code of conduct** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **speak-up** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear obligaciones y conductas → diseñar políticas y training por riesgo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **hotline usage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **compliance y cultura ética**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto.**?
+1. ¿Qué factores del contexto favorecen la conducta no ética según Treviño y otros?
+2. ¿Qué es el desvanecimiento ético?
+3. ¿Qué elementos básicos tiene un programa de cumplimiento?
+4. ¿Qué características debe tener un canal de denuncias efectivo?
+5. ¿Por qué importa la consistencia de las consecuencias?
+6. ¿Qué tipos de dilemas distingue Kidder y qué principios propone?
+7. ¿Por qué pocas denuncias pueden ser una mala señal?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Normas del grupo, incentivos, ejemplo de los líderes, claridad de reglas y consecuencias observadas.
+2. El proceso por el que la dimensión ética de una decisión deja de verse por lenguaje eufemístico, autoengaño y presión.
+3. Evaluación de riesgos, políticas, responsable independiente, capacitación, canales, investigación y medidas, monitoreo y mejora.
+4. Accesible, independiente, ágil, trazable, con protección contra represalias y con respuesta al denunciante.
+5. Porque las personas aprenden de lo que ocurre; si las reglas no se aplican a quienes rinden, pierden credibilidad.
+6. Bien contra mal y bien contra bien; principios de resultados, de reglas y de cuidado.
+7. Porque puede reflejar desconfianza o miedo a las represalias, no ausencia de problemas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/189-compliance-y-cultura-etica/`:
 
-- `risk-governance-brief.md` con el problema específico de **compliance y cultura ética**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **compliance y cultura ética** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **compliance**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un director de ventas autoriza pagos de marketing a un intermediario sin documentos para cerrar un contrato público. El equipo sabe que cuestionarlo afecta bonus.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `influence-and-conflict-disclosure-brief.md` (plantilla [Ficha de influencia y declaración de conflictos](../../../../templates/influence-and-conflict-disclosure-brief.md)) con el protocolo de conflictos de interés;
+- `decision-journal.md` con los indicadores de efectividad y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **compliance y cultura ética**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** principios, marco y proceso de gestión de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- Richard A. Clarke & Robert K. Knake — *The Fifth Domain* (Penguin Press, 2019). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **compliance y cultura ética**. **Localizador:** [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **compliance y cultura ética** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **compliance y cultura ética**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **compliance y cultura ética** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **compliance y cultura ética** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **compliance y cultura ética** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Linda K. Treviño, Gary R. Weaver & Scott J. Reynolds — *Behavioral Ethics in Organizations: A Review* (Journal of Management, 2006). **Uso en esta clase:** factores individuales y de contexto de la conducta ética. Lectura selectiva sobre **compliance y cultura ética**. **Localizador:** [DOI 10.1177/0149206306294258](https://doi.org/10.1177/0149206306294258).
+- Ann E. Tenbrunsel & David M. Messick — *Ethical Fading: The Role of Self-Deception in Unethical Behavior* (Social Justice Research, 2004). **Uso en esta clase:** desvanecimiento ético y autoengaño. Lectura selectiva sobre **compliance y cultura ética**. **Localizador:** [DOI 10.1023/B:SORE.0000027411.35832.53](https://doi.org/10.1023/B:SORE.0000027411.35832.53).
+- Rushworth M. Kidder — *How Good People Make Tough Choices* (William Morrow, 2009). **Uso en esta clase:** dilemas de bien contra bien y principios de resolución. Lectura selectiva sobre **compliance y cultura ética**. **Localizador:** [ISBN-13 9780061968723](https://openlibrary.org/isbn/9780061968723).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica y reporte de problemas. Lectura selectiva sobre **compliance y cultura ética**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393)* (2009). **Uso en esta clase:** texto oficial sobre responsabilidad penal de las personas jurídicas. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
 
-> **Regla de fuentes para Compliance y cultura ética:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **compliance y cultura ética** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Compliance y cultura ética:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los modelos de prevención de delitos, la protección de denunciantes y los protocolos laborales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

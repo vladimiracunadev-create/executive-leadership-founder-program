@@ -1,83 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g182 d-g182" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g182">Ficha visual de la clase 182: Apetito, tolerancia y límites de riesgo</title>
-<desc id="d-g182">Conceptos: risk appetite; risk tolerance; limit; breach; capacity. Método: derivar apetito desde estrategia y capacidad → traducirlo a tolerancias → establecer límites y owners → definir breach y escalamiento → revisar apetito ante cambios de estrategia.</desc>
-<defs><marker id="p-g182" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 182 · Apetito, tolerancia y límites de riesgo</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >risk appetite</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >nivel y tipo de riesgo aceptable en busca de objetivos</text>
-<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >risk tolerance</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >rango de variación aceptable alrededor de objetivos</text>
-<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >limit</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >umbral cuantitativo u operativo que restringe</text>
-<text x="54" y="267.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >exposición</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >breach</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >superación de un límite que activa respuesta</text>
-<circle cx="38" cy="358.12" r="5" fill="#bc4c00"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >capacity</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >máxima pérdida o exposición que la organización puede</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >soportar</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >derivar apetito</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >desde estrategia y</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capacidad</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >traducirlo a</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >tolerancias</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >establecer límites</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y owners</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir breach y</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >escalamiento</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar apetito</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >ante cambios de</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >estrategia</text>
-<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g182)"/>
-<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g182)"/>
-<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g182)"/>
-<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g182)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g182)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >limit utilization</text>
-<rect x="181.3" y="456.24" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="194.3" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="205.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >breaches</text>
-<rect x="272.5" y="456.24" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="285.5" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="296.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >loss absorption capacity</text>
-<rect x="474.1" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="487.1" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="498.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >override count</text>
-<rect x="606.7" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="619.7" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="630.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >escalation time</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >son negociables por apetito.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.06" width="1040" role="img" aria-labelledby="t-s182 d-s182" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s182">Clase 182 · De la capacidad de riesgo al indicador</title>
+<desc id="d-s182">Cuatro niveles: capacidad de riesgo, apetito, tolerancia y límites con indicadores de riesgo.</desc>
+<defs><marker id="p-s182" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 182 · De la capacidad de riesgo al indicador</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >COSO ERM · ISO 31000 · Hull</text>
+<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Límites e indicadores</text>
+<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Umbrales medibles, dueños y acciones al superarlos.</text>
+<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="128" cy="200.875" r="15" fill="#0969da"/>
+<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Tolerancia</text>
+<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Desviación aceptable respecto de cada objetivo.</text>
+<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="94" cy="274.125" r="15" fill="#bc4c00"/>
+<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Apetito de riesgo</text>
+<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cuánto riesgo busca asumir para lograr sus objetivos.</text>
+<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<circle cx="60" cy="347.375" r="15" fill="#cf222e"/>
+<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Capacidad de riesgo</text>
+<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo máximo que la organización puede soportar sin ponerse en peligro.</text>
+<rect x="28" y="395" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El apetito se fija por debajo de la capacidad y se traduce en límites que alguien puede medir y hacer cumplir. Sin umbral y sin dueño,</text>
+<text x="44" y="434.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >el apetito es una declaración.</text>
+<text x="28" y="481.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las cifras de límites son decisiones del gobierno de la empresa; los reguladores sectoriales pueden fijar mínimos que se verifican en su fuente.</text>
 </svg>

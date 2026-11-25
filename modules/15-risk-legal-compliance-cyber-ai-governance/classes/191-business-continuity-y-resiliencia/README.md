@@ -10,218 +10,192 @@
 
 ## 🎯 Propósito
 
-Business continuity busca mantener o recuperar actividades críticas dentro de objetivos de tiempo y pérdida aceptables. BIA, RTO, RPO, estrategias de continuidad y ejercicios conectan dependencia operativa con inversiones de resiliencia.
+Toda empresa depende de unos pocos procesos, sistemas, personas y proveedores sin los cuales deja de operar: el sistema de pedidos, la planta, el centro de datos, el proveedor único, el equipo que sabe cómo funciona algo. Cuando uno falla, la pregunta es cuánto tiempo puede estar la empresa sin él antes de que el daño se vuelva irreversible, y cuánto tiempo tardaría en recuperarlo. La **continuidad de negocio** convierte esas preguntas en decisiones previas: qué se protege primero, con qué tiempos de recuperación, con qué costo y con qué pruebas. La **resiliencia** va más allá: es la capacidad de absorber el golpe, adaptarse y seguir.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **business continuity y resiliencia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la norma ISO 22301 sobre sistemas de gestión de continuidad, en el estudio de Weick y Sutcliffe sobre organizaciones de alta confiabilidad, en la mirada de Perrow sobre accidentes normales en sistemas complejos, en el análisis de Vaughan sobre la normalización de la desviación y en el pensamiento de Taleb sobre robustez y antifragilidad. Al terminar sabrás hacer un análisis de impacto, fijar objetivos de recuperación, comparar estrategias por costo y riesgo, planificar y probar, y construir hábitos de resiliencia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `BIA`, `RTO`, `RPO`, `business continuity plan`, `resilience` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** RTO achievement, RPO achievement, exercise findings sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Realizar** un análisis de impacto de negocio e identificar procesos críticos.
+2. **Definir** objetivos de recuperación de tiempo y de datos con criterio de negocio.
+3. **Comparar** estrategias de continuidad por costo, tiempo y riesgo.
+4. **Planificar y probar** la continuidad con ejercicios realistas.
+5. **Cultivar** prácticas de resiliencia y aprendizaje de las fallas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define BIA y RTO sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con RTO achievement y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas horas puede estar tu empresa sin su proceso más crítico antes de un daño grave? |
+| 20–60 min | Impacto, objetivos, estrategias, planes, pruebas y resiliencia. |
+| 60–105 min | Ejemplo trabajado: elección de estrategia de recuperación para el sistema de pedidos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **BIA** | business impact analysis que identifica procesos críticos y efectos de interrupción | Distingue un hecho compatible y otro que lo refute. |
-| **RTO** | tiempo objetivo máximo para restaurar una actividad | Distingue un hecho compatible y otro que lo refute. |
-| **RPO** | punto máximo de pérdida de datos aceptable | Distingue un hecho compatible y otro que lo refute. |
-| **business continuity plan** | procedimientos para sostener o recuperar operación | Distingue un hecho compatible y otro que lo refute. |
-| **resilience** | capacidad de resistir adaptarse y recuperarse de disrupción | Distingue un hecho compatible y otro que lo refute. |
+| **Continuidad de negocio** | Capacidad de seguir entregando productos y servicios a niveles aceptables durante una interrupción. | Planes, roles y pruebas. |
+| **Análisis de impacto (BIA)** | Estudio de las consecuencias de interrumpir cada proceso en el tiempo. | Tabla de procesos, impactos y dependencias. |
+| **RTO** | Tiempo objetivo para recuperar un proceso o sistema. | Se mide en horas o minutos. |
+| **RPO** | Cantidad máxima aceptable de datos perdidos, expresada en tiempo. | Define la frecuencia de respaldos o réplicas. |
+| **Periodo máximo tolerable** | Tiempo tras el cual el daño es inaceptable. | El RTO debe ser menor. |
+| **Resiliencia** | Capacidad de resistir, adaptarse y recuperarse. | Se ve en cómo responde la organización ante lo inesperado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 191: 1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar](modelo-mental.svg)
+![Continuidad: análisis de impacto, objetivos de recuperación, estrategias y planes, pruebas y simulacros, y mejora continua.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Business continuity busca mantener o recuperar actividades críticas dentro de objetivos de tiempo y pérdida aceptables. BIA, RTO, RPO, estrategias de continuidad y ejercicios conectan dependencia operativa con inversiones de resiliencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Análisis de impacto**: qué procesos son críticos y qué pasa si se detienen. **Objetivos de recuperación**: tiempo y pérdida de datos tolerables por proceso. **Estrategias y planes**: alternativas, respaldos, proveedores y roles. **Pruebas y simulacros**: ensayar para encontrar fallas antes del evento. **Mejora continua**: corregir lo aprendido y revisar tras cambios. La flecha indica que cada prueba corrige los planes. La nota afirma que un plan que no se ha ensayado es una hipótesis; el pie, que los objetivos de recuperación son decisiones de negocio que comparan el costo de protección con el de la interrupción.
 
 ## 📖 Desarrollo
 
-### 1. BIA: mecanismo central
+### 1. Qué es continuidad y qué no es
 
-**BIA** se entiende aquí como **business impact analysis que identifica procesos críticos y efectos de interrupción**. Esta es la pieza causal o estructural desde la que se inicia **business continuity y resiliencia**: antes de realizar bia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La norma ISO 22301 describe un sistema de gestión de continuidad de negocio: una forma organizada de **prepararse, responder y recuperarse** de incidentes disruptivos. No es lo mismo que la respuesta a incidentes (clase 190), que se ocupa de manejar el evento en las primeras horas, ni que la recuperación ante desastres de tecnología, que es una parte. La continuidad abarca **procesos, personas, instalaciones, tecnología, proveedores e información**. Y no es un proyecto único: se revisa cuando cambian procesos, sistemas, proveedores o la estructura. El texto vigente de la norma se consulta en la fuente oficial.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **RTO achievement**; regístrala con periodo, unidad, población y baseline.
+### 2. Análisis de impacto de negocio
 
-Relaciona el mecanismo con **RTO**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El análisis de impacto (BIA) responde, proceso por proceso: ¿cuál es la **consecuencia** de que se detenga a las 2 horas, 8 horas, 1 día, 3 días, 1 semana? Consecuencias: pérdida de ingresos, costos adicionales, incumplimiento contractual y legal, daño a clientes, reputación, seguridad de las personas. De ahí se obtiene el **periodo máximo tolerable** de interrupción y la **prioridad** de recuperación. También se mapean las **dependencias**: sistemas, datos, proveedores, personas con conocimiento exclusivo, instalaciones. Un hallazgo habitual es que un proceso «menor» depende del mismo sistema o proveedor que uno crítico, o que el plan de recuperación del sistema A necesita al sistema B, que se recupera después.
 
-### 2. RTO: frontera conceptual y error de clasificación
+### 3. Objetivos de recuperación: tiempo y datos
 
-**Definición operacional:** tiempo objetivo máximo para restaurar una actividad. Su valor está en distinguirlo de **BIA** y **RPO**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para cada proceso crítico se fijan: el **RTO** (en cuánto tiempo debe volver a funcionar) y el **RPO** (cuántos datos se puede aceptar perder, expresado en tiempo: «hasta una hora de transacciones»). El RTO debe ser menor que el periodo máximo tolerable. Estos objetivos son **decisiones de negocio**, no técnicas: determinan el costo de la solución. Un RTO de 15 minutos exige redundancia activa y cuesta mucho más que un RTO de 24 horas con restauración de respaldos. La pregunta del ejecutivo es: ¿cuánto vale reducir el tiempo de recuperación?, es decir, ¿cuánto pérdida evita cada hora menos, frente al costo anual de la solución?
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **RTO** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **RPO achievement** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Estrategias de continuidad
 
-Antes de priorizar servicios y dependencias, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las estrategias típicas incluyen: **respaldos y restauración** (barato, lento), **sitio de respaldo en espera** (intermedio), **redundancia activa** o múltiples zonas (rápido, costoso), **procedimientos manuales** de contingencia (operar con papel o con capacidad reducida), **proveedores alternativos** y acuerdos de capacidad, **inventarios de seguridad** para insumos críticos, **trabajo remoto** para continuidad de oficinas, **entrenamiento cruzado** de personas y **seguros** que cubran parte de la pérdida. Se elige por proceso con el criterio de menor costo total que cumpla el periodo máximo tolerable. Un proceso con un tiempo tolerable de semanas no justifica una inversión de redundancia activa.
 
-### 3. RPO: operacionalización y medición
+### 5. Planes, roles y comunicación
 
-**RPO** significa **punto máximo de pérdida de datos aceptable**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un plan de continuidad define: **activación** (quién y con qué criterios declara), **roles** (líder, comunicaciones, tecnología, operaciones, personas), **procedimientos** por proceso crítico, **recursos** requeridos (ubicaciones alternativas, equipos, accesos), **contactos** y **comunicación** a empleados, clientes, proveedores y autoridades. Se guarda en formatos **accesibles sin los sistemas que se han caído** (impreso, en dispositivos fuera de la red). Cada persona clave tiene un **suplente**. Los planes son cortos y operativos: en una crisis nadie lee un manual de cien páginas. Se vinculan con el comité de crisis (clase 190) y con el plan de ciberseguridad (clase 187).
 
-NIST — *Cybersecurity Framework (CSF) 2.0* orienta este bloque mediante **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **exercise findings**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Probar: de la hipótesis a la evidencia
 
-Al llegar a definir rto y rpo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los planes se prueban con ejercicios de distinta intensidad: **revisión de escritorio** (¿está completo?), **ejercicio de mesa** (la dirección decide frente a un escenario), **prueba técnica** (restaurar un sistema desde respaldo) y **simulacro** a escala real. Las pruebas buscan **fallas**, no aprobar: respaldos corruptos, contraseñas que solo conocía una persona, teléfonos desactualizados, dependencias no vistas. Se mide el tiempo real frente al RTO y la pérdida de datos real frente al RPO. Los resultados se documentan, se corrigen y se vuelven a probar. Los equipos de ingeniería de confiabilidad enseñan además a **aprender sin culpas**: las revisiones posteriores a incidentes buscan causas del sistema, no culpables.
 
-### 4. business continuity plan: trade-offs y efectos de segundo orden
+### 7. Resiliencia: más allá del plan
 
-**Definición:** procedimientos para sostener o recuperar operación. Este concepto obliga a abandonar la idea de que **business continuity y resiliencia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar estrategias y planes, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-ISO — *ISO 31000 Risk management* aporta una lente sobre **principios, marco y proceso de gestión de riesgos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **single points of failure** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **business continuity y resiliencia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **business continuity plan** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. resilience: gobernanza, límites e integración
-
-**resilience** se define como **capacidad de resistir adaptarse y recuperarse de disrupción** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Richard A. Clarke & Robert K. Knake — *The Fifth Domain* se utiliza para estudiar **perspectiva de Ciberseguridad aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar ejercitar medir brechas y mejorar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **BIA**, **RTO**, **RPO**, **business continuity plan** y **resilience** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **business continuity y resiliencia** no consiste en sumar cinco definiciones. Empieza por **BIA**, contrasta **RTO** con **RPO**, incorpora **business continuity plan** como restricción o mecanismo y usa **resilience** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Weick y Sutcliffe estudiaron organizaciones de alta confiabilidad (portaaviones, plantas nucleares, control de tráfico) y describieron cinco principios: **preocupación por el fallo** (se atienden las señales débiles), **reticencia a simplificar** las interpretaciones, **sensibilidad a las operaciones** (los líderes saben lo que ocurre en primera línea), **compromiso con la resiliencia** (capacidad de improvisar y recuperarse) y **deferencia a la experticia** (decide quien sabe, no quien manda). Perrow mostró que en sistemas **complejos y estrechamente acoplados** los accidentes son, en cierto sentido, «normales»: las fallas se combinan de manera imprevista. Vaughan describió cómo las organizaciones llegan a **normalizar la desviación**: se acepta, paso a paso, un riesgo que antes no se habría aceptado, hasta que ocurre el desastre. Taleb propone diseñar para **resistir y beneficiarse de la volatilidad**: redundancia donde importa, evitar la sobreoptimización y limitar el daño de los peores casos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **business continuity y resiliencia** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **business continuity y resiliencia** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **business continuity y resiliencia** ayuda a desafiar? |
-| ISO — *ISO 31000 Risk management* | principios, marco y proceso de gestión de riesgos | ¿Qué supuesto de **business continuity y resiliencia** ayuda a desafiar? |
-| Richard A. Clarke & Robert K. Knake — *The Fifth Domain* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **business continuity y resiliencia** ayuda a desafiar? |
-
-En **business continuity y resiliencia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **BIA**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| ISO 22301 | Sistema de gestión de continuidad: análisis, estrategias, planes y pruebas. | Norma genérica; no define objetivos concretos. | ¿Qué proceso es crítico y cuánto tolera? |
+| Weick y Sutcliffe | Cinco principios de organizaciones de alta confiabilidad. | Casos de alto riesgo; hay que adaptarlos. | ¿Se escuchan las señales débiles? |
+| Perrow | Accidentes normales en sistemas complejos y acoplados. | Visión pesimista; no ofrece una receta. | ¿Qué fallas pueden combinarse? |
+| Vaughan | Normalización de la desviación. | Caso específico del Challenger. | ¿Qué desviación hemos dejado de ver? |
+| Taleb | Robustez, redundancia y límites a las pérdidas extremas. | Concepto general. | ¿Qué pasa en el peor caso? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa exige RTO de 2 horas para facturación, pero restaurar base tarda 10 horas y solo dos personas conocen credenciales del proveedor.
+**Situación (hipotética).** Una empresa de comercio electrónico con ingresos de 50.000 millones de pesos al año procesa unos 120 pedidos por hora, con un ticket promedio de 45.000 pesos. El BIA muestra que, si el sistema de pedidos queda caído, el costo es de unos 6 millones de pesos por hora (ventas perdidas, soporte y compensaciones), y que tras 12 horas los clientes corporativos cancelan contratos: periodo máximo tolerable de 12 horas. Probabilidad anual de una falla grave que requiera recuperación completa: 10 %.
 
-**Paso 1 — realizar BIA.** La gerencia escribe primero el supuesto asociado a **BIA** y evita convertirlo en hecho. Luego busca **RTO achievement** para contrastarlo en el caso de **business continuity y resiliencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos en juego (RPO).** Pedidos por hora: 120 × 45.000 = 5,4 millones de pesos por hora. Con respaldo diario (RPO de 24 horas), la pérdida máxima de transacciones sería 24 × 5,4 = 129,6 millones; con réplica cada 15 minutos (RPO de 15 minutos), 0,25 × 5,4 = 1,35 millones.
 
-**Paso 2 — priorizar servicios y dependencias.** La gerencia escribe primero el supuesto asociado a **RTO** y evita convertirlo en hecho. Luego busca **RPO achievement** para contrastarlo en el caso de **business continuity y resiliencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opciones.**
 
-**Paso 3 — definir RTO y RPO.** La gerencia escribe primero el supuesto asociado a **RPO** y evita convertirlo en hecho. Luego busca **exercise findings** para contrastarlo en el caso de **business continuity y resiliencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Opción | RTO | Costo anual | Costo esperado de interrupción | Total anual |
+|---|---|---|---|---|
+| A. Restauración desde respaldos | 24 h | 12 millones | 0,10 × 24 × 6 = 14,4 millones | 26,4 millones |
+| B. Sitio en espera con réplica | 4 h | 60 millones | 0,10 × 4 × 6 = 2,4 millones | 62,4 millones |
+| C. Redundancia activa | 0,25 h | 180 millones | 0,10 × 0,25 × 6 = 0,15 millones | 180,15 millones |
 
-**Paso 4 — diseñar estrategias y planes.** La gerencia escribe primero el supuesto asociado a **business continuity plan** y evita convertirlo en hecho. Luego busca **single points of failure** para contrastarlo en el caso de **business continuity y resiliencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** En costo total esperado, A es la más barata (26,4 millones). Pero su RTO de 24 horas **supera el periodo máximo tolerable de 12 horas**: no cumple. La restricción de negocio manda sobre el valor esperado. Entre las que cumplen (B y C), B es la de menor costo: 62,4 millones frente a 180,15. Se elige B para el sistema de pedidos; A se mantiene para procesos de menor criticidad, como reportes internos.
 
-**Paso 5 — ejercitar medir brechas y mejorar.** La gerencia escribe primero el supuesto asociado a **resilience** y evita convertirlo en hecho. Luego busca **recovery dependency** para contrastarlo en el caso de **business continuity y resiliencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba.** En el ejercicio técnico, la restauración del sistema tardó 31 horas frente a las 24 horas planificadas para la opción A actual, y se descubrió que la contraseña de cifrado de los respaldos estaba en poder de una sola persona y que el procedimiento exigía un servidor que ya no existía. Se corrigen estas fallas y se programa una nueva prueba con medición de tiempos.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **business continuity y resiliencia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Plan.** Se contrata el sitio en espera; se prueba cada seis meses; se define un procedimiento manual para tomar pedidos por teléfono durante cuatro horas; se designan suplentes para las personas con conocimiento exclusivo; y se incluye en el tablero el porcentaje de procesos críticos con prueba exitosa en los últimos 12 meses.
+
+**Cuidados.** Las obligaciones contractuales y regulatorias de continuidad, así como los seguros, se verifican con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El periodo máximo tolerable descartó la opción más barata. (2) La prueba reveló fallas que el plan no mostraba. (3) La decisión distinguió procesos por criticidad.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **BIA** | business impact analysis que identifica procesos críticos y efectos de interrupción | Cuando RTO achievement es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **RTO** | tiempo objetivo máximo para restaurar una actividad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Continuidad frente a recuperación ante desastres.** La recuperación ante desastres restaura sistemas de tecnología; la continuidad mantiene el negocio funcionando, incluso con procedimientos manuales, proveedores alternativos y personas. La primera es parte de la segunda.
 
-**Frontera de aplicación:** RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos.
+**Límites.** Los costos de interrupción y las probabilidades son estimaciones. Ningún plan cubre todo; los eventos reales combinan fallas de forma imprevista. Las pruebas realistas cuestan y a veces interrumpen la operación; se diseñan para minimizarlo. La resiliencia no se reduce a documentos: depende de la cultura y del aprendizaje. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre business continuity y resiliencia |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **business continuity y resiliencia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **BIA** y **RTO** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta RTO achievement con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si business continuity y resiliencia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de business continuity y resiliencia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **business continuity y resiliencia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Conoce su rol en un incidente y mantiene actualizados contactos y accesos. |
+| **Jefe / Team Lead** | Tiene suplentes y procedimientos manuales de su proceso. |
+| **Gerente** | Es dueño del análisis de impacto y de las pruebas de sus procesos. |
+| **CEO / Director** | Aprueba los objetivos de recuperación y el presupuesto, y participa en los ejercicios. |
+| **Founder / Owner** | Protege la supervivencia del negocio, incluso a costa de eficiencia. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa exige RTO de 2 horas para facturación, pero restaurar base tarda 10 horas y solo dos personas conocen credenciales del proveedor.
+Una empresa de alimentos con una sola planta (4.200 millones de pesos de ventas mensuales) abastece a tres cadenas de supermercados con contratos que penalizan faltantes. El análisis muestra que la planta depende de un único proveedor de energía y de una sola línea de envasado; el sistema de producción corre en un servidor local con respaldos semanales; el responsable del control de calidad es la única persona que conoce el procedimiento de liberación de lotes; y un incendio en una bodega vecina, el año pasado, interrumpió el acceso a la planta durante 36 horas. Un cálculo preliminar estima 150 millones de pesos por día de interrupción en ventas y penalizaciones, con un máximo tolerable de cuatro días antes de perder una cadena. El directorio pide un plan de continuidad en 60 días con un presupuesto limitado a 400 millones.
 
-Entrega un **decision brief de business continuity y resiliencia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de continuidad** que contenga: (a) el análisis de impacto con procesos críticos, dependencias y periodo máximo tolerable; (b) los objetivos de recuperación (RTO y RPO) por proceso; (c) las estrategias comparadas por costo total y cumplimiento del tolerable, y la selección dentro del presupuesto; (d) los planes, roles, suplentes y comunicaciones; (e) el programa de pruebas con métricas y criterios de éxito; (f) las prácticas de resiliencia, las verificaciones contractuales y de seguros pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **business continuity y resiliencia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta RTO achievement, RPO achievement; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Identifica cinco procesos críticos y estima el costo por hora de su interrupción.
+2. Define el periodo máximo tolerable, el RTO y el RPO de uno de ellos.
+3. Compara tres estrategias por costo anual y costo esperado de interrupción.
+4. Lista las dependencias ocultas de un proceso crítico (sistemas, proveedores, personas).
+5. Diseña un ejercicio de mesa de una hora con un escenario y tres decisiones de la dirección.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar BIA y RTO como sinónimos | Se pierde la distinción entre “business impact analysis que identifica procesos críticos y efectos de interrupción” y “tiempo objetivo máximo para restaurar una actividad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “ejercitar medir brechas y mejorar” | Se saltó “realizar BIA” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar y marca el primer supuesto no demostrado. |
-| Optimizar solo RTO achievement | La métrica local sustituyó al resultado del sistema | Contrástala con RPO achievement y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre business continuity y resiliencia | RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos. |
-| No fijar revisión | Una decisión sobre business continuity y resiliencia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Plan sin probar | Parece suficiente tenerlo | Pruebas con tiempos reales y correcciones. |
+| Mismo objetivo para todo | Se busca simplicidad | Diferenciar por criticidad. |
+| Ignorar dependencias | Se mira cada proceso aislado | Mapear sistemas, proveedores y personas. |
+| Elegir solo por costo esperado | Se ignora la restricción | Cumplir primero el periodo máximo tolerable. |
+| Planes en sistemas que se caen | Comodidad | Copia accesible fuera de la red. |
+| Normalizar desviaciones | Presión por eficiencia | Revisar señales débiles y límites. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **BIA** y **RTO** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **RPO** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **realizar BIA → priorizar servicios y dependencias** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **RTO achievement** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **business continuity y resiliencia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos.**?
+1. ¿Qué es un análisis de impacto de negocio y qué produce?
+2. ¿Qué diferencia hay entre RTO y RPO?
+3. ¿Por qué el RTO debe ser menor que el periodo máximo tolerable?
+4. ¿Qué estrategias de continuidad existen y cómo se eligen?
+5. ¿Para qué se prueban los planes y qué se mide?
+6. ¿Cuáles son los principios de las organizaciones de alta confiabilidad?
+7. ¿Qué significa normalización de la desviación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Un estudio de las consecuencias de interrumpir cada proceso en el tiempo; produce prioridades, periodos tolerables y dependencias.
+2. El RTO es el tiempo para recuperar el proceso; el RPO es la cantidad de datos que se puede perder, expresada en tiempo.
+3. Porque después del periodo máximo tolerable el daño es inaceptable; el objetivo debe cumplirse antes.
+4. Respaldos, sitio en espera, redundancia activa, procedimientos manuales, proveedores alternativos, inventarios, entrenamiento cruzado y seguros; se elige el menor costo total que cumpla el tolerable.
+5. Para encontrar fallas antes del evento; se mide el tiempo real frente al RTO y la pérdida real de datos frente al RPO.
+6. Preocupación por el fallo, reticencia a simplificar, sensibilidad a las operaciones, compromiso con la resiliencia y deferencia a la experticia.
+7. Aceptar, paso a paso, riesgos o desviaciones que antes no se habrían aceptado, hasta que ocurre un desastre.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/191-business-continuity-y-resiliencia/`:
 
-- `risk-governance-brief.md` con el problema específico de **business continuity y resiliencia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **business continuity y resiliencia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **BIA**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa exige RTO de 2 horas para facturación, pero restaurar base tarda 10 horas y solo dos personas conocen credenciales del proveedor.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con los procesos críticos y sus dependencias;
+- `decision-journal.md` con los objetivos de recuperación, las estrategias comparadas y los resultados de pruebas.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** principios, marco y proceso de gestión de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- Richard A. Clarke & Robert K. Knake — *The Fifth Domain* (Penguin Press, 2019). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965).
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **business continuity y resiliencia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **business continuity y resiliencia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **business continuity y resiliencia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **business continuity y resiliencia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **business continuity y resiliencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- ISO — *ISO 22301 Business continuity management systems*. **Uso en esta clase:** sistema de gestión de continuidad de negocio. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected* (Jossey-Bass, 2015). **Uso en esta clase:** principios de las organizaciones de alta confiabilidad. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9781118862414](https://openlibrary.org/isbn/9781118862414).
+- Charles Perrow — *Normal Accidents* (Princeton University Press, 1999). **Uso en esta clase:** accidentes normales en sistemas complejos y acoplados. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9780691004129](https://openlibrary.org/isbn/9780691004129).
+- Diane Vaughan — *The Challenger Launch Decision* (University of Chicago Press, 1996). **Uso en esta clase:** normalización de la desviación. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9780226851761](https://openlibrary.org/isbn/9780226851761).
+- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** robustez, redundancia y límites a las pérdidas extremas. Lectura selectiva sobre **business continuity y resiliencia**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
 
-> **Regla de fuentes para Business continuity y resiliencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **business continuity y resiliencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Business continuity y resiliencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los requisitos contractuales, regulatorios y de seguros de continuidad. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -1,66 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g184 d-g184" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g184">Ficha visual de la clase 184: Alfabetización legal del gerente</title>
-<desc id="d-g184">Conceptos: legal issue spotting; legal privilege; regulatory obligation; contractual duty; legal escalation. Método: identificar decisión y jurisdicción → mapear partes derechos y obligaciones → separar hechos de interpretación → documentar y preservar evidencia → escalar antes de comprometer o incumplir.</desc>
-<defs><marker id="p-g184" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 184 · Alfabetización legal del gerente</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >legal issue spotting</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de reconocer hechos que pueden activar una</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >norma u obligación</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >legal privilege</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >protección que puede aplicar a ciertas comunicaciones</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >jurídicas según jurisdicción</text>
-<circle cx="38" cy="256.24" r="5" fill="#bc4c00"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >regulatory obligation</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >deber impuesto por autoridad competente</text>
-<circle cx="38" cy="314.24" r="5" fill="#bc4c00"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >contractual duty</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obligación nacida de un acuerdo</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >legal escalation</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >derivación oportuna a asesoría especializada</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar decisión y jurisdicción</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear partes derechos y obligaciones</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >separar hechos de interpretación</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >documentar y preservar evidencia</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >escalar antes de comprometer o incumplir</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >legal incidents</text>
-<rect x="167.5" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="180.5" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="191.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >late escalations</text>
-<rect x="313.9" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="326.9" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="337.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contract exceptions</text>
-<rect x="481" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="494" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="505" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >regulatory deadlines</text>
-<rect x="655" y="456.24" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="668" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="679" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dispute cost</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >materiales a profesionales habilitados.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 491.54" width="1040" role="img" aria-labelledby="t-s184 d-s184" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s184">Clase 184 · Cuándo escalar al área legal</title>
+<desc id="d-s184">Situaciones de distinta complejidad, quién decide, qué se documenta y señales para escalar a asesoría legal.</desc>
+<defs><marker id="p-s184" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="491.54" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 184 · Cuándo escalar al área legal</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Fuentes oficiales · asesoría legal</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Situación</text>
+<text x="260.105" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Quién decide</text>
+<text x="467.263" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué se documenta</text>
+<text x="713.263" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Señal para escalar</text>
+<rect x="28" y="136" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Rutinaria con plantilla</text>
+<text x="40" y="172.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >aprobada</text>
+<text x="260.105" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El gerente dentro de su</text>
+<text x="260.105" y="172.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >límite.</text>
+<text x="467.263" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Versión de la plantilla usada.</text>
+<text x="713.263" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cualquier cambio de cláusulas esenciales.</text>
+<rect x="28" y="189.12" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="209.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Variación de condiciones</text>
+<text x="260.105" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Gerente con visto bueno del</text>
+<text x="260.105" y="225.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >área legal.</text>
+<text x="467.263" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Qué cambió, por qué y riesgo</text>
+<text x="467.263" y="225.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >asumido.</text>
+<text x="713.263" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Responsabilidad, datos o plazos fuera del</text>
+<text x="713.263" y="225.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >estándar.</text>
+<rect x="28" y="242.24" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="262.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Nueva obligación o regulación</text>
+<text x="260.105" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Comité con asesoría legal.</text>
+<text x="467.263" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Fuente oficial consultada y</text>
+<text x="467.263" y="278.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >fecha.</text>
+<text x="713.263" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Duda sobre vigencia o alcance de la norma.</text>
+<rect x="28" y="295.36" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="315.36" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Disputa o requerimiento de</text>
+<text x="40" y="331.92" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >una autoridad</text>
+<text x="260.105" y="315.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Dirección con asesoría</text>
+<text x="260.105" y="331.92" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >especializada.</text>
+<text x="467.263" y="315.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cronología, comunicaciones y</text>
+<text x="467.263" y="331.92" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >plazos.</text>
+<text x="713.263" y="315.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cualquier notificación formal: se escala de</text>
+<text x="713.263" y="331.92" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inmediato.</text>
+<rect x="28" y="364.48" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="386.48" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El gerente no sustituye a un abogado: reconoce cuándo hay un tema legal, reúne los hechos y escala a tiempo con una pregunta bien</text>
+<text x="44" y="403.73" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >formulada.</text>
+<text x="28" y="450.98" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las normas cambian; toda decisión con efecto legal se verifica en la fuente oficial vigente y con asesoría.</text>
 </svg>

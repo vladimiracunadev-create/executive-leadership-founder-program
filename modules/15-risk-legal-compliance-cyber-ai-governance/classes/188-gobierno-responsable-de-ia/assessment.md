@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **AI governance** de **AI risk** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **human oversight** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **model evaluation** con **AI inventory**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuáles son las cuatro funciones del marco NIST AI RMF?
+2. ¿Por qué se gradúa el gobierno según impacto y autonomía?
+3. ¿Qué es el sesgo de automatización y cómo se enfrenta?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** RR.HH. adopta un modelo externo para filtrar candidatos sin conocer datos de entrenamiento. El proveedor cambia versión automáticamente y no existe evaluación de sesgo ni mecanismo de apelación.
+**Caso:** Una entidad de crédito de consumo con 1.600 empleados usa tres sistemas de IA: un modelo de **puntaje crediticio** comprado a un proveedor, que decide automáticamente el 70 % de las solicitudes hasta cierto monto; un **asistente generativo** para el servicio al cliente, que los agentes alimentan con datos reales de clientes desde cuentas personales; y un modelo propio de **cobranza** que prioriza llamadas. En seis meses, las reclamaciones por rechazos subieron 45 %; un análisis muestra que la tasa de aprobación para solicitantes de una región es 38 % frente a 51 % del resto, con riesgo observado similar. Un agente pegó una lista de clientes en una herramienta pública. El proveedor del modelo de puntaje se niega a compartir detalles técnicos. El directorio pide un informe y un plan antes del cierre trimestral.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **inventariar casos de IA → clasificar impacto y contexto → definir evaluación y guardrails → asignar accountability y human oversight → monitorizar drift incidentes y cambios**. Debes utilizar o diseñar cómo obtener **AI inventory coverage, evaluation pass rate, human override**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **marco de gobierno de IA** que contenga: (a) el inventario y la clasificación de los tres usos; (b) los roles, la política de uso aceptable y la estructura de aprobación; (c) las pruebas de desempeño, sesgo y robustez, con métricas y umbrales; (d) el diseño de supervisión humana y de reclamación; (e) las exigencias a proveedores y los cambios contractuales; (f) los indicadores, el monitoreo y las verificaciones legales y regulatorias pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los marcos son voluntarios o de referencia comparada, y la regulación cambia con rapidez según el país.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

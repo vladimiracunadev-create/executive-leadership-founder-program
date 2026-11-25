@@ -5,31 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir compliance de code of conduct mediante evidencia observable."
-  - "Aplicar la secuencia: mapear obligaciones y conductas → diseñar políticas y training por riesgo → crear canales y protección → investigar con debido proceso → remediar causa y monitorear recurrencia."
-  - "Interpretar hotline usage, substantiation rate, retaliation allegations sin atribuir causalidad automática."
-  - "Resolver el caso de compliance y cultura ética con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Diseñar un sistema de declaración de conflictos con canal confidencial, no represalia y asesoramiento independiente."
+  - "Explicar por qué las personas incumplen y qué factores de la organización lo favorecen."
+  - "Diseñar los elementos de un programa de cumplimiento basado en riesgos."
+  - "Gestionar un canal de denuncias, investigaciones y medidas con protección y consistencia."
+  - "Evaluar si el programa funciona, con indicadores de conducta y de percepción."
+  - "Decidir ante presiones y dilemas con un método explícito."
 deliverable: "risk-governance-brief.md"
 references:
-  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
-  - "John C. Hull — *Risk Management and Financial Institutions*"
-  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
-  - "ISO — *ISO 31000 Risk management*"
-  - "Richard A. Clarke & Robert K. Knake — *The Fifth Domain*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>."
+  - "Linda K. Treviño, Gary R. Weaver & Scott J. Reynolds — *Behavioral Ethics in Organizations: A Review*"
+  - "Ann E. Tenbrunsel & David M. Messick — *Ethical Fading: The Role of Self-Deception in Unethical Behavior*"
+  - "Rushworth M. Kidder — *How Good People Make Tough Choices*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393)*"
 limits:
-  - "Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto."
+  - "Las evidencias sobre qué elementos de un programa reducen las infracciones son mixtas y dependen del contexto."
 evidence_signals:
-  - "hotline usage"
-  - "substantiation rate"
-  - "retaliation allegations"
-  - "repeat violations"
-  - "training effectiveness"
-  - "conflict-declaration rate"
-  - "non-retaliation signal"
+  - "factores de contexto diagnosticados"
+  - "canal de denuncia independiente"
+  - "consecuencias consistentes"
+  - "indicadores de efectividad"

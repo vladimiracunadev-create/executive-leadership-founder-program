@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 15 completa** (181–192): gestión integrada de riesgos (COSO, ISO 31000, Kaplan y Garrick), apetito y
+  límites, controles internos y segregación de funciones, alfabetización legal del gerente, contratos, privacidad y
+  gobierno de datos (Solove), gobierno de ciberseguridad (NIST CSF 2.0), gobierno responsable de IA (NIST AI RMF,
+  OCDE, fichas de modelo y hojas de datos), compliance y cultura ética, continuidad y resiliencia (ISO 22301,
+  Weick y Sutcliffe) y capstone del comité integrado de riesgos; las normas se remiten a fuentes oficiales sin
+  interpretarlas, con cifras recalculadas y un diagrama a medida por clase.
 - **La parte 14 completa** (169–180): la organización como diseño (Galbraith, Lawrence y Lorsch), estructuras
   funcionales, divisionales y matriciales, tramos y capas, modelo operativo (Mankins, Skelton y Pais), derechos de
   decisión (RACI, RAPID), cultura observable (Schein, Edmondson), incentivos (Gneezy y Rustichini, Deci y otros),

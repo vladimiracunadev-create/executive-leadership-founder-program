@@ -10,217 +10,193 @@
 
 ## 🎯 Propósito
 
-La alfabetización legal del gerente consiste en reconocer cuándo una decisión crea derechos, obligaciones o exposición y cuándo debe involucrar asesoría competente. No convierte al gerente en abogado; mejora issue spotting, documentación, escalamiento y prevención.
+Un gerente no necesita ser abogado, pero sí reconocer cuándo una decisión de negocio es también una decisión legal. Firma contratos, contrata y despide, maneja datos de clientes, promete plazos, usa marcas y software de terceros, se reúne con competidores en asociaciones gremiales y responde a autoridades. En cada una de esas acciones puede comprometer a la empresa, y a veces a sí mismo, de maneras que no se ven hasta que hay un reclamo. La **alfabetización legal** es la capacidad de detectar el tema, reunir los hechos, formular una buena pregunta y escalar a tiempo, sin pretender reemplazar a la asesoría ni interpretar normas de memoria.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **alfabetización legal del gerente** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase no enseña derecho de ninguna jurisdicción: enseña a **trabajar con el derecho**. Se apoya en la visión de Tricker sobre gobierno corporativo, en el estudio clásico de Macaulay sobre cómo las empresas usan realmente los contratos y las relaciones, en el trabajo de Bazerman y Moore sobre los sesgos de juicio de los gerentes y en la ISO 31000 para tratar los riesgos legales como cualquier otro. Para las normas, remite a las fuentes oficiales, como el portal LeyChile de la Biblioteca del Congreso Nacional de Chile. Al terminar sabrás clasificar riesgos legales, decidir qué escalar, documentar con criterio y gestionar la relación con la asesoría.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `legal issue spotting`, `legal privilege`, `regulatory obligation`, `contractual duty`, `legal escalation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** legal incidents, late escalations, contract exceptions sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Reconocer** los principales ámbitos de riesgo legal en las decisiones gerenciales.
+2. **Distinguir** qué decide el gerente, qué se valida con asesoría y qué se escala de inmediato.
+3. **Formular** una consulta legal con hechos, objetivo, plazo y opciones.
+4. **Documentar** decisiones y comunicaciones sabiendo que pueden ser evidencia.
+5. **Verificar** normas en fuentes oficiales sin interpretarlas de memoria.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define legal issue spotting y legal privilege sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con legal incidents y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión tomaste el último mes que, mirada de nuevo, tenía un componente legal? |
+| 20–60 min | Ámbitos, detección, consulta, documentación, límites y relación con la asesoría. |
+| 60–105 min | Ejemplo trabajado: triaje legal de contratos en una empresa de servicios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **legal issue spotting** | capacidad de reconocer hechos que pueden activar una norma u obligación | Distingue un hecho compatible y otro que lo refute. |
-| **legal privilege** | protección que puede aplicar a ciertas comunicaciones jurídicas según jurisdicción | Distingue un hecho compatible y otro que lo refute. |
-| **regulatory obligation** | deber impuesto por autoridad competente | Distingue un hecho compatible y otro que lo refute. |
-| **contractual duty** | obligación nacida de un acuerdo | Distingue un hecho compatible y otro que lo refute. |
-| **legal escalation** | derivación oportuna a asesoría especializada | Distingue un hecho compatible y otro que lo refute. |
+| **Riesgo legal** | Posibilidad de sanción, reclamo o pérdida por incumplir normas o contratos. | Aparece en decisiones comerciales, laborales y de datos. |
+| **Detección de temas** | Capacidad de ver el componente legal de una decisión. | Se hacen preguntas antes de actuar. |
+| **Escalamiento** | Llevar un tema a asesoría o a una instancia superior. | Tiene criterios y plazos. |
+| **Consulta legal** | Pregunta formulada con hechos, objetivo y opciones. | Permite una respuesta útil y rápida. |
+| **Evidencia documental** | Registros que pueden usarse para probar lo ocurrido. | Correos, mensajes, actas, contratos. |
+| **Fuente oficial** | Texto de la norma publicado por la autoridad competente. | Fecha, vigencia y versión verificables. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 184: 1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir](modelo-mental.svg)
+![Cuándo decide el gerente y cuándo se escala al área legal: situación rutinaria, variación de condiciones, nueva obligación o regulación, disputa o requerimiento de una autoridad.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La alfabetización legal del gerente consiste en reconocer cuándo una decisión crea derechos, obligaciones o exposición y cuándo debe involucrar asesoría competente. No convierte al gerente en abogado; mejora issue spotting, documentación, escalamiento y prevención.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos materiales a profesionales habilitados.**
+**Cómo leer el diagrama.** Una tabla con cuatro situaciones de complejidad creciente. En la **rutinaria con plantilla aprobada** decide el gerente dentro de su límite. En la **variación de condiciones** decide con visto bueno del área legal. Ante una **nueva obligación o regulación** decide un comité con asesoría legal y se documenta la fuente oficial consultada. Ante una **disputa o requerimiento de una autoridad**, decide la dirección con asesoría especializada y se escala de inmediato. La nota aclara que el gerente reconoce, reúne hechos y escala a tiempo; el pie, que toda decisión con efecto legal se verifica en la fuente oficial vigente.
 
 ## 📖 Desarrollo
 
-### 1. legal issue spotting: mecanismo central
+### 1. Dónde aparece el riesgo legal
 
-**legal issue spotting** se entiende aquí como **capacidad de reconocer hechos que pueden activar una norma u obligación**. Esta es la pieza causal o estructural desde la que se inicia **alfabetización legal del gerente**: antes de identificar decisión y jurisdicción, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los ámbitos más frecuentes en decisiones gerenciales son: **contratos** con clientes, proveedores y socios (clase 185); **relaciones laborales** (contratación, evaluación, cambios de funciones, término de la relación, acoso, seguridad y salud); **datos personales** (clase 186); **competencia** (acuerdos con competidores, precios, exclusividades); **consumo y publicidad** (promesas, promociones, garantías); **propiedad intelectual** (marcas, software, contenidos de terceros); **tributario y financiero**; **ambiental, sanitario y sectorial**; y **responsabilidad penal** de la empresa y de las personas (cohecho, lavado de activos, delitos informáticos). La lista no es una guía legal: es un mapa de **dónde mirar**. En Chile, por ejemplo, la normativa se consulta en LeyChile y en los portales de las autoridades competentes; en otro país, en las fuentes equivalentes.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **legal incidents**; regístrala con periodo, unidad, población y baseline.
+### 2. Detectar el tema antes de actuar
 
-Relaciona el mecanismo con **legal privilege**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La mayoría de los problemas legales no nace de mala fe sino de **no haber visto el tema**. Algunas señales de que hay un componente legal: aparece la palabra «exclusividad», «garantía», «indemnización» o «confidencial»; se va a usar información de personas; se va a modificar la situación de una persona trabajadora; una autoridad pide información; alguien dice «hagámoslo así y no lo escribamos»; se va a copiar algo de un tercero; el negocio es nuevo y no hay precedente. Una práctica útil es una **lista breve de verificación** previa a decisiones importantes, con preguntas como: ¿hay terceros involucrados?, ¿hay datos de personas?, ¿hay promesas o garantías?, ¿hay plazos legales o contractuales?, ¿quién más debería verlo? Bazerman y Moore muestran que los gerentes tienden a la **sobreconfianza** y a pasar por alto información desfavorable; una lista obliga a mirar.
 
-### 2. legal privilege: frontera conceptual y error de clasificación
+### 3. Qué decide el gerente y qué se escala
 
-**Definición operacional:** protección que puede aplicar a ciertas comunicaciones jurídicas según jurisdicción. Su valor está en distinguirlo de **legal issue spotting** y **regulatory obligation**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se define por escrito una **escalera de decisión**. En lo rutinario con plantillas aprobadas, decide el gerente dentro de su límite de autoridad. Cuando se apartan condiciones esenciales (responsabilidad, plazos, datos, exclusividad), se pide **visto bueno** del área legal. Ante nuevas obligaciones, cambios regulatorios o dudas de vigencia, se consulta con asesoría y se documenta la fuente oficial. Ante disputas, notificaciones de autoridades, denuncias graves o sospecha de delito, se **escala de inmediato** a la dirección y a la asesoría, y no se responde por cuenta propia. Los criterios de escalamiento se definen con **montos, plazos y tipo de materia**, y se prueban en casos reales para que sean realistas.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **legal privilege** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **late escalations** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Formular una buena consulta
 
-Antes de mapear partes derechos y obligaciones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una consulta legal eficaz contiene: **hechos** (qué ocurrió, quiénes, fechas, documentos), **objetivo** (qué se quiere lograr), **restricciones** (plazos, costos, relaciones), **opciones** consideradas y **pregunta concreta** («¿podemos terminar este contrato con 30 días de aviso?» y no «¿qué hacemos con el proveedor?»). Se adjuntan documentos y se indica la **urgencia real**. Se evita adelantar conclusiones («esto es legal, ¿verdad?») y se pide la respuesta con sus **supuestos y riesgos**, no solo un sí o un no. Una buena consulta ahorra horas de asesoría y reduce errores; también facilita que el área legal priorice.
 
-### 3. regulatory obligation: operacionalización y medición
+### 5. Los documentos son evidencia
 
-**regulatory obligation** significa **deber impuesto por autoridad competente**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Correos, mensajes, presentaciones y actas pueden convertirse en **evidencia** en un reclamo, una fiscalización o un juicio. Las prácticas básicas: escribir con **precisión y sobriedad** (sin especular sobre culpas ni exagerar), no destruir información cuando hay un reclamo o investigación anunciada (el área legal indicará la **retención**), separar los comentarios personales de los asuntos de negocio y usar los canales corporativos. Las reglas sobre **confidencialidad de las comunicaciones con abogados**, plazos de conservación de documentos y valor probatorio de registros electrónicos varían según el país y la materia; no se asumen, se consultan con asesoría y fuentes oficiales.
 
-ISO — *ISO 31000 Risk management* orienta este bloque mediante **principios, marco y proceso de gestión de riesgos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **contract exceptions**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Contratos, relaciones y realidad
 
-Al llegar a separar hechos de interpretación, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Macaulay estudió cómo las empresas hacen negocios y halló que, a menudo, las relaciones, la reputación y la expectativa de seguir comerciando pesan más que los contratos formales; muchas disputas se resuelven sin recurrir a ellos. Esto no autoriza a descuidar los contratos, pero explica por qué un gerente prudente **cuida la relación** y a la vez **documenta** lo esencial. Un contrato bien hecho cumple tres funciones: **planificar** (qué se espera), **repartir riesgos** (quién responde por qué) y **resolver desacuerdos** (cómo salir). Un contrato como arma para sorprender al otro rara vez conviene a largo plazo, y el mejor momento para hablar de lo que podría salir mal es antes de firmar.
 
-### 4. contractual duty: trade-offs y efectos de segundo orden
+### 7. Trabajar con la asesoría legal y con las fuentes oficiales
 
-**Definición:** obligación nacida de un acuerdo. Este concepto obliga a abandonar la idea de que **alfabetización legal del gerente** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de documentar y preservar evidencia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* aporta una lente sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **regulatory deadlines** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **alfabetización legal del gerente**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **contractual duty** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. legal escalation: gobernanza, límites e integración
-
-**legal escalation** se define como **derivación oportuna a asesoría especializada** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* se utiliza para estudiar **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad** y contrastar la recomendación final. Al ejecutar escalar antes de comprometer o incumplir, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos materiales a profesionales habilitados.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **legal issue spotting**, **legal privilege**, **regulatory obligation**, **contractual duty** y **legal escalation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **alfabetización legal del gerente** no consiste en sumar cinco definiciones. Empieza por **legal issue spotting**, contrasta **legal privilege** con **regulatory obligation**, incorpora **contractual duty** como restricción o mecanismo y usa **legal escalation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El área legal, interna o externa, rinde mejor cuando se la **involucra temprano**, se le explica el negocio, se acuerdan **plazos y prioridades** y se le pide opinar sobre riesgos y alternativas, no solo sobre la legalidad. Se distingue entre lo **ilegal** (no se puede), lo **riesgoso** (se puede, con consecuencias posibles que la dirección debe aceptar) y lo **inconveniente** (es legal, pero mala idea). Las normas se verifican siempre en su **versión oficial vigente**: LeyChile para leyes chilenas, el Diario Oficial para su publicación, los sitios de las superintendencias y servicios para criterios sectoriales y, en comercio internacional, los textos oficiales de cada jurisdicción. Un resumen de memoria o una nota de prensa no basta. Tricker subraya que el gobierno corporativo incluye el **cumplimiento** como responsabilidad de la dirección, no solo de los abogados.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **alfabetización legal del gerente** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **alfabetización legal del gerente** ayuda a desafiar? |
-| ISO — *ISO 31000 Risk management* | principios, marco y proceso de gestión de riesgos | ¿Qué supuesto de **alfabetización legal del gerente** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **alfabetización legal del gerente** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **alfabetización legal del gerente** ayuda a desafiar? |
-
-En **alfabetización legal del gerente**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **legal issue spotting**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Tricker | Gobierno corporativo y responsabilidad de la dirección sobre el cumplimiento. | No sustituye derecho local. | ¿Quién responde en la dirección? |
+| Macaulay | Uso real de contratos y relaciones en los negocios. | Estudio de un contexto específico y de su época. | ¿Qué parte del acuerdo depende de la relación? |
+| Bazerman y Moore | Sesgos de juicio, sobreconfianza y puntos ciegos. | No da reglas legales. | ¿Qué estamos pasando por alto? |
+| ISO 31000 | Tratar el riesgo legal con el mismo proceso que otros riesgos. | No dice qué exige cada ley. | ¿Qué probabilidad e impacto estimamos? |
+| LeyChile (BCN) | Texto oficial y vigente de la legislación chilena. | No es asesoría ni interpretación. | ¿Qué versión estamos leyendo y desde cuándo rige? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un gerente promete a un cliente eliminar todos sus datos de inmediato sin consultar retención legal, backups ni obligaciones contractuales. El equipo técnico ejecuta una eliminación irreversible.
+**Situación (hipotética).** Una empresa de servicios gestiona 140 contratos por trimestre con clientes y proveedores. El equipo legal tiene 120 horas disponibles por trimestre y se queja de saturación. El gerente general propone contratar más abogados; la gerencia de operaciones, que «todo lo apruebe legal».
 
-**Paso 1 — identificar decisión y jurisdicción.** La gerencia escribe primero el supuesto asociado a **legal issue spotting** y evita convertirlo en hecho. Luego busca **legal incidents** para contrastarlo en el caso de **alfabetización legal del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Triaje por tipo.**
 
-**Paso 2 — mapear partes derechos y obligaciones.** La gerencia escribe primero el supuesto asociado a **legal privilege** y evita convertirlo en hecho. Luego busca **late escalations** para contrastarlo en el caso de **alfabetización legal del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tipo | Proporción | Contratos | Horas de legal por contrato | Horas totales |
+|---|---|---|---|---|
+| Estándar con plantilla aprobada | 70 % | 98 | 0 | 0 |
+| Con variaciones de condiciones | 20 % | 28 | 2 | 56 |
+| Especiales (nuevos riesgos, datos, exclusividad) | 10 % | 14 | 8 | 112 |
+| **Total** | 100 % | 140 | | **168** |
 
-**Paso 3 — separar hechos de interpretación.** La gerencia escribe primero el supuesto asociado a **regulatory obligation** y evita convertirlo en hecho. Luego busca **contract exceptions** para contrastarlo en el caso de **alfabetización legal del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Brecha.** 168 − 120 = 48 horas por trimestre. Costo con horas internas a 45.000 pesos y externas a 110.000: 120 × 45.000 = 5,40 millones, más 48 × 110.000 = 5,28 millones; total 10,68 millones por trimestre.
 
-**Paso 4 — documentar y preservar evidencia.** La gerencia escribe primero el supuesto asociado a **contractual duty** y evita convertirlo en hecho. Luego busca **regulatory deadlines** para contrastarlo en el caso de **alfabetización legal del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mejora de plantillas.** Un análisis de las variaciones muestra que 40 % se debe a la misma cláusula de pagos. Se rediseña la plantilla con una alternativa pre aprobada. Las variaciones bajan de 20 % a 12 %: 140 × 12 % ≈ 17 contratos × 2 horas = 34 horas; con 112 horas de especiales, el total es 146 horas. La brecha baja a 26 horas: 120 × 45.000 = 5,40 millones más 26 × 110.000 = 2,86 millones; total 8,26 millones. El ahorro es 10,68 − 8,26 = 2,42 millones por trimestre.
 
-**Paso 5 — escalar antes de comprometer o incumplir.** La gerencia escribe primero el supuesto asociado a **legal escalation** y evita convertirlo en hecho. Luego busca **dispute cost** para contrastarlo en el caso de **alfabetización legal del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escalera de decisión.** Se aprueba: estándar, el gerente decide hasta 50 millones; con variación, visto bueno de legal en 3 días hábiles; especiales, comité semanal; disputas o notificaciones de autoridades, escalamiento inmediato al gerente general y a legal con el formulario de consulta.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **alfabetización legal del gerente**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Consulta tipo.** Hechos (cliente, monto, plazo, borrador, cambios solicitados), objetivo, restricciones, opciones, pregunta concreta y fecha límite.
+
+**Cuidados.** La lista de materias y los límites se revisan cada año con asesoría; las normas aplicables se verifican en su fuente oficial vigente; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El triaje redujo la carga sin quitar control. (2) La plantilla resolvió la causa. (3) La escalera dio claridad sobre quién decide.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **legal issue spotting** | capacidad de reconocer hechos que pueden activar una norma u obligación | Cuando legal incidents es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **legal privilege** | protección que puede aplicar a ciertas comunicaciones jurídicas según jurisdicción | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Alfabetización legal frente a asesoría legal.** La primera permite ver y preguntar; la segunda interpreta y responde. Un gerente que cree saber derecho es tan riesgoso como uno que lo ignora.
 
-**Frontera de aplicación:** Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos materiales a profesionales habilitados.
+**Límites.** Esta clase no interpreta ninguna ley ni sustituye asesoría profesional. Las normas cambian y varían por país, sector y materia. La confidencialidad de comunicaciones con abogados, los plazos de prescripción y las obligaciones de conservar documentos se consultan en la fuente oficial y con asesoría. El estudio de Macaulay es antiguo y de un contexto específico. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre alfabetización legal del gerente |
+| Nivel | Cómo trabaja con lo legal |
 |---|---|
-| **Profesional** | usa **alfabetización legal del gerente** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **legal issue spotting** y **legal privilege** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta legal incidents con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si alfabetización legal del gerente cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de alfabetización legal del gerente reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **alfabetización legal del gerente** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reconoce temas, pregunta antes de comprometerse y guarda registros. |
+| **Jefe / Team Lead** | Usa las plantillas y escala las variaciones a tiempo. |
+| **Gerente** | Mantiene la escalera de decisión y formula buenas consultas. |
+| **CEO / Director** | Define el apetito de riesgo legal y responde por el cumplimiento. |
+| **Founder / Owner** | Entiende que sus decisiones pueden comprometer a la empresa y a su patrimonio. |
 
 ## 🏢 Caso ejecutivo
 
-Un gerente promete a un cliente eliminar todos sus datos de inmediato sin consultar retención legal, backups ni obligaciones contractuales. El equipo técnico ejecuta una eliminación irreversible.
+Una empresa de educación en línea con 300 empleados lanza una campaña con promesas de empleo para quienes terminen un curso. El equipo de marketing envía correos masivos a una base de 85.000 contactos obtenida de un evento, ofrece «garantía de reembolso total» sin condiciones escritas, y usa en un video una música sin licencia. Una persona trabajadora denuncia, por correo interno, un trato hostil de su jefe; el gerente de personas responde por mensajería instantánea con comentarios sobre el carácter de la denunciante. Mientras tanto, un funcionario de una autoridad pide por teléfono información de la campaña y el gerente comercial le adelanta cifras sin consultar. El gerente general dice: «lo legal es cosa de legal; nosotros vendemos».
 
-Entrega un **decision brief de alfabetización legal del gerente** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **protocolo de alfabetización legal** que contenga: (a) el mapa de temas legales presentes en el caso; (b) la escalera de decisión con quién decide qué y en qué plazos; (c) la consulta legal modelo para uno de los temas; (d) las prácticas de documentación y de retención de información que corresponden; (e) las fuentes oficiales y asesorías que se consultarán antes de actuar; (f) el plan para evitar que el equipo repita estos errores.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **alfabetización legal del gerente** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta legal incidents, late escalations; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista diez decisiones recientes de tu área y marca las que tenían un componente legal.
+2. Redacta una lista de verificación de cinco preguntas para decisiones importantes.
+3. Diseña una escalera de decisión con montos, plazos y materias.
+4. Formula una consulta legal sobre un caso real con hechos, objetivo, opciones y pregunta.
+5. Busca una norma en su fuente oficial y anota versión, fecha y vigencia sin interpretarla.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar legal issue spotting y legal privilege como sinónimos | Se pierde la distinción entre “capacidad de reconocer hechos que pueden activar una norma u obligación” y “protección que puede aplicar a ciertas comunicaciones jurídicas según jurisdicción” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “escalar antes de comprometer o incumplir” | Se saltó “identificar decisión y jurisdicción” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir y marca el primer supuesto no demostrado. |
-| Optimizar solo legal incidents | La métrica local sustituyó al resultado del sistema | Contrástala con late escalations y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre alfabetización legal del gerente | Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos materiales a profesionales habilitados. |
-| No fijar revisión | Una decisión sobre alfabetización legal del gerente se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| No ver el tema | Se mira solo el negocio | Usar una lista de verificación previa. |
+| Escalar tarde | Se teme parecer incompetente | Criterios claros de escalamiento. |
+| Consultas vagas | Falta preparación | Hechos, objetivo, opciones y pregunta concreta. |
+| Escribir sin cuidado | Se cree que es privado | Sobriedad y canales corporativos. |
+| Fiarse de resúmenes | Es más rápido | Consultar la fuente oficial vigente. |
+| Ver al abogado como freno | Se involucra tarde | Involucrarlo temprano y pedir alternativas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **legal issue spotting** y **legal privilege** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **regulatory obligation** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar decisión y jurisdicción → mapear partes derechos y obligaciones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **legal incidents** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **alfabetización legal del gerente**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos materiales a profesionales habilitados.**?
+1. ¿Qué ámbitos de riesgo legal aparecen en decisiones gerenciales?
+2. ¿Qué señales indican que una decisión tiene un componente legal?
+3. ¿Qué situaciones exigen escalamiento inmediato?
+4. ¿Qué elementos tiene una buena consulta legal?
+5. ¿Por qué los documentos pueden ser evidencia y qué prácticas se recomiendan?
+6. ¿Qué enseña Macaulay sobre los contratos?
+7. ¿Cómo se verifica una norma sin interpretarla de memoria?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Contratos, laboral, datos, competencia, consumo y publicidad, propiedad intelectual, tributario, sectorial y responsabilidad penal.
+2. Terceros, datos de personas, promesas o garantías, plazos legales, cambios a la situación de personas trabajadoras, requerimientos de autoridades y negocios sin precedente.
+3. Disputas, notificaciones de autoridades, denuncias graves y sospecha de delito.
+4. Hechos, objetivo, restricciones, opciones, pregunta concreta, documentos y urgencia real.
+5. Porque pueden usarse para probar lo ocurrido; conviene escribir con precisión, usar canales corporativos y no destruir información cuando hay un reclamo o investigación.
+6. Que las relaciones y la reputación pesan a menudo más que el contrato formal, pero el contrato sigue siendo útil para planificar, repartir riesgos y resolver desacuerdos.
+7. Consultando el texto oficial vigente (por ejemplo LeyChile) y a la asesoría, anotando versión y fecha.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/184-alfabetizacion-legal-del-gerente/`:
 
-- `risk-governance-brief.md` con el problema específico de **alfabetización legal del gerente**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **alfabetización legal del gerente** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **legal issue spotting**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un gerente promete a un cliente eliminar todos sus datos de inmediato sin consultar retención legal, backups ni obligaciones contractuales. El equipo técnico ejecuta una eliminación irreversible.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el protocolo del caso ejecutivo;
+- `decision-brief.md` (plantilla [Decision Brief](../../../../templates/decision-brief.md)) con la lista de verificación previa y la consulta legal modelo;
+- `decision-journal.md` con la escalera de decisión, la consulta modelo y las fuentes oficiales consultadas.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **alfabetización legal del gerente**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** principios, marco y proceso de gestión de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **alfabetización legal del gerente** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **alfabetización legal del gerente**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **alfabetización legal del gerente** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **alfabetización legal del gerente** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **alfabetización legal del gerente** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** gobierno corporativo y responsabilidad de la dirección sobre el cumplimiento. Lectura selectiva sobre **alfabetización legal del gerente**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- Stewart Macaulay — *Non-Contractual Relations in Business: A Preliminary Study* (American Sociological Review, 1963). **Uso en esta clase:** uso real de contratos y relaciones en los negocios. Lectura selectiva sobre **alfabetización legal del gerente**. **Localizador:** [DOI 10.2307/2090458](https://doi.org/10.2307/2090458).
+- Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making* (John Wiley & Sons Inc). **Uso en esta clase:** sesgos de juicio y sobreconfianza de los gerentes. Lectura selectiva sobre **alfabetización legal del gerente**. **Localizador:** [ISBN-13 9781119427384](https://openlibrary.org/isbn/9781119427384).
+- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** tratamiento del riesgo legal con el proceso general de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393)* (2009). **Uso en esta clase:** texto oficial de la responsabilidad penal de las personas jurídicas. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
 
-> **Regla de fuentes para Alfabetización legal del gerente:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **alfabetización legal del gerente** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Alfabetización legal del gerente:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente y con asesoría legal, sin interpretar su contenido de memoria. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

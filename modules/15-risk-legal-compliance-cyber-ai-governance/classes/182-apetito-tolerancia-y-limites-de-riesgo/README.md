@@ -10,217 +10,195 @@
 
 ## 🎯 Propósito
 
-Apetito de riesgo expresa cuánto y qué tipo de riesgo una organización está dispuesta a aceptar para perseguir objetivos; tolerancias y límites lo traducen a operación. Sin esa jerarquía, cada área interpreta prudencia de forma distinta y escala demasiado o demasiado poco.
+«No somos amigos del riesgo» es una frase que casi todas las empresas escriben y casi ninguna puede usar. No dice cuánta deuda es demasiada, cuántas horas de caída de un sistema son tolerables, qué porcentaje de ingresos puede depender de un cliente ni quién decide cuando una oportunidad exige pasarse del límite. Sin números, dueños y consecuencias, el **apetito de riesgo** es una declaración de buenas intenciones, y cada gerente lo interpreta a su manera: unos asumen riesgos que el directorio jamás aprobaría y otros renuncian a oportunidades que sí aprobaría.
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **apetito, tolerancia y límites de riesgo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase explica cómo pasar de una frase a un sistema de decisión: distinguir **capacidad**, **apetito**, **tolerancia** y **límites**, traducirlos a indicadores medibles, fijar umbrales con acciones asociadas y gobernar las excepciones. Se apoya en COSO, en ISO 31000, en la práctica cuantitativa de límites descrita por Hull y en la teoría de las perspectivas de Kahneman y Tversky, que explica por qué las personas toman riesgos distintos según estén ganando o perdiendo. Al terminar sabrás redactar un enunciado de apetito, derivar límites, diseñar semáforos de indicadores y decidir una excepción con criterio.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `risk appetite`, `risk tolerance`, `limit`, `breach`, `capacity` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** limit utilization, breaches, loss absorption capacity sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** capacidad, apetito, tolerancia y límite de riesgo.
+2. **Redactar** un enunciado de apetito con criterios medibles por tipo de riesgo.
+3. **Derivar** límites e indicadores con umbrales y acciones.
+4. **Probar** un límite con pruebas de estrés antes de adoptarlo.
+5. **Gobernar** excepciones y excesos con roles y plazos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define risk appetite y risk tolerance sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con limit utilization y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué límite de riesgo de tu empresa conoces con número y con dueño? |
+| 20–60 min | Capacidad, apetito, tolerancia, límites, estrés y excepciones. |
+| 60–105 min | Ejemplo trabajado: apetito de endeudamiento ante una expansión. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **risk appetite** | nivel y tipo de riesgo aceptable en busca de objetivos | Distingue un hecho compatible y otro que lo refute. |
-| **risk tolerance** | rango de variación aceptable alrededor de objetivos | Distingue un hecho compatible y otro que lo refute. |
-| **limit** | umbral cuantitativo u operativo que restringe exposición | Distingue un hecho compatible y otro que lo refute. |
-| **breach** | superación de un límite que activa respuesta | Distingue un hecho compatible y otro que lo refute. |
-| **capacity** | máxima pérdida o exposición que la organización puede soportar | Distingue un hecho compatible y otro que lo refute. |
+| **Capacidad de riesgo** | Máximo de riesgo que la organización puede soportar sin poner en peligro su existencia u obligaciones. | Compromisos financieros, regulatorios y de continuidad. |
+| **Apetito de riesgo** | Tipo y cantidad de riesgo que la organización busca asumir para lograr sus objetivos. | Se aprueba por el directorio y es menor que la capacidad. |
+| **Tolerancia al riesgo** | Variación aceptable respecto de un objetivo concreto. | Rango alrededor de una meta. |
+| **Límite** | Umbral medible que activa una acción o una decisión superior. | Número, dueño y consecuencia. |
+| **Indicador de riesgo** | Medida que muestra la cercanía al límite. | Se reporta con semáforo y tendencia. |
+| **Excepción** | Autorización formal para exceder un límite de forma temporal. | Tiene aprobador, motivo y vencimiento. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 182: 1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia](modelo-mental.svg)
+![De la capacidad al indicador: capacidad de riesgo, apetito, tolerancia, límites e indicadores.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Apetito de riesgo expresa cuánto y qué tipo de riesgo una organización está dispuesta a aceptar para perseguir objetivos; tolerancias y límites lo traducen a operación. Sin esa jerarquía, cada área interpreta prudencia de forma distinta y escala demasiado o demasiado poco.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito.**
+**Cómo leer el diagrama.** Una escalera de cuatro niveles. La **capacidad de riesgo** es lo máximo que se puede soportar sin ponerse en peligro. El **apetito** es cuánto riesgo se busca asumir y se fija por debajo de la capacidad. La **tolerancia** es la desviación aceptable respecto de cada objetivo. Los **límites e indicadores** son los umbrales medibles, con dueños y acciones cuando se superan. La nota recuerda que sin umbral y sin dueño el apetito es una declaración; el pie aclara que las cifras son decisiones del gobierno de la empresa y que los reguladores sectoriales pueden fijar mínimos.
 
 ## 📖 Desarrollo
 
-### 1. risk appetite: mecanismo central
+### 1. Cuatro conceptos que se confunden
 
-**risk appetite** se entiende aquí como **nivel y tipo de riesgo aceptable en busca de objetivos**. Esta es la pieza causal o estructural desde la que se inicia **apetito, tolerancia y límites de riesgo**: antes de derivar apetito desde estrategia y capacidad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El marco COSO de gestión de riesgos empresariales distingue el **apetito** (amplio, estratégico) de la **tolerancia** (acotada a objetivos específicos) y exige que ambos se integren en la fijación de estrategia y objetivos. La norma ISO 31000 habla de criterios de riesgo que reflejan los valores, objetivos y recursos de la organización. A estos dos se suma la **capacidad**, que es un hecho (cuánto puede perder la empresa antes de incumplir obligaciones o quebrar) y no una preferencia. El orden lógico es: primero se conoce la capacidad; después el directorio decide cuánta de ella está dispuesto a usar (apetito); luego se define cuánta desviación se tolera en cada objetivo (tolerancia); finalmente se fijan límites operables. Confundir apetito con capacidad lleva a apostar todo; confundir apetito con tolerancia lleva a reglas contradictorias.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **limit utilization**; regístrala con periodo, unidad, población y baseline.
+### 2. Conocer la capacidad
 
-Relaciona el mecanismo con **risk tolerance**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La capacidad se calcula con **restricciones duras**: covenants de deuda, liquidez mínima para pagar sueldos y proveedores durante cierto período, capital regulatorio si existe, límites de seguros y requisitos de continuidad con clientes críticos. Se expresa en unidades que la dirección entiende: «podemos perder 9.000 millones antes de incumplir el covenant» o «no podemos estar más de 48 horas sin sistema de despacho». También incluye **capacidades blandas**: reputación, relaciones con clientes clave y estado anímico del equipo. Un cálculo honesto de capacidad suele ser incómodo, porque muestra que la empresa es más frágil de lo que se creía; esa incomodidad es la utilidad del ejercicio.
 
-### 2. risk tolerance: frontera conceptual y error de clasificación
+### 3. Redactar el apetito
 
-**Definición operacional:** rango de variación aceptable alrededor de objetivos. Su valor está en distinguirlo de **risk appetite** y **limit**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un enunciado útil tiene tres partes: **dirección** (dónde se busca riesgo y dónde se evita), **medida** (con qué indicador se mide) y **nivel** (cuánto). Ejemplos: «aceptamos riesgo de mercado al lanzar productos nuevos, hasta 5 % de los ingresos en inversión sin retorno asegurado»; «no aceptamos riesgos que comprometan la seguridad de las personas ni el cumplimiento legal»; «mantenemos una deuda neta de hasta 2,5 veces el EBITDA». Se diferencia por **categoría**: estratégico, financiero, operativo, de cumplimiento, de datos, de reputación. Algunos riesgos tienen apetito **cero** (seguridad de las personas, delitos), y eso debe decirse con claridad, aunque no siempre sea posible eliminarlos del todo: significa que no se justifica asumirlos a cambio de beneficio.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **risk tolerance** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **breaches** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Del apetito al límite
 
-Antes de traducirlo a tolerancias, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un límite operable cumple cinco condiciones: es **medible** con datos disponibles, tiene un **dueño** que puede actuar, una **frecuencia** de medición, **umbrales escalonados** (por ejemplo, verde, ámbar y rojo) y una **acción** asociada a cada nivel: ámbar exige informar y preparar un plan; rojo exige decisión del comité o del directorio. Hull describe, en el contexto financiero, cómo los límites de exposición, concentración y pérdida se jerarquizan en una institución; la idea se aplica a cualquier empresa: límites de concentración de clientes y proveedores, de caída tolerable de un sistema, de rotación crítica, de incidentes de seguridad, de multas o reclamos. Se cuida que los límites sean **pocos y significativos**: cien indicadores en rojo, ámbar y verde producen ruido, no gobierno.
 
-### 3. limit: operacionalización y medición
+### 5. Probar los límites con estrés
 
-**limit** significa **umbral cuantitativo u operativo que restringe exposición**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Antes de adoptar un límite se prueba contra **escenarios adversos**: ¿cómo se ve el indicador si el EBITDA cae 15 %, si el principal cliente se va, si el tipo de cambio sube 20 %? Un límite que se cumple solo en condiciones normales no protege. Se evalúa también la **interacción** entre límites: un nivel de deuda aceptable con ventas estables puede ser inviable con una caída de ventas. Las pruebas de estrés no predicen; revelan fragilidades y ayudan a decidir cuánto margen de seguridad dejar. Y se revisan cuando cambian la estrategia, el entorno o la estructura de la empresa.
 
-NIST — *AI Risk Management Framework (AI RMF 1.0)* orienta este bloque mediante **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **loss absorption capacity**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cómo deciden las personas ante el riesgo
 
-Al llegar a establecer límites y owners, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Kahneman y Tversky mostraron en la teoría de las perspectivas que las personas valoran las pérdidas más que las ganancias equivalentes y que tienden a **buscar riesgo cuando están en pérdida** y a evitarlo cuando están ganando. En una empresa, esto significa que un equipo que va atrasado en su meta anual puede asumir riesgos que no tomaría en un buen año, o un gerente con una inversión fallida puede doblar la apuesta para «recuperar». Por eso los límites se fijan **antes** de la presión, se aplican por igual en buenos y malos momentos y se complementan con incentivos que no premien el riesgo oculto (clase 175). También por eso las excepciones deben pasar por un tercero que no esté bajo la misma presión.
 
-### 4. breach: trade-offs y efectos de segundo orden
+### 7. Excepciones, excesos y reporte
 
-**Definición:** superación de un límite que activa respuesta. Este concepto obliga a abandonar la idea de que **apetito, tolerancia y límites de riesgo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir breach y escalamiento, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ross Anderson — *Security Engineering* aporta una lente sobre **perspectiva de Ciberseguridad aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **override count** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **apetito, tolerancia y límites de riesgo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **breach** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. capacity: gobernanza, límites e integración
-
-**capacity** se define como **máxima pérdida o exposición que la organización puede soportar** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar revisar apetito ante cambios de estrategia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **risk appetite**, **risk tolerance**, **limit**, **breach** y **capacity** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **apetito, tolerancia y límites de riesgo** no consiste en sumar cinco definiciones. Empieza por **risk appetite**, contrasta **risk tolerance** con **limit**, incorpora **breach** como restricción o mecanismo y usa **capacity** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Todo sistema de límites necesita un **procedimiento de excepción**: quién puede autorizar qué, por cuánto tiempo, con qué plan de regreso y con qué registro. Los excesos no autorizados se escalan en un plazo corto y se analizan sus causas: ¿el límite era irreal, el dato llegó tarde o alguien decidió ignorarlo? Se reporta al directorio una vista breve: indicadores principales, tendencias, excesos y excepciones vigentes, y las decisiones que requiere. El apetito se **revisa al menos una vez al año** y cuando cambian las condiciones. Si nunca hay excesos, probablemente los límites son demasiado holgados; si siempre los hay, son irreales o están mal medidos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **apetito, tolerancia y límites de riesgo** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **apetito, tolerancia y límites de riesgo** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **apetito, tolerancia y límites de riesgo** ayuda a desafiar? |
-| Ross Anderson — *Security Engineering* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **apetito, tolerancia y límites de riesgo** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **apetito, tolerancia y límites de riesgo** ayuda a desafiar? |
-
-En **apetito, tolerancia y límites de riesgo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **risk appetite**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| COSO ERM | Apetito y tolerancia integrados con la estrategia y los objetivos. | No dicta niveles concretos. | ¿Qué objetivo respalda este límite? |
+| ISO 31000 | Criterios de riesgo según los valores y recursos de la organización. | Norma genérica. | ¿Quién definió los criterios y con qué base? |
+| Hull | Límites de exposición y concentración, pruebas de estrés. | Contexto financiero; hay que adaptarlo. | ¿El límite resiste el estrés? |
+| Kahneman y Tversky | Aversión a las pérdidas y búsqueda de riesgo en pérdida. | Evidencia de laboratorio y de decisión individual. | ¿Qué cambia cuando el equipo va perdiendo? |
+| Taleb | Cuidado con las colas y con la falsa precisión. | Crítica general. | ¿Qué pasa fuera del rango que modelamos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un marketplace dice tener bajo apetito de fraude pero incentiva crecimiento sin límite y no define pérdidas máximas ni cuándo bloquear cuentas de alto GMV.
+**Situación (hipotética).** Una distribuidora tiene ventas de 80.000 millones de pesos, EBITDA de 9.000 millones y deuda neta de 20.700 millones (2,3 veces el EBITDA). Sus créditos exigen no superar 3,0 veces. La gerencia propone una expansión de 4.000 millones financiada con deuda.
 
-**Paso 1 — derivar apetito desde estrategia y capacidad.** La gerencia escribe primero el supuesto asociado a **risk appetite** y evita convertirlo en hecho. Luego busca **limit utilization** para contrastarlo en el caso de **apetito, tolerancia y límites de riesgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capacidad.** Con el covenant de 3,0 veces y el EBITDA actual, la deuda máxima es 27.000 millones (3,0 × 9.000). Holgura actual: 27.000 − 20.700 = 6.300 millones.
 
-**Paso 2 — traducirlo a tolerancias.** La gerencia escribe primero el supuesto asociado a **risk tolerance** y evita convertirlo en hecho. Luego busca **breaches** para contrastarlo en el caso de **apetito, tolerancia y límites de riesgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Apetito y tolerancia (aprobados por el directorio).** Apetito: deuda neta hasta 2,5 veces el EBITDA (22.500 millones con el EBITDA actual). Tolerancia: entre 2,5 y 2,8 veces se informa al directorio y se presenta un plan de regreso; sobre 2,8 se exige decisión del directorio.
 
-**Paso 3 — establecer límites y owners.** La gerencia escribe primero el supuesto asociado a **limit** y evita convertirlo en hecho. Luego busca **loss absorption capacity** para contrastarlo en el caso de **apetito, tolerancia y límites de riesgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de la propuesta.**
 
-**Paso 4 — definir breach y escalamiento.** La gerencia escribe primero el supuesto asociado a **breach** y evita convertirlo en hecho. Luego busca **override count** para contrastarlo en el caso de **apetito, tolerancia y límites de riesgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Escenario | Deuda neta | EBITDA | Razón |
+|---|---|---|---|
+| Hoy | 20.700 | 9.000 | 2,30 |
+| Expansión con deuda, EBITDA estable | 24.700 | 9.000 | 2,74 |
+| Expansión con deuda y EBITDA −15 % (7.650) | 24.700 | 7.650 | 3,23 |
+| Hoy con EBITDA −15 % | 20.700 | 7.650 | 2,71 |
 
-**Paso 5 — revisar apetito ante cambios de estrategia.** La gerencia escribe primero el supuesto asociado a **capacity** y evita convertirlo en hecho. Luego busca **escalation time** para contrastarlo en el caso de **apetito, tolerancia y límites de riesgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La propuesta de 4.000 millones queda fuera del apetito (2,74 > 2,5), dentro de la zona de tolerancia (por debajo de 2,8) y, bajo estrés, rompe el covenant (3,23 > 3,0). Aun sin expansión, un EBITDA −15 % lleva la razón a 2,71, por encima del apetito.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **apetito, tolerancia y límites de riesgo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Alternativas.** (1) Financiar 2.000 millones con deuda y 2.000 con arriendo operativo o capital propio: deuda 22.700, razón de 2,52 (apenas sobre el apetito) y 2,97 con estrés (apenas bajo el covenant, margen insuficiente). (2) Hacer la expansión en dos etapas: primera de 2.000 millones ahora y segunda condicionada a que la razón esté bajo 2,3 tras seis meses. (3) Renegociar el covenant antes de invertir.
+
+**Decisión propuesta.** Alternativa 2 con aprobación formal de una **excepción** acotada: se acepta una razón de hasta 2,55 durante un trimestre, con plan de regreso a 2,3 y revisión mensual; se agrega un indicador adelantado (ventas semanales contra presupuesto) con umbral ámbar si caen más de 7 % durante tres semanas.
+
+**Cuidados.** Los contratos de crédito y los covenants se leen en su texto vigente con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La capacidad se calculó antes del apetito. (2) El estrés cambió la lectura de la propuesta. (3) La excepción quedó con aprobador, plazo y plan.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **risk appetite** | nivel y tipo de riesgo aceptable en busca de objetivos | Cuando limit utilization es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **risk tolerance** | rango de variación aceptable alrededor de objetivos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Apetito frente a plan de negocios.** El plan dice qué se quiere lograr; el apetito dice qué riesgos se aceptan para lograrlo. Un plan que supera el apetito exige cambiar el plan o aprobar conscientemente el riesgo.
 
-**Frontera de aplicación:** Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito.
+**Límites.** Los números dependen de supuestos y de la calidad de los datos. Los límites muy rígidos pueden empujar a ocultar o a manipular mediciones; los muy flexibles no protegen. La teoría de las perspectivas describe tendencias, no destinos. Los mínimos regulatorios y contractuales dependen de su texto vigente y se verifican en la fuente. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre apetito, tolerancia y límites de riesgo |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **apetito, tolerancia y límites de riesgo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **risk appetite** y **risk tolerance** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta limit utilization con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si apetito, tolerancia y límites de riesgo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de apetito, tolerancia y límites de riesgo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **apetito, tolerancia y límites de riesgo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Conoce los límites que le afectan y alerta cuando se acercan. |
+| **Jefe / Team Lead** | Mide los indicadores de su equipo y escala a tiempo. |
+| **Gerente** | Es dueño de límites, propone excepciones con plan y rinde cuentas. |
+| **CEO / Director** | Propone el apetito, lo integra en la estrategia y lo hace cumplir. |
+| **Founder / Owner** | Aprueba el apetito sabiendo cuánto de su patrimonio personal expone. |
 
 ## 🏢 Caso ejecutivo
 
-Un marketplace dice tener bajo apetito de fraude pero incentiva crecimiento sin límite y no define pérdidas máximas ni cuándo bloquear cuentas de alto GMV.
+Una empresa de tecnología financiera con 650 empleados tiene ingresos anuales de 48.000 millones de pesos y una caja de 9.000 millones. El directorio aprobó este enunciado: «Somos una empresa innovadora, con apetito moderado de riesgo». Mientras tanto: tres clientes suman el 52 % de los ingresos; un solo proveedor en la nube aloja el 100 % de la plataforma, y el último incidente dejó la plataforma sin servicio durante 9 horas; los créditos otorgados a clientes aumentaron 40 % en un año y la morosidad pasó de 3 % a 6,5 %; y el equipo comercial, que va 18 % bajo la meta, propone relajar los criterios de aprobación para «llegar al número». La gerencia de riesgos no tiene límites escritos y el comité de riesgos no recibe indicadores.
 
-Entrega un **decision brief de apetito, tolerancia y límites de riesgo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **sistema de apetito y límites** que contenga: (a) el cálculo de capacidad con restricciones duras; (b) un enunciado de apetito por categoría de riesgo, con apetito cero donde corresponda; (c) los límites con indicador, dueño, frecuencia, umbrales y acciones; (d) la prueba de estrés de al menos tres límites; (e) el procedimiento de excepción y de reporte al directorio, incluyendo cómo tratar la propuesta del equipo comercial; (f) las verificaciones regulatorias y contractuales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **apetito, tolerancia y límites de riesgo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta limit utilization, breaches; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula la capacidad de tu empresa o unidad con tres restricciones duras.
+2. Redacta tres enunciados de apetito con dirección, medida y nivel.
+3. Define cinco límites con indicador, dueño, frecuencia y umbrales.
+4. Prueba un límite con un escenario de estrés y evalúa si sigue protegiendo.
+5. Escribe el procedimiento de excepción para un límite: quién aprueba, por cuánto y con qué plan.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar risk appetite y risk tolerance como sinónimos | Se pierde la distinción entre “nivel y tipo de riesgo aceptable en busca de objetivos” y “rango de variación aceptable alrededor de objetivos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar apetito ante cambios de estrategia” | Se saltó “derivar apetito desde estrategia y capacidad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia y marca el primer supuesto no demostrado. |
-| Optimizar solo limit utilization | La métrica local sustituyó al resultado del sistema | Contrástala con breaches y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre apetito, tolerancia y límites de riesgo | Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito. |
-| No fijar revisión | Una decisión sobre apetito, tolerancia y límites de riesgo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Apetito como frase | Se evita comprometer números | Medir, asignar dueños y fijar acciones. |
+| Confundir apetito con capacidad | No se calculó la capacidad | Partir de restricciones duras. |
+| Demasiados indicadores | Se quiere cubrir todo | Pocos límites y significativos. |
+| Límites no probados | Se fijan en condiciones normales | Pruebas de estrés y revisión periódica. |
+| Excepciones informales | Presión por resultados | Procedimiento con aprobador, plazo y plan. |
+| Aplicar límites solo en malos tiempos | Se reacciona a la crisis | Definir antes y aplicar siempre. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **risk appetite** y **risk tolerance** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **limit** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **derivar apetito desde estrategia y capacidad → traducirlo a tolerancias** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **limit utilization** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **apetito, tolerancia y límites de riesgo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito.**?
+1. ¿Qué diferencia hay entre capacidad y apetito de riesgo?
+2. ¿Qué tres partes tiene un buen enunciado de apetito?
+3. ¿Qué condiciones debe cumplir un límite operable?
+4. ¿Para qué sirve una prueba de estrés de un límite?
+5. ¿Qué enseña la teoría de las perspectivas sobre las decisiones de riesgo?
+6. ¿Qué debe tener una excepción formal?
+7. ¿Qué señales indican que los límites están mal calibrados?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La capacidad es lo máximo que se puede soportar sin ponerse en peligro; el apetito es lo que se decide asumir, siempre por debajo de ella.
+2. Dirección (dónde se busca o evita riesgo), medida (indicador) y nivel (cuánto).
+3. Es medible, tiene dueño, frecuencia, umbrales escalonados y acciones asociadas, y es pocos y significativo.
+4. Para verificar que sigue protegiendo en escenarios adversos y ver interacciones entre límites.
+5. Que se valoran más las pérdidas que las ganancias y se tiende a buscar riesgo cuando se va perdiendo; por eso se fijan límites antes de la presión.
+6. Aprobador, motivo, plazo de vencimiento, plan de regreso y registro.
+7. Si nunca hay excesos, son holgados; si siempre los hay, son irreales o están mal medidos; también si se ocultan o manipulan mediciones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/182-apetito-tolerancia-y-limites-de-riesgo/`:
 
-- `risk-governance-brief.md` con el problema específico de **apetito, tolerancia y límites de riesgo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **apetito, tolerancia y límites de riesgo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **risk appetite**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un marketplace dice tener bajo apetito de fraude pero incentiva crecimiento sin límite y no define pérdidas máximas ni cuándo bloquear cuentas de alto GMV.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el sistema de apetito y límites del caso ejecutivo;
+- `enterprise-risk.md` (plantilla [Enterprise risk](../../../../templates/enterprise-risk.md)) con el enunciado de apetito por categoría;
+- `decision-journal.md` con los supuestos de capacidad, las pruebas de estrés y las excepciones.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **apetito, tolerancia y límites de riesgo**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **apetito, tolerancia y límites de riesgo**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **apetito, tolerancia y límites de riesgo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **apetito, tolerancia y límites de riesgo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **apetito, tolerancia y límites de riesgo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **apetito, tolerancia y límites de riesgo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **apetito, tolerancia y límites de riesgo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** apetito y tolerancia integrados con estrategia y objetivos. **Fuente primaria:** <https://www.coso.org/>.
+- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** criterios de riesgo según valores y recursos de la organización. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** límites de exposición y concentración y pruebas de estrés. Lectura selectiva sobre **apetito, tolerancia y límites de riesgo**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
+- Daniel Kahneman & Amos Tversky — *Prospect Theory: An Analysis of Decision under Risk* (Econometrica, 1979). **Uso en esta clase:** aversión a las pérdidas y búsqueda de riesgo en pérdida. Lectura selectiva sobre **apetito, tolerancia y límites de riesgo**. **Localizador:** [DOI 10.2307/1914185](https://doi.org/10.2307/1914185).
+- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** cuidado con las colas y la falsa precisión. Lectura selectiva sobre **apetito, tolerancia y límites de riesgo**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
 
-> **Regla de fuentes para Apetito, tolerancia y límites de riesgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **apetito, tolerancia y límites de riesgo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Apetito, tolerancia y límites de riesgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos covenants, mínimos regulatorios y requisitos contractuales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

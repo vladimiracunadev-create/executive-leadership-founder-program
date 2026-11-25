@@ -66,9 +66,21 @@ class Lienzo:
 
     def cabecera(self, etiqueta, titulo, color, derecha=""):
         w = self.pildora(28, 24, etiqueta, color)
-        self.texto(28 + w + 16, 43, titulo, 19, TINTA, "700")
+        x0 = 28 + w + 16
+        tam = 19
+        while tam > 15 and x0 + len(titulo) * tam * 0.55 > ANCHO - 28:
+            tam -= 1
+        self.texto(x0, 43, titulo, tam, TINTA, "700")
         if derecha:
-            self.texto(ANCHO - 28, 43, derecha, 12.5, SUAVE, "400", "end")
+            libre = ANCHO - 28 - 20 - (x0 + len(titulo) * tam * 0.55)
+            tam_d = 12.5
+            while tam_d > 10 and len(derecha) * tam_d * 0.5 > libre:
+                tam_d -= 0.5
+            maximo = max(0, int(libre / (tam_d * 0.5)))
+            if len(derecha) > maximo:
+                derecha = derecha[: max(0, maximo - 1)].rstrip(" ·,") + "…" if maximo > 12 else ""
+            if derecha:
+                self.texto(ANCHO - 28, 43, derecha, tam_d, SUAVE, "400", "end")
 
     def pie(self, y, texto):
         self.parrafo(28, y, texto, ANCHO - 56, 12, SUAVE)

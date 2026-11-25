@@ -1,73 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g185 d-g185" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g185">Ficha visual de la clase 185: Contratos: riesgos que un ejecutivo debe detectar</title>
-<desc id="d-g185">Conceptos: scope; limitation of liability; indemnity; IP ownership; termination right. Método: identificar business deal real → mapear obligaciones y acceptance → cuantificar exposición económica → revisar IP datos seguridad y termination → escalar desviaciones y registrar aprobación.</desc>
-<defs><marker id="p-g185" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 185 · Contratos: riesgos que un ejecutivo debe detectar</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >scope</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >definición de prestaciones y límites del acuerdo</text>
-<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >limitation of liability</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tope o exclusión de responsabilidad contractual</text>
-<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >indemnity</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obligación de cubrir determinadas pérdidas o</text>
-<text x="54" y="267.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reclamaciones</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >IP ownership</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regla sobre titularidad o licencia de propiedad</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intelectual</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >termination right</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >facultad de poner fin al contrato bajo condiciones</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >definidas</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar business deal real</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear obligaciones y acceptance</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cuantificar exposición económica</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisar IP datos seguridad y</text>
-<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >termination</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >escalar desviaciones y registrar</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >aprobación</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="219.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >unlimited liability exposure</text>
-<rect x="257.2" y="470.36" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="270.2" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="281.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >auto-renewal</text>
-<rect x="376" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="389" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="400" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >SLA penalties</text>
-<rect x="501.7" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="514.7" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="525.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contract leakage</text>
-<rect x="648.1" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="661.1" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="672.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >exception count</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No uses checklists para negociar sin contexto legal. Cláusulas interactúan y su efecto depende de ley aplicable; el ejecutivo</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identifica y cuantifica, el abogado interpreta y redacta cuando corresponde.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 444.61" width="1040" role="img" aria-labelledby="t-s185 d-s185" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s185">Clase 185 · Cinco riesgos de un contrato</title>
+<desc id="d-s185">Cinco áreas de riesgo contractual con la pregunta que el ejecutivo debe hacerse y el control asociado.</desc>
+<defs><marker id="p-s185" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="444.61" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 185 · Cinco riesgos de un contrato</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Williamson (1979) · Macaulay (1963) · Bazerman &amp; Moore</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Riesgo</text>
+<text x="252.757" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Pregunta del ejecutivo</text>
+<text x="651.676" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Control o cláusula a revisar</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Precio y pagos</text>
+<text x="252.757" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué pasa si el costo sube o el cliente paga tarde?</text>
+<text x="651.676" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Reajustes, plazos de pago, intereses y garantías.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Plazos y entregables</text>
+<text x="252.757" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué se entrega, cuándo y quién lo acepta?</text>
+<text x="651.676" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Criterios de aceptación y calendario con hitos.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Responsabilidad</text>
+<text x="252.757" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Hasta cuánto respondo si algo sale mal?</text>
+<text x="651.676" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Límites, exclusiones y seguros.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Salida y dependencia</text>
+<text x="252.757" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Puedo terminar sin quedar atrapado?</text>
+<text x="651.676" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Terminación, cesión, traspaso de datos y transición.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Datos y confidencialidad</text>
+<text x="252.757" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué información se comparte y cómo se protege?</text>
+<text x="651.676" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Uso permitido, seguridad y devolución.</text>
+<rect x="28" y="334.8" width="984" height="43.25" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un contrato distribuye riesgos entre partes con distinto poder; el ejecutivo busca entender qué riesgos asume, no redactar cláusulas.</text>
+<text x="28" y="404.05" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La redacción y la interpretación de cláusulas son tarea de asesoría legal; esta tabla ordena las preguntas previas.</text>
 </svg>

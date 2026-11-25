@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **scope** de **limitation of liability** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **indemnity** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **IP ownership** con **termination right**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué tres funciones cumple un contrato?
+2. ¿Qué significa que un contrato sea incompleto?
+3. ¿Qué es la dependencia o *hold-up* y cómo se reduce?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un proveedor cloud ofrece 20% de descuento. El contrato contiene responsabilidad ilimitada para el cliente por uso de terceros y renovación automática de tres años con ventana de salida de 30 días.
+**Caso:** Una clínica privada con 900 personas firma, con un proveedor de software de historia clínica, un contrato de cinco años por 180 millones de pesos al año. El contrato fija: renovación automática por cinco años más si no se avisa con seis meses de anticipación; un alza anual de 9 %; responsabilidad máxima del proveedor igual a un mes de pagos (15 millones); propiedad del proveedor sobre los informes y modelos derivados de los datos de la clínica; exportación de datos «previa evaluación del proveedor» y con cargos; y soporte de lunes a viernes. Una caída de dos días en un fin de semana obligó a la clínica a atender con papel, atrasó cirugías por 70 millones y generó reclamos de pacientes. El proveedor ofrece un crédito de 3 millones. Cambiar de proveedor costaría 400 millones. El gerente general quiere «negociar duro» y el gerente de tecnología prefiere no tensar la relación.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar business deal real → mapear obligaciones y acceptance → cuantificar exposición económica → revisar IP datos seguridad y termination → escalar desviaciones y registrar aprobación**. Debes utilizar o diseñar cómo obtener **unlimited liability exposure, auto-renewal, SLA penalties**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de riesgos contractuales** que contenga: (a) la matriz de riesgos del contrato con las cinco áreas; (b) la cuantificación de la exposición, de la dependencia y del costo total a cinco años; (c) las cláusulas críticas y sus alternativas de redacción a revisar con asesoría; (d) la estrategia de negociación con prioridades, alternativas y concesiones; (e) la gestión de datos y de continuidad que se exigirá; (f) las verificaciones legales y de protección de datos pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No uses checklists para negociar sin contexto legal. Cláusulas interactúan y su efecto depende de ley aplicable; el ejecutivo identifica y cuantifica, el abogado interpreta y redacta cuando corresponde.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los contratos son incompletos y su interpretación depende de la ley aplicable y de los hechos.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

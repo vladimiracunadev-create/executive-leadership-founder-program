@@ -288,6 +288,7 @@
         "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/14-organization-design-culture-change/classes/174-cultura-observable-y-artefactos",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
       "status": "verificada",
@@ -332,17 +333,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
@@ -872,11 +862,9 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -972,14 +960,6 @@
         "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
         "modules/17-boards-corporate-governance/classes/209-deberes-conflictos-e-independencia-fundamentos",
@@ -1118,7 +1098,8 @@
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
         "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
         "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -2122,17 +2103,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
@@ -2429,7 +2399,8 @@
       "accessed": "",
       "used_in": [
         "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional"
+        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
       ],
       "status": "pendiente",
       "last_error": "iso.org responde HTTP 403 a cualquier cliente automatizado, así que el verificador no puede comprobar la página de la norma; consultar el catálogo oficial de ISO a mano"
@@ -2448,10 +2419,10 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
       ],
       "status": "pendiente",
       "last_error": "iso.org responde HTTP 403 a cualquier cliente automatizado, así que el verificador no puede comprobar la página de la norma; consultar el catálogo oficial de ISO a mano"
@@ -2655,16 +2626,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -3135,7 +3097,9 @@
         "modules/01-critical-thinking-and-decisions/classes/019-analisis-de-causa-raiz",
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons Inc"
@@ -3409,14 +3373,7 @@
       "locator": "https://www.nist.gov/itl/ai-risk-management-framework",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
@@ -3441,16 +3398,7 @@
       "locator": "https://www.nist.gov/cyberframework",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
@@ -3495,6 +3443,9 @@
       "locator": "https://openlibrary.org/isbn/9780679645276",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
@@ -3653,10 +3604,6 @@
       "locator": "https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html",
       "accessed": "",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -3697,8 +3644,6 @@
       "locator": "https://oecd.ai/en/ai-principles",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia"
       ],
       "status": "verificada"
@@ -3824,17 +3769,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
@@ -4349,11 +4283,7 @@
       "locator": "https://openlibrary.org/isbn/9780525561965",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad"
       ],
       "status": "verificada",
       "authority": "Penguin Press"
@@ -4756,10 +4686,9 @@
       "locator": "https://openlibrary.org/isbn/9781119642831",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -5157,17 +5086,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
@@ -5531,17 +5449,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
@@ -5809,7 +5716,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
       ],
       "status": "verificada"
     },
@@ -6141,7 +6049,8 @@
       "locator": "https://openlibrary.org/isbn/9780061968723",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica"
       ],
       "status": "verificada"
     },
@@ -6628,7 +6537,8 @@
         "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
+        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
       ],
       "status": "verificada"
     },
@@ -6819,7 +6729,8 @@
       "locator": "https://doi.org/10.1086/466942",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros"
+        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
       ],
       "status": "verificada"
     },
@@ -7019,7 +6930,8 @@
       "locator": "https://doi.org/10.2307/1914185",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido"
+        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo"
       ],
       "status": "verificada"
     },
@@ -7391,6 +7303,358 @@
       "used_in": [
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "paul-slovic-perception-of-risk",
+      "type": "paper",
+      "authors": [
+        "Slovic, Paul"
+      ],
+      "title": "Perception of Risk",
+      "cited_as": "Paul Slovic — Perception of Risk",
+      "authority": "Science",
+      "published": "1987",
+      "doi": "10.1126/science.3563507",
+      "locator": "https://doi.org/10.1126/science.3563507",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "stanley-kaplan-b-john-garrick-on-the-quantitative-definition-of-risk",
+      "type": "paper",
+      "authors": [
+        "Kaplan, Stanley",
+        "Garrick, B. John"
+      ],
+      "title": "On The Quantitative Definition of Risk",
+      "cited_as": "Stanley Kaplan & B. John Garrick — On The Quantitative Definition of Risk",
+      "authority": "Risk Analysis",
+      "published": "1981",
+      "doi": "10.1111/j.1539-6924.1981.tb01350.x",
+      "locator": "https://doi.org/10.1111/j.1539-6924.1981.tb01350.x",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "james-reason-human-error-models-and-management",
+      "type": "paper",
+      "authors": [
+        "Reason, James"
+      ],
+      "title": "Human error: models and management",
+      "cited_as": "James Reason — Human error: models and management",
+      "authority": "BMJ",
+      "published": "2000",
+      "doi": "10.1136/bmj.320.7237.768",
+      "locator": "https://doi.org/10.1136/bmj.320.7237.768",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "stewart-macaulay-non-contractual-relations-in-business-a-preliminary-study",
+      "type": "paper",
+      "authors": [
+        "Macaulay, Stewart"
+      ],
+      "title": "Non-Contractual Relations in Business: A Preliminary Study",
+      "cited_as": "Stewart Macaulay — Non-Contractual Relations in Business: A Preliminary Study",
+      "authority": "American Sociological Review",
+      "published": "1963",
+      "doi": "10.2307/2090458",
+      "locator": "https://doi.org/10.2307/2090458",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "linda-k-trevino-gary-r-weaver-scott-j-reynolds-behavioral-ethics-in-organization",
+      "type": "paper",
+      "authors": [
+        "Treviño, Linda K.",
+        "Weaver, Gary R.",
+        "Reynolds, Scott J."
+      ],
+      "title": "Behavioral Ethics in Organizations: A Review",
+      "cited_as": "Linda K. Treviño, Gary R. Weaver & Scott J. Reynolds — Behavioral Ethics in Organizations: A Review",
+      "authority": "Journal of Management",
+      "published": "2006",
+      "doi": "10.1177/0149206306294258",
+      "locator": "https://doi.org/10.1177/0149206306294258",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ann-e-tenbrunsel-david-m-messick-ethical-fading-the-role-of-self-deception-in-un",
+      "type": "paper",
+      "authors": [
+        "Tenbrunsel, Ann E.",
+        "Messick, David M."
+      ],
+      "title": "Ethical Fading: The Role of Self-Deception in Unethical Behavior",
+      "cited_as": "Ann E. Tenbrunsel & David M. Messick — Ethical Fading: The Role of Self-Deception in Unethical Behavior",
+      "authority": "Social Justice Research",
+      "published": "2004",
+      "doi": "10.1023/B:SORE.0000027411.35832.53",
+      "locator": "https://doi.org/10.1023/B:SORE.0000027411.35832.53",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "margaret-mitchell-et-al-model-cards-for-model-reporting",
+      "type": "paper",
+      "authors": [
+        "Mitchell, Margaret",
+        "Wu, Simone",
+        "Zaldivar, Andrew"
+      ],
+      "title": "Model Cards for Model Reporting",
+      "cited_as": "Margaret Mitchell et al. — Model Cards for Model Reporting",
+      "authority": "ACM FAccT",
+      "published": "2019",
+      "doi": "10.1145/3287560.3287596",
+      "locator": "https://doi.org/10.1145/3287560.3287596",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "timnit-gebru-et-al-datasheets-for-datasets",
+      "type": "paper",
+      "authors": [
+        "Gebru, Timnit",
+        "Morgenstern, Jamie",
+        "Vecchione, Briana"
+      ],
+      "title": "Datasheets for datasets",
+      "cited_as": "Timnit Gebru et al. — Datasheets for datasets",
+      "authority": "Communications of the ACM",
+      "published": "2021",
+      "doi": "10.1145/3458723",
+      "locator": "https://doi.org/10.1145/3458723",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "daniel-j-solove-understanding-privacy",
+      "type": "book",
+      "authors": [
+        "Solove, Daniel J."
+      ],
+      "title": "Understanding Privacy",
+      "cited_as": "Daniel J. Solove — Understanding Privacy",
+      "authority": "Harvard University Press",
+      "published": "2008",
+      "isbn13": "9780674035072",
+      "locator": "https://openlibrary.org/isbn/9780674035072",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "charles-perrow-normal-accidents",
+      "type": "book",
+      "authors": [
+        "Perrow, Charles"
+      ],
+      "title": "Normal Accidents",
+      "cited_as": "Charles Perrow — Normal Accidents",
+      "authority": "Princeton University Press",
+      "published": "1999",
+      "isbn13": "9780691004129",
+      "locator": "https://openlibrary.org/isbn/9780691004129",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "diane-vaughan-the-challenger-launch-decision",
+      "type": "book",
+      "authors": [
+        "Vaughan, Diane"
+      ],
+      "title": "The Challenger Launch Decision",
+      "cited_as": "Diane Vaughan — The Challenger Launch Decision",
+      "authority": "University of Chicago Press",
+      "published": "1996",
+      "isbn13": "9780226851761",
+      "locator": "https://openlibrary.org/isbn/9780226851761",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "coso-internal-control-integrated-framework",
+      "type": "standard",
+      "authors": [
+        "COSO"
+      ],
+      "title": "Internal Control - Integrated Framework",
+      "cited_as": "COSO — Internal Control - Integrated Framework",
+      "authority": "COSO",
+      "published": "2013",
+      "url": "https://www.coso.org/guidance-on-ic",
+      "locator": "https://www.coso.org/guidance-on-ic",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "union-europea-reglamento-ue-2024-1689-sobre-inteligencia-artificial",
+      "type": "standard",
+      "authors": [
+        "Unión Europea"
+      ],
+      "title": "Reglamento (UE) 2024/1689 sobre inteligencia artificial",
+      "cited_as": "Unión Europea — Reglamento (UE) 2024/1689 sobre inteligencia artificial",
+      "authority": "EUR-Lex",
+      "published": "2024",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "locator": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "union-europea-reglamento-ue-2016-679-de-proteccion-de-datos",
+      "type": "standard",
+      "authors": [
+        "Unión Europea"
+      ],
+      "title": "Reglamento (UE) 2016/679 de protección de datos",
+      "cited_as": "Unión Europea — Reglamento (UE) 2016/679 de protección de datos",
+      "authority": "EUR-Lex",
+      "published": "2016",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "locator": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "biblioteca-del-congreso-nacional-de-chile-leychile-proteccion-de-datos-personale",
+      "type": "standard",
+      "authors": [
+        "Biblioteca del Congreso Nacional de Chile"
+      ],
+      "title": "LeyChile: protección de datos personales (Ley 19.628 y Ley 21.719)",
+      "cited_as": "Biblioteca del Congreso Nacional de Chile — LeyChile: protección de datos personales (Ley 19.628 y Ley 21.719)",
+      "authority": "Biblioteca del Congreso Nacional de Chile",
+      "published": "2024",
+      "url": "https://www.bcn.cl/leychile/",
+      "locator": "https://www.bcn.cl/leychile/",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "biblioteca-del-congreso-nacional-de-chile-leychile-ciberseguridad-y-delitos-info",
+      "type": "standard",
+      "authors": [
+        "Biblioteca del Congreso Nacional de Chile"
+      ],
+      "title": "LeyChile: ciberseguridad y delitos informáticos (Ley 21.663 y Ley 21.459)",
+      "cited_as": "Biblioteca del Congreso Nacional de Chile — LeyChile: ciberseguridad y delitos informáticos (Ley 21.663 y Ley 21.459)",
+      "authority": "Biblioteca del Congreso Nacional de Chile",
+      "published": "2024",
+      "url": "https://www.bcn.cl/leychile/",
+      "locator": "https://www.bcn.cl/leychile/",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "biblioteca-del-congreso-nacional-de-chile-leychile-responsabilidad-penal-de-las",
+      "type": "standard",
+      "authors": [
+        "Biblioteca del Congreso Nacional de Chile"
+      ],
+      "title": "LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393)",
+      "cited_as": "Biblioteca del Congreso Nacional de Chile — LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393)",
+      "authority": "Biblioteca del Congreso Nacional de Chile",
+      "published": "2009",
+      "url": "https://www.bcn.cl/leychile/",
+      "locator": "https://www.bcn.cl/leychile/",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "agencia-nacional-de-ciberseguridad-de-chile-portal-oficial-de-la-anci",
+      "type": "standard",
+      "authors": [
+        "Agencia Nacional de Ciberseguridad de Chile"
+      ],
+      "title": "Portal oficial de la ANCI",
+      "cited_as": "Agencia Nacional de Ciberseguridad de Chile — Portal oficial de la ANCI",
+      "authority": "Agencia Nacional de Ciberseguridad de Chile",
+      "published": "2024",
+      "url": "https://www.anci.gob.cl/",
+      "locator": "https://www.anci.gob.cl/",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "acfe-occupational-fraud-report-to-the-nations",
+      "type": "standard",
+      "authors": [
+        "ACFE"
+      ],
+      "title": "Occupational Fraud: Report to the Nations",
+      "cited_as": "ACFE — Occupational Fraud: Report to the Nations",
+      "authority": "ACFE",
+      "published": "2024",
+      "url": "https://www.acfe.com/report-to-the-nations/2024/",
+      "locator": "https://www.acfe.com/report-to-the-nations/2024/",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion"
       ],
       "status": "verificada"
     }

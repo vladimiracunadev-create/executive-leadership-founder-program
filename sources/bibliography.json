@@ -155,7 +155,8 @@
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
         "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
+        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas"
       ],
       "status": "verificada"
     },
@@ -318,19 +319,7 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
-        "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
-        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
-        "modules/23-independence-capstone/classes/280-productized-services",
-        "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
-        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
-        "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
-        "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
-        "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
-        "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
-        "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
+        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -973,7 +962,8 @@
         "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
         "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
         "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
+        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -1372,7 +1362,8 @@
       "used_in": [
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
+        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes"
       ],
       "status": "verificada"
     },
@@ -1736,6 +1727,7 @@
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
+        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
         "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
@@ -1966,19 +1958,7 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
-        "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
-        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
-        "modules/23-independence-capstone/classes/280-productized-services",
-        "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
-        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
-        "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
-        "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
-        "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
-        "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
-        "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
       "status": "verificada",
       "authority": "Pearson Education, Inc."
@@ -2002,6 +1982,7 @@
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
+        "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
         "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
@@ -2831,7 +2812,8 @@
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
+        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas"
       ],
       "status": "verificada",
       "authority": "Portfolio/Penguin"
@@ -2986,7 +2968,6 @@
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/280-productized-services",
-        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
         "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
@@ -3198,10 +3179,9 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
-        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
+        "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
         "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
         "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
@@ -3249,7 +3229,9 @@
         "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
+        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
+        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas"
       ],
       "status": "verificada",
       "authority": "Highbridge Audio"
@@ -3330,7 +3312,6 @@
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
         "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
       "status": "verificada",
@@ -3503,19 +3484,7 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
-        "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
-        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
-        "modules/23-independence-capstone/classes/280-productized-services",
-        "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
-        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
-        "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
-        "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
-        "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
-        "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
-        "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
+        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling"
       ],
       "status": "verificada",
       "authority": "Harvard University Press"
@@ -4306,7 +4275,8 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio"
+        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
+        "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -4683,19 +4653,7 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
-        "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
-        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
-        "modules/23-independence-capstone/classes/280-productized-services",
-        "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
-        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
-        "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
-        "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
-        "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
-        "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
-        "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
+        "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -4823,7 +4781,8 @@
         "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
         "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
         "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
-        "modules/22-scaling-business-ownership/classes/275-owner-dashboard"
+        "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
+        "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
       "status": "verificada"
     },
@@ -4947,19 +4906,7 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
-        "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
-        "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
-        "modules/23-independence-capstone/classes/280-productized-services",
-        "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
-        "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
-        "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
-        "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
-        "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
-        "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
-        "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
-        "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
@@ -5897,7 +5844,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados"
+        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
+        "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
       "status": "verificada"
     },

@@ -1,82 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g282 d-g282" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g282">Ficha visual de la clase 282: SaaS y modelos recurrentes</title>
-<desc id="d-g282">Conceptos: MRR; ARR; logo churn; net revenue retention; CAC payback. Método: definir recurring job → modelar pricing y unit economics → construir minimal reliable service → medir cohort retention → optimizar acquisition y expansion después de fit.</desc>
-<defs><marker id="p-g282" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 282 · SaaS y modelos recurrentes</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 23 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >MRR</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ingreso recurrente mensual normalizado</text>
-<circle cx="38" cy="170" r="5" fill="#59636e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ARR</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ingreso recurrente anualizado</text>
-<circle cx="38" cy="228" r="5" fill="#59636e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >logo churn</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >pérdida de clientes en un periodo</text>
-<circle cx="38" cy="286" r="5" fill="#59636e"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >net revenue retention</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >retención de ingresos incluyendo expansión y</text>
-<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >contracción</text>
-<circle cx="38" cy="358.12" r="5" fill="#59636e"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >CAC payback</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >meses necesarios para recuperar costo de adquisición</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#59636e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir recurring</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >job</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#59636e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >modelar pricing y</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >unit economics</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#59636e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >construir minimal</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >reliable service</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#59636e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >medir cohort</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >retention</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#59636e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >optimizar</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >acquisition y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >expansion después</text>
-<text x="692" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >de fit</text>
-<path d="M638,139 L656,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g282)"/>
-<path d="M826,139 L844,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g282)"/>
-<path d="M929,176 L929,222" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g282)"/>
-<path d="M844,259 L826,259" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g282)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g282)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >MRR</text>
-<rect x="84.7" y="442.12" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="97.7" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="108.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >NRR</text>
-<rect x="141.4" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="154.4" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="165.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >logo churn</text>
-<rect x="246.4" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="259.4" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="270.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >gross margin</text>
-<rect x="365.2" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="378.2" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="389.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >CAC payback</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >valor entregado.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 494.98" width="1040" role="img" aria-labelledby="t-s282 d-s282" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s282">Clase 282 · Métricas de un modelo recurrente</title>
+<desc id="d-s282">Métricas de un modelo de suscripción, qué miden y qué cuidado requieren: ingreso recurrente mensual, retención neta de ingresos, cancelación de clientes, cohortes y recuperación del costo de adquisición.</desc>
+<defs><marker id="p-s282" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="494.98" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 282 · Métricas de un modelo recurrente</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Skok · Ries · Drucker · Taleb</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Métrica</text>
+<text x="289.114" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué mide</text>
+<text x="662.785" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Cuidado al interpretarla</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Ingreso recurrente mensual</text>
+<text x="289.114" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Ingresos mensuales repetibles contratados.</text>
+<text x="662.785" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >No incluye ingresos únicos.</text>
+<rect x="28" y="172.56" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Retención neta de ingresos</text>
+<text x="289.114" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Ingresos de clientes existentes tras bajas y</text>
+<text x="289.114" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >ampliaciones.</text>
+<text x="662.785" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Puede ocultar bajas si hay ampliaciones.</text>
+<rect x="28" y="225.68" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Cancelación de clientes</text>
+<text x="289.114" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Porcentaje de clientes que se va por período.</text>
+<text x="662.785" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Se separa por segmento y antigüedad.</text>
+<rect x="28" y="262.24" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="282.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Retención por cohorte</text>
+<text x="289.114" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Qué porción de cada grupo sigue activa.</text>
+<text x="662.785" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pocas cohortes dan resultados frágiles.</text>
+<rect x="28" y="298.8" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="318.8" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Recuperación del costo de</text>
+<text x="40" y="335.36" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >adquisición</text>
+<text x="289.114" y="318.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Meses para recuperar lo gastado en conseguir un</text>
+<text x="289.114" y="335.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cliente.</text>
+<text x="662.785" y="318.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Depende de descuentos y plazos.</text>
+<rect x="28" y="367.92" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="389.92" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >No todo problema necesita una suscripción. Si el uso es episódico, un precio recurrente puede crear cancelaciones y desconfianza: el</text>
+<text x="44" y="407.17" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >modelo sigue al valor entregado.</text>
+<text x="28" y="454.42" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Se optimiza la adquisición después de comprobar que hay ajuste con el cliente.</text>
 </svg>

@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Un inventario de capacidades monetizables traduce experiencia en problemas que otros pagan por resolver. Debe separar skills, domain knowledge, proof, network y assets, y buscar combinaciones raras; listar tecnologías conocidas no basta para construir una oferta.
+Quien decide trabajar de forma independiente suele partir de una pregunta mal planteada: «¿qué me gusta hacer?». Es una pregunta legítima, pero insuficiente. El mercado no paga por lo que a uno le gusta, sino por **problemas que se resuelven**, con **pruebas** de que uno puede resolverlos, ante personas que **tienen presupuesto y urgencia** y a las que se puede **llegar**. Un inventario de capacidades monetizables traduce una trayectoria profesional en un conjunto ordenado de **problemas resueltos, resultados demostrables, activos y demanda observable**. Su valor es doble: evita la parálisis de «puedo hacer muchas cosas» y evita el error de lanzarse con una oferta que nadie compra. Un buen inventario no es un currículum con adjetivos: es una **tabla de evidencia**.
 
-La salida de esta parte es **construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **inventario de capacidades monetizables** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un método: inventariar experiencia y resultados, extraer los problemas resueltos, mapear pruebas y red, combinar capacidades según la demanda y probar con conversaciones y ofertas reales. Se apoya en Drucker (conocer las propias fortalezas con evidencia y no con deseos), Wasserman (los dilemas del fundador sobre rol, recursos y relaciones), Gerber (el negocio como sistema), Aulet (definir un cliente específico con evidencia) y Newport (el valor de las habilidades difíciles de reemplazar, desarrolladas con práctica deliberada). Al terminar sabrás construir una tabla de capacidades con puntajes y evidencia, identificar tus mejores combinaciones, diseñar pruebas de oferta y decidir en qué invertir meses de posicionamiento.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `skill`, `domain knowledge`, `proof`, `reputation`, `capability stack` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de independencia.
-3. **Aplicar** la secuencia **1. inventariar experiencia y resultados → 2. extraer problemas resueltos → 3. mapear proof y network → 4. combinar capabilities por demanda → 5. probar con conversaciones y ofertas** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** proof assets, inbound requests, problem frequency sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Inventariar** experiencia, resultados y problemas resueltos con evidencia.
+2. **Mapear** pruebas (casos, referencias, publicaciones) y red de contactos.
+3. **Puntuar** capacidades por prueba, demanda, diferenciación y acceso al canal.
+4. **Combinar** capacidades en ofertas con demanda y proponer pruebas con clientes reales.
+5. **Decidir** en qué capacidades invertir y cuáles dejar como complemento o pasatiempo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define skill y domain knowledge sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con proof assets y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué problemas te piden resolver otras personas sin que lo ofrezcas? |
+| 20–60 min | Experiencia, problemas, pruebas, red, demanda, combinaciones y pruebas de oferta. |
+| 60–105 min | Ejemplo trabajado: puntaje ponderado de seis capacidades y prueba de oferta. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **skill** | capacidad ejecutable desarrollada por práctica | Distingue un hecho compatible y otro que lo refute. |
-| **domain knowledge** | comprensión contextual de una industria o problema | Distingue un hecho compatible y otro que lo refute. |
-| **proof** | evidencia verificable de resultados | Distingue un hecho compatible y otro que lo refute. |
-| **reputation** | expectativa del mercado sobre calidad y fiabilidad | Distingue un hecho compatible y otro que lo refute. |
-| **capability stack** | combinación de habilidades cuyo conjunto es más valioso que cada pieza | Distingue un hecho compatible y otro que lo refute. |
+| **Capacidad monetizable** | Habilidad que resuelve un problema por el que alguien paga. | Resultados, cliente y precio. |
+| **Activo de prueba** | Evidencia de que sabes resolver el problema. | Casos, cifras, referencias, publicaciones. |
+| **Solicitud espontánea** | Petición que llega sin que se haya ofrecido el servicio. | Mensajes y consultas. |
+| **Frecuencia del problema** | Cuántas veces ocurre el problema en el mercado. | Repetición entre clientes. |
+| **Diferenciación** | Razón por la que te elegirían a ti. | Experiencia rara o combinación única. |
+| **Acceso al canal** | Posibilidad de llegar a quien necesita la solución. | Red, comunidades, intermediarios. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 278: 1. inventariar experiencia y resultados → 2. extraer problemas resueltos → 3. mapear proof y network → 4. combinar capabilities por demanda → 5. probar con conversaciones y ofertas](modelo-mental.svg)
+![Tabla de cinco partes del inventario de capacidades: experiencia y resultados, problemas resueltos, pruebas y red, combinaciones por demanda, y conversaciones y ofertas.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar experiencia y resultados → 2. extraer problemas resueltos → 3. mapear proof y network → 4. combinar capabilities por demanda → 5. probar con conversaciones y ofertas
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un inventario de capacidades monetizables traduce experiencia en problemas que otros pagan por resolver. Debe separar skills, domain knowledge, proof, network y assets, y buscar combinaciones raras; listar tecnologías conocidas no basta para construir una oferta.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses en posicionamiento.**
+**Cómo leer el diagrama.** Una tabla de tres columnas. **Parte del inventario**: experiencia y resultados, problemas resueltos, pruebas y red, combinaciones por demanda, y conversaciones y ofertas. **Qué se registra**: qué hiciste y qué lograste con cifras, qué problema repetido sabes resolver, casos, referencias, publicaciones y contactos, qué capacidades juntas valen más, y qué se probó con clientes reales. **Cómo se contrasta**: documentos y testimonios, frecuencia y quién paga, solicitudes que llegan solas, competencia y canal accesible, e interés, propuestas y pagos. La nota advierte que no toda habilidad que se disfruta tiene un mercado accesible; el pie, que una capacidad sin prueba ni demanda es solo una preferencia.
 
 ## 📖 Desarrollo
 
-### 1. skill: mecanismo central
+### 1. Del currículum a la evidencia
 
-**skill** se entiende aquí como **capacidad ejecutable desarrollada por práctica**. Esta es la pieza causal o estructural desde la que se inicia **inventario de capacidades monetizables**: antes de inventariar experiencia y resultados, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un currículum lista cargos y responsabilidades; un inventario de capacidades lista **resultados y problemas resueltos**. Para cada etapa de la trayectoria se pregunta: ¿qué problema enfrentaba la organización?, ¿qué hice yo concretamente?, ¿qué cambió con cifras (ahorros, ingresos, tiempos, errores, satisfacción)?, ¿qué evidencia existe (documentos, métricas, testimonios, publicaciones)?, ¿quién pagaría hoy por ese resultado? Drucker insiste en que las fortalezas se descubren con **retroalimentación**: se anotan las decisiones y expectativas y, meses después, se comparan con los resultados. En el mismo espíritu, el inventario compara lo que uno cree que hace bien con lo que los hechos y las personas confirman. Las capacidades sin evidencia se marcan como **hipótesis**.
 
-La lectura rectora de este bloque es Peter F. Drucker — *The Effective Executive*. Su aporte se usa para examinar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **proof assets**; regístrala con periodo, unidad, población y baseline.
+### 2. Extraer los problemas resueltos
 
-Relaciona el mecanismo con **domain knowledge**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Las capacidades se expresan mejor como **problemas** que como títulos: no «gestión de proyectos», sino «recuperar proyectos de implementación atrasados en empresas medianas»; no «análisis de datos», sino «construir tableros que reducen en 30 % el tiempo de cierre mensual». Se buscan los **patrones**: problemas que se repitieron en varias organizaciones, que otros no sabían resolver, que la persona resolvió con un método reconocible. Un buen enunciado incluye **a quién le ocurre**, **qué le cuesta** y **qué resultado se logra**. Aulet recomienda definir con claridad el cliente al que se sirve y su problema; el inventario aporta la materia prima, y la definición del cliente específico (clase 279) la completa. La frecuencia importa: un problema que ocurre en muchas empresas permite construir una oferta repetible.
 
-### 2. domain knowledge: frontera conceptual y error de clasificación
+### 3. Pruebas, reputación y red
 
-**Definición operacional:** comprensión contextual de una industria o problema. Su valor está en distinguirlo de **skill** y **proof**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una capacidad vale en el mercado cuando se puede **demostrar**. Los activos de prueba incluyen: **casos documentados** con cifras (con permiso y respetando la confidencialidad), **referencias** de clientes o jefes, **publicaciones** o charlas, **certificaciones** pertinentes, **herramientas o métodos propios**, y **reconocimientos**. Además está la **red**: quiénes conocen tu trabajo y podrían recomendarte, qué comunidades frecuentas, qué intermediarios (asociaciones, plataformas, consultoras) podrían derivarte clientes. Wasserman describe cómo las decisiones sobre relaciones y recursos condicionan el camino del fundador; para un independiente, la red es un recurso estratégico. Se registra **cuántas solicitudes espontáneas** llegan al mes (por mensajes, referidos, invitaciones), porque son la señal más barata de demanda real.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **domain knowledge** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **inbound requests** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Puntuar y comparar capacidades
 
-Antes de extraer problemas resueltos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con la lista, se puntúa cada capacidad de 1 a 5 en cuatro criterios: **prueba** (qué tan fuerte es la evidencia), **demanda** (frecuencia del problema y solicitudes), **diferenciación** (por qué te elegirían) y **acceso al canal** (qué tan fácil es llegar a quienes pagan). Se asignan **pesos** según la estrategia (por ejemplo, 30 %, 30 %, 20 %, 20 %) y se calcula un puntaje ponderado. El puntaje no es una verdad: **ordena la conversación** y revela contradicciones (una capacidad que se disfruta mucho pero tiene puntajes bajos en demanda). Se complementa con una pregunta incómoda: ¿cuánto estarían dispuestos a pagar por esto y quiénes? Newport recuerda que el valor de mercado se asocia a habilidades escasas y valiosas; un puntaje alto en diferenciación suele reflejar práctica deliberada acumulada.
 
-### 3. proof: operacionalización y medición
+### 5. Combinar capacidades
 
-**proof** significa **evidencia verificable de resultados**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las ofertas más defendibles suelen surgir de **combinaciones**: una capacidad técnica más conocimiento de un sector, o dos habilidades que rara vez coinciden en una persona (por ejemplo, implementación de software y operaciones logísticas). Combinar aumenta la diferenciación y reduce la competencia directa. Se buscan combinaciones donde una capacidad tenga **prueba** y la otra **demanda** o **canal**. Se escriben tres o cuatro **enunciados de oferta** («Ayudo a [cliente] a [resultado] mediante [método] sin [objeción habitual]») y se priorizan según el puntaje y el interés propio. Gerber advierte que un negocio nace de un técnico que ama su oficio pero no piensa en el sistema; aquí, la combinación debe pensarse también en términos de **repetibilidad**: ¿se puede entregar de manera sistemática?
 
-Noam Wasserman — *The Founder's Dilemmas* orienta este bloque mediante **dilemas de fundador, equity, control, equipo y decisiones tempranas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **problem frequency**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Probar con conversaciones y ofertas
 
-Al llegar a mapear proof y network, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Antes de invertir meses en un sitio web, un logotipo o contenido, se **prueba**: se conversa con diez a quince personas que encajan con el cliente ideal, se pregunta por sus problemas recientes (clase 243), se comparte el enunciado de oferta y se mide la reacción, y se hace una **propuesta** concreta a quienes muestren interés. Se registra: conversaciones realizadas, propuestas enviadas, propuestas aceptadas, ingresos y aprendizajes. Ries recomienda construir lo mínimo para aprender, y aquí lo mínimo es una oferta clara, una conversación y una propuesta. Si nadie compra, se revisa si el problema, el cliente, la oferta o el precio están equivocados. Si compran, se documenta el resultado como nuevo **activo de prueba**.
 
-### 4. reputation: trade-offs y efectos de segundo orden
+### 7. Decidir en qué invertir
 
-**Definición:** expectativa del mercado sobre calidad y fiabilidad. Este concepto obliga a abandonar la idea de que **inventario de capacidades monetizables** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de combinar capabilities por demanda, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael E. Gerber — *The E-Myth Revisited* aporta una lente sobre **diferencia entre técnico, manager y empresario; sistematización del negocio**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **willingness to pay** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **inventario de capacidades monetizables**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **reputation** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. capability stack: gobernanza, límites e integración
-
-**capability stack** se define como **combinación de habilidades cuyo conjunto es más valioso que cada pieza** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Bill Aulet — *Disciplined Entrepreneurship* se utiliza para estudiar **secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio** y contrastar la recomendación final. Al ejecutar probar con conversaciones y ofertas, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses en posicionamiento.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **skill**, **domain knowledge**, **proof**, **reputation** y **capability stack** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **inventario de capacidades monetizables** no consiste en sumar cinco definiciones. Empieza por **skill**, contrasta **domain knowledge** con **proof**, incorpora **reputation** como restricción o mecanismo y usa **capability stack** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar experiencia y resultados → 2. extraer problemas resueltos → 3. mapear proof y network → 4. combinar capabilities por demanda → 5. probar con conversaciones y ofertas**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El inventario termina en decisiones: **capacidades núcleo** (alta prueba, alta demanda: se invierte en posicionamiento y ventas), **complementos** (apoyan a las del núcleo: se mantienen), **apuestas** (potencial alto con poca prueba: se prueban en pequeño con un límite de tiempo y dinero) y **pasatiempos** (se disfrutan pero no se monetizan: se dejan fuera de la oferta). Se fija un horizonte de revisión (trimestral). También se decide qué **no hacer**: rechazar encargos fuera del núcleo evita dispersión. McKeown, en su defensa del esencialismo, sugiere elegir menos cosas y hacerlas mejor; aplicado al inventario, significa decidir qué capacidades definen la oferta. Las capacidades cambian: se actualiza el inventario con cada proyecto.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **inventario de capacidades monetizables** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **inventario de capacidades monetizables** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **inventario de capacidades monetizables** ayuda a desafiar? |
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **inventario de capacidades monetizables** ayuda a desafiar? |
-| Bill Aulet — *Disciplined Entrepreneurship* | secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio | ¿Qué supuesto de **inventario de capacidades monetizables** ayuda a desafiar? |
-
-En **inventario de capacidades monetizables**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **skill**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Drucker | Conocer las fortalezas mediante retroalimentación. | No mide demanda. | ¿Qué confirman los resultados que obtuve? |
+| Wasserman | Dilemas de roles, recursos y relaciones. | Enfoque de fundadores de empresas. | ¿Qué relación condiciona mis opciones? |
+| Aulet | Definir al cliente específico con evidencia. | Proceso extenso para empresas nuevas. | ¿Quién exactamente paga por esto? |
+| Gerber | Pensar el negocio como sistema. | No guía el inventario personal. | ¿Mi combinación se puede entregar de forma repetible? |
+| Newport | Valor de las habilidades escasas con práctica deliberada. | No analiza mercados concretos. | ¿Qué habilidad mía es difícil de reemplazar? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un ingeniero lista 25 lenguajes y herramientas. Al revisar carrera descubre que su valor diferencial es modernizar sistemas críticos sin detener operación y comunicar riesgo a negocio.
+**Situación (hipotética).** Una ingeniera industrial con 14 años de experiencia en logística y proyectos de implementación de sistemas arma su inventario. Todos los valores son **supuestos**.
 
-**Paso 1 — inventariar experiencia y resultados.** La gerencia escribe primero el supuesto asociado a **skill** y evita convertirlo en hecho. Luego busca **proof assets** para contrastarlo en el caso de **inventario de capacidades monetizables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puntajes (1 a 5) y pesos: prueba 30 %, demanda 30 %, diferenciación 20 %, acceso al canal 20 %.**
 
-**Paso 2 — extraer problemas resueltos.** La gerencia escribe primero el supuesto asociado a **domain knowledge** y evita convertirlo en hecho. Luego busca **inbound requests** para contrastarlo en el caso de **inventario de capacidades monetizables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Capacidad | Prueba | Demanda | Diferenciación | Canal | Puntaje ponderado | Solicitudes espontáneas (12 meses) |
+|---|---|---|---|---|---|---|
+| A. Optimización de procesos logísticos | 5 | 4 | 3 | 4 | **4,1** | 7 |
+| B. Análisis de datos y tableros | 4 | 5 | 2 | 5 | **4,1** | 11 |
+| C. Formación de equipos operativos | 4 | 3 | 4 | 3 | **3,5** | 3 |
+| D. Negociación con proveedores | 3 | 3 | 3 | 3 | **3,0** | 2 |
+| E. Gestión de implementaciones de software | 5 | 4 | 4 | 4 | **4,3** | 9 |
+| F. Diseño gráfico | 1 | 2 | 2 | 2 | **1,7** | 4 |
 
-**Paso 3 — mapear proof y network.** La gerencia escribe primero el supuesto asociado a **proof** y evita convertirlo en hecho. Luego busca **problem frequency** para contrastarlo en el caso de **inventario de capacidades monetizables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculos de ejemplo.** E: 0,30 × 5 + 0,30 × 4 + 0,20 × 4 + 0,20 × 4 = 1,5 + 1,2 + 0,8 + 0,8 = **4,3**. B: 0,30 × 4 + 0,30 × 5 + 0,20 × 2 + 0,20 × 5 = 1,2 + 1,5 + 0,4 + 1,0 = **4,1**. F: 0,30 × 1 + 0,30 × 2 + 0,20 × 2 + 0,20 × 2 = 0,3 + 0,6 + 0,4 + 0,4 = **1,7**. Las solicitudes espontáneas suman 36 en doce meses; **E, A y B concentran 27 de 36 (75 %)**.
 
-**Paso 4 — combinar capabilities por demanda.** La gerencia escribe primero el supuesto asociado a **reputation** y evita convertirlo en hecho. Luego busca **willingness to pay** para contrastarlo en el caso de **inventario de capacidades monetizables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Las capacidades E, A y B superan 4,0. B tiene la mayor demanda y acceso al canal, pero baja diferenciación (muchos ofrecen análisis de datos): sola, compite por precio. E y A tienen prueba fuerte y diferenciación media a alta. **La combinación E + A** («implementación de sistemas de gestión logística en empresas medianas») une prueba, demanda y diferenciación. B se mantiene como **complemento** (tableros para mostrar resultados), y F queda como **pasatiempo** (puntaje 1,7, aunque se disfruta).
 
-**Paso 5 — probar con conversaciones y ofertas.** La gerencia escribe primero el supuesto asociado a **capability stack** y evita convertirlo en hecho. Luego busca **network reach** para contrastarlo en el caso de **inventario de capacidades monetizables**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Enunciado de oferta.** «Ayudo a empresas medianas de distribución a implementar su sistema de gestión logística en 90 días, con trazabilidad y tableros, sin detener la operación.»
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **inventario de capacidades monetizables**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Prueba de oferta (cuatro semanas).** Se conversa con 12 personas del perfil (gerentes de operaciones y logística). Resultados: 12 conversaciones, 6 con interés explícito, 4 propuestas enviadas, 2 aceptadas.
+
+| Etapa | Cantidad | Conversión |
+|---|---|---|
+| Conversaciones | 12 | — |
+| Con interés | 6 | 50 % |
+| Propuestas | 4 | 33 % de las conversaciones |
+| Aceptadas | 2 | 50 % de las propuestas; 16,7 % de las conversaciones |
+
+Ingresos de las dos aceptaciones: diagnóstico de 3,2 millones cada uno: **6,4 millones**.
+
+**Interpretación con cautela.** Con 12 conversaciones, la muestra es pequeña y mayormente de su red cercana; las tasas son una orientación, no una predicción. Se repite con personas fuera de la red.
+
+**Decisión.** Posicionar la oferta E + A como núcleo durante el próximo trimestre; mantener B como complemento; no invertir en F; documentar los dos casos como nuevos activos de prueba (con permiso del cliente); repetir la prueba de oferta con 15 conversaciones fuera de su red y revisar el inventario al cierre del trimestre.
+
+**Cuidados.** Los puntajes son subjetivos; se pide a dos personas de confianza que puntúen de forma independiente. Los precios, ingresos y tasas son supuestos.
+
+**Qué muestra.** (1) El puntaje ponderado ordenó las capacidades. (2) Las solicitudes espontáneas confirmaron la demanda. (3) La prueba de oferta convirtió una hipótesis en datos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **skill** | capacidad ejecutable desarrollada por práctica | Cuando proof assets es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **domain knowledge** | comprensión contextual de una industria o problema | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Inventario frente a currículum.** El currículum describe cargos para un empleador; el inventario describe problemas resueltos y pruebas para un cliente. Sirven para propósitos distintos.
 
-**Frontera de aplicación:** No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses en posicionamiento.
+**Límites.** No toda habilidad que se disfruta tiene un mercado accesible; hay que contrastar con demanda, competencia y canal antes de invertir meses. Los puntajes son subjetivos y las pruebas de oferta con la red cercana sobreestiman la demanda. La confidencialidad de los casos de clientes y empleadores anteriores debe respetarse. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre inventario de capacidades monetizables |
+| Nivel | Cómo se relaciona con el inventario de capacidades |
 |---|---|
-| **Profesional** | usa **inventario de capacidades monetizables** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **skill** y **domain knowledge** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta proof assets con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si inventario de capacidades monetizables cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de inventario de capacidades monetizables reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **inventario de capacidades monetizables** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Documenta resultados y reputación desde su trabajo. |
+| **Jefe / Team Lead** | Reconoce las capacidades de su equipo y las suyas. |
+| **Gerente** | Mapea capacidades de su unidad y brechas. |
+| **CEO / Director** | Distingue capacidades de la empresa de las de la persona. |
+| **Founder / Owner** | Combina capacidades en ofertas con demanda y las prueba. |
 
 ## 🏢 Caso ejecutivo
 
-Un ingeniero lista 25 lenguajes y herramientas. Al revisar carrera descubre que su valor diferencial es modernizar sistemas críticos sin detener operación y comunicar riesgo a negocio.
+Un exdirector comercial de 52 años deja una empresa tras una reestructuración con una indemnización que le da 10 meses de pista. Tiene 25 años de experiencia: gestionó equipos de ventas de hasta 40 personas, negoció contratos con grandes clientes, lanzó dos líneas de producto, dictó clases de ventas en una universidad durante cuatro años, publicó artículos en una revista del sector y es conocido en su industria. Recibió en el último año 14 solicitudes espontáneas: 6 para «asesorar a un equipo de ventas», 4 para dar charlas, 3 para ser director de una pyme y 1 para «hacer una página web» (hobby). Está tentado de abrir una escuela de ventas en línea, un servicio de reclutamiento y una consultoría, todo a la vez. Algunos de sus casos están cubiertos por cláusulas de confidencialidad con su exempleador. Un conocido le ofrece un contrato de 12 meses como gerente interino.
 
-Entrega un **decision brief de inventario de capacidades monetizables** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de mejora operativa del inventario** que contenga: (a) la tabla de capacidades con puntajes ponderados y evidencia; (b) el análisis de las solicitudes espontáneas y la demanda; (c) las combinaciones propuestas con enunciados de oferta; (d) la prueba de oferta con conversaciones, métricas y cautelas sobre la muestra; (e) la decisión de núcleo, complementos, apuestas y pasatiempos, incluyendo la oferta de gerente interino; (f) el tratamiento de la confidencialidad y los límites del análisis.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **inventario de capacidades monetizables** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar experiencia y resultados → 2. extraer problemas resueltos → 3. mapear proof y network → 4. combinar capabilities por demanda → 5. probar con conversaciones y ofertas** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta proof assets, inbound requests; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista diez resultados de tu trayectoria con cifras y evidencia.
+2. Redacta cinco problemas que sabes resolver con el formato «A quién, qué le cuesta, qué resultado».
+3. Puntúa tus capacidades con cuatro criterios y pesos y pídele a otra persona que haga lo mismo.
+4. Escribe tres enunciados de oferta y elige uno para probar.
+5. Diseña una prueba de cuatro semanas con diez conversaciones fuera de tu red cercana.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar skill y domain knowledge como sinónimos | Se pierde la distinción entre “capacidad ejecutable desarrollada por práctica” y “comprensión contextual de una industria o problema” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “probar con conversaciones y ofertas” | Se saltó “inventariar experiencia y resultados” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar experiencia y resultados → 2. extraer problemas resueltos → 3. mapear proof y network → 4. combinar capabilities por demanda → 5. probar con conversaciones y ofertas y marca el primer supuesto no demostrado. |
-| Optimizar solo proof assets | La métrica local sustituyó al resultado del sistema | Contrástala con inbound requests y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre inventario de capacidades monetizables | No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses en posicionamiento. |
-| No fijar revisión | Una decisión sobre inventario de capacidades monetizables se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Inventariar títulos | Se copia el currículum | Registrar problemas resueltos y resultados. |
+| Partir de lo que gusta | Se confunde preferencia con mercado | Contrastar con demanda y pagos. |
+| Puntuar sin evidencia | Autopercepción | Pedir una segunda opinión y revisar hechos. |
+| Ofrecer todo | Miedo a perder oportunidades | Núcleo claro y rechazo de lo demás. |
+| Probar solo con la red cercana | Es más fácil | Conversaciones fuera de la red. |
+| Revelar información confidencial | Se quiere mostrar resultados | Respetar acuerdos y anonimizar con permiso. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **skill** y **domain knowledge** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **proof** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar experiencia y resultados → extraer problemas resueltos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **proof assets** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **inventario de capacidades monetizables**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses en posicionamiento.**?
+1. ¿Qué diferencia hay entre un currículum y un inventario de capacidades?
+2. ¿Cómo se redacta un problema resuelto?
+3. ¿Qué activos de prueba existen?
+4. ¿Qué criterios se usan para puntuar capacidades?
+5. ¿Por qué se combinan capacidades?
+6. ¿Cómo se prueba una oferta?
+7. ¿Qué límite tiene el puntaje?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El currículum lista cargos; el inventario lista problemas resueltos, resultados y pruebas.
+2. Indicando a quién le ocurre, qué le cuesta y qué resultado se logra.
+3. Casos documentados, referencias, publicaciones, certificaciones, métodos y reconocimientos.
+4. Prueba, demanda, diferenciación y acceso al canal, con pesos.
+5. Para aumentar la diferenciación y reducir la competencia directa.
+6. Con conversaciones con el cliente ideal y propuestas concretas, midiendo conversión y aprendizaje.
+7. Es subjetivo y ordena la conversación; se contrasta con evidencia y con otras personas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/278-inventario-de-capacidades-monetizables/`:
 
-- `operating-improvement-brief.md` con el problema específico de **inventario de capacidades monetizables**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **inventario de capacidades monetizables** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **skill**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un ingeniero lista 25 lenguajes y herramientas. Al revisar carrera descubre que su valor diferencial es modernizar sistemas críticos sin detener operación y comunicar riesgo a negocio.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating improvement brief](../../../../templates/operating-improvement-brief.md)) con el informe del caso ejecutivo;
+- `decision-journal.md` con el inventario, los puntajes y las pruebas de oferta.
 
 ## 📗 Fuentes y verificación
 
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** perspectiva de Atención aplicada al problema de la clase. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **inventario de capacidades monetizables** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **inventario de capacidades monetizables** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **inventario de capacidades monetizables** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **inventario de capacidades monetizables** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** conocer las fortalezas mediante retroalimentación. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestión por resultados y responsabilidad. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de roles, recursos y relaciones del fundador. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** pensar el negocio como un sistema repetible. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** definir al cliente específico con evidencia. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
+- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** valor de las habilidades escasas desarrolladas con práctica deliberada. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
+- Greg McKeown — *Essentialism* (Virgin Books, 2014). **Uso en esta clase:** elegir menos cosas y hacerlas mejor. Lectura selectiva sobre **inventario de capacidades monetizables**. **Localizador:** [ISBN-13 9780753555163](https://openlibrary.org/isbn/9780753555163).
 
-> **Regla de fuentes para Inventario de capacidades monetizables:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **inventario de capacidades monetizables** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Inventario de capacidades monetizables:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los acuerdos de confidencialidad y las normas de propiedad intelectual. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

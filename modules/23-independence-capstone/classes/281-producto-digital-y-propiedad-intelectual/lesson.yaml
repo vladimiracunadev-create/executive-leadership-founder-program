@@ -5,27 +5,27 @@ duration_minutes: 150
 level: "Etapa 6 — Independencia"
 outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir digital product de IP mediante evidencia observable."
-  - "Aplicar la secuencia: elegir problema repetible → crear minimum paid asset → definir IP y license → probar distribution y price → medir support y maintenance e iterate."
-  - "Interpretar paid conversion, refund rate, support time sin atribuir causalidad automática."
-  - "Resolver el caso de producto digital y propiedad intelectual con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Elegir un problema repetible con demanda observable."
+  - "Diseñar un activo mínimo de pago y probarlo con compradores reales."
+  - "Definir titularidad y licencia, y revisar los derechos de terceros que contiene."
+  - "Calcular conversión, devoluciones, comisiones y soporte, y su punto de equilibrio."
+  - "Modelar el costo de mantención antes de ampliar el catálogo."
 deliverable: "product-evidence-brief.md"
 references:
-  - "Peter F. Drucker — *The Effective Executive*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Michael E. Gerber — *The E-Myth Revisited*"
   - "Eric Ries — *The Lean Startup*"
   - "Greg McKeown — *Essentialism*"
   - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
 limits:
-  - "Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo."
+  - "Digital no significa pasivo: el producto requiere marketing, soporte, actualización y defensa de la reputación."
 evidence_signals:
-  - "paid conversion"
-  - "refund rate"
-  - "support time"
-  - "distribution CAC"
-  - "maintenance hours"
+  - "conversión a pago"
+  - "tasa de devolución"
+  - "tiempo de soporte"
+  - "titularidad y licencias revisadas"

@@ -10,217 +10,222 @@
 
 ## 🎯 Propósito
 
-El capstone final integra liderazgo, gestión, estrategia, finanzas, mercado, riesgo, Chile, founder y owner en una defensa ejecutiva. Debes demostrar que puedes dirigir una empresa y también diseñar tu independencia: diagnóstico, choices, economics, people system, governance, compliance y plan de acción con evidencia.
+El programa recorre doscientas ochenta y ocho clases: liderazgo personal y de equipos, estrategia, finanzas, riesgo y gobierno, tecnología y datos, comunicación, creación de empresas, formalización en Chile, escalamiento y propiedad, e independencia profesional. Esta clase final no agrega un tema: pide **integrar** lo aprendido en una **defensa** ante un comité imaginario o real, con tres sombreros a la vez. Como **CEO**, debes mostrar que sabes dirigir una organización: estrategia, economía, personas, operación y riesgo. Como **founder**, que sabes crear y validar: problema, cliente, modelo y evidencia. Como **owner**, que sabes decidir sobre capital, control, gobierno y sucesión, y que puedes reducir la dependencia de tu presencia. La defensa no es una exposición de logros: es una **demostración de criterio** ante preguntas difíciles, con evidencia, cifras, límites y un plan de noventa días.
 
-La salida de esta parte es **construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone final: defensa como CEO, founder y owner** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone una estructura de defensa en seis partes: contexto y tesis personal, estrategia y economía, personas, operación y riesgo, transición de fundador a propietario, plan de 90 días con métricas, y preguntas con límites. Integra a Drucker (eficacia y responsabilidad), Wasserman (los dilemas de riqueza y control del fundador), Gerber (la empresa como sistema), Aulet (cliente, propuesta y economía con evidencia), Newport (profundidad y foco en el trabajo propio), y Koller y colaboradores (valor y riesgo de los flujos). Al terminar sabrás preparar un dossier y una presentación, estimar el valor y la pista con supuestos explícitos, medir la cobertura de liderazgo, responder preguntas incómodas y declarar con honestidad lo que no sabes y cuándo escalarías a un experto. **El capstone no certifica competencia legal, contable ni profesional regulada.**
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `executive thesis`, `operating system`, `founder plan`, `owner plan`, `independence plan` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de independencia.
-3. **Aplicar** la secuencia **1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** enterprise value drivers, cash-runway, leadership coverage sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estructurar** una defensa integrada con tesis, evidencia, riesgos, transición y plan.
+2. **Demostrar** economía, caja y valor con cifras, supuestos y sensibilidad.
+3. **Evidenciar** cobertura de liderazgo, controles y gobierno proporcional.
+4. **Defender** la transición de fundador a propietario con una prueba o plan verificable.
+5. **Responder** con honestidad sobre límites, incertidumbres y momentos de escalar a expertos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define executive thesis y operating system sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con enterprise value drivers y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuál es tu tesis en tres frases y qué evidencia la sostiene? |
+| 20–60 min | Contexto, estrategia y economía, personas y riesgo, transición, plan y preguntas. |
+| 60–105 min | Ejemplo trabajado: dossier de una defensa con valor, pista, cobertura y rúbrica. |
+| 105–150 min | Caso ejecutivo y práctica de defensa. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **executive thesis** | argumento integrado de cómo crear dirigir y proteger valor | Distingue un hecho compatible y otro que lo refute. |
-| **operating system** | conjunto de cadencias metrics y decision rights que gobiernan ejecución | Distingue un hecho compatible y otro que lo refute. |
-| **founder plan** | hipótesis de creación y validación de negocio | Distingue un hecho compatible y otro que lo refute. |
-| **owner plan** | diseño para reducir dependencia y asignar capital | Distingue un hecho compatible y otro que lo refute. |
-| **independence plan** | portafolio de capacidades ingresos runway y opciones profesionales | Distingue un hecho compatible y otro que lo refute. |
+| **Defensa** | Presentación sometida a preguntas para demostrar criterio. | Tesis, evidencia y respuestas. |
+| **Tesis personal** | Afirmación central sobre qué empresa eres y qué decides. | Tres frases verificables. |
+| **Impulsores de valor** | Variables que más mueven el valor de la empresa. | Crecimiento, margen, retorno y riesgo. |
+| **Cobertura de liderazgo** | Proporción de roles críticos con responsable y sucesor. | Roles cubiertos ÷ roles críticos. |
+| **Pista de caja** | Meses de operación con la caja actual. | Caja ÷ consumo mensual neto. |
+| **Rúbrica** | Criterios y pesos con que se evalúa la defensa. | Puntajes por sección. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 288: 1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team](modelo-mental.svg)
+![Cadena de seis partes de la defensa final: contexto y tesis, estrategia y economía, personas operación y riesgo, del fundador al propietario, plan de noventa días, y preguntas y límites.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El capstone final integra liderazgo, gestión, estrategia, finanzas, mercado, riesgo, Chile, founder y owner en una defensa ejecutiva. Debes demostrar que puedes dirigir una empresa y también diseñar tu independencia: diagnóstico, choices, economics, people system, governance, compliance y plan de acción con evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia.**
+**Cómo leer el diagrama.** Una cadena de seis partes. **Contexto y tesis**: quién eres, qué empresa y por qué. **Estrategia y economía**: cómo ganas dinero y con qué evidencia. **Personas, operación y riesgo**: quién hace qué y qué puede fallar. **Del fundador al propietario**: qué dejas de hacer y qué decides. **Plan de 90 días**: metas, métricas y puntos de control. **Preguntas y límites**: qué no sabes y cuándo escalas a expertos. La flecha de retorno indica que las preguntas ajustan el plan. La nota afirma que el capstone no certifica competencia legal, contable ni profesional regulada y que evalúa la capacidad de integrar decisiones y de saber cuándo escalar a especialistas; el pie, que se defiende con evidencia y con los límites del propio análisis.
 
 ## 📖 Desarrollo
 
-### 1. executive thesis: mecanismo central
+### 1. Qué se evalúa en una defensa
 
-**executive thesis** se entiende aquí como **argumento integrado de cómo crear dirigir y proteger valor**. Esta es la pieza causal o estructural desde la que se inicia **capstone final: defensa como CEO, founder y owner**: antes de presentar contexto y personal thesis, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una defensa no mide memoria, sino **criterio**: ¿puedes explicar por qué tomas las decisiones que tomas, con qué evidencia, qué alternativas descartaste, qué riesgos aceptas y qué harías si te equivocaras? Un comité atento busca cuatro cosas. **Coherencia**: que la estrategia, la economía, las personas, el riesgo y el plan cuenten una misma historia. **Evidencia**: que las afirmaciones se apoyen en datos, casos y pruebas, no en adjetivos. **Honestidad**: que se reconozcan incertidumbres, errores y límites. **Capacidad de aprender**: que haya un mecanismo para corregir. Drucker sostiene que el ejecutivo eficaz toma decisiones tras definir bien el problema, considerar alternativas y asegurar que se ejecuten; la defensa es la prueba de que sigues ese proceso. Por eso, se evalúa también cómo respondes cuando la respuesta es «no lo sé todavía».
 
-La lectura rectora de este bloque es Peter F. Drucker — *The Effective Executive*. Su aporte se usa para examinar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **enterprise value drivers**; regístrala con periodo, unidad, población y baseline.
+### 2. Contexto y tesis personal
 
-Relaciona el mecanismo con **operating system**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La defensa comienza con una **tesis** de tres frases: qué empresa o práctica profesional diriges, qué problema resuelve para quién y qué decisión estás tomando ahora (invertir, escalar, transferir, vender, consolidar, cambiar de rumbo). Se complementa con un **contexto** breve: historia, números clave, etapa (creación, escalamiento, independencia) y **qué cambió** en los últimos doce meses. Wasserman muestra que las decisiones iniciales del fundador sobre quién entra, cuánto controla y cuánto riesgo asume condicionan toda la trayectoria; la tesis debe explicitar **tu posición** en esos dilemas de riqueza y control. Se evita contar la historia completa: se selecciona lo que hace comprensible la decisión. Una tesis clara permite que el comité evalúe todo lo demás.
 
-### 2. operating system: frontera conceptual y error de clasificación
+### 3. Estrategia y economía
 
-**Definición operacional:** conjunto de cadencias metrics y decision rights que gobiernan ejecución. Su valor está en distinguirlo de **executive thesis** y **founder plan**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La segunda parte demuestra que el negocio **gana dinero de forma repetible**: cliente y problema (clases 241 a 252), propuesta y modelo de negocio, economía por cliente, precio, canal, costo de adquisición, margen de contribución, concentración de clientes y de ingresos (clases 268 y 283). Aulet exige definir al cliente específico, la propuesta de valor y la economía con evidencia; Koller y colaboradores, que el valor depende de **crecimiento, retorno sobre el capital y riesgo**. Se presentan pocas cifras bien explicadas, con **supuestos** y **sensibilidad**: qué pasa si el margen cae, la cancelación sube o se pierde un cliente. También se muestra la **evidencia** (conversaciones, pagos, retención, casos), no solo proyecciones. Si hay un punto débil, se declara y se indica cómo se reducirá.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **operating system** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **cash-runway** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Personas, operación y riesgo
 
-Antes de defender business strategy y economics, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La tercera parte muestra que la empresa **funciona**: organización y roles, líderes y su cobertura, sistemas y procesos críticos (clase 266), controles financieros (269), gobierno proporcional (270), cumplimiento y obligaciones (parte 21), riesgo, ética y reputación (286), caja y pista (284). Se presenta la **cobertura de liderazgo** (cuántos roles críticos tienen responsable y sucesor), los **indicadores clave** del tablero (clase 275), las **excepciones** y las **fallas** detectadas y corregidas. Gerber enseña que la empresa debe ser un sistema que funcione con independencia de quien la creó; el comité querrá ver evidencia, no declaraciones: cierres, actas, simulaciones, contratos, calendarios, registros. En este punto se declaran también los **riesgos principales** y los planes de mitigación, incluidos los que requieren expertos.
 
-### 3. founder plan: operacionalización y medición
+### 5. Del fundador al propietario
 
-**founder plan** significa **hipótesis de creación y validación de negocio**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La cuarta parte es la más personal: **¿qué dejas de hacer, qué decides y cómo sabes que la empresa funciona sin ti?** Se presenta el mapa de dependencias (clase 265), las decisiones delegadas con límites (274), los resultados de una simulación de ausencia (276) o el plan para realizarla, la estructura de propiedad y gobierno (270 a 272), las opciones de capital (adquirir, reinvertir, repartir, vender) y la **política de capital** del propietario. También se presenta tu **plan personal**: qué rol ocuparás, cómo medirás tu desempeño como propietario, cómo cuidarás tu pista y tu independencia (clases 277 y 284). Newport recuerda el valor de proteger el trabajo profundo: se explica a qué dedicarás tu atención y qué rechazarás para mantener foco.
 
-Noam Wasserman — *The Founder's Dilemmas* orienta este bloque mediante **dilemas de fundador, equity, control, equipo y decisiones tempranas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **leadership coverage**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Plan de noventa días y métricas
 
-Al llegar a demostrar people operating y risk governance, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La quinta parte convierte la defensa en **acción**: tres a cinco resultados a doce meses, dos o tres apuestas de noventa días con hipótesis, criterios de éxito y reglas de detención (clase 287), actividades semanales, métricas de actividad y de resultado, y una cadencia de revisión mensual. Se ajustan las estimaciones por la falacia de la planificación y se cuida la capacidad real. Se incluye un **plan de contingencia**: qué se hará si ocurre el escenario adverso (caída de ventas, pérdida de un cliente, ausencia del fundador) con disparadores y fechas. Un plan sin métricas ni puntos de control es una intención. El comité evalúa si las apuestas son **pequeñas, ejecutables y aprendibles**, y si protegen la caja.
 
-### 4. owner plan: trade-offs y efectos de segundo orden
+### 7. Preguntas, límites y escalamiento
 
-**Definición:** diseño para reducir dependencia y asignar capital. Este concepto obliga a abandonar la idea de que **capstone final: defensa como CEO, founder y owner** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de defender founder-owner transition, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael E. Gerber — *The E-Myth Revisited* aporta una lente sobre **diferencia entre técnico, manager y empresario; sistematización del negocio**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **customer evidence** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone final: defensa como CEO, founder y owner**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **owner plan** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. independence plan: gobernanza, límites e integración
-
-**independence plan** se define como **portafolio de capacidades ingresos runway y opciones profesionales** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Bill Aulet — *Disciplined Entrepreneurship* se utiliza para estudiar **secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio** y contrastar la recomendación final. Al ejecutar cerrar con 90-day plan metrics y red-team, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **executive thesis**, **operating system**, **founder plan**, **owner plan** y **independence plan** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone final: defensa como CEO, founder y owner** no consiste en sumar cinco definiciones. Empieza por **executive thesis**, contrasta **operating system** con **founder plan**, incorpora **owner plan** como restricción o mecanismo y usa **independence plan** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La última parte —y probablemente la más reveladora— es el **diálogo**. Se preparan respuestas a preguntas difíciles: ¿qué evidencia tienes de que los clientes pagarían más?, ¿qué pasa si tu mayor cliente se va?, ¿qué haces si un líder renuncia?, ¿cuál es el error más caro que cometiste y qué cambiaste?, ¿qué decisión estás evitando?, ¿cuánto vale tu empresa y por qué?, ¿qué te haría vender o cerrar?, ¿en qué materias necesitas un experto? La regla: **responder con evidencia, reconocer límites y decir cuándo y a quién escalarías** (abogado, contador, asesor tributario, especialista laboral, de seguridad o financiero), con claridad de que este programa no sustituye esa asesoría. Una buena defensa muestra tanto lo que sabes como lo que no sabes y cómo lo resolverías. La clase 286 enseñó que la honestidad es parte de la reputación.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **capstone final: defensa como CEO, founder y owner** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **capstone final: defensa como CEO, founder y owner** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **capstone final: defensa como CEO, founder y owner** ayuda a desafiar? |
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **capstone final: defensa como CEO, founder y owner** ayuda a desafiar? |
-| Bill Aulet — *Disciplined Entrepreneurship* | secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio | ¿Qué supuesto de **capstone final: defensa como CEO, founder y owner** ayuda a desafiar? |
-
-En **capstone final: defensa como CEO, founder y owner**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **executive thesis**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta a la defensa | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Drucker | Eficacia, decisiones bien definidas y responsabilidad. | No fija cifras de tu caso. | ¿Definí bien el problema antes de decidir? |
+| Wasserman | Dilemas de riqueza y control del fundador. | No evalúa tu empresa concreta. | ¿Qué cedí y qué conservé en control y riqueza? |
+| Gerber | Empresa como sistema que no depende de su creador. | No trata valoración. | ¿Qué evidencia tengo de que funciona sin mí? |
+| Aulet | Cliente, propuesta y economía con evidencia. | Proceso extenso. | ¿Qué datos reales respaldan mi economía? |
+| Koller y coautores | Valor por flujos, retorno sobre el capital y riesgo. | No define el plan operativo. | ¿Qué impulsores mueven más el valor? |
+| Newport | Foco y profundidad en el trabajo propio. | No trata gobierno. | ¿A qué dedico mi atención como propietario? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un panel actúa como directorio e inversionistas. Debes decidir si asumir gerencia en una empresa, lanzar un negocio propio o combinar ambas rutas, mostrando costos de oportunidad, runway y milestones.
+**Situación (hipotética).** La fundadora de una empresa de servicios técnicos para clínicas prepara su defensa. El dossier contiene los siguientes datos, todos **supuestos**; el valor, los impuestos y las obligaciones se verifican con asesores.
 
-**Paso 1 — presentar contexto y personal thesis.** La gerencia escribe primero el supuesto asociado a **executive thesis** y evita convertirlo en hecho. Luego busca **enterprise value drivers** para contrastarlo en el caso de **capstone final: defensa como CEO, founder y owner**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos económicos.**
 
-**Paso 2 — defender business strategy y economics.** La gerencia escribe primero el supuesto asociado a **operating system** y evita convertirlo en hecho. Luego busca **cash-runway** para contrastarlo en el caso de **capstone final: defensa como CEO, founder y owner**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Valor |
+|---|---|
+| Ingresos anuales | 960 millones (80 por mes) |
+| Margen de contribución | 45 % → 36 millones por mes |
+| Costos fijos mensuales | 24 millones |
+| EBITDA mensual / anual | 12 millones / 144 millones (15 %) |
+| Flujo de caja libre anual | 84 millones |
+| Caja | 96 millones |
+| Deuda neta | 120 millones |
+| Cliente mayor | 31 % de los ingresos |
 
-**Paso 3 — demostrar people operating y risk governance.** La gerencia escribe primero el supuesto asociado a **founder plan** y evita convertirlo en hecho. Luego busca **leadership coverage** para contrastarlo en el caso de **capstone final: defensa como CEO, founder y owner**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor de referencia (con supuestos explícitos).** Múltiplo de 4,5 veces el EBITDA normalizado: 4,5 × 144 = **648 millones** de valor empresa; menos deuda neta de 120: **528 millones** para los propietarios. **Sensibilidad por concentración:** con un cliente mayor sobre 30 %, los compradores suelen descontar; con un múltiplo de 4,0: 4,0 × 144 = 576; menos 120 = **456 millones** (−72 millones, −13,6 %). **Por dependencia del fundador:** con un múltiplo de 3,5: 504 − 120 = **384 millones**. El rango de 384 a 528 millones muestra cuánto valen **la diversificación y la independencia del fundador**: hasta 144 millones (528 − 384), es decir 27 % del valor.
 
-**Paso 4 — defender founder-owner transition.** La gerencia escribe primero el supuesto asociado a **owner plan** y evita convertirlo en hecho. Luego busca **customer evidence** para contrastarlo en el caso de **capstone final: defensa como CEO, founder y owner**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pista de caja.**
 
-**Paso 5 — cerrar con 90-day plan metrics y red-team.** La gerencia escribe primero el supuesto asociado a **independence plan** y evita convertirlo en hecho. Luego busca **risk-compliance readiness** para contrastarlo en el caso de **capstone final: defensa como CEO, founder y owner**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Escenario base: EBITDA positivo; no hay consumo de caja.
+- Adverso (ingresos −30 %): ingresos 56 por mes; contribución 25,2; costos fijos 24; **EBITDA +1,2 por mes**: sigue positivo, pero el margen de seguridad es mínimo.
+- Estrés (ingresos −50 %): ingresos 40; contribución 18; costos fijos 24; **consumo de caja de 6 por mes**; **pista = 96 ÷ 6 = 16 meses**.
+- Pérdida del cliente mayor (31 % de ingresos = 24,8 por mes; contribución perdida 11,2 por mes): EBITDA = 12 − 11,2 = **0,8 por mes**; la empresa sobrevive, pero sin margen para el servicio de la deuda y la inversión: se activa el plan de contingencia (reducir costos fijos y acelerar la diversificación).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone final: defensa como CEO, founder y owner**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Cobertura de liderazgo.** Roles críticos: 8 (gerencia comercial, operaciones, finanzas, personas, jefe técnico, servicio al cliente, compras, calidad). Con responsable y sucesor entrenado: 5. **Cobertura: 5 ÷ 8 = 62,5 %**. Meta a 12 meses: 87,5 % (7 de 8). Resultados de la simulación de ausencia de tres semanas: contactos 14, 8 y 4; entregas a tiempo 93 %; decisiones pendientes 11 (meta ≤ 8: no cumplida): se repetirá en 90 días.
+
+**Plan de 90 días.** Apuestas: (1) retainers de mantención para 12 clientes actuales (hipótesis: al menos 3 aceptan; regla de detención: si a la semana 6 hay menos de 3 conversaciones con interés, se cambia la oferta); (2) diversificar hacia laboratorios (hipótesis: 2 pilotos pagados en 90 días); (3) segunda simulación de ausencia con remediaciones. Métricas: conversaciones, oportunidades, propuestas, ventas, concentración del mayor cliente (meta de 31 % a 26 %), cobertura de liderazgo, pista.
+
+**Rúbrica de la defensa (pesos y puntajes de una práctica con un comité, escala de 1 a 5).**
+
+| Sección | Peso | Puntaje |
+|---|---|---|
+| Contexto y tesis | 10 % | 4 |
+| Estrategia y economía | 25 % | 4 |
+| Personas, operación y riesgo | 25 % | 3 |
+| Del fundador al propietario | 20 % | 3 |
+| Plan de 90 días | 15 % | 4 |
+| Preguntas y límites | 5 % | 5 |
+
+**Puntaje ponderado.** 0,10 × 4 + 0,25 × 4 + 0,25 × 3 + 0,20 × 3 + 0,15 × 4 + 0,05 × 5 = 0,40 + 1,00 + 0,75 + 0,60 + 0,60 + 0,25 = **3,60**. Criterios del comité: puntaje mínimo de **3,5** y **ninguna sección crítica por debajo de 3**. Resultado: **cumple**, con dos secciones en el mínimo (personas y operación, transición) que requieren fortalecerse. **Un puntaje no certifica competencia**: orienta la preparación.
+
+**Preguntas incómodas y respuestas con límites.** «¿Cuánto vale su empresa?» Respuesta: «Entre 384 y 528 millones según supuestos de concentración y dependencia; una valoración formal requiere un asesor y debida diligencia». «¿Qué haría si su mayor cliente se va?» Respuesta: «El EBITDA baja a 0,8 millones mensuales; activaría el plan de reducción de costos fijos y de diversificación; tengo 96 millones de caja». «¿Qué desconoce?» Respuesta: «El tratamiento tributario de una eventual reorganización y las implicancias laborales de ampliar el equipo; lo consultaría con un abogado y un contador antes de decidir».
+
+**Decisión.** Presentar la defensa con el dossier, reforzar las dos secciones débiles con evidencia (actas de gobierno, resultados de la simulación y plan de sucesión), preparar respuestas a diez preguntas difíciles, practicar con dos personas ajenas y registrar los aprendizajes.
+
+**Cuidados.** Las cifras son supuestos; el valor, los impuestos, las obligaciones legales y los efectos contractuales se verifican con asesores y fuentes oficiales vigentes.
+
+**Qué muestra.** (1) La defensa integra economía, valor, caja y liderazgo con cifras. (2) La concentración y la dependencia del fundador tienen un efecto cuantificable sobre el valor. (3) La rúbrica y las respuestas con límites orientan la preparación sin certificar competencia.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **executive thesis** | argumento integrado de cómo crear dirigir y proteger valor | Cuando enterprise value drivers es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **operating system** | conjunto de cadencias metrics y decision rights que gobiernan ejecución | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Defensa frente a presentación de logros.** La defensa prueba criterio ante preguntas difíciles, con evidencia y límites; una presentación de logros solo exhibe resultados. El comité evalúa más lo primero.
 
-**Frontera de aplicación:** El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia.
+**Límites.** El capstone no certifica competencia legal, contable ni profesional regulada: evalúa la capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia. Las valoraciones por múltiplos son referencias, no tasaciones. Los puntajes de una práctica son orientaciones. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone final: defensa como CEO, founder y owner |
+| Nivel | Cómo se relaciona con la defensa final |
 |---|---|
-| **Profesional** | usa **capstone final: defensa como CEO, founder y owner** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **executive thesis** y **operating system** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta enterprise value drivers con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone final: defensa como CEO, founder y owner cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone final: defensa como CEO, founder y owner reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone final: defensa como CEO, founder y owner** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Demuestra criterio técnico y resultados propios. |
+| **Jefe / Team Lead** | Demuestra criterio al conducir personas y procesos. |
+| **Gerente** | Demuestra resultados, controles y cobertura de su área. |
+| **CEO / Director** | Demuestra estrategia, economía, gobierno y gestión de riesgos. |
+| **Founder / Owner** | Demuestra todo lo anterior y la transición hacia una empresa menos dependiente de él. |
 
 ## 🏢 Caso ejecutivo
 
-Un panel actúa como directorio e inversionistas. Debes decidir si asumir gerencia en una empresa, lanzar un negocio propio o combinar ambas rutas, mostrando costos de oportunidad, runway y milestones.
+Un fundador de 47 años dirige una empresa de ingeniería ambiental con 38 personas, ventas anuales de 2.280 millones de pesos, margen de contribución de 40 %, costos fijos mensuales de 55 millones, caja de 140 millones y deuda neta de 210 millones. Su cliente mayor representa el 36 % de las ventas y dos clientes más, el 22 % en conjunto. Tiene 7 roles críticos; 4 tienen responsable y sucesor. En una simulación de ausencia de dos semanas hubo 21 contactos (11 evitables) y cuatro decisiones pendientes de monto alto. Recibió una oferta de compra por 5 veces el EBITDA del último año (que fue de 197 millones) sujeta a que permanezca dos años. Quiere defender ante su consejo asesor (tres personas independientes) una de tres tesis: vender, crecer comprando a un competidor o consolidar y reducir su dependencia. Sabe poco de las implicancias tributarias y laborales de cada camino. Dispone de 30 minutos de presentación y 30 de preguntas.
 
-Entrega un **decision brief de capstone final: defensa como CEO, founder y owner** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo ejecutivo de defensa** que contenga: (a) la tesis elegida y por qué descartó las otras con evidencia; (b) el cálculo del EBITDA mensual, el valor de referencia con sensibilidad por concentración y dependencia, y la pista de caja en un escenario de estrés de −40 %; (c) la cobertura de liderazgo y el análisis de la simulación; (d) la evaluación de la oferta de compra (valor, permanencia de dos años, riesgos) con alternativas; (e) el plan de 90 días con métricas y reglas de detención; (f) la lista de preguntas difíciles con respuestas, y los temas en los que escalaría a expertos con la advertencia de que este programa no los sustituye.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone final: defensa como CEO, founder y owner** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta enterprise value drivers, cash-runway; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tu tesis en tres frases y la evidencia que la sostiene.
+2. Prepara el dossier: cifras clave, supuestos, sensibilidad, valor de referencia y pista de caja.
+3. Calcula tu cobertura de liderazgo y define la meta a doce meses.
+4. Redacta tu plan de 90 días con apuestas, métricas y reglas de detención.
+5. Practica la defensa con dos personas ajenas y registra las preguntas que no supiste responder.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar executive thesis y operating system como sinónimos | Se pierde la distinción entre “argumento integrado de cómo crear dirigir y proteger valor” y “conjunto de cadencias metrics y decision rights que gobiernan ejecución” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar con 90-day plan metrics y red-team” | Se saltó “presentar contexto y personal thesis” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. presentar contexto y personal thesis → 2. defender business strategy y economics → 3. demostrar people operating y risk governance → 4. defender founder-owner transition → 5. cerrar con 90-day plan metrics y red-team y marca el primer supuesto no demostrado. |
-| Optimizar solo enterprise value drivers | La métrica local sustituyó al resultado del sistema | Contrástala con cash-runway y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone final: defensa como CEO, founder y owner | El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia. |
-| No fijar revisión | Una decisión sobre capstone final: defensa como CEO, founder y owner se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Presentar logros sin criterio | Se busca impresionar | Mostrar decisiones, alternativas y evidencia. |
+| Cifras sin supuestos ni sensibilidad | Se teme mostrar incertidumbre | Declarar supuestos y probar escenarios. |
+| Ocultar debilidades | Miedo al juicio | Reconocerlas con un plan para reducirlas. |
+| Inventar respuestas | Presión en las preguntas | Decir qué no sabes y a quién escalarías. |
+| Plan sin métricas | Se confunde intención con plan | Métricas, hitos y reglas de detención. |
+| Descuidar la transición del fundador | Se prioriza la estrategia | Evidenciar la reducción de dependencia. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **executive thesis** y **operating system** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **founder plan** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **presentar contexto y personal thesis → defender business strategy y economics** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **enterprise value drivers** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone final: defensa como CEO, founder y owner**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia.**?
+1. ¿Qué evalúa una defensa y qué no?
+2. ¿Qué contiene una tesis personal?
+3. ¿Qué cifras y supuestos sostienen la parte de estrategia y economía?
+4. ¿Cómo se mide la cobertura de liderazgo?
+5. ¿Qué evidencia respalda la transición del fundador al propietario?
+6. ¿Cómo se responde cuando no se sabe?
+7. ¿Qué límite tiene este capstone?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Evalúa criterio, coherencia, evidencia, honestidad y capacidad de aprender; no mide memoria.
+2. Qué empresa diriges, qué problema resuelve para quién y qué decisión estás tomando ahora.
+3. Economía por cliente, margen, concentración, caja y valor, con supuestos y sensibilidad.
+4. Roles críticos con responsable y sucesor dividido por el total de roles críticos.
+5. Mapa de dependencias, delegación con límites, simulación de ausencia y política de capital.
+6. Reconociendo el límite, explicando cómo se resolvería y a qué experto se escalaría.
+7. No certifica competencia legal, contable ni profesional regulada; evalúa integración de decisiones y escalamiento.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/288-capstone-final-defensa-como-ceo-founder-y-owner/`:
 
-- `board-or-executive-memo.md` con el problema específico de **capstone final: defensa como CEO, founder y owner**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone final: defensa como CEO, founder y owner** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **executive thesis**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un panel actúa como directorio e inversionistas. Debes decidir si asumir gerencia en una empresa, lanzar un negocio propio o combinar ambas rutas, mostrando costos de oportunidad, runway y milestones.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el memo ejecutivo de defensa;
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con la tesis, la transición y el plan de 90 días;
+- `decision-journal.md` con la práctica de la defensa, las preguntas y los aprendizajes.
 
 ## 📗 Fuentes y verificación
 
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** perspectiva de Atención aplicada al problema de la clase. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone final: defensa como ceo, founder y owner** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone final: defensa como ceo, founder y owner** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone final: defensa como ceo, founder y owner** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone final: defensa como ceo, founder y owner** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** eficacia y decisiones bien definidas. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad y gestión por resultados. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de riqueza y control del fundador. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** la empresa como sistema que no depende de su creador. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** cliente, propuesta y economía con evidencia. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
+- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** foco y profundidad en el trabajo propio. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** valor por flujos, retorno sobre el capital y riesgo. Lectura selectiva sobre **capstone final: defensa como ceo, founder y owner**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
 
-> **Regla de fuentes para Capstone final: defensa como CEO, founder y owner:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone final: defensa como CEO, founder y owner** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone final: defensa como CEO, founder y owner:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, y este capstone no certifica competencia legal, contable ni profesional regulada. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

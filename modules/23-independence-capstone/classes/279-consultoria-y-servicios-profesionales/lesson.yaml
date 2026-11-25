@@ -5,27 +5,28 @@ duration_minutes: 150
 level: "Etapa 6 — Independencia"
 outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir consulting engagement de scope mediante evidencia observable."
-  - "Aplicar la secuencia: elegir problema e ICP → hacer discovery y diagnose → definir scope y outcome → proponer fee y terms → entregar medir y request reference."
-  - "Interpretar utilization, effective rate, proposal win rate sin atribuir causalidad automática."
-  - "Resolver el caso de consultoría y servicios profesionales con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Elegir un problema y un cliente ideal para tu servicio."
+  - "Conducir un descubrimiento con preguntas que aclaren problema, impacto y criterio de éxito."
+  - "Definir alcance, resultado, supuestos y exclusiones por escrito."
+  - "Calcular utilización, tarifa efectiva y tasa de éxito de propuestas, y fijar honorarios con transparencia."
+  - "Gestionar cambios de alcance, cierre y referencias."
 deliverable: "risk-governance-brief.md"
 references:
   - "Peter F. Drucker — *The Effective Executive*"
   - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Nassim Nicholas Taleb — *Antifragile*"
-  - "Eric Ries — *The Lean Startup*"
   - "Greg McKeown — *Essentialism*"
+  - "Chris Voss & Tahl Raz — *Never Split the Difference*"
+  - "Neil Rackham — *SPIN Selling*"
+  - "Eric Ries — *The Lean Startup*"
   - "Michael E. Gerber — *The E-Myth Revisited*"
 limits:
-  - "Value pricing no significa cobrar cifras arbitrarias ni ocultar esfuerzo. Debe ser transparente, defendible y compatible con mercado, ética y contrato."
+  - "El precio por valor no significa cobrar cifras arbitrarias ni ocultar esfuerzo: debe ser transparente, defendible y compatible con el mercado, la ética y el contrato."
 evidence_signals:
-  - "utilization"
-  - "effective rate"
-  - "proposal win rate"
-  - "scope creep"
-  - "repeat business"
+  - "utilización y tarifa efectiva"
+  - "tasa de éxito de propuestas"
+  - "alcance y exclusiones por escrito"
+  - "referencia al cierre"

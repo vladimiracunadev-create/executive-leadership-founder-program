@@ -10,217 +10,216 @@
 
 ## 🎯 Propósito
 
-SaaS convierte software en servicio recurrente, pero la recurrencia depende de valor continuo, retención, soporte y economics. MRR no es suficiente: churn, gross margin, CAC payback, expansion y reliability determinan calidad del modelo.
+Un modelo recurrente cobra de forma periódica por un servicio continuo: una suscripción a un software (SaaS, software como servicio), una membresía, un mantenimiento mensual, un retainer de asesoría, una plataforma con cuota. Para un profesional independiente es atractivo porque convierte ingresos esporádicos en **ingresos predecibles**, mejora la capacidad de planificar y aumenta el valor del negocio. Pero también cambia las reglas del juego: el ingreso deja de ser el momento de la venta y pasa a ser **la retención del cliente mes tras mes**. Un cliente que se queda dos años aporta mucho más que su primer pago; uno que se va al tercer mes puede no recuperar siquiera el costo de haberlo conseguido. En un modelo recurrente, el **servicio** debe seguir entregando valor cada período; las promesas de venta no bastan.
 
-La salida de esta parte es **construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **saaS y modelos recurrentes** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el modelo recurrente como una cadena: definir el trabajo recurrente que el cliente necesita, modelar precio y economía unitaria, construir un servicio mínimo pero confiable, medir la retención por cohortes y recién después optimizar adquisición y expansión. Se apoya en Skok (métricas de negocios SaaS: ingreso recurrente, cancelación, valor de vida y costo de adquisición), Ries (aprender con el producto mínimo y medir con rigor), Drucker (gestión por resultados), Taleb (cuidado con las estructuras frágiles frente a la volatilidad), Newport (calidad del trabajo profundo en el desarrollo) y Gerber. Al terminar sabrás calcular MRR, retención neta de ingresos y cancelación de clientes, construir un puente de MRR, estimar valor de vida y recuperación del costo de adquisición, interpretar cohortes y decidir si tu problema merece una suscripción.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `MRR`, `ARR`, `logo churn`, `net revenue retention`, `CAC payback` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de independencia.
-3. **Aplicar** la secuencia **1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** MRR, NRR, logo churn sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** ingreso recurrente de ingreso repetido y de ingreso puntual.
+2. **Calcular** MRR, retención neta de ingresos, cancelación de clientes y de ingresos.
+3. **Estimar** valor de vida del cliente y recuperación del costo de adquisición con supuestos.
+4. **Leer** cohortes y detectar si el crecimiento esconde una fuga.
+5. **Decidir** si un problema se presta a una suscripción o a otro modelo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define MRR y ARR sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con MRR y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué trabajo recurrente tiene tu cliente que justificaría un pago periódico? |
+| 20–60 min | Trabajo recurrente, precio, servicio mínimo, cohortes, adquisición y expansión. |
+| 60–105 min | Ejemplo trabajado: puente de MRR, NRR, valor de vida, recuperación y cohortes. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **MRR** | ingreso recurrente mensual normalizado | Distingue un hecho compatible y otro que lo refute. |
-| **ARR** | ingreso recurrente anualizado | Distingue un hecho compatible y otro que lo refute. |
-| **logo churn** | pérdida de clientes en un periodo | Distingue un hecho compatible y otro que lo refute. |
-| **net revenue retention** | retención de ingresos incluyendo expansión y contracción | Distingue un hecho compatible y otro que lo refute. |
-| **CAC payback** | meses necesarios para recuperar costo de adquisición | Distingue un hecho compatible y otro que lo refute. |
+| **MRR** | Ingreso recurrente mensual contratado. | Suma de cuotas mensuales vigentes. |
+| **Cancelación de clientes (logo churn)** | Proporción de clientes que se va en un período. | Clientes perdidos ÷ clientes iniciales. |
+| **Retención neta de ingresos (NRR)** | Ingresos de clientes existentes tras bajas, reducciones y ampliaciones. | (MRR inicial + ampliaciones − reducciones − bajas) ÷ MRR inicial. |
+| **Valor de vida (LTV)** | Margen total esperable de un cliente. | Margen mensual ÷ tasa de cancelación. |
+| **Costo de adquisición (CAC)** | Costo de conseguir un cliente nuevo. | Ventas y marketing ÷ clientes nuevos. |
+| **Cohorte** | Grupo de clientes que comenzó en el mismo período. | Curva de retención del grupo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 282: 1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit](modelo-mental.svg)
+![Tabla de cinco métricas de un modelo recurrente: ingreso recurrente mensual, retención neta de ingresos, cancelación de clientes, retención por cohorte y recuperación del costo de adquisición.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **SaaS convierte software en servicio recurrente, pero la recurrencia depende de valor continuo, retención, soporte y economics. MRR no es suficiente: churn, gross margin, CAC payback, expansion y reliability determinan calidad del modelo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado.**
+**Cómo leer el diagrama.** Una tabla de tres columnas. **Métrica**: ingreso recurrente mensual, retención neta de ingresos, cancelación de clientes, retención por cohorte y recuperación del costo de adquisición. **Qué mide**: ingresos mensuales repetibles contratados, ingresos de clientes existentes tras bajas y ampliaciones, porcentaje de clientes que se va, qué porción de cada grupo sigue activa y meses para recuperar lo gastado en conseguir un cliente. **Cuidado al interpretarla**: no incluye ingresos únicos, puede ocultar bajas si hay ampliaciones, se separa por segmento y antigüedad, pocas cohortes dan resultados frágiles y depende de descuentos y plazos. La nota advierte que no todo problema necesita una suscripción; el pie, que se optimiza la adquisición después de comprobar que hay ajuste con el cliente.
 
 ## 📖 Desarrollo
 
-### 1. MRR: mecanismo central
+### 1. Qué hace recurrente a un ingreso
 
-**MRR** se entiende aquí como **ingreso recurrente mensual normalizado**. Esta es la pieza causal o estructural desde la que se inicia **saaS y modelos recurrentes**: antes de definir recurring job, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un ingreso es **recurrente** cuando el cliente paga periódicamente porque **recibe un valor continuo**: un servicio que se usa cada mes, un resultado que requiere mantenimiento, un acceso que sigue siendo útil. No es lo mismo que un ingreso **repetido** (un cliente que compra de nuevo porque quiere) ni que uno **puntual** (un proyecto). La pregunta clave es: **¿qué trabajo recurrente tiene el cliente, y mi servicio lo resuelve cada período?** Si el uso es episódico (una necesidad que aparece una vez al año), una suscripción mensual genera desconfianza y cancelación: el cliente siente que paga por nada. Los modelos recurrentes funcionan bien cuando el valor es **continuo** (monitoreo, plataforma de gestión, soporte permanente, contenido actualizado, mantenimiento). Un retainer de asesoría es recurrente solo si entrega algo cada período.
 
-La lectura rectora de este bloque es Peter F. Drucker — *The Effective Executive*. Su aporte se usa para examinar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **MRR**; regístrala con periodo, unidad, población y baseline.
+### 2. Precio y economía unitaria
 
-Relaciona el mecanismo con **ARR**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El precio recurrente se modela con: **ingreso promedio por cliente (ARPA)**, **costo de servir** (infraestructura, soporte, licencias, comisiones de pago), **margen bruto**, **costo de adquisición (CAC)**, **permanencia esperada** (1 ÷ tasa de cancelación mensual) y **valor de vida (LTV)**, estimado como el margen mensual dividido por la tasa de cancelación. Skok recomienda mirar el cociente entre valor de vida y costo de adquisición y el **tiempo de recuperación** del CAC. Una relación de 3 a 1 o más y una recuperación menor de 12 meses suelen considerarse señales de salud en muchos negocios SaaS, pero **son referencias y no reglas universales**: dependen del sector, del acceso a capital y de la tolerancia al riesgo. Un precio demasiado bajo no cubre soporte y adquisición; uno demasiado alto frena la compra.
 
-### 2. ARR: frontera conceptual y error de clasificación
+### 3. Un servicio mínimo pero confiable
 
-**Definición operacional:** ingreso recurrente anualizado. Su valor está en distinguirlo de **MRR** y **logo churn**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+En un modelo recurrente, un servicio inestable destruye la retención. El **servicio mínimo** debe cumplir una promesa limitada con **confiabilidad**: disponibilidad, precisión, tiempos de respuesta, seguridad básica, soporte, copias de respaldo y comunicación de incidentes. Ries sugiere comenzar con lo mínimo para aprender, pero un producto mínimo no es uno que falla: se acota el **alcance**, no la calidad. Newport recuerda el valor del trabajo profundo para construir sistemas de calidad; para un fundador solitario, proteger bloques de concentración para el desarrollo y la operación es decisivo. Se definen **acuerdos de servicio** simples, se protegen los datos de los clientes (se verifican las normas de datos personales y de seguridad aplicables con asesoría) y se documenta lo que ocurre si el servicio se interrumpe o se cierra.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **ARR** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **NRR** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Medir la retención con cohortes
 
-Antes de modelar pricing y unit economics, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los promedios engañan; las **cohortes** muestran la verdad. Una cohorte es el grupo de clientes que comenzó en el mismo mes; se sigue qué porcentaje continúa activo en el mes 1, 3, 6, 12. Una curva que cae al comienzo y luego se estabiliza indica un **núcleo de clientes** que encuentran valor; una que sigue cayendo sin estabilizarse indica un problema de **ajuste** entre producto y cliente. Se separa por **segmento, canal y precio**, porque los clientes de un canal pueden retenerse mucho más que los de otro. Con pocas cohortes o pocos clientes, los resultados son frágiles: se interpretan con cautela. Una retención baja no se arregla con más publicidad: se resuelve entendiendo por qué se van (entrevistas de salida) y qué hace que los que se quedan se queden.
 
-### 3. logo churn: operacionalización y medición
+### 5. Puente de MRR: nuevos, ampliaciones, reducciones y bajas
 
-**logo churn** significa **pérdida de clientes en un periodo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El **puente de MRR** descompone la variación mensual: MRR inicial + **nuevos** + **ampliaciones** − **reducciones** − **bajas** = MRR final. De él se obtienen: **crecimiento neto**, **retención neta de ingresos (NRR)** (que excluye a los clientes nuevos), **cancelación de ingresos** y **cancelación de clientes**. Un NRR sobre 100 % significa que, sin clientes nuevos, los ingresos crecen; bajo 100 %, se encogen y el crecimiento depende de seguir adquiriendo. **Cuidado:** un NRR alto puede ocultar una alta cancelación de clientes si unos pocos clientes grandes amplían mucho. Por eso se mira siempre en conjunto: MRR, NRR, cancelación de clientes y cancelación por tamaño de cliente. Y se verifica que el MRR solo incluya ingresos realmente recurrentes y cobrables.
 
-Nassim Nicholas Taleb — *Antifragile* orienta este bloque mediante **fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **logo churn**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Adquisición y expansión: después del ajuste
 
-Al llegar a construir minimal reliable service, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Skok y Ries coinciden en un orden: **primero asegurar que los clientes se quedan y obtienen valor; después acelerar la adquisición**. Invertir en publicidad y ventas con una retención débil es llenar un balde con agujeros. Cuando hay señales de ajuste (retención estable, clientes que recomiendan, uso frecuente), se optimizan los canales de adquisición (clase 285), se mejora la conversión y se desarrolla la **expansión**: más usuarios, más funciones, niveles superiores, servicios complementarios. Se vigila el **CAC por canal** y su recuperación. Se evita crecer con descuentos que alarguen la recuperación y atraigan clientes que cancelan. Drucker señala que el cliente es el centro del negocio: en un modelo recurrente, esa centralidad se mide cada mes con la retención.
 
-### 4. net revenue retention: trade-offs y efectos de segundo orden
+### 7. Cuándo no usar una suscripción
 
-**Definición:** retención de ingresos incluyendo expansión y contracción. Este concepto obliga a abandonar la idea de que **saaS y modelos recurrentes** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de medir cohort retention, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Cal Newport — *Deep Work* aporta una lente sobre **perspectiva de Atención aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **gross margin** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **saaS y modelos recurrentes**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **net revenue retention** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. CAC payback: gobernanza, límites e integración
-
-**CAC payback** se define como **meses necesarios para recuperar costo de adquisición** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael D. Watkins — *The First 90 Days* se utiliza para estudiar **perspectiva de Transiciones aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar optimizar acquisition y expansion después de fit, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **MRR**, **ARR**, **logo churn**, **net revenue retention** y **CAC payback** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **saaS y modelos recurrentes** no consiste en sumar cinco definiciones. Empieza por **MRR**, contrasta **ARR** con **logo churn**, incorpora **net revenue retention** como restricción o mecanismo y usa **CAC payback** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+No todo problema necesita una suscripción. Alternativas: **pago por uso** (el cliente paga cuando usa), **pago por proyecto** (necesidad episódica), **licencia única con actualizaciones opcionales**, **membresías con acceso limitado**, **servicio productizado** (clase 280). Taleb advierte contra estructuras que se rompen con la volatilidad: un negocio que depende de una tasa de cancelación baja y de un flujo constante de nuevos clientes es frágil si cambian el mercado o los costos; se reducen los riesgos con **contratos anuales** cuando tienen sentido, **diversificación de clientes** y **caja suficiente**. Se evalúan también las **obligaciones**: cobros automáticos, facturación, protección de datos, términos de servicio, política de cancelación y devoluciones, que se verifican con asesoría y fuentes oficiales.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **saaS y modelos recurrentes** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **saaS y modelos recurrentes** ayuda a desafiar? |
-| Nassim Nicholas Taleb — *Antifragile* | fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo | ¿Qué supuesto de **saaS y modelos recurrentes** ayuda a desafiar? |
-| Cal Newport — *Deep Work* | perspectiva de Atención aplicada al problema de la clase | ¿Qué supuesto de **saaS y modelos recurrentes** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **saaS y modelos recurrentes** ayuda a desafiar? |
-
-En **saaS y modelos recurrentes**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **MRR**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Skok | Métricas de SaaS: MRR, cancelación, LTV y CAC. | Referencias de negocios de crecimiento. | ¿Qué relación LTV/CAC tengo y qué tan fiable es? |
+| Ries | Producto mínimo y aprendizaje validado. | No define fórmulas de suscripción. | ¿Qué prueba demuestra que se quedan? |
+| Drucker | El cliente como centro y los resultados. | No trata métricas SaaS. | ¿Qué valor recibe el cliente cada mes? |
+| Taleb | Fragilidad y robustez ante la volatilidad. | No es guía de negocios recurrentes. | ¿Qué ocurre si la cancelación se duplica? |
+| Newport | Trabajo profundo para construir con calidad. | No mide cohortes. | ¿Cómo protejo el tiempo de desarrollo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Micro-SaaS llega a USD 10k MRR, pero pierde 7% de clientes mensual y compra ads con payback de 20 meses. Crecimiento bruto oculta fuga.
+**Situación (hipotética).** Un fundador ofrece una plataforma de gestión de turnos para clínicas pequeñas, con una cuota mensual. Revisa un mes de operación. Todas las cifras son **supuestos**; los impuestos y la facturación se verifican con asesoría y fuentes oficiales.
 
-**Paso 1 — definir recurring job.** La gerencia escribe primero el supuesto asociado a **MRR** y evita convertirlo en hecho. Luego busca **MRR** para contrastarlo en el caso de **saaS y modelos recurrentes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos del mes.**
 
-**Paso 2 — modelar pricing y unit economics.** La gerencia escribe primero el supuesto asociado a **ARR** y evita convertirlo en hecho. Luego busca **NRR** para contrastarlo en el caso de **saaS y modelos recurrentes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Valor |
+|---|---|
+| Clientes al inicio | 200 |
+| MRR inicial | 12.000.000 (promedio de 60.000 por cliente) |
+| Clientes nuevos | 24 (a 55.000 promedio) |
+| Ampliaciones (MRR adicional de clientes existentes) | 400.000 |
+| Reducciones (MRR perdido por bajas de plan) | 200.000 |
+| Clientes que cancelaron | 6 (a 60.000 cada uno) |
 
-**Paso 3 — construir minimal reliable service.** La gerencia escribe primero el supuesto asociado a **logo churn** y evita convertirlo en hecho. Luego busca **logo churn** para contrastarlo en el caso de **saaS y modelos recurrentes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puente de MRR.**
 
-**Paso 4 — medir cohort retention.** La gerencia escribe primero el supuesto asociado a **net revenue retention** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **saaS y modelos recurrentes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Nuevos: 24 × 55.000 = **1.320.000**.
+- Bajas: 6 × 60.000 = **360.000**.
+- MRR final: 12.000.000 + 1.320.000 + 400.000 − 200.000 − 360.000 = **13.160.000** (+9,7 %).
 
-**Paso 5 — optimizar acquisition y expansion después de fit.** La gerencia escribe primero el supuesto asociado a **CAC payback** y evita convertirlo en hecho. Luego busca **CAC payback** para contrastarlo en el caso de **saaS y modelos recurrentes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Retención y cancelación.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **saaS y modelos recurrentes**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+- **NRR** = (12.000.000 + 400.000 − 200.000 − 360.000) ÷ 12.000.000 = 11.840.000 ÷ 12.000.000 = **98,7 %**.
+- **Cancelación de ingresos** (bajas más reducciones) = (360.000 + 200.000) ÷ 12.000.000 = **4,7 %** mensual.
+- **Cancelación de clientes** = 6 ÷ 200 = **3,0 %** mensual; anualizada: 1 − (1 − 0,03)¹² = 1 − 0,694 = **30,6 %**. Un NRR cercano a 100 % **no debe tranquilizar**: casi un tercio de los clientes se va cada año, y el crecimiento depende de reemplazarlos.
+
+**Economía unitaria.** Ingreso promedio por cliente nuevo: 55.000; margen bruto: 80 % → 44.000 mensuales. **Valor de vida** = 44.000 ÷ 0,03 = **1.466.667**. **CAC** (ventas y marketing del mes ÷ clientes nuevos): 11.520.000 ÷ 24 = **480.000**. **LTV ÷ CAC** = 1.466.667 ÷ 480.000 = **3,06**. **Recuperación del CAC** = 480.000 ÷ 44.000 = **10,9 meses**.
+
+**Sensibilidad.** Si la cancelación mensual sube a 5 %: LTV = 44.000 ÷ 0,05 = 880.000; LTV ÷ CAC = **1,83**. Si el CAC sube a 700.000 con 3 % de cancelación: LTV ÷ CAC = 2,1 y recuperación de 15,9 meses. **El modelo es muy sensible a la cancelación.**
+
+**Cohortes (clientes activos de cada grupo, % del inicial).**
+
+| Cohorte | Mes 1 | Mes 3 | Mes 6 | Mes 12 |
+|---|---|---|---|---|
+| Enero (40 clientes) | 100 % | 90 % | 82 % | 70 % |
+| Abril (36 clientes) | 100 % | 83 % | 72 % | — |
+| Julio (24 clientes) | 100 % | 79 % | — | — |
+
+Las cohortes recientes retienen menos en el mes 3 (90 %, 83 %, 79 %): **la calidad de los clientes captados parece empeorar**, quizás por descuentos o por un canal nuevo. Con 24 a 40 clientes por cohorte, la evidencia es frágil, pero justifica **investigar antes de aumentar la inversión en adquisición**.
+
+**Decisión.** No aumentar el gasto de adquisición hasta entender por qué las cohortes recientes retienen menos; realizar entrevistas de salida con los 12 clientes que cancelaron en tres meses; evaluar un plan anual con descuento moderado para reducir cancelación; medir NRR, cancelación de clientes y de ingresos por segmento; mantener el servicio con un acuerdo de nivel de servicio simple y respaldos.
+
+**Cuidados.** Los números son supuestos; las condiciones de cobro, los términos de servicio y la protección de datos se verifican con asesoría.
+
+**Qué muestra.** (1) El puente de MRR explicó la variación. (2) El NRR cercano a 100 % ocultaba una cancelación anual cercana al 31 %. (3) Las cohortes revelaron un deterioro que el promedio no mostraba.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **MRR** | ingreso recurrente mensual normalizado | Cuando MRR es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **ARR** | ingreso recurrente anualizado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Ingreso recurrente frente a ingreso repetido.** El recurrente se contrata y se cobra periódicamente por un servicio continuo; el repetido depende de que el cliente decida comprar de nuevo. El primero es más predecible, pero exige entregar valor cada período.
 
-**Frontera de aplicación:** No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado.
+**Límites.** No todo problema necesita una suscripción: si el uso es episódico, el precio recurrente puede generar cancelación y desconfianza. Las referencias de valor de vida y recuperación son orientativas. Con pocas cohortes, las conclusiones son frágiles. Las cifras del ejemplo son supuestos, y las normas de cobro, datos personales y consumo se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre saaS y modelos recurrentes |
+| Nivel | Cómo se relaciona con el modelo recurrente |
 |---|---|
-| **Profesional** | usa **saaS y modelos recurrentes** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **MRR** y **ARR** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta MRR con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si saaS y modelos recurrentes cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de saaS y modelos recurrentes reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **saaS y modelos recurrentes** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrega el servicio con calidad cada período. |
+| **Jefe / Team Lead** | Resuelve incidentes y retroalimenta al producto. |
+| **Gerente** | Responde por retención, soporte y márgenes. |
+| **CEO / Director** | Define precios, métricas y prioridades de inversión. |
+| **Founder / Owner** | Decide el modelo, asume el riesgo de cancelación y protege la confiabilidad. |
 
 ## 🏢 Caso ejecutivo
 
-Micro-SaaS llega a USD 10k MRR, pero pierde 7% de clientes mensual y compra ads con payback de 20 meses. Crecimiento bruto oculta fuga.
+Una fundadora ofrece un servicio de mantenimiento preventivo de equipos de laboratorio con una cuota mensual de 90.000 pesos por equipo. Tiene 120 clientes con 3 equipos en promedio (MRR de 32,4 millones). En el último mes: 9 clientes nuevos (a 2 equipos en promedio), 5 clientes cancelaron (a 3 equipos), 4 ampliaron en un equipo cada uno y 3 redujeron un equipo cada uno. Gastó 5,4 millones en ventas y marketing, y su margen bruto es de 62 % por los costos de visitas técnicas. Una cohorte de 20 clientes de hace 8 meses conserva 13. Un cliente grande, con 40 equipos, pide un descuento del 20 % a cambio de un contrato anual. Un fondo le ofrece financiar su crecimiento con la condición de alcanzar un MRR de 60 millones en 12 meses.
 
-Entrega un **decision brief de saaS y modelos recurrentes** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador** que contenga: (a) el puente de MRR del mes con los datos del caso; (b) el cálculo de NRR, cancelación de clientes y de ingresos; (c) el valor de vida, el CAC y la recuperación con la información disponible y su sensibilidad; (d) el análisis de la cohorte de 20 clientes; (e) la evaluación del descuento del cliente grande y de la propuesta del fondo; (f) los límites del análisis y las verificaciones contractuales y tributarias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **saaS y modelos recurrentes** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta MRR, NRR; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Define el trabajo recurrente que tu cliente tiene y por qué justifica un pago periódico.
+2. Construye el puente de MRR de un mes con tus datos o con supuestos.
+3. Calcula NRR, cancelación de clientes y de ingresos, y la cancelación anualizada.
+4. Estima LTV, CAC, relación LTV/CAC y recuperación, con sensibilidad.
+5. Diseña una tabla de cohortes y decide qué investigarías antes de invertir en adquisición.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar MRR y ARR como sinónimos | Se pierde la distinción entre “ingreso recurrente mensual normalizado” y “ingreso recurrente anualizado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “optimizar acquisition y expansion después de fit” | Se saltó “definir recurring job” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit y marca el primer supuesto no demostrado. |
-| Optimizar solo MRR | La métrica local sustituyó al resultado del sistema | Contrástala con NRR y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre saaS y modelos recurrentes | No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado. |
-| No fijar revisión | Una decisión sobre saaS y modelos recurrentes se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Suscripción para un uso episódico | Se copia el modelo de moda | Evaluar si el valor es continuo. |
+| Mirar solo el MRR | Es la cifra visible | Seguir NRR, cancelación y cohortes. |
+| Acelerar la adquisición antes del ajuste | Se busca crecimiento rápido | Asegurar retención primero. |
+| Confiar en un NRR alto | Ampliaciones ocultan bajas | Mirar cancelación de clientes por segmento. |
+| Descuentos que atraen clientes de baja retención | Se quiere cerrar ventas | Medir cohortes por canal y precio. |
+| Servicio inestable | Se prioriza lanzar | Alcance acotado con confiabilidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **MRR** y **ARR** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **logo churn** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir recurring job → modelar pricing y unit economics** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **MRR** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **saaS y modelos recurrentes**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado.**?
+1. ¿Qué hace recurrente a un ingreso?
+2. ¿Cómo se calcula el NRR?
+3. ¿Por qué un NRR cercano a 100 % puede engañar?
+4. ¿Cómo se estima el valor de vida de un cliente?
+5. ¿Qué muestra un análisis de cohortes?
+6. ¿Por qué se optimiza la adquisición después del ajuste?
+7. ¿Cuándo no conviene una suscripción?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Un servicio continuo por el que el cliente paga periódicamente porque recibe valor cada período.
+2. (MRR inicial + ampliaciones − reducciones − bajas) ÷ MRR inicial, sin incluir clientes nuevos.
+3. Porque las ampliaciones de pocos clientes pueden ocultar una alta cancelación de clientes.
+4. Dividiendo el margen mensual por la tasa de cancelación mensual.
+5. Cómo se retiene cada grupo en el tiempo y si la calidad de los clientes cambia.
+6. Porque adquirir clientes con baja retención desperdicia dinero.
+7. Cuando el uso es episódico o el valor no es continuo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/282-saas-y-modelos-recurrentes/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **saaS y modelos recurrentes**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **saaS y modelos recurrentes** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **MRR**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Micro-SaaS llega a USD 10k MRR, pero pierde 7% de clientes mensual y compra ads con payback de 20 meses. Crecimiento bruto oculta fuga.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `decision-journal.md` con el puente de MRR, las cohortes y las decisiones de inversión.
 
 ## 📗 Fuentes y verificación
 
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
-- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** perspectiva de Atención aplicada al problema de la clase. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **saas y modelos recurrentes** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **saas y modelos recurrentes** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **saas y modelos recurrentes** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **saas y modelos recurrentes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- David Skok — *SaaS Metrics resources* (For Entrepreneurs (Matrix Partners)). **Uso en esta clase:** métricas de negocios SaaS: ingreso recurrente, cancelación, valor de vida y costo de adquisición. **Fuente primaria:** <https://www.forentrepreneurs.com/saas-metrics-2/>.
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** producto mínimo, aprendizaje validado y métricas accionables. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** eficacia y centralidad del cliente. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestión por resultados. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** estructuras frágiles frente a la volatilidad. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
+- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** trabajo profundo para construir con calidad. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** el negocio como sistema. Lectura selectiva sobre **saas y modelos recurrentes**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para SaaS y modelos recurrentes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **saaS y modelos recurrentes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para SaaS y modelos recurrentes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de datos personales, consumo y tributación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

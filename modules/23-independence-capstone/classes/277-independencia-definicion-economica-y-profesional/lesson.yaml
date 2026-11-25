@@ -5,14 +5,15 @@ duration_minutes: 150
 level: "Etapa 6 — Independencia"
 outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir financial independence de professional independence mediante evidencia observable."
-  - "Aplicar la secuencia: definir necesidades y objetivo → medir runway y concentración → mapear capabilities y assets → crear vías de ingreso compatibles → revisar riesgo y optionality trimestralmente."
-  - "Interpretar personal runway, top-income-source share, recurring income sin atribuir causalidad automática."
-  - "Resolver el caso de independencia: definición económica y profesional con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir independencia económica, profesional y de tiempo."
+  - "Definir un objetivo de independencia con necesidades, pista y fuentes de ingreso."
+  - "Calcular pista personal, participación de la mayor fuente y cobertura de gastos con ingresos independientes."
+  - "Identificar brechas y secuenciar acciones sin fragmentar el foco."
+  - "Revisar riesgo y opciones cada trimestre con criterios de continuidad o ajuste."
 deliverable: "risk-governance-brief.md"
 references:
   - "Peter F. Drucker — *The Effective Executive*"
@@ -22,10 +23,9 @@ references:
   - "Eric Ries — *The Lean Startup*"
   - "Michael E. Gerber — *The E-Myth Revisited*"
 limits:
-  - "Diversificar demasiado pronto puede fragmentar foco y reducir ingresos. Construye independencia por etapas, protegiendo capacidad principal y evitando apuestas simultáneas sin tracción."
+  - "Diversificar demasiado pronto puede fragmentar el foco y reducir ingresos; se construye por etapas."
 evidence_signals:
-  - "personal runway"
-  - "top-income-source share"
-  - "recurring income"
-  - "pipeline"
-  - "asset income"
+  - "pista personal calculada"
+  - "concentración de la mayor fuente"
+  - "cobertura con ingresos independientes"
+  - "revisión trimestral de riesgo y opciones"

@@ -66,18 +66,18 @@ Las clases **286 a 288** cierran: riesgo, ética y reputación, plan de 90 días
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 277 | [Independencia: definición económica y profesional](classes/277-independencia-definicion-economica-y-profesional/README.md) | financial independence, professional independence, runway | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 278 | [Inventario de capacidades monetizables](classes/278-inventario-de-capacidades-monetizables/README.md) | skill, domain knowledge, proof | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 279 | [Consultoría y servicios profesionales](classes/279-consultoria-y-servicios-profesionales/README.md) | consulting engagement, scope, deliverable | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 280 | [Productized services](classes/280-productized-services/README.md) | productized service, service package, standard delivery | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 281 | [Producto digital y propiedad intelectual](classes/281-producto-digital-y-propiedad-intelectual/README.md) | digital product, IP, license | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
-| 282 | [SaaS y modelos recurrentes](classes/282-saas-y-modelos-recurrentes/README.md) | MRR, ARR, logo churn | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 283 | [Portafolio de ingresos y concentración de riesgo](classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo/README.md) | income portfolio, concentration risk, correlation | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 284 | [Runway personal y empresarial](classes/284-runway-personal-y-empresarial/README.md) | personal runway, business runway, burn rate | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 285 | [Sistema semanal de ventas](classes/285-sistema-semanal-de-ventas/README.md) | sales cadence, pipeline, prospecting | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 286 | [Riesgo, ética y reputación](classes/286-riesgo-etica-y-reputacion/README.md) | professional ethics, conflict of interest, confidentiality | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 287 | [Plan de 90 días y plan anual](classes/287-plan-de-90-dias-y-plan-anual/README.md) | 90-day sprint, annual plan, leading activity | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 288 | [Capstone final: defensa como CEO, founder y owner](classes/288-capstone-final-defensa-como-ceo-founder-y-owner/README.md) | executive thesis, operating system, founder plan | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
+| 277 | [Independencia: definición económica y profesional](classes/277-independencia-definicion-economica-y-profesional/README.md) | Independencia económica, Pista personal (runway), Participación de la mayor fuente | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 278 | [Inventario de capacidades monetizables](classes/278-inventario-de-capacidades-monetizables/README.md) | Capacidad monetizable, Activo de prueba, Solicitud espontánea | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 279 | [Consultoría y servicios profesionales](classes/279-consultoria-y-servicios-profesionales/README.md) | Utilización, Tarifa efectiva, Tasa de éxito de propuestas | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 280 | [Productized services](classes/280-productized-services/README.md) | Servicio productizado, Envolvente de aceptación, Excepción de alcance | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 281 | [Producto digital y propiedad intelectual](classes/281-producto-digital-y-propiedad-intelectual/README.md) | Activo mínimo de pago, Licencia, Titularidad | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
+| 282 | [SaaS y modelos recurrentes](classes/282-saas-y-modelos-recurrentes/README.md) | MRR, Cancelación de clientes (logo churn), Retención neta de ingresos (NRR) | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 283 | [Portafolio de ingresos y concentración de riesgo](classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo/README.md) | Portafolio de ingresos, Concentración, Factor común | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 284 | [Runway personal y empresarial](classes/284-runway-personal-y-empresarial/README.md) | Runway (pista), Burn neto, Piso de caja | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 285 | [Sistema semanal de ventas](classes/285-sistema-semanal-de-ventas/README.md) | Sistema semanal de ventas, Embudo, Conversación nueva | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 286 | [Riesgo, ética y reputación](classes/286-riesgo-etica-y-reputacion/README.md) | Parte interesada, Conflicto de interés, Límite de competencia | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 287 | [Plan de 90 días y plan anual](classes/287-plan-de-90-dias-y-plan-anual/README.md) | Resultado a 12 meses, Apuesta de 90 días, Actividad semanal | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 288 | [Capstone final: defensa como CEO, founder y owner](classes/288-capstone-final-defensa-como-ceo-founder-y-owner/README.md) | Defensa, Tesis personal, Impulsores de valor | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -88,70 +88,82 @@ Las clases **286 a 288** cierran: riesgo, ética y reputación, plan de 90 días
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+72 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **90-day sprint** | periodo corto con outcomes verificables y learning goals. |
-| **annual plan** | hipótesis de capacidad ingresos inversión y desarrollo para un año. |
-| **ARR** | ingreso recurrente anualizado. |
-| **attention cost** | tiempo y foco requerido para mantener una fuente. |
-| **burn rate** | consumo neto de caja por periodo. |
-| **business runway** | meses que la empresa puede operar al burn proyectado. |
-| **CAC payback** | meses necesarios para recuperar costo de adquisición. |
-| **capability stack** | combinación de habilidades cuyo conjunto es más valioso que cada pieza. |
-| **cash floor** | nivel mínimo de liquidez que no se desea cruzar. |
-| **checkpoint** | fecha para evaluar evidencia y ajustar. |
-| **concentration risk** | exposición excesiva a una fuente cliente o mercado. |
-| **confidentiality** | deber de proteger información no pública. |
-| **conflict of interest** | interés que puede comprometer juicio profesional. |
-| **consulting engagement** | acuerdo profesional para resolver un problema o producir una decisión o cambio. |
-| **correlation** | grado en que fuentes se mueven juntas ante shocks. |
-| **deliverable** | resultado tangible acordado. |
-| **digital product** | activo digital reproducible vendido o licenciado. |
-| **distribution** | canal para llegar de forma repetible a compradores. |
-| **domain knowledge** | comprensión contextual de una industria o problema. |
-| **downside scenario** | escenario adverso plausible para probar resiliencia. |
-| **exception pricing** | regla para trabajo fuera de estándar. |
-| **executive thesis** | argumento integrado de cómo crear dirigir y proteger valor. |
-| **financial independence** | capacidad de cubrir necesidades con recursos e ingresos sin dependencia inmediata de un único empleador. |
-| **follow-up** | secuencia deliberada después del primer contacto. |
-| **founder plan** | hipótesis de creación y validación de negocio. |
-| **income concentration** | proporción de ingreso atribuida a una sola fuente. |
-| **income portfolio** | conjunto de fuentes de ingreso gestionadas como cartera. |
-| **independence plan** | portafolio de capacidades ingresos runway y opciones profesionales. |
-| **IP** | activos protegibles o controlables mediante derechos y contratos. |
-| **kill criterion** | condición que justifica dejar una iniciativa. |
-| **leading activity** | actividad controlable que precede resultados. |
-| **license** | permiso para usar un activo bajo condiciones. |
-| **logo churn** | pérdida de clientes en un periodo. |
-| **maintenance burden** | costo continuo de actualización soporte y compatibilidad. |
-| **MRR** | ingreso recurrente mensual normalizado. |
-| **net revenue retention** | retención de ingresos incluyendo expansión y contracción. |
-| **operating system** | conjunto de cadencias metrics y decision rights que gobiernan ejecución. |
-| **optionality** | conjunto de alternativas reales disponibles sin compromiso inmediato. |
-| **owner plan** | diseño para reducir dependencia y asignar capital. |
-| **personal runway** | meses de gastos esenciales cubiertos por liquidez personal. |
-| **pipeline** | candidatos y oportunidades por etapa. |
-| **productized service** | servicio con alcance proceso y precio relativamente estandarizados. |
-| **professional ethics** | principios y obligaciones que guían conducta responsable. |
-| **professional independence** | capacidad de generar oportunidades por reputación y capacidades. |
-| **proof** | evidencia verificable de resultados. |
-| **prospecting** | búsqueda activa de clientes potenciales. |
-| **recurring income** | ingreso que se repite bajo contratos o comportamiento sostenido. |
-| **referral** | introducción desde una relación de confianza. |
-| **reputation** | expectativa del mercado sobre calidad y fiabilidad. |
-| **reputation risk** | posible pérdida de confianza por conducta o percepción. |
-| **retainer** | fee recurrente por acceso o capacidad definida. |
-| **runway** | meses que pueden financiarse con liquidez disponible. |
-| **sales cadence** | ritmo recurrente de actividades comerciales. |
-| **scope** | fronteras explícitas de trabajo y entregables. |
-| **scope boundary** | límite que distingue incluido de adicional. |
-| **scope competence** | límite de trabajos que puedes realizar responsablemente con tus capacidades. |
-| **service package** | conjunto explícito de entregables y condiciones. |
-| **skill** | capacidad ejecutable desarrollada por práctica. |
-| **standard delivery** | workflow repetible para producir resultado. |
-| **value pricing** | precio relacionado con valor y riesgo más que horas. |
+| **Acceso al canal** | Posibilidad de llegar a quien necesita la solución. |
+| **Actividad semanal** | Tarea recurrente que sostiene una apuesta. |
+| **Activo de prueba** | Evidencia de que sabes resolver el problema. |
+| **Activo mínimo de pago** | Versión más pequeña del producto que alguien compra. |
+| **Afirmación verificable** | Declaración sobre resultados que se puede respaldar. |
+| **Alcance** | Qué se entrega, qué no y bajo qué supuestos. |
+| **Antifragilidad** | Propiedad de mejorar con la volatilidad. |
+| **Apuesta de 90 días** | Experimento acotado que prueba una hipótesis. |
+| **Burn neto** | Salida de caja mensual después de ingresos. |
+| **Calificación** | Filtro previo para aceptar o rechazar un cliente. |
+| **Cancelación de clientes (logo churn)** | Proporción de clientes que se va en un período. |
+| **Capacidad** | Número de paquetes que se pueden entregar con calidad. |
+| **Capacidad monetizable** | Habilidad que resuelve un problema por el que alguien paga. |
+| **Carga de mantención** | Tiempo y costo de actualizar, atender y defender el producto. |
+| **Cobertura de liderazgo** | Proporción de roles críticos con responsable y sucesor. |
+| **Cohorte** | Grupo de clientes que comenzó en el mismo período. |
+| **Concentración** | Dependencia de pocas fuentes, clientes o sectores. |
+| **Conflicto de interés** | Situación en que un interés propio puede sesgar el consejo. |
+| **Contribución por hora** | Margen de una fuente dividido por las horas que consume. |
+| **Conversación nueva** | Contacto relevante que recibe respuesta. |
+| **Conversión a pago** | Proporción de visitantes que compra. |
+| **Costo de adquisición (CAC)** | Costo de conseguir un cliente nuevo. |
+| **Defensa** | Presentación sometida a preguntas para demostrar criterio. |
+| **Diferenciación** | Razón por la que te elegirían a ti. |
+| **Disparador** | Condición que activa una acción predefinida. |
+| **Embudo** | Etapas desde el contacto hasta la venta. |
+| **Envolvente de aceptación** | Condiciones que debe cumplir un caso para entrar al paquete. |
+| **Escalamiento** | Paso a una instancia superior o a un especialista. |
+| **Escenario adverso** | Proyección con ingresos menores y gastos mayores. |
+| **Excepción de alcance** | Caso que requiere trabajo fuera del paquete. |
+| **Factor común** | Variable que afecta a varias fuentes a la vez. |
+| **Falacia de la planificación** | Tendencia a subestimar tiempo y costo de las tareas. |
+| **Frecuencia del problema** | Cuántas veces ocurre el problema en el mercado. |
+| **Impulsores de valor** | Variables que más mueven el valor de la empresa. |
+| **Incidente** | Evento que afecta a un cliente, a datos o a la reputación. |
+| **Independencia económica** | Capacidad de cubrir gastos sin depender de una sola fuente. |
+| **Ingreso recurrente** | Ingreso que se repite con alta probabilidad. |
+| **Licencia** | Permiso de uso que se otorga al comprador. |
+| **Límite de competencia** | Frontera entre lo que se puede hacer con rigor y lo que requiere otro especialista. |
+| **Motor de ingresos** | Fuente que sostiene el portafolio. |
+| **MRR** | Ingreso recurrente mensual contratado. |
+| **Opcionalidad** | Alternativas que permanecen abiertas ante un cambio. |
+| **Oportunidad calificada** | Caso con problema, presupuesto, decisor y plazo. |
+| **Parte interesada** | Persona u organización afectada por tu trabajo. |
+| **Participación de la mayor fuente** | Porcentaje del ingreso que viene de la fuente principal. |
+| **Perspectiva** | Observación nueva que cambia cómo el cliente ve su problema. |
+| **Piso de caja** | Nivel mínimo que no se cruza. |
+| **Pista de caja** | Meses de operación con la caja actual. |
+| **Pista personal (runway)** | Meses que se sostiene el nivel de gasto sin ingresos. |
+| **Portafolio de ingresos** | Conjunto de fuentes de ingreso de una persona o empresa. |
+| **Precio por valor** | Honorarios ligados al valor del resultado para el cliente. |
+| **Reasignación** | Cambio de esfuerzo entre apuestas según evidencia. |
+| **Referencia** | Testimonio o contacto que respalda el trabajo. |
+| **Rendimiento por hora** | Ingreso menos costos directos, dividido por horas dedicadas. |
+| **Resultado a 12 meses** | Estado medible que se quiere alcanzar en un año. |
+| **Retención neta de ingresos (NRR)** | Ingresos de clientes existentes tras bajas, reducciones y ampliaciones. |
+| **Retiro de una fuente** | Decisión de abandonar una línea. |
+| **Ritmo de ingresos (run rate)** | Ingreso mensual actual proyectado al año. |
+| **Runway (pista)** | Meses que dura la caja al ritmo de consumo actual. |
+| **Rúbrica** | Criterios y pesos con que se evalúa la defensa. |
+| **Separación personal-empresa** | Cuentas y reglas distintas para cada ámbito. |
+| **Servicio productizado** | Servicio con alcance, proceso y precio estandarizados. |
+| **Sistema semanal de ventas** | Rutina constante de actividades comerciales medidas. |
+| **Solicitud espontánea** | Petición que llega sin que se haya ofrecido el servicio. |
+| **Tarifa efectiva** | Ingreso por hora total trabajada, incluidas ventas y administración. |
+| **Tasa de devolución** | Proporción de ventas devueltas. |
+| **Tasa de propuesta** | Proporción de oportunidades que llegan a propuesta. |
+| **Tasa de éxito de propuestas** | Proporción de propuestas que se aceptan. |
+| **Tesis personal** | Afirmación central sobre qué empresa eres y qué decides. |
+| **Titularidad** | Quién es dueño de los derechos del producto. |
+| **Utilización** | Proporción de horas disponibles que se factura. |
+| **Valor de vida (LTV)** | Margen total esperable de un cliente. |
 
 ## 📦 Qué queda como evidencia
 

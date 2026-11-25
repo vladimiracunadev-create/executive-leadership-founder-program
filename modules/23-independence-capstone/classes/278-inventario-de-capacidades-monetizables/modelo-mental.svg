@@ -1,83 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g278 d-g278" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g278">Ficha visual de la clase 278: Inventario de capacidades monetizables</title>
-<desc id="d-g278">Conceptos: skill; domain knowledge; proof; reputation; capability stack. Método: inventariar experiencia y resultados → extraer problemas resueltos → mapear proof y network → combinar capabilities por demanda → probar con conversaciones y ofertas.</desc>
-<defs><marker id="p-g278" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 278 · Inventario de capacidades monetizables</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 23 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >skill</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad ejecutable desarrollada por práctica</text>
-<circle cx="38" cy="170" r="5" fill="#59636e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >domain knowledge</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >comprensión contextual de una industria o problema</text>
-<circle cx="38" cy="228" r="5" fill="#59636e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >proof</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evidencia verificable de resultados</text>
-<circle cx="38" cy="286" r="5" fill="#59636e"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reputation</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >expectativa del mercado sobre calidad y fiabilidad</text>
-<circle cx="38" cy="344" r="5" fill="#59636e"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >capability stack</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >combinación de habilidades cuyo conjunto es más valioso</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >que cada pieza</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#59636e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inventariar</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >experiencia y</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resultados</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#59636e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >extraer problemas</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resueltos</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#59636e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear proof y</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >network</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#59636e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >combinar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capabilities por</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >demanda</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#59636e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >probar con</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >conversaciones y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >ofertas</text>
-<path d="M638,139 L656,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g278)"/>
-<path d="M826,139 L844,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g278)"/>
-<path d="M929,176 L929,222" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g278)"/>
-<path d="M844,259 L826,259" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g278)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g278)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >proof assets</text>
-<rect x="146.8" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="159.8" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="170.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >inbound requests</text>
-<rect x="293.2" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="306.2" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="317.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >problem frequency</text>
-<rect x="446.5" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="459.5" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="470.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >willingness to pay</text>
-<rect x="606.7" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="619.7" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="630.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >network reach</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >en posicionamiento.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s278 d-s278" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s278">Clase 278 · Inventario de capacidades que se pueden monetizar</title>
+<desc id="d-s278">Cinco partes del inventario de capacidades: experiencia y resultados, problemas resueltos, pruebas y red, combinaciones por demanda, y conversaciones y ofertas.</desc>
+<defs><marker id="p-s278" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 278 · Inventario de capacidades que se pueden monetizar</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Drucker · Wasserman · Aulet · Newport</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Parte del inventario</text>
+<text x="298.3" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué se registra</text>
+<text x="691.9" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Cómo se contrasta</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Experiencia y resultados</text>
+<text x="298.3" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Qué hiciste y qué lograste con cifras.</text>
+<text x="691.9" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Documentos y testimonios.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Problemas resueltos</text>
+<text x="298.3" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Qué problema repetido sabes resolver.</text>
+<text x="691.9" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Frecuencia y quién paga por él.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Pruebas y red</text>
+<text x="298.3" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Casos, referencias, publicaciones y contactos.</text>
+<text x="691.9" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Solicitudes que llegan solas.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Combinaciones por demanda</text>
+<text x="298.3" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Qué capacidades juntas valen más.</text>
+<text x="691.9" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Competencia y canal accesible.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Conversaciones y ofertas</text>
+<text x="298.3" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Qué se probó con clientes reales.</text>
+<text x="691.9" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Interés, propuestas y pagos.</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >No toda habilidad que se disfruta tiene un mercado accesible. El inventario se contrasta con demanda, competencia y canal antes de</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >invertir meses en posicionarse.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Una capacidad sin prueba ni demanda es solo una preferencia.</text>
 </svg>

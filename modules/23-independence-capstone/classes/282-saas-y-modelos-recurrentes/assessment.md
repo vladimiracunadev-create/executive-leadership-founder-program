@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **MRR** de **ARR** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **logo churn** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **net revenue retention** con **CAC payback**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué hace recurrente a un ingreso?
+2. ¿Cómo se calcula el NRR?
+3. ¿Por qué un NRR cercano a 100 % puede engañar?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Micro-SaaS llega a USD 10k MRR, pero pierde 7% de clientes mensual y compra ads con payback de 20 meses. Crecimiento bruto oculta fuga.
+**Caso:** Una fundadora ofrece un servicio de mantenimiento preventivo de equipos de laboratorio con una cuota mensual de 90.000 pesos por equipo. Tiene 120 clientes con 3 equipos en promedio (MRR de 32,4 millones). En el último mes: 9 clientes nuevos (a 2 equipos en promedio), 5 clientes cancelaron (a 3 equipos), 4 ampliaron en un equipo cada uno y 3 redujeron un equipo cada uno. Gastó 5,4 millones en ventas y marketing, y su margen bruto es de 62 % por los costos de visitas técnicas. Una cohorte de 20 clientes de hace 8 meses conserva 13. Un cliente grande, con 40 equipos, pide un descuento del 20 % a cambio de un contrato anual. Un fondo le ofrece financiar su crecimiento con la condición de alcanzar un MRR de 60 millones en 12 meses.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir recurring job → modelar pricing y unit economics → construir minimal reliable service → medir cohort retention → optimizar acquisition y expansion después de fit**. Debes utilizar o diseñar cómo obtener **MRR, NRR, logo churn**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de decisión del fundador** que contenga: (a) el puente de MRR del mes con los datos del caso; (b) el cálculo de NRR, cancelación de clientes y de ingresos; (c) el valor de vida, el CAC y la recuperación con la información disponible y su sensibilidad; (d) el análisis de la cohorte de 20 clientes; (e) la evaluación del descuento del cliente grande y de la propuesta del fondo; (f) los límites del análisis y las verificaciones contractuales y tributarias pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: No todo problema necesita una suscripción: si el uso es episódico, el precio recurrente puede generar cancelación y desconfianza.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

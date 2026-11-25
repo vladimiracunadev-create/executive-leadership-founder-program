@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Productos digitales y propiedad intelectual desacoplan parte del ingreso del tiempo mediante software, cursos, templates, datasets o licencias. El desafío es distribución, mantenimiento, soporte, copyright y licensing y evidencia de que existe un mercado, no solo producir archivos.
+Un producto digital —un curso, una plantilla, un libro, un conjunto de herramientas, una guía, un software pequeño— promete lo que ningún servicio puede: **venderse muchas veces sin que cada venta consuma las horas del autor**. Por eso seduce a quien busca independencia: «lo creo una vez y lo vendo mil veces». La promesa es parcialmente cierta y parcialmente peligrosa. Cierta, porque el costo de producir la copia adicional es casi cero. Peligrosa, porque el costo real está en otras partes: **encontrar compradores**, **convencerlos de pagar**, **atender consultas y reclamos**, **actualizar el producto**, **proteger su reputación y su propiedad intelectual** y **cumplir las normas** de comercio electrónico, consumo, datos personales y tributación. Muchos productos digitales fracasan no por mala calidad, sino por no resolver un problema por el que haya demanda o por no tener una vía de distribución. Digital no significa pasivo.
 
-La salida de esta parte es **construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **producto digital y propiedad intelectual** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el proceso como una escalera: elegir un problema repetible, crear un **activo mínimo de pago**, definir propiedad intelectual y licencia, probar distribución y precio, y medir soporte y mantención para iterar. Se apoya en Ries (aprender con el producto mínimo y métricas accionables), McKeown (concentrarse en lo esencial), Wasserman (decisiones sobre quién crea, quién posee y cómo se reparte el valor), Gerber (un negocio como sistema) y Drucker (resultados que importan). **No es asesoría legal**: los derechos de autor, las licencias, las normas de consumo y de datos personales y los efectos tributarios se verifican con asesoría y fuentes oficiales vigentes. Al terminar sabrás validar la demanda de un producto antes de construirlo, calcular su economía por visita y por comprador, estimar el punto de equilibrio y el costo de mantenerlo, y definir quién es titular y qué licencia se otorga.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `digital product`, `IP`, `license`, `distribution`, `maintenance burden` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de independencia.
-3. **Aplicar** la secuencia **1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** paid conversion, refund rate, support time sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Elegir** un problema repetible con demanda observable.
+2. **Diseñar** un activo mínimo de pago y probarlo con compradores reales.
+3. **Definir** titularidad y licencia, y revisar los derechos de terceros que contiene.
+4. **Calcular** conversión, devoluciones, comisiones y soporte, y su punto de equilibrio.
+5. **Modelar** el costo de mantención antes de ampliar el catálogo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define digital product y IP sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con paid conversion y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué problema repetido de tus clientes podría resolverse con un producto? |
+| 20–60 min | Problema, activo mínimo, propiedad intelectual, distribución, precio, soporte y mantención. |
+| 60–105 min | Ejemplo trabajado: economía por mil visitas, punto de equilibrio y costo de mantención. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **digital product** | activo digital reproducible vendido o licenciado | Distingue un hecho compatible y otro que lo refute. |
-| **IP** | activos protegibles o controlables mediante derechos y contratos | Distingue un hecho compatible y otro que lo refute. |
-| **license** | permiso para usar un activo bajo condiciones | Distingue un hecho compatible y otro que lo refute. |
-| **distribution** | canal para llegar de forma repetible a compradores | Distingue un hecho compatible y otro que lo refute. |
-| **maintenance burden** | costo continuo de actualización soporte y compatibilidad | Distingue un hecho compatible y otro que lo refute. |
+| **Activo mínimo de pago** | Versión más pequeña del producto que alguien compra. | Pagos reales con alcance acotado. |
+| **Licencia** | Permiso de uso que se otorga al comprador. | Términos de uso, personal o de equipo. |
+| **Titularidad** | Quién es dueño de los derechos del producto. | Autor, empresa o cedente identificados. |
+| **Conversión a pago** | Proporción de visitantes que compra. | Compradores ÷ visitantes. |
+| **Tasa de devolución** | Proporción de ventas devueltas. | Devoluciones ÷ ventas. |
+| **Carga de mantención** | Tiempo y costo de actualizar, atender y defender el producto. | Horas por mes. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 281: 1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate](modelo-mental.svg)
+![Escalera de cinco peldaños de un producto digital: problema repetible, activo mínimo de pago, propiedad intelectual y licencia, distribución y precio, y soporte y mantención.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Productos digitales y propiedad intelectual desacoplan parte del ingreso del tiempo mediante software, cursos, templates, datasets o licencias. El desafío es distribución, mantenimiento, soporte, copyright y licensing y evidencia de que existe un mercado, no solo producir archivos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo.**
+**Cómo leer el diagrama.** Una escalera de cinco peldaños. **Problema repetible**: un problema que muchas personas tienen y pagan por resolver. **Activo mínimo de pago**: la versión más pequeña que alguien compre. **Propiedad intelectual y licencia**: qué se vende, qué se licencia y a nombre de quién. **Distribución y precio**: cómo llega a compradores y cuánto pagan. **Soporte y mantención**: el costo continuo de atender y actualizar. La nota afirma que digital no significa pasivo y que se modela la carga futura antes de ampliar el catálogo; el pie, que se mide conversión a pago, devoluciones y tiempo de soporte.
 
 ## 📖 Desarrollo
 
-### 1. digital product: mecanismo central
+### 1. Elegir un problema repetible
 
-**digital product** se entiende aquí como **activo digital reproducible vendido o licenciado**. Esta es la pieza causal o estructural desde la que se inicia **producto digital y propiedad intelectual**: antes de elegir problema repetible, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El punto de partida no es «qué producto puedo hacer», sino **qué problema repetido tienen muchas personas y están dispuestas a pagar por resolver**. La fuente más confiable es el trabajo con clientes (clases 278 a 280): preguntas que se repiten, tareas que se explican una y otra vez, plantillas que se comparten, errores comunes. Se valida con conversaciones, con solicitudes espontáneas y con señales de compra (ya gastan en alternativas, ya buscan soluciones). Ries insiste en validar la demanda antes de construir: la primera versión de un producto digital puede ser una **página de preventa**, un documento de pocas páginas o una sesión en vivo, que se vende antes de ser un producto terminado, con honestidad sobre lo que se entregará. Si nadie compra la promesa, tampoco comprará una versión más pulida.
 
-La lectura rectora de este bloque es Peter F. Drucker — *The Effective Executive*. Su aporte se usa para examinar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **paid conversion**; regístrala con periodo, unidad, población y baseline.
+### 2. Un activo mínimo de pago
 
-Relaciona el mecanismo con **IP**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **activo mínimo de pago** es la versión más pequeña que **alguien paga**: una plantilla, una guía de 20 páginas, un taller en vivo grabado, un conjunto de hojas de cálculo. Su objetivo es doble: **aprender** (qué valoran, qué falta, qué precio aceptan) y **generar ingresos** que financien la siguiente versión. Se define su **alcance**, su **promesa verificable** (qué logrará quien lo use), su **formato**, su **precio** y sus **condiciones** (política de devolución, soporte incluido, actualizaciones). McKeown recomienda concentrarse en lo esencial: un buen producto mínimo hace una cosa bien. Se evitan los proyectos de seis meses sin ventas intermedias. Se registran las **preguntas de los compradores**, que alimentan mejoras y contenido nuevo.
 
-### 2. IP: frontera conceptual y error de clasificación
+### 3. Propiedad intelectual y licencia
 
-**Definición operacional:** activos protegibles o controlables mediante derechos y contratos. Su valor está en distinguirlo de **digital product** y **license**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un producto digital es un conjunto de **derechos**: sobre el contenido, el código, el diseño, la marca y los datos. Preguntas esenciales: **¿quién es el titular?** (el autor, la empresa, un cedente; ver la clase 261 sobre titularidad y cesiones), **¿incluye material de terceros?** (imágenes, fuentes tipográficas, música, código abierto o con licencia, extractos de obras, plantillas ajenas), **¿qué licencia se otorga al comprador?** (uso personal, uso en un equipo, uso comercial, reventa, modificación), **¿qué se prohíbe?** (copiar y revender, compartir credenciales) y **¿cómo se protege?** (términos de uso, marcas de agua, control de accesos, monitoreo). Las licencias de terceros pueden restringir el uso comercial: se revisan antes de vender. Los contratos y las normas de propiedad intelectual y de consumo se verifican con asesoría y fuentes oficiales.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **IP** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **refund rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Distribución: cómo se encuentra a los compradores
 
-Antes de crear minimum paid asset, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El mayor obstáculo de un producto digital es la **distribución**: que quienes tienen el problema sepan que existe la solución. Canales posibles: **audiencia propia** (lista de correos, redes, comunidad, charlas), **clientes y red existentes**, **alianzas** con quienes ya atienden a ese público, **marketplaces** de terceros (con comisiones y reglas propias), **búsqueda** y **publicidad pagada**. Newport (clase 278) y Aulet destacan la importancia de reputación y de definir un cliente específico; sin audiencia, un producto excelente no se vende solo. Se prueba un canal a la vez, se mide su costo por visita y por comprador, y se aprende. Un error frecuente es **lanzar sin audiencia ni plan de distribución**. Las comunicaciones comerciales deben respetar el consentimiento y la normativa aplicable.
 
-### 3. license: operacionalización y medición
+### 5. Precio, conversión y devoluciones
 
-**license** significa **permiso para usar un activo bajo condiciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El precio de un producto digital se fija según el **valor del resultado** para el comprador y las **alternativas** que tiene, no según el costo (que es casi nulo). Se prueban **dos o tres precios** y **niveles** (versión básica, versión con acompañamiento). Las métricas clave son: **conversión a pago** (compradores ÷ visitantes de la página), **tasa de devolución**, **ingreso por visitante**, **costo de adquisición** y **margen después de comisiones de pago**. Una tasa de devolución alta indica que la promesa no se cumple o que se vendió a la persona equivocada. Ries y su enfoque de **métricas accionables** sugieren evitar cifras de vanidad (visitas, seguidores) y mirar lo que cambia decisiones: conversión, devoluciones, repetición de compra, recomendaciones. Los precios y las condiciones deben respetar las normas de protección al consumidor y de comercio electrónico aplicables.
 
-Michael E. Gerber — *The E-Myth Revisited* orienta este bloque mediante **diferencia entre técnico, manager y empresario; sistematización del negocio**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **support time**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Soporte, mantención y reputación
 
-Al llegar a definir ip y license, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un producto vendido genera **obligaciones**: responder consultas, resolver problemas de acceso, atender reclamos, corregir errores, actualizar contenido que envejece, adaptar a cambios de plataformas y defender la reputación frente a críticas o copias no autorizadas. Se estima la **carga de soporte** por comprador (minutos o horas) y la **carga de mantención** mensual, y se valora con el costo de oportunidad del tiempo. Se diseñan **autoservicios** (preguntas frecuentes, tutoriales, comunidad) para reducir el soporte. Gerber recuerda que un negocio sano es un sistema; un catálogo de productos sin sistema de soporte se vuelve una carga. Antes de ampliar el catálogo se pregunta: ¿puedo mantener los productos que ya tengo con calidad? Un producto abandonado daña la marca.
 
-### 4. distribution: trade-offs y efectos de segundo orden
+### 7. Iterar, ampliar o cerrar
 
-**Definición:** canal para llegar de forma repetible a compradores. Este concepto obliga a abandonar la idea de que **producto digital y propiedad intelectual** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de probar distribution y price, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Eric Ries — *The Lean Startup* aporta una lente sobre **build-measure-learn, MVP y aprendizaje validado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **distribution CAC** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **producto digital y propiedad intelectual**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **distribution** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. maintenance burden: gobernanza, límites e integración
-
-**maintenance burden** se define como **costo continuo de actualización soporte y compatibilidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Greg McKeown — *Essentialism* se utiliza para estudiar **perspectiva de Prioridades aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir support y maintenance e iterate, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **digital product**, **IP**, **license**, **distribution** y **maintenance burden** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **producto digital y propiedad intelectual** no consiste en sumar cinco definiciones. Empieza por **digital product**, contrasta **IP** con **license**, incorpora **distribution** como restricción o mecanismo y usa **maintenance burden** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Con los datos de conversión, devoluciones, soporte y mantención se decide: **iterar** (mejorar el producto o la página), **ampliar** (versión superior, producto complementario, formato distinto), **combinar** con servicios (el producto como puerta de entrada a consultoría o acompañamiento) o **cerrar** (retirarlo con aviso y cumpliendo obligaciones con compradores). Drucker aconseja **abandonar sistemáticamente** lo que ya no produce resultados para liberar recursos. Wasserman señala que las decisiones sobre quién crea, quién posee y cómo se reparte el valor tienen consecuencias a largo plazo; si el producto se desarrolla con socios o colaboradores, se acuerdan por escrito titularidad, reparto de ingresos y responsabilidades. Se documenta todo y se revisa trimestralmente.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **producto digital y propiedad intelectual** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **producto digital y propiedad intelectual** ayuda a desafiar? |
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **producto digital y propiedad intelectual** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **producto digital y propiedad intelectual** ayuda a desafiar? |
-| Greg McKeown — *Essentialism* | perspectiva de Prioridades aplicada al problema de la clase | ¿Qué supuesto de **producto digital y propiedad intelectual** ayuda a desafiar? |
-
-En **producto digital y propiedad intelectual**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **digital product**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ries | Producto mínimo, validación y métricas accionables. | No define licencias. | ¿Qué prueba de pago valida mi idea? |
+| McKeown | Concentrarse en lo esencial. | No calcula economía. | ¿Qué es lo único que mi producto debe hacer bien? |
+| Wasserman | Decisiones sobre creación, propiedad y reparto del valor. | No cubre el marketing. | ¿Quién es titular y cómo se reparte el valor? |
+| Gerber | El negocio como sistema. | No trata propiedad intelectual. | ¿Qué sistema sostiene el soporte? |
+| Drucker | Abandonar sistemáticamente lo que no produce. | No es guía de producto digital. | ¿Qué producto debería dejar de mantener? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Experto crea curso de 40 horas antes de validar audiencia. Lanza sin canal y vende cinco copias pese a calidad alta.
+**Situación (hipotética).** Una consultora en finanzas para pequeños negocios crea un paquete de plantillas y guía de «control de caja para pymes» a un precio de 59.000 pesos. Quiere saber si el producto se paga y cuánto cuesta mantenerlo. Todos los valores son **supuestos**; los impuestos, comisiones y normas de consumo se verifican en fuentes oficiales y con los proveedores.
 
-**Paso 1 — elegir problema repetible.** La gerencia escribe primero el supuesto asociado a **digital product** y evita convertirlo en hecho. Luego busca **paid conversion** para contrastarlo en el caso de **producto digital y propiedad intelectual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos de prueba por cada 1.000 visitas a la página de venta.**
 
-**Paso 2 — crear minimum paid asset.** La gerencia escribe primero el supuesto asociado a **IP** y evita convertirlo en hecho. Luego busca **refund rate** para contrastarlo en el caso de **producto digital y propiedad intelectual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Valor |
+|---|---|
+| Precio | 59.000 |
+| Conversión a pago | 2,0 % |
+| Tasa de devolución | 6 % |
+| Comisión de pagos | 3,5 % |
+| Soporte por comprador | 0,5 hora, valorada a 40.000 pesos |
+| Costo de tráfico pagado | 250 pesos por visita |
 
-**Paso 3 — definir IP y license.** La gerencia escribe primero el supuesto asociado a **license** y evita convertirlo en hecho. Luego busca **support time** para contrastarlo en el caso de **producto digital y propiedad intelectual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Economía por 1.000 visitas.**
 
-**Paso 4 — probar distribution y price.** La gerencia escribe primero el supuesto asociado a **distribution** y evita convertirlo en hecho. Luego busca **distribution CAC** para contrastarlo en el caso de **producto digital y propiedad intelectual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Compradores: 1.000 × 2,0 % = **20**.
+- Ingresos brutos: 20 × 59.000 = **1.180.000**.
+- Devoluciones: 6 % × 1.180.000 = **70.800**; ingresos netos de devoluciones: **1.109.200**.
+- Comisiones de pago: 3,5 % × 1.109.200 = **38.822**; ingresos netos de comisiones: **1.070.378**.
+- Soporte: 20 compradores × 0,5 horas × 40.000 = **400.000**.
+- Tráfico: 1.000 × 250 = **250.000**.
+- **Resultado: 1.070.378 − 400.000 − 250.000 = 420.378 pesos por 1.000 visitas.**
 
-**Paso 5 — medir support y maintenance e iterate.** La gerencia escribe primero el supuesto asociado a **maintenance burden** y evita convertirlo en hecho. Luego busca **maintenance hours** para contrastarlo en el caso de **producto digital y propiedad intelectual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Punto de equilibrio de conversión.** Por comprador, el ingreso neto de devoluciones y comisiones es 59.000 × 0,94 × 0,965 = **53.519**; menos el soporte de 20.000: **33.519**. Cada visita cuesta 250 pesos. Conversión de equilibrio: 250 ÷ 33.519 = **0,75 %**. Con 2,0 % hay un margen de seguridad de 2,7 veces (2,0 ÷ 0,75).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **producto digital y propiedad intelectual**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Carga de mantención.** Actualizar las plantillas y la guía (cambios de herramientas, ajustes) requiere 8 horas al mes, a 40.000 pesos: **320.000 mensuales**. Compradores necesarios por mes para cubrirla: 320.000 ÷ 33.519 = 9,5, es decir **10 compradores al mes**. Con 2,0 % de conversión, eso exige 500 visitas al mes (10 ÷ 0,02). Si la audiencia o el tráfico generan solo 300 visitas mensuales, el producto no cubre su mantención: 6 compradores × 33.519 = 201.114, menos 320.000 = **−118.886 al mes**.
+
+**Sensibilidad.** Si la tasa de devolución fuera de 15 %: ingreso neto por comprador = 59.000 × 0,85 × 0,965 = 48.395; menos soporte 20.000 = 28.395; conversión de equilibrio = 250 ÷ 28.395 = **0,88 %**. Si el soporte fuera de 1,5 horas por comprador (60.000): 53.519 − 60.000 = −6.481 por comprador: **el producto se vuelve inviable con ese nivel de soporte**. Esto justifica invertir en autoservicio y en claridad de la promesa.
+
+**Propiedad intelectual.** Revisión: el contenido es de la consultora; las plantillas incluyen una fuente tipográfica con licencia de uso personal (debe reemplazarse o licenciarse); dos gráficos fueron hechos por un freelance sin cesión (se firma una cesión); se define una licencia de uso para un negocio (no reventa), con versión de equipo a 129.000 pesos. Los términos de uso y la política de devolución se revisan con asesoría.
+
+**Distribución.** El producto se ofrece primero a los 600 contactos de su lista (compra 3,5 % = 21 compradores), luego a una comunidad de emprendedores asociada (comisión de 20 % por venta) y con tráfico pagado en pruebas de 300 visitas. Se mide cada canal por separado.
+
+**Decisión.** Lanzar la versión mínima con los cambios de licencias y la cesión del diseño, medir conversión y devoluciones en 90 días, producir material de autoservicio para bajar el soporte a 0,25 hora por comprador, no crear un segundo producto hasta cubrir la mantención del primero y evaluar una versión de equipo.
+
+**Cuidados.** Las cifras son supuestos; las normas de consumo, comercio electrónico, datos personales y tributación se consultan en fuentes oficiales y con asesoría.
+
+**Qué muestra.** (1) La economía por visitas y por comprador indicó el punto de equilibrio. (2) La mantención exige un volumen mínimo de ventas. (3) Un problema de licencias de terceros debe resolverse antes de vender.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **digital product** | activo digital reproducible vendido o licenciado | Cuando paid conversion es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **IP** | activos protegibles o controlables mediante derechos y contratos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Producto digital frente a servicio productizado.** El producto digital se entrega casi sin tiempo humano por cliente; el servicio productizado requiere tiempo de entrega por cliente. El primero escala más, pero requiere distribución, soporte y mantención.
 
-**Frontera de aplicación:** Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo.
+**Límites.** Digital no significa pasivo: el producto requiere marketing, soporte, actualización y defensa de la reputación. Las licencias de terceros y las normas de consumo y de datos personales deben revisarse. No es asesoría legal ni tributaria. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre producto digital y propiedad intelectual |
+| Nivel | Cómo se relaciona con el producto digital |
 |---|---|
-| **Profesional** | usa **producto digital y propiedad intelectual** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **digital product** y **IP** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta paid conversion con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si producto digital y propiedad intelectual cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de producto digital y propiedad intelectual reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **producto digital y propiedad intelectual** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Contribuye con conocimiento y respeta la titularidad de lo creado. |
+| **Jefe / Team Lead** | Convierte procesos del equipo en activos reutilizables. |
+| **Gerente** | Gestiona el catálogo, el soporte y la mantención. |
+| **CEO / Director** | Decide la inversión en productos y su relación con servicios. |
+| **Founder / Owner** | Es titular de los activos, define licencias y asume la carga futura. |
 
 ## 🏢 Caso ejecutivo
 
-Experto crea curso de 40 horas antes de validar audiencia. Lanza sin canal y vende cinco copias pese a calidad alta.
+Un arquitecto independiente crea un curso en línea de «presupuestos de obra para propietarios» con 14 horas de video. Lo vendió a 89.000 pesos en una preventa a 80 personas de su red (ingresos de 7,1 millones), y luego lo lanzó públicamente: en 3 meses, 12.000 visitas a la página con conversión de 0,6 %. Devoluciones del 11 %; soporte de 1,2 horas por comprador (a 35.000 pesos la hora); comisiones de plataforma del 8 %; publicidad por 1,2 millones en el trimestre. Usó música y fotos de bancos de imágenes con licencia personal, y un colega editó los videos sin contrato. Tiene tres cursos más en mente. Los cambios de normas y precios de materiales hacen que el contenido se actualice cada 6 meses con 40 horas de trabajo. Dedicó 300 horas al curso.
 
-Entrega un **decision brief de producto digital y propiedad intelectual** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de evidencia de producto** que contenga: (a) la economía del trimestre con ingresos, devoluciones, comisiones, soporte y publicidad; (b) el punto de equilibrio de conversión y de ventas mensuales para cubrir la mantención; (c) el análisis de licencias y titularidad con las acciones necesarias; (d) los canales de distribución y las pruebas propuestas; (e) la decisión sobre los tres cursos adicionales; (f) los límites del análisis y las verificaciones legales y tributarias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **producto digital y propiedad intelectual** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta paid conversion, refund rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe el problema repetible y la evidencia de demanda de tu producto.
+2. Define el activo mínimo de pago, su promesa verificable y su precio.
+3. Revisa titularidad y licencias de todos los materiales y haz una lista de acciones.
+4. Calcula economía por mil visitas, conversión de equilibrio y carga de mantención.
+5. Diseña una prueba de distribución en un canal con una meta y un plazo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar digital product y IP como sinónimos | Se pierde la distinción entre “activo digital reproducible vendido o licenciado” y “activos protegibles o controlables mediante derechos y contratos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir support y maintenance e iterate” | Se saltó “elegir problema repetible” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. elegir problema repetible → 2. crear minimum paid asset → 3. definir IP y license → 4. probar distribution y price → 5. medir support y maintenance e iterate y marca el primer supuesto no demostrado. |
-| Optimizar solo paid conversion | La métrica local sustituyó al resultado del sistema | Contrástala con refund rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre producto digital y propiedad intelectual | Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo. |
-| No fijar revisión | Una decisión sobre producto digital y propiedad intelectual se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Construir antes de validar | Entusiasmo por producir | Preventa o prueba de pago primero. |
+| Ignorar la distribución | Se piensa que el producto se vende solo | Un canal a la vez con métricas. |
+| Material de terceros sin licencia adecuada | Se usa lo que está disponible | Revisar licencias y reemplazar. |
+| Soporte sin límite | Se atiende todo a mano | Autoservicio y política clara. |
+| Ampliar el catálogo sin capacidad | Se quiere escala | Modelar mantención antes de crear más. |
+| Medir solo visitas | Es lo más visible | Medir conversión, devoluciones y soporte. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **digital product** y **IP** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **license** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **elegir problema repetible → crear minimum paid asset** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **paid conversion** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **producto digital y propiedad intelectual**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo.**?
+1. ¿Qué es un activo mínimo de pago?
+2. ¿Qué incluye revisar la propiedad intelectual de un producto digital?
+3. ¿Qué métricas importan en un producto digital?
+4. ¿Cómo se calcula la conversión de equilibrio?
+5. ¿Por qué la mantención limita el catálogo?
+6. ¿Qué indica una alta tasa de devolución?
+7. ¿Qué límite tiene la idea de «ingreso pasivo»?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La versión más pequeña del producto que alguien compra, para aprender y generar ingresos.
+2. Titularidad, material de terceros, licencia otorgada, prohibiciones y protección.
+3. Conversión a pago, devoluciones, ingreso por visitante, costo de adquisición, margen y tiempo de soporte.
+4. Costo por visita dividido por el margen neto por comprador tras devoluciones, comisiones y soporte.
+5. Porque cada producto exige tiempo de soporte y actualización que debe cubrirse con ventas.
+6. Que la promesa no se cumple o que se vendió a la persona equivocada.
+7. Digital no es pasivo: requiere marketing, soporte, actualización y defensa de la reputación.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/281-producto-digital-y-propiedad-intelectual/`:
 
-- `product-evidence-brief.md` con el problema específico de **producto digital y propiedad intelectual**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **producto digital y propiedad intelectual** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **digital product**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Experto crea curso de 40 horas antes de validar audiencia. Lanza sin canal y vende cinco copias pese a calidad alta.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el informe del caso ejecutivo;
+- `decision-journal.md` con la economía, las licencias y las pruebas de distribución.
 
 ## 📗 Fuentes y verificación
 
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Greg McKeown — *Essentialism* (Virgin Books, 2014). **Uso en esta clase:** perspectiva de Prioridades aplicada al problema de la clase. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780753555163](https://openlibrary.org/isbn/9780753555163).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **producto digital y propiedad intelectual** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **producto digital y propiedad intelectual** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **producto digital y propiedad intelectual** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **producto digital y propiedad intelectual** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** producto mínimo, validación y métricas accionables. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Greg McKeown — *Essentialism* (Virgin Books, 2014). **Uso en esta clase:** concentrarse en lo esencial. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780753555163](https://openlibrary.org/isbn/9780753555163).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** decisiones sobre creación, propiedad y reparto del valor. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** el negocio como sistema de soporte y entrega. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** concentración en lo que produce resultados. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** abandonar sistemáticamente lo que ya no produce. Lectura selectiva sobre **producto digital y propiedad intelectual**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
 
-> **Regla de fuentes para Producto digital y propiedad intelectual:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **producto digital y propiedad intelectual** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Producto digital y propiedad intelectual:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de propiedad intelectual, consumo, comercio electrónico, datos personales y tributación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

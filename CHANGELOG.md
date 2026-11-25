@@ -39,6 +39,13 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 23 completa** (277–288): independencia profesional y capstone final como conocimiento con fuente y diagrama
+  a medida: definición económica y profesional de la independencia (Drucker, Taleb, Watkins), inventario de capacidades
+  monetizables, consultoría y servicios profesionales (Rackham, Voss), servicios productizados, producto digital y
+  propiedad intelectual, SaaS y modelos recurrentes (Skok), portafolio de ingresos y concentración, runway personal y
+  empresarial, sistema semanal de ventas (Ross y Tyler, Dixon y Adamson), riesgo, ética y reputación (Anderson), plan de
+  90 días con la falacia de la planificación (Buehler, Griffin y Ross) y defensa final como CEO, founder y owner.
+  Con esta parte se completa la reescritura de las partes 04 a 23.
 - **La parte 22 completa** (265–276): escalamiento, propiedad y portafolio empresarial como conocimiento con fuente y
   diagrama a medida: de fundador-operador a propietario (Gerber, Drucker), sistemas antes que heroicidad (Harnish,
   Galbraith), contratar líderes (Horowitz), escalar ventas sin destruir margen (Koller y otros), controles

@@ -5,15 +5,15 @@ duration_minutes: 150
 level: "Etapa 6 — Independencia"
 outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir professional ethics de conflict of interest mediante evidencia observable."
-  - "Aplicar la secuencia: identificar stakeholders y deberes → declarar conflictos y límites → proteger datos e IP → hacer claims verificables → crear incident y escalation process."
-  - "Interpretar complaints, conflict disclosures, security incidents sin atribuir causalidad automática."
-  - "Resolver el caso de riesgo, ética y reputación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Integrar hechos, interesados, decisión, comunicación y reparación en una recuperación reputacional basada en evidencia."
+  - "Identificar las partes interesadas y los deberes que se tienen con cada una."
+  - "Declarar conflictos de interés y fijar límites de competencia y de aceptación de encargos."
+  - "Proteger datos y propiedad intelectual ajenos con medidas proporcionales."
+  - "Formular afirmaciones verificables sobre resultados y experiencia."
+  - "Diseñar un proceso de incidentes, reclamos y escalamiento, y estimar el valor de prevenir."
 deliverable: "risk-governance-brief.md"
 references:
   - "Peter F. Drucker — *The Effective Executive*"
@@ -22,13 +22,11 @@ references:
   - "Michael E. Gerber — *The E-Myth Revisited*"
   - "Bill Aulet — *Disciplined Entrepreneurship*"
   - "Nassim Nicholas Taleb — *Antifragile*"
+  - "Ross Anderson — *Security Engineering*"
 limits:
-  - "Ser independiente no elimina obligaciones legales ni profesionales. Cuando un encargo excede competencia o habilitación, deriva o trabaja con especialista."
+  - "Ser independiente no elimina las obligaciones legales ni profesionales; cuando un encargo excede la competencia o habilitación, se deriva o se trabaja con un especialista."
 evidence_signals:
-  - "complaints"
-  - "conflict disclosures"
-  - "security incidents"
-  - "claim substantiation"
-  - "repeat referrals"
-  - "verified-correction rate"
-  - "commitment follow-through"
+  - "reclamos"
+  - "conflictos declarados"
+  - "incidentes de seguridad"
+  - "afirmaciones verificables"

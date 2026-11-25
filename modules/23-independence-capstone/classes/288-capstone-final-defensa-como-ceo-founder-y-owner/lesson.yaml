@@ -5,14 +5,15 @@ duration_minutes: 150
 level: "Etapa 6 — Independencia"
 outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir executive thesis de operating system mediante evidencia observable."
-  - "Aplicar la secuencia: presentar contexto y personal thesis → defender business strategy y economics → demostrar people operating y risk governance → defender founder-owner transition → cerrar con 90-day plan metrics y red-team."
-  - "Interpretar enterprise value drivers, cash-runway, leadership coverage sin atribuir causalidad automática."
-  - "Resolver el caso de capstone final: defensa como CEO, founder y owner con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estructurar una defensa integrada con tesis, evidencia, riesgos, transición y plan."
+  - "Demostrar economía, caja y valor con cifras, supuestos y sensibilidad."
+  - "Evidenciar cobertura de liderazgo, controles y gobierno proporcional."
+  - "Defender la transición de fundador a propietario con una prueba o plan verificable."
+  - "Responder con honestidad sobre límites, incertidumbres y momentos de escalar a expertos."
 deliverable: "board-or-executive-memo.md"
 references:
   - "Peter F. Drucker — *The Effective Executive*"
@@ -21,11 +22,11 @@ references:
   - "Michael E. Gerber — *The E-Myth Revisited*"
   - "Bill Aulet — *Disciplined Entrepreneurship*"
   - "Cal Newport — *Deep Work*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
 limits:
-  - "El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia."
+  - "El capstone no certifica competencia legal, contable ni profesional regulada: evalúa la capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia."
 evidence_signals:
-  - "enterprise value drivers"
-  - "cash-runway"
-  - "leadership coverage"
-  - "customer evidence"
-  - "risk-compliance readiness"
+  - "impulsores de valor"
+  - "pista de caja"
+  - "cobertura de liderazgo"
+  - "rúbrica de defensa"

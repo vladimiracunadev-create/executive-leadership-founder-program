@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Un plan de 90 días convierte independencia en experimentos de corto plazo; el plan anual organiza capacidad, ingresos, aprendizaje y capital. Ambos deben basarse en outcomes y cadencias, con checkpoints que permitan abandonar ofertas sin demanda.
+Quien trabaja por su cuenta no tiene jefe que fije objetivos, calendario de evaluación ni presupuesto. Esa libertad es la razón de ser de la independencia y, a la vez, su mayor riesgo: sin un plan, la semana se llena de lo urgente (entregas, correos, solicitudes) y el año pasa sin que se construya lo importante (activos, clientes recurrentes, reputación, caja). Un plan anual, sin embargo, tampoco basta: los planes de doce meses suelen ser listas largas de buenas intenciones que se abandonan en el segundo mes porque dependen de supuestos que nadie ha validado. Un plan útil combina **tres niveles**: **resultados a doce meses** (pocos, medibles, con supuestos explícitos), **apuestas de noventa días** (dos o tres experimentos pequeños con hipótesis y criterios de éxito) y **actividades semanales** con métricas y revisión mensual. El horizonte de noventa días es corto para urgir y largo para mostrar resultados; permite cambiar el rumbo sin esperar a diciembre.
 
-La salida de esta parte es **construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **plan de 90 días y plan anual** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el método y lo ilustra con una asignación de tiempo limitado a apuestas con valor esperado. Se apoya en Watkins (planes de noventa días con hitos y victorias tempranas), Drucker (los pocos resultados que importan y el tiempo que realmente se dispone), Ries (apuestas pequeñas con aprendizaje validado), Taleb (muchas apuestas acotadas con ganancia potencial asimétrica), Gerber (sistemas que sostienen lo importante) y Buehler, Griffin y Ross (la falacia de la planificación: la tendencia a subestimar el tiempo que tomarán las tareas). Al terminar sabrás fijar resultados anuales con cifras, elegir apuestas de noventa días con criterio, ajustar estimaciones por sesgo de planificación, traducir todo a actividades semanales y diseñar una revisión mensual que reasigne esfuerzo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `90-day sprint`, `annual plan`, `leading activity`, `checkpoint`, `kill criterion` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de independencia.
-3. **Aplicar** la secuencia **1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** revenue run rate, pipeline, weekly activity sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** tres a cinco resultados a doce meses con cifras y supuestos.
+2. **Elegir** dos o tres apuestas de noventa días con hipótesis, criterios y plazos.
+3. **Ajustar** las estimaciones de esfuerzo por la falacia de la planificación.
+4. **Asignar** el tiempo disponible según valor esperado y capacidad real.
+5. **Revisar** cada mes con métricas y reasignar esfuerzo con criterios previos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define 90-day sprint y annual plan sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con revenue run rate y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué tres resultados te gustaría haber logrado en doce meses y qué harás esta semana por ellos? |
+| 20–60 min | Resultados anuales, apuestas, estimación, capacidad, actividades semanales y revisión. |
+| 60–105 min | Ejemplo trabajado: valor esperado por hora y selección de apuestas con capacidad limitada. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **90-day sprint** | periodo corto con outcomes verificables y learning goals | Distingue un hecho compatible y otro que lo refute. |
-| **annual plan** | hipótesis de capacidad ingresos inversión y desarrollo para un año | Distingue un hecho compatible y otro que lo refute. |
-| **leading activity** | actividad controlable que precede resultados | Distingue un hecho compatible y otro que lo refute. |
-| **checkpoint** | fecha para evaluar evidencia y ajustar | Distingue un hecho compatible y otro que lo refute. |
-| **kill criterion** | condición que justifica dejar una iniciativa | Distingue un hecho compatible y otro que lo refute. |
+| **Resultado a 12 meses** | Estado medible que se quiere alcanzar en un año. | Cifra, fecha y supuestos. |
+| **Apuesta de 90 días** | Experimento acotado que prueba una hipótesis. | Hipótesis, esfuerzo y criterio de éxito. |
+| **Actividad semanal** | Tarea recurrente que sostiene una apuesta. | Calendario y registro. |
+| **Falacia de la planificación** | Tendencia a subestimar tiempo y costo de las tareas. | Plazos que se exceden sistemáticamente. |
+| **Ritmo de ingresos (run rate)** | Ingreso mensual actual proyectado al año. | Último mes o trimestre × factor. |
+| **Reasignación** | Cambio de esfuerzo entre apuestas según evidencia. | Decisión en la revisión mensual. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 287: 1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate](modelo-mental.svg)
+![Tres niveles del plan: resultados a doce meses, apuestas de noventa días y actividades semanales.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un plan de 90 días convierte independencia en experimentos de corto plazo; el plan anual organiza capacidad, ingresos, aprendizaje y capital. Ambos deben basarse en outcomes y cadencias, con checkpoints que permitan abandonar ofertas sin demanda.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal.**
+**Cómo leer el diagrama.** Tres columnas. **Resultados a 12 meses**: ingresos, caja y capacidades, pocos resultados y medibles, con supuestos explícitos. **Apuestas de 90 días**: dos o tres apuestas pequeñas, con hipótesis y criterio de éxito, y qué se detiene si no hay tracción. **Actividades semanales**: conversaciones, ofertas y entregas, métricas de actividad y de resultado, y revisión mensual con reasignación. La nota advierte que planificar no garantiza demanda, que las apuestas se mantienen pequeñas hasta tener evidencia y que se protege el runway sin llenar el año de tareas antes de validar el canal; el pie, que el plan se revisa cada mes y se reasigna el esfuerzo.
 
 ## 📖 Desarrollo
 
-### 1. 90-day sprint: mecanismo central
+### 1. Resultados a doce meses: pocos y medibles
 
-**90-day sprint** se entiende aquí como **periodo corto con outcomes verificables y learning goals**. Esta es la pieza causal o estructural desde la que se inicia **plan de 90 días y plan anual**: antes de definir 12-month outcomes, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un plan anual comienza por **tres a cinco resultados** que, si se lograran, definirían un buen año. Deben ser **medibles** (cifra y fecha), **relevantes** para la independencia (clase 277), **coherentes entre sí** y **sujetos a supuestos explícitos**. Ejemplos: «ritmo de ingresos de 4 millones mensuales en el mes 12», «tres clientes recurrentes que cubran el 50 % de mis gastos esenciales», «pista combinada de nueve meses», «un servicio productizado con diez ventas», «reducir la participación del mayor cliente a menos del 30 %». Cada uno se acompaña de **supuestos** (tasa de conversión, valor por proyecto, horas disponibles) que se validan en las apuestas. Drucker insiste en la concentración en los pocos resultados que importan; un plan con quince objetivos no es un plan. Se anota también lo que **no** se hará este año.
 
-La lectura rectora de este bloque es Peter F. Drucker — *The Effective Executive*. Su aporte se usa para examinar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **revenue run rate**; regístrala con periodo, unidad, población y baseline.
+### 2. Apuestas de noventa días
 
-Relaciona el mecanismo con **annual plan**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los resultados anuales se traducen en **apuestas** de 90 días: experimentos con **hipótesis**, **esfuerzo estimado**, **criterio de éxito**, **fecha de revisión** y **qué se detiene** si no hay tracción. Ejemplo de hipótesis: «Si ofrezco un servicio de seguimiento mensual a mis 15 clientes anteriores, al menos 3 aceptarán una prueba de tres meses». Watkins recomienda planes de noventa días con hitos y victorias tempranas que construyan credibilidad e información; Ries, aprender con el menor gasto posible. Se eligen **dos o tres apuestas**, no diez: más apuestas diluyen el esfuerzo y no permiten aprender de ninguna. Taleb sugiere acotar el costo de cada apuesta y buscar **asimetrías**: pérdidas limitadas y ganancias potencialmente grandes. Una apuesta que, si falla, pone en riesgo la pista no es una apuesta pequeña.
 
-### 2. annual plan: frontera conceptual y error de clasificación
+### 3. La falacia de la planificación
 
-**Definición operacional:** hipótesis de capacidad ingresos inversión y desarrollo para un año. Su valor está en distinguirlo de **90-day sprint** y **leading activity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Buehler, Griffin y Ross documentaron que las personas subestiman sistemáticamente el tiempo que tomarán sus tareas, incluso cuando saben que proyectos similares se retrasaron: tienden a imaginar el mejor escenario. Para corregirlo se usan tres prácticas. **Mirar la base**: cuánto tardaron tareas parecidas en el pasado. **Descomponer** la tarea y estimar cada parte. **Aplicar un factor de ajuste** (por ejemplo, multiplicar por 1,5) y registrar después el tiempo real para calibrar. Un plan con estimaciones optimistas produce una sensación de fracaso cuando en realidad el problema es la estimación. Se aplican también **colchones** a plazos que dependen de terceros (clientes que responden tarde, trámites). Anotar las horas reales es una de las mejores inversiones de un independiente.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **annual plan** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **pipeline** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Capacidad real y valor esperado
 
-Antes de seleccionar 90-day bets, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El tiempo disponible es el límite. Se calcula la **capacidad** semanal para apuestas: horas totales menos entrega comprometida, administración, ventas ya planificadas y descanso. Con esa capacidad, y las horas **ajustadas**, se estima el **valor esperado** de cada apuesta (probabilidad de éxito × valor si tiene éxito) y su **valor esperado por hora**. Se priorizan las de mayor valor por hora hasta agotar la capacidad, con criterio: las apuestas no se pueden fraccionar siempre, y algunas tienen **efectos de aprendizaje** que no aparecen en el cálculo. Las probabilidades son juicios subjetivos: se registran, se contrastan con evidencia y se corrigen. El método no pretende exactitud; **obliga a explicitar supuestos y a elegir** en lugar de intentar todo.
 
-### 3. leading activity: operacionalización y medición
+### 5. Actividades semanales y métricas
 
-**leading activity** significa **actividad controlable que precede resultados**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cada apuesta se traduce en **actividades semanales** concretas, con tiempo reservado en el calendario: por ejemplo, «martes y jueves, 9:00 a 10:30: contactar clientes anteriores» o «viernes: avanzar el paquete». Se definen **métricas de actividad** (conversaciones iniciadas, propuestas enviadas, horas de desarrollo) y **métricas de resultado** (oportunidades calificadas, ventas, ingresos). Las de actividad indican si se hizo el trabajo; las de resultado, si el trabajo funciona. La clase 285 desarrolla el sistema de ventas; la 279 a 283, los servicios, los productos y los portafolios. Una **revisión semanal** corta mantiene el ritmo. El plan debe convivir con la entrega: se protegen bloques de trabajo profundo (clase 285) y se evita llenar la agenda hasta el 100 %.
 
-Michael D. Watkins — *The First 90 Days* orienta este bloque mediante **perspectiva de Transiciones aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **weekly activity**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Revisión mensual y reasignación
 
-Al llegar a traducir a weekly activities, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada mes se revisa: **resultados** frente al plan, **estado de cada apuesta**, **aprendizaje**, **caja y pista** (clase 284) y **energía**. Se decide con criterios previos: **continuar** (hay tracción), **ajustar** (la hipótesis se cumple parcialmente: cambiar mensaje, precio, canal), **detener** (no hay tracción en el plazo definido) o **escalar** (resultados superiores a lo esperado). Se registra la decisión y su razón. Las reglas de detención se escriben **antes**: por ejemplo, «si a la semana seis no hay al menos tres conversaciones con interés, se reemplaza la apuesta». Watkins subraya la importancia de revisar y ajustar el plan a medida que se aprende; Ries, de **pivotar o perseverar** con base en evidencia, no en ánimo. Esta revisión libera de seguir invirtiendo en lo que no funciona.
 
-### 4. checkpoint: trade-offs y efectos de segundo orden
+### 7. El plan anual como hipótesis viva
 
-**Definición:** fecha para evaluar evidencia y ajustar. Este concepto obliga a abandonar la idea de que **plan de 90 días y plan anual** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear metrics y checkpoints, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Nassim Nicholas Taleb — *Antifragile* aporta una lente sobre **fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **learning goal completion** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **plan de 90 días y plan anual**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **checkpoint** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. kill criterion: gobernanza, límites e integración
-
-**kill criterion** se define como **condición que justifica dejar una iniciativa** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eric Ries — *The Lean Startup* se utiliza para estudiar **build-measure-learn, MVP y aprendizaje validado** y contrastar la recomendación final. Al ejecutar review monthly y reallocate, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **90-day sprint**, **annual plan**, **leading activity**, **checkpoint** y **kill criterion** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **plan de 90 días y plan anual** no consiste en sumar cinco definiciones. Empieza por **90-day sprint**, contrasta **annual plan** con **leading activity**, incorpora **checkpoint** como restricción o mecanismo y usa **kill criterion** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El plan anual no es un contrato sino una **hipótesis sobre cómo se lograrán los resultados**. Se revisa cada trimestre: ¿los supuestos se cumplieron?, ¿cambió el mercado?, ¿surgieron oportunidades?, ¿se agotó una vía? Se actualizan los resultados y se eligen nuevas apuestas para los noventa días siguientes. Planificar no garantiza demanda: las apuestas se mantienen pequeñas hasta tener evidencia, y se protege el runway; evitar llenar un año con tareas antes de validar el canal es una forma de proteger la caja y el ánimo. Un buen plan también incluye **descanso, salud y relaciones**, porque la independencia sostenible exige energía. Se documentan las lecciones y se celebran los avances, aunque sean pequeños.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **plan de 90 días y plan anual** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **plan de 90 días y plan anual** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **plan de 90 días y plan anual** ayuda a desafiar? |
-| Nassim Nicholas Taleb — *Antifragile* | fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo | ¿Qué supuesto de **plan de 90 días y plan anual** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **plan de 90 días y plan anual** ayuda a desafiar? |
-
-En **plan de 90 días y plan anual**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **90-day sprint**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Watkins | Planes de 90 días con hitos y victorias tempranas. | Pensado para nuevos roles en organizaciones. | ¿Qué hito demuestra que voy bien en 30, 60 y 90 días? |
+| Drucker | Concentrarse en los pocos resultados que importan. | No incluye estimación de esfuerzo. | ¿Cuáles son mis tres resultados clave? |
+| Ries | Aprender con apuestas pequeñas y decidir con evidencia. | Enfoque de productos y empresas nuevas. | ¿Qué hipótesis pongo a prueba en estos 90 días? |
+| Taleb | Apuestas acotadas con ganancia potencial grande. | No es guía de planificación. | ¿Cuál es la pérdida máxima de esta apuesta? |
+| Buehler, Griffin y Ross | Sesgo de subestimar tiempos de tareas. | Estudios de laboratorio y campo, no un método de plan. | ¿Cuánto tardaron tareas parecidas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Objetivo anual es generar 30% de ingresos independientes. Primer trimestre prueba consultoría productizada con 30 conversaciones y tres propuestas antes de construir un SaaS.
+**Situación (hipotética).** Una consultora independiente planifica su próximo trimestre. Todos los números son **supuestos**.
 
-**Paso 1 — definir 12-month outcomes.** La gerencia escribe primero el supuesto asociado a **90-day sprint** y evita convertirlo en hecho. Luego busca **revenue run rate** para contrastarlo en el caso de **plan de 90 días y plan anual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultados a 12 meses.** (1) Ritmo de ingresos de 4,0 millones mensuales al mes 12 (hoy 2,6). (2) Dos clientes recurrentes que cubran el 40 % de sus gastos esenciales. (3) Pista combinada de 9 meses (hoy 6). (4) Participación del mayor cliente por debajo de 30 % (hoy 41 %).
 
-**Paso 2 — seleccionar 90-day bets.** La gerencia escribe primero el supuesto asociado a **annual plan** y evita convertirlo en hecho. Luego busca **pipeline** para contrastarlo en el caso de **plan de 90 días y plan anual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capacidad para apuestas.** Horas semanales disponibles tras entrega, administración y ventas ya planificadas: 12. En 13 semanas: **156 horas**.
 
-**Paso 3 — traducir a weekly activities.** La gerencia escribe primero el supuesto asociado a **leading activity** y evita convertirlo en hecho. Luego busca **weekly activity** para contrastarlo en el caso de **plan de 90 días y plan anual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Apuestas candidatas, con estimaciones ajustadas por falacia de planificación (factor 1,5).**
 
-**Paso 4 — crear metrics y checkpoints.** La gerencia escribe primero el supuesto asociado a **checkpoint** y evita convertirlo en hecho. Luego busca **learning goal completion** para contrastarlo en el caso de **plan de 90 días y plan anual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Apuesta | Horas estimadas | Horas ajustadas (×1,5) | Probabilidad de éxito | Valor si tiene éxito | Valor esperado | Valor esperado por hora ajustada |
+|---|---|---|---|---|---|---|
+| A. Retainer de seguimiento a 15 clientes anteriores | 60 | **90** | 40 % | 2 retainers × 800.000 × 9 meses = 14.400.000 | 5.760.000 | **64.000** |
+| B. Lanzar servicio productizado | 90 | **135** | 50 % | 5 paquetes × 1.800.000 = 9.000.000 | 4.500.000 | **33.333** |
+| C. Boletín semanal para construir audiencia | 80 | **120** | 25 % | 2 proyectos × 3.200.000 = 6.400.000 | 1.600.000 | **13.333** |
+| D. Nuevo producto digital | 150 | **225** | 30 % | 6.000.000 | 1.800.000 | **8.000** |
 
-**Paso 5 — review monthly y reallocate.** La gerencia escribe primero el supuesto asociado a **kill criterion** y evita convertirlo en hecho. Luego busca **runway** para contrastarlo en el caso de **plan de 90 días y plan anual**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculos de ejemplo.** A: 0,40 × 14.400.000 = 5.760.000; ÷ 90 = 64.000. B: 0,50 × 9.000.000 = 4.500.000; ÷ 135 = 33.333. C: 0,25 × 6.400.000 = 1.600.000; ÷ 120 = 13.333. D: 0,30 × 6.000.000 = 1.800.000; ÷ 225 = 8.000.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **plan de 90 días y plan anual**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Selección con capacidad de 156 horas.** Se ordenan por valor esperado por hora: A (90 h), B (135 h), C (120 h), D (225 h). A cabe: quedan 66 horas. B completa necesita 135: no cabe. Opción: **B reducida** a un piloto con dos paquetes (60 horas ajustadas) con valor esperado de 0,50 × 3.600.000 = **1.800.000**. Total: 90 + 60 = **150 horas** (≤ 156) y valor esperado de 5.760.000 + 1.800.000 = **7.560.000**. Sin el ajuste de planificación (con las horas originales), A y B habrían parecido caber con 150 horas, y el plan se habría desbordado a 225.
+
+**Efecto de ignorar la falacia.** Con estimaciones sin ajustar (60 + 90 = 150 horas), parece que A y B completos caben en 156 horas; si la realidad es 1,5 veces, se necesitarían 225 horas: **69 horas más** de las disponibles (44 % por encima), lo que implicaría descuidar la entrega o abandonar una apuesta a mitad de camino.
+
+**Criterios de revisión (escritos antes).**
+
+| Apuesta | Criterio de éxito a 90 días | Regla de detención |
+|---|---|---|
+| A | Al menos 3 de 15 clientes aceptan una prueba de tres meses | Si a la semana 6 hay menos de 3 conversaciones con interés, reemplazar o cambiar la oferta |
+| B (piloto) | 2 paquetes vendidos | Si a la semana 8 no hay una propuesta aceptada, revisar oferta o canal |
+
+**Actividades semanales.** Martes y jueves, 9:00 a 10:30: contacto con clientes anteriores (apuesta A: 3 horas por semana); miércoles por la tarde: desarrollo del piloto (apuesta B: 4 horas), viernes: revisión de 30 minutos y preparación de la semana siguiente. **Métricas semanales:** conversaciones iniciadas (meta 4), oportunidades calificadas (meta 1), propuestas enviadas (meta 0,5).
+
+**Revisión mensual.** Se compara cada apuesta con su criterio, se actualizan probabilidades con evidencia, se revisan caja y pista, y se decide continuar, ajustar, detener o escalar. Se registra el tiempo real de cada tarea para calibrar el factor de ajuste.
+
+**Decisión.** Ejecutar A y el piloto de B, dejar C y D para el próximo trimestre, proteger los bloques de entrega, y revisar el plan anual al día 90.
+
+**Cuidados.** Las probabilidades, valores y horas son supuestos y se actualizan con datos; el plan no sustituye la entrega comprometida ni la protección de la caja.
+
+**Qué muestra.** (1) El valor esperado por hora ordenó las apuestas. (2) Corregir la falacia de la planificación evitó un plan desbordado. (3) Los criterios de detención se escribieron antes de empezar.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **90-day sprint** | periodo corto con outcomes verificables y learning goals | Cuando revenue run rate es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **annual plan** | hipótesis de capacidad ingresos inversión y desarrollo para un año | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Plan de 90 días frente a plan anual.** El plan de 90 días permite experimentar y corregir con rapidez; el anual da dirección y coherencia. Ambos se necesitan, y el segundo se alimenta del aprendizaje del primero.
 
-**Frontera de aplicación:** Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal.
+**Límites.** Planificar no garantiza demanda. Las probabilidades de éxito son juicios subjetivos y los valores esperados, estimaciones. Las apuestas se mantienen pequeñas hasta tener evidencia y se protege el runway. Un plan demasiado detallado se vuelve una carga. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre plan de 90 días y plan anual |
+| Nivel | Cómo se relaciona con el plan |
 |---|---|
-| **Profesional** | usa **plan de 90 días y plan anual** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **90-day sprint** y **annual plan** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta revenue run rate con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si plan de 90 días y plan anual cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de plan de 90 días y plan anual reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **plan de 90 días y plan anual** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Planifica su desarrollo y registra sus resultados. |
+| **Jefe / Team Lead** | Traduce metas del equipo en actividades semanales. |
+| **Gerente** | Gestiona un plan trimestral con métricas y reasignación. |
+| **CEO / Director** | Fija resultados anuales y asigna recursos entre apuestas. |
+| **Founder / Owner** | Define el plan, lo prueba en pequeño y lo ajusta cada mes con evidencia. |
 
 ## 🏢 Caso ejecutivo
 
-Objetivo anual es generar 30% de ingresos independientes. Primer trimestre prueba consultoría productizada con 30 conversaciones y tres propuestas antes de construir un SaaS.
+Un ingeniero independiente de 36 años factura 3,1 millones de pesos mensuales (ritmo anual de 37,2 millones) con un cliente que le aporta el 58 %. Su pista es de 7 meses. Quiere llegar a 5 millones mensuales en 12 meses. Ideas para el trimestre: ofrecer un servicio de mantenimiento mensual a 12 clientes anteriores (estima 50 horas, probabilidad de éxito de 35 %, valor de 2 retainers de 700.000 por 9 meses), lanzar un paquete de auditoría técnica en una semana (80 horas, 45 %, 6 paquetes a 1,5 millones), grabar un curso (200 horas, 25 %, 8 millones), asistir a tres eventos del sector (30 horas, 30 %, un proyecto de 4 millones) y escribir un libro (300 horas, 10 %, 12 millones). Tiene 10 horas semanales disponibles para apuestas. Sus estimaciones previas de tareas se excedieron, en promedio, 60 %. Su cliente principal lo invitó a dedicarse en exclusiva a un proyecto de 12 meses con un pago de 4,2 millones mensuales.
 
-Entrega un **decision brief de plan de 90 días y plan anual** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de gobierno y riesgos del plan** que contenga: (a) los resultados a doce meses con supuestos; (b) la tabla de apuestas con horas ajustadas por la falacia de la planificación, valor esperado y valor esperado por hora; (c) la selección según capacidad y los criterios de éxito y detención; (d) las actividades semanales y las métricas; (e) el análisis de la oferta de exclusividad frente al plan, con sus riesgos de concentración; (f) los límites del análisis y la forma de revisar el plan cada mes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **plan de 90 días y plan anual** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta revenue run rate, pipeline; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tres resultados a doce meses con cifra, fecha y supuestos.
+2. Lista cinco apuestas posibles con horas estimadas, probabilidad y valor si tiene éxito.
+3. Ajusta las horas con un factor basado en tu historial y calcula el valor esperado por hora.
+4. Selecciona dos o tres apuestas según tu capacidad y escribe criterios de éxito y detención.
+5. Diseña tu semana tipo y tu revisión mensual de 45 minutos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar 90-day sprint y annual plan como sinónimos | Se pierde la distinción entre “periodo corto con outcomes verificables y learning goals” y “hipótesis de capacidad ingresos inversión y desarrollo para un año” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “review monthly y reallocate” | Se saltó “definir 12-month outcomes” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate y marca el primer supuesto no demostrado. |
-| Optimizar solo revenue run rate | La métrica local sustituyó al resultado del sistema | Contrástala con pipeline y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre plan de 90 días y plan anual | Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal. |
-| No fijar revisión | Una decisión sobre plan de 90 días y plan anual se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Demasiados objetivos | Se quiere abarcar todo | Tres a cinco resultados medibles. |
+| Estimar horas con optimismo | Falacia de la planificación | Mirar la base, descomponer y ajustar. |
+| Apuestas sin criterio de detención | Se teme abandonar | Escribir reglas antes de empezar. |
+| Llenar la agenda al 100 % | Se ignora la entrega y el descanso | Capacidad realista y colchones. |
+| No medir actividades ni resultados | Se confía en la sensación | Métricas semanales y revisión mensual. |
+| Tratar el plan como contrato | Rigidez | Hipótesis viva, revisión trimestral. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **90-day sprint** y **annual plan** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **leading activity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir 12-month outcomes → seleccionar 90-day bets** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **revenue run rate** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **plan de 90 días y plan anual**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal.**?
+1. ¿Qué tres niveles tiene el plan?
+2. ¿Qué es una apuesta de 90 días?
+3. ¿Qué es la falacia de la planificación y cómo se corrige?
+4. ¿Cómo se calcula el valor esperado por hora?
+5. ¿Por qué se escriben reglas de detención antes de comenzar?
+6. ¿Qué se revisa cada mes?
+7. ¿Qué límite tiene este método?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Resultados a doce meses, apuestas de noventa días y actividades semanales.
+2. Un experimento acotado con hipótesis, esfuerzo, criterio de éxito y fecha de revisión.
+3. La tendencia a subestimar tiempos; se corrige con datos históricos, descomposición y factores de ajuste.
+4. Probabilidad de éxito por el valor si tiene éxito, dividido por las horas ajustadas.
+5. Para decidir con evidencia y no con ánimo cuando hay presión.
+6. Resultados, estado de apuestas, aprendizaje, caja y pista, y energía, para continuar, ajustar, detener o escalar.
+7. Se basa en probabilidades subjetivas y no garantiza demanda; se mantienen apuestas pequeñas y se protege el runway.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/287-plan-de-90-dias-y-plan-anual/`:
 
-- `risk-governance-brief.md` con el problema específico de **plan de 90 días y plan anual**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **plan de 90 días y plan anual** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **90-day sprint**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Objetivo anual es generar 30% de ingresos independientes. Primer trimestre prueba consultoría productizada con 30 conversaciones y tres propuestas antes de construir un SaaS.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk governance brief](../../../../templates/risk-governance-brief.md)) con el informe del caso ejecutivo;
+- `decision-journal.md` con las apuestas, los criterios y las revisiones mensuales.
 
 ## 📗 Fuentes y verificación
 
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **plan de 90 días y plan anual** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **plan de 90 días y plan anual** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **plan de 90 días y plan anual** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **plan de 90 días y plan anual** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** planes de noventa días con hitos y victorias tempranas. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** concentrarse en los pocos resultados que importan. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestión por resultados. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** apuestas pequeñas y aprendizaje validado. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** apuestas acotadas con ganancia potencial asimétrica. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
+- Roger Buehler, Dale Griffin & Michael Ross — *Exploring the "planning fallacy": Why people underestimate their task completion times* (Journal of Personality and Social Psychology, 1994). **Uso en esta clase:** sesgo de subestimar el tiempo de las tareas. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [DOI 10.1037/0022-3514.67.3.366](https://doi.org/10.1037/0022-3514.67.3.366).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** sistemas que sostienen lo importante. Lectura selectiva sobre **plan de 90 días y plan anual**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para Plan de 90 días y plan anual:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **plan de 90 días y plan anual** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Plan de 90 días y plan anual:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

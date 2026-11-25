@@ -1,64 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g279 d-g279" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g279">Ficha visual de la clase 279: Consultoría y servicios profesionales</title>
-<desc id="d-g279">Conceptos: consulting engagement; scope; deliverable; retainer; value pricing. Método: elegir problema e ICP → hacer discovery y diagnose → definir scope y outcome → proponer fee y terms → entregar medir y request reference.</desc>
-<defs><marker id="p-g279" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 279 · Consultoría y servicios profesionales</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 23 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >consulting engagement</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acuerdo profesional para resolver un problema o</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >producir una decisión o cambio</text>
-<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >scope</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fronteras explícitas de trabajo y entregables</text>
-<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >deliverable</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado tangible acordado</text>
-<circle cx="38" cy="300.12" r="5" fill="#59636e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >retainer</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fee recurrente por acceso o capacidad definida</text>
-<circle cx="38" cy="358.12" r="5" fill="#59636e"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >value pricing</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >precio relacionado con valor y riesgo más que horas</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >elegir problema e ICP</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >hacer discovery y diagnose</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir scope y outcome</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >proponer fee y terms</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >entregar medir y request reference</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >utilization</text>
-<rect x="139.9" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="152.9" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="163.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >effective rate</text>
-<rect x="272.5" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="285.5" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="296.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >proposal win rate</text>
-<rect x="425.8" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="438.8" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="449.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >scope creep</text>
-<rect x="537.7" y="442.12" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="550.7" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="561.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >repeat business</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Value pricing no significa cobrar cifras arbitrarias ni ocultar esfuerzo. Debe ser transparente, defendible y compatible con mercado,</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ética y contrato.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s279 d-s279" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s279">Clase 279 · Un servicio profesional de principio a fin</title>
+<desc id="d-s279">Cinco pasos de un servicio de consultoría: problema y cliente ideal, descubrimiento y diagnóstico, alcance y resultado, honorarios y condiciones, y entrega con medición y referencia.</desc>
+<defs><marker id="p-s279" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 279 · Un servicio profesional de principio a fin</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Drucker · McKeown · Voss · Ries</text>
+<rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Problema y cliente</text>
+<text x="72" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >ideal</text>
+<text x="44" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Quién tiene el problema y</text>
+<text x="44" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >paga por resolverlo.</text>
+<path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s279)"/>
+<rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Descubrimiento y</text>
+<text x="323.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >diagnóstico</text>
+<text x="295.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Entender antes de proponer.</text>
+<path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s279)"/>
+<rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Alcance y resultado</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué se entrega y cómo se</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >mide.</text>
+<path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s279)"/>
+<rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Honorarios y</text>
+<text x="826.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >condiciones</text>
+<text x="798.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Precio, plazos y términos.</text>
+<path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s279)"/>
+<rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
+<text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Entrega y referencia</text>
+<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Medir, cerrar y pedir una</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >referencia.</text>
+<path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s279)"/>
+<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >cada proyecto mejora la siguiente propuesta</text>
+<rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El precio por valor no es una cifra arbitraria ni oculta el esfuerzo: es transparente, defendible y compatible con el mercado, la ética</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >y el contrato.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Se miden utilización, tarifa efectiva y tasa de éxito de las propuestas.</text>
 </svg>

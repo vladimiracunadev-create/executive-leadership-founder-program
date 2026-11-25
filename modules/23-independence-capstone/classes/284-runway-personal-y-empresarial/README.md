@@ -10,217 +10,216 @@
 
 ## 🎯 Propósito
 
-Runway personal y empresarial permiten decidir sin pánico. Deben modelarse por separado: gastos esenciales, impuestos, deuda, compromisos, caja restringida y burn. Escenarios base y downside muestran cuánto tiempo existe para buscar empleo, clientes o pivotar.
+El **runway** o pista es el número de meses que una persona o una empresa puede sostener su gasto actual con la caja que tiene, si los ingresos no llegaran o fueran menores. Es una de las cifras más importantes para quien trabaja por cuenta propia o dirige un negocio pequeño, y una de las peor calculadas. Los errores típicos son tres: **mezclar** la caja personal con la de la empresa, de modo que no se sabe cuánto hay realmente para cada una; **calcular con el caso base**, sin imaginar un trimestre malo; y **no decidir con anticipación** qué se hará cuando la pista se acorte, de modo que las decisiones (recortar, vender, buscar empleo) se toman tarde, bajo presión y con peores opciones. El runway no sirve para tranquilizarse ni para angustiarse: sirve para **tomar decisiones a tiempo**.
 
-La salida de esta parte es **construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **runway personal y empresarial** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un método: separar lo personal de lo empresarial, calcular gastos y consumo de caja (burn), definir pisos de caja, construir escenarios base y adverso y ligar el runway a acciones con fechas de disparo. Se apoya en Drucker (decidir con información y anticiparse), Ries (el ritmo al que se aprende y se gasta: un negocio nuevo necesita llegar a evidencia antes de quedarse sin caja), Taleb (evitar la ruina: lo que puede llevarte a cero debe evitarse aunque su probabilidad sea baja), Watkins (planes por etapas con hitos) y Gerber (separar al dueño del negocio). Al terminar sabrás calcular tu pista personal y empresarial, definir pisos, simular un escenario adverso, fijar disparadores y revisar el modelo cada mes.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `personal runway`, `business runway`, `burn rate`, `cash floor`, `downside scenario` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de independencia.
-3. **Aplicar** la secuencia **1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** months runway, burn, cash floor sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Separar** caja, gastos y obligaciones personales y empresariales.
+2. **Calcular** el consumo mensual de caja (burn) neto y la pista en meses.
+3. **Definir** pisos de caja personal y empresarial con criterio.
+4. **Construir** un escenario base y uno adverso con supuestos explícitos.
+5. **Ligar** la pista a acciones y fechas de disparo escritas con anticipación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define personal runway y business runway sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con months runway y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántos meses podrías sostener tu vida y tu negocio si tus ingresos cayeran 40 %? |
+| 20–60 min | Separación, gastos y burn, pisos, escenarios, disparadores y revisión mensual. |
+| 60–105 min | Ejemplo trabajado: pista combinada, escenario adverso y fechas de disparo. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **personal runway** | meses de gastos esenciales cubiertos por liquidez personal | Distingue un hecho compatible y otro que lo refute. |
-| **business runway** | meses que la empresa puede operar al burn proyectado | Distingue un hecho compatible y otro que lo refute. |
-| **burn rate** | consumo neto de caja por periodo | Distingue un hecho compatible y otro que lo refute. |
-| **cash floor** | nivel mínimo de liquidez que no se desea cruzar | Distingue un hecho compatible y otro que lo refute. |
-| **downside scenario** | escenario adverso plausible para probar resiliencia | Distingue un hecho compatible y otro que lo refute. |
+| **Runway (pista)** | Meses que dura la caja al ritmo de consumo actual. | Caja ÷ consumo mensual neto. |
+| **Burn neto** | Salida de caja mensual después de ingresos. | Gastos menos ingresos disponibles. |
+| **Piso de caja** | Nivel mínimo que no se cruza. | Meses de gasto esencial. |
+| **Escenario adverso** | Proyección con ingresos menores y gastos mayores. | Supuestos de estrés. |
+| **Disparador** | Condición que activa una acción predefinida. | Umbral y fecha. |
+| **Separación personal-empresa** | Cuentas y reglas distintas para cada ámbito. | Retiros documentados. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 284: 1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates](modelo-mental.svg)
+![Cadena de cinco pasos para calcular el runway: separar personal y empresa, gastos y consumo de caja, pisos de caja, escenarios base y adverso, y disparadores y acciones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Runway personal y empresarial permiten decidir sin pánico. Deben modelarse por separado: gastos esenciales, impuestos, deuda, compromisos, caja restringida y burn. Escenarios base y downside muestran cuánto tiempo existe para buscar empleo, clientes o pivotar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos. **Separar personal y empresa**: cuentas, gastos y obligaciones distintas. **Gastos y consumo de caja**: cuánto se gasta por mes en cada lado. **Pisos de caja**: el mínimo que no se cruza. **Escenarios base y adverso**: con ingresos menores y gastos mayores. **Disparadores y acciones**: qué se hace y cuándo si se acerca al piso. La flecha de retorno indica que los resultados reales corrigen el modelo. La nota advierte que el runway no debe justificar postergar indefinidamente una decisión y que se definen los disparadores antes de llegar al piso; el pie, que las obligaciones personales y empresariales se revisan por separado.
 
 ## 📖 Desarrollo
 
-### 1. personal runway: mecanismo central
+### 1. Separar lo personal de lo empresarial
 
-**personal runway** se entiende aquí como **meses de gastos esenciales cubiertos por liquidez personal**. Esta es la pieza causal o estructural desde la que se inicia **runway personal y empresarial**: antes de separar personal y empresa, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Cuando el dinero de la persona y el del negocio se mezclan, no es posible saber si el negocio gana, cuánto retira el dueño ni qué ocurriría si uno de los dos fallara. La **separación** exige: **cuentas bancarias distintas**; un **sueldo o retiro** definido y documentado que la persona se paga desde la empresa (monto, periodicidad y forma, consultados con asesoría tributaria); **gastos personales** pagados desde la cuenta personal; una política para **préstamos** entre ambos (con contrato y registro). Gerber insiste en que el dueño y el negocio son entidades distintas; en la clase 258 se vio la separación contable. Aquí interesa su consecuencia: se calculan **dos pistas** y una **pista combinada**. Las obligaciones tributarias y previsionales de quien trabaja por cuenta propia o de una sociedad se verifican con fuentes oficiales y asesoría.
 
-La lectura rectora de este bloque es Peter F. Drucker — *The Effective Executive*. Su aporte se usa para examinar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **months runway**; regístrala con periodo, unidad, población y baseline.
+### 2. Gastos y consumo de caja (burn)
 
-Relaciona el mecanismo con **business runway**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se listan los gastos de cada lado, separando **esenciales** (los que no se pueden recortar sin daño: vivienda, alimentación, salud, deudas, impuestos, cotizaciones, remuneraciones, arriendos) de **discrecionales** (los que se pueden diferir o eliminar). El **burn bruto** es el gasto mensual; el **burn neto** es el gasto menos los ingresos disponibles de ese mes. Se incluyen los gastos **no mensuales** prorrateados (seguros, impuestos anuales, renovaciones, vacaciones). Una pista calculada sin los gastos anuales sobrestima los meses disponibles. Drucker recomienda decidir con información y no con impresiones; la lista de gastos, completa y actualizada, es esa información. Cada trimestre se compara lo proyectado con lo real y se corrige el modelo.
 
-### 2. business runway: frontera conceptual y error de clasificación
+### 3. La caja relevante y los pisos
 
-**Definición operacional:** meses que la empresa puede operar al burn proyectado. Su valor está en distinguirlo de **personal runway** y **burn rate**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No toda la plata es caja disponible: el **ahorro** que podría venderse con pérdida, un depósito a plazo con penalización, el dinero comprometido a impuestos próximos o el capital de trabajo necesario para operar **no cuentan completamente**. Se define la **caja relevante**: efectivo y equivalentes de rápido acceso, menos obligaciones de corto plazo. Luego se fijan los **pisos de caja**: el nivel que **no se cruza** porque más abajo se pierden opciones o se comprometen necesidades esenciales. Ejemplos: un piso personal de tres meses de gastos esenciales y un piso empresarial de dos meses de costos fijos. Taleb advierte que **evitar la ruina** es prioritario: un evento que lleve a cero la caja puede impedir seguir en el juego, aunque sea poco probable; los pisos son una defensa.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **business runway** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **burn** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Escenarios: base y adverso
 
-Antes de calcular gastos y burn, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **escenario base** proyecta con los ingresos y gastos esperados; el **adverso** supone un trimestre malo: ingresos 30 a 50 % menores, gastos algo mayores (por inflación o imprevistos), pagos de clientes retrasados. Un tercer **escenario de estrés** puede suponer la pérdida del cliente principal. Para cada uno se calcula el burn neto y la **pista combinada** (caja relevante ÷ burn neto) y los **meses hasta el piso** (caja sobre el piso ÷ burn neto). Ries recuerda que, en un negocio nuevo, lo importante es **aprender lo suficiente antes de quedarse sin caja**: si el modelo muestra que no hay tiempo para validar una hipótesis crítica, hay que cambiar el plan (recortar costos, reducir alcance, buscar ingresos puente). La proyección se actualiza con datos reales cada mes.
 
-### 3. burn rate: operacionalización y medición
+### 5. Disparadores y acciones con fecha
 
-**burn rate** significa **consumo neto de caja por periodo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La parte más importante del runway es la que se escribe **antes** de necesitarla: una tabla de **disparadores**. Ejemplo: «si la caja combinada baja de 15 millones: recortar gastos discrecionales y acelerar cobranza»; «si baja de 12 millones: intensificar ventas, ofrecer descuentos por pago anticipado y evaluar ingresos puente (un empleo a tiempo parcial o un contrato temporal)»; «si falta un mes para el piso: iniciar búsqueda laboral activa o vender activos». Cada fila tiene **condición**, **acción**, **responsable** y **fecha de revisión**. Escribir esto cuando la situación está tranquila evita decisiones emocionales en medio de la presión. Watkins recomienda planificar por etapas con hitos y puntos de control; los disparadores son esos puntos de control para la caja.
 
-Eric Ries — *The Lean Startup* orienta este bloque mediante **build-measure-learn, MVP y aprendizaje validado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cash floor**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Acciones para extender o proteger la pista
 
-Al llegar a definir cash floors, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Hay palancas por el **lado de los ingresos** (acelerar cobranza, pedir anticipos, ventas a clientes existentes, ingresos puente, subir precios con cuidado) y por el **lado de los gastos** (recortar discrecionales, renegociar arriendos, diferir inversiones, pasar costos fijos a variables, reducir el retiro del dueño). También hay palancas de **financiamiento** (línea de crédito, aporte de socios, venta de activos), cada una con costos y riesgos que se evalúan con cuidado (clases 222 y 269). Es preferible **tener una línea de crédito disponible antes de necesitarla** que pedirla en una crisis. Y hay palancas **no financieras**: red de contactos, reputación y claridad sobre qué trabajos se aceptarían si fuera necesario. La opcionalidad se construye antes del apuro.
 
-### 4. cash floor: trade-offs y efectos de segundo orden
+### 7. Revisión mensual y la trampa de postergar
 
-**Definición:** nivel mínimo de liquidez que no se desea cruzar. Este concepto obliga a abandonar la idea de que **runway personal y empresarial** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de construir base y downside, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael D. Watkins — *The First 90 Days* aporta una lente sobre **perspectiva de Transiciones aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **receivables timing** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **runway personal y empresarial**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **cash floor** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. downside scenario: gobernanza, límites e integración
-
-**downside scenario** se define como **escenario adverso plausible para probar resiliencia** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael E. Gerber — *The E-Myth Revisited* se utiliza para estudiar **diferencia entre técnico, manager y empresario; sistematización del negocio** y contrastar la recomendación final. Al ejecutar ligar runway a acciones y trigger dates, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **personal runway**, **business runway**, **burn rate**, **cash floor** y **downside scenario** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **runway personal y empresarial** no consiste en sumar cinco definiciones. Empieza por **personal runway**, contrasta **business runway** con **burn rate**, incorpora **cash floor** como restricción o mecanismo y usa **downside scenario** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El runway se revisa **una vez al mes**: caja real por cuenta, gastos reales, ingresos reales, proyección actualizada, estado de los disparadores y decisiones. Se registra en una hoja simple. Una trampa frecuente es usar la pista como **razón para postergar** una decisión difícil («todavía tengo 12 meses»), cuando la evidencia ya muestra que el modelo no funciona. Se evita con un **hito de evidencia**: en tal fecha, el negocio debe mostrar ciertos resultados (ingresos recurrentes, clientes, margen); si no, se ejecuta la acción acordada. También se evita la trampa contraria: **recortar demasiado pronto** lo que genera ingresos futuros (ventas, formación, red). El criterio es proteger la **capacidad de generar ingresos** y las **opciones**, no solo el saldo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **runway personal y empresarial** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **runway personal y empresarial** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **runway personal y empresarial** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **runway personal y empresarial** ayuda a desafiar? |
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **runway personal y empresarial** ayuda a desafiar? |
-
-En **runway personal y empresarial**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **personal runway**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Drucker | Decidir con información y anticiparse. | No calcula la pista. | ¿Qué información me falta para decidir? |
+| Ries | Aprender antes de quedarse sin caja. | Enfoque de negocios nuevos. | ¿Cuántos meses tengo para validar lo crítico? |
+| Taleb | Evitar la ruina y la fragilidad. | No es guía contable. | ¿Qué evento me llevaría a cero? |
+| Watkins | Planes por etapas con hitos. | Enfoque de nuevos roles. | ¿Qué hito de caja activa una acción? |
+| Gerber | Separar al dueño del negocio. | No trata disparadores. | ¿Qué es del negocio y qué es mío? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Founder cree tener 12 meses porque suma caja empresa y ahorros personales. Al separar IVA, impuestos, cuentas por pagar y gastos familiares, runway real es cinco meses.
+**Situación (hipotética).** Una diseñadora de producto tiene una pequeña empresa y vive de ella. Quiere calcular su pista combinada y fijar disparadores. Todos los valores son **supuestos**; las obligaciones tributarias y previsionales se verifican con asesoría y fuentes oficiales.
 
-**Paso 1 — separar personal y empresa.** La gerencia escribe primero el supuesto asociado a **personal runway** y evita convertirlo en hecho. Luego busca **months runway** para contrastarlo en el caso de **runway personal y empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos mensuales y de caja.**
 
-**Paso 2 — calcular gastos y burn.** La gerencia escribe primero el supuesto asociado a **business runway** y evita convertirlo en hecho. Luego busca **burn** para contrastarlo en el caso de **runway personal y empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Valor (pesos) |
+|---|---|
+| Gastos personales mensuales | 2.100.000 |
+| Costos fijos de la empresa | 1.200.000 |
+| Ingresos mensuales de la empresa (base) | 3.600.000 |
+| Costos variables de la empresa | 20 % de los ingresos |
+| Caja personal relevante | 12.600.000 |
+| Caja de la empresa relevante | 7.200.000 |
+| **Caja combinada** | **19.800.000** |
 
-**Paso 3 — definir cash floors.** La gerencia escribe primero el supuesto asociado a **burn rate** y evita convertirlo en hecho. Luego busca **cash floor** para contrastarlo en el caso de **runway personal y empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escenario base.** Resultado de la empresa: 3.600.000 × 0,80 − 1.200.000 = 2.880.000 − 1.200.000 = **1.680.000** al mes. Gastos personales: 2.100.000. **Burn neto combinado:** 2.100.000 − 1.680.000 = **420.000** al mes. **Pista:** 19.800.000 ÷ 420.000 = **47,1 meses**.
 
-**Paso 4 — construir base y downside.** La gerencia escribe primero el supuesto asociado a **cash floor** y evita convertirlo en hecho. Luego busca **receivables timing** para contrastarlo en el caso de **runway personal y empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escenario adverso (ingresos −40 %, gastos personales +10 %, costos fijos +10 %).**
 
-**Paso 5 — ligar runway a acciones y trigger dates.** La gerencia escribe primero el supuesto asociado a **downside scenario** y evita convertirlo en hecho. Luego busca **fixed commitments** para contrastarlo en el caso de **runway personal y empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Ingresos: 3.600.000 × 0,60 = 2.160.000; margen tras costos variables: 2.160.000 × 0,80 = 1.728.000.
+- Costos fijos: 1.200.000 × 1,10 = 1.320.000; resultado de la empresa: 1.728.000 − 1.320.000 = **408.000**.
+- Gastos personales: 2.100.000 × 1,10 = **2.310.000**.
+- **Burn neto combinado:** 2.310.000 − 408.000 = **1.902.000** al mes.
+- **Pista:** 19.800.000 ÷ 1.902.000 = **10,4 meses**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **runway personal y empresarial**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Pisos de caja.** Personal: tres meses de gastos esenciales (supuesto de 2.100.000 de gastos esenciales en el base): 6.300.000. Empresarial: dos meses de costos fijos: 2.400.000. Caja sobre los pisos: (12.600.000 − 6.300.000) + (7.200.000 − 2.400.000) = 6.300.000 + 4.800.000 = **11.100.000**. **Meses hasta el piso en el escenario adverso:** 11.100.000 ÷ 1.902.000 = **5,8 meses**.
+
+**Disparadores (escenario adverso).**
+
+| Condición | Caja combinada | Mes estimado | Acción |
+|---|---|---|---|
+| Disparador 1 | < 15.000.000 | (19,8 − 15,0) ÷ 1,902 = **2,5** | Recortar discrecionales y acelerar cobranza. |
+| Disparador 2 | < 12.000.000 | (19,8 − 12,0) ÷ 1,902 = **4,1** | Intensificar ventas; evaluar ingresos puente. |
+| Disparador 3 | Un mes antes del piso (≈ 8,7 millones + 1,9) | **≈ 4,8** | Búsqueda laboral activa; revisar venta de activos. |
+| Piso | 8.700.000 (6,3 + 2,4) | **5,8** | No se cruza: decisión ya ejecutada. |
+
+**Acciones de extensión.** Recortar gastos discrecionales personales en 0,63 millones al mes y los no esenciales de la empresa en 0,15 millones: burn neto de 1.902.000 − 630.000 − 150.000 = **1.122.000**; pista de **17,6 meses** (19,8 ÷ 1,122) y meses hasta el piso: 11,1 ÷ 1,122 = **9,9**. Un ingreso puente de 1,5 millones mensuales llevaría el burn neto a 1.122.000 − 1.500.000 = −378.000: **la caja dejaría de consumirse** y la pista dejaría de ser un límite.
+
+**Hito de evidencia.** A los seis meses, si los ingresos de la empresa no superan 3.000.000 mensuales de forma sostenida o no hay dos nuevos clientes recurrentes, se ejecuta el plan de ingresos puente.
+
+**Decisión.** Mantener cuentas separadas, fijar su retiro mensual en un monto definido y documentado, mantener una línea de crédito sin usar, actualizar el modelo cada mes y registrar los disparadores en un documento que su pareja y su contador conozcan.
+
+**Cuidados.** Los números son supuestos. Los impuestos, cotizaciones y obligaciones de salud y previsión se verifican con asesoría y fuentes oficiales.
+
+**Qué muestra.** (1) La pista base de 47 meses cae a 10 en el adverso. (2) Los pisos redujeron el tiempo útil a 5,8 meses. (3) Los disparadores y las palancas se definieron antes de necesitarlos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **personal runway** | meses de gastos esenciales cubiertos por liquidez personal | Cuando months runway es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **business runway** | meses que la empresa puede operar al burn proyectado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Pista frente a rentabilidad.** La rentabilidad mide si el negocio gana; la pista mide cuánto tiempo se puede sostener si no gana. Una empresa rentable puede quedarse sin caja; una con pérdidas puede tener una pista larga. Se necesitan ambas.
 
-**Frontera de aplicación:** Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor.
+**Límites.** El runway no debe justificar postergar indefinidamente una decisión. Las proyecciones dependen de supuestos que pueden fallar. El cálculo no contempla eventos extraordinarios (enfermedad, litigios, desastres) que requieren seguros y reservas. No es asesoría financiera, tributaria ni legal. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre runway personal y empresarial |
+| Nivel | Cómo se relaciona con el runway |
 |---|---|
-| **Profesional** | usa **runway personal y empresarial** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **personal runway** y **business runway** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta months runway con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si runway personal y empresarial cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de runway personal y empresarial reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **runway personal y empresarial** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Conoce su pista personal y la de su empleador cuando le afecta. |
+| **Jefe / Team Lead** | Entiende cómo el gasto de su equipo consume caja. |
+| **Gerente** | Responde por el pronóstico de caja de su área. |
+| **CEO / Director** | Define pisos, escenarios y disparadores de la empresa. |
+| **Founder / Owner** | Calcula la pista combinada, fija pisos y ejecuta las acciones acordadas a tiempo. |
 
 ## 🏢 Caso ejecutivo
 
-Founder cree tener 12 meses porque suma caja empresa y ahorros personales. Al separar IVA, impuestos, cuentas por pagar y gastos familiares, runway real es cinco meses.
+Un desarrollador independiente de 41 años tiene una pequeña agencia de software con tres personas. Ingresos de los últimos seis meses: 9,6; 8,1; 12,3; 6,0; 7,2 y 10,2 millones de pesos (promedio 8,9); costos fijos de la agencia (sueldos de dos personas, arriendo de oficina, herramientas): 6,4 millones mensuales; costos variables de 15 % de los ingresos; retiros personales de 2,8 millones mensuales, sobre gastos personales esenciales de 2,3 y totales de 3,1 millones. Caja de la agencia: 11 millones; ahorros personales líquidos: 9 millones; un crédito personal con cuota de 0,6 millones (incluida en los gastos). Un cliente que representa el 38 % de los ingresos ha anunciado que su contrato terminará en tres meses. Tiene una oferta de empleo a tiempo completo por 4,2 millones mensuales. Le deben 14 millones en facturas con 60 a 90 días de atraso.
 
-Entrega un **decision brief de runway personal y empresarial** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de gobierno y riesgos de caja** que contenga: (a) la separación de caja, gastos y obligaciones de la persona y de la agencia; (b) el burn neto y la pista combinada en el escenario base, el adverso y el de pérdida del cliente; (c) los pisos y los meses hasta el piso; (d) la tabla de disparadores con condición, acción, responsable y fecha, y las palancas de extensión con su efecto; (e) la evaluación de la oferta de empleo frente a seguir independiente, con un hito de evidencia; (f) los límites del análisis y las verificaciones tributarias y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **runway personal y empresarial** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta months runway, burn; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Separa tus gastos personales y empresariales y distingue esenciales de discrecionales.
+2. Calcula tu caja relevante, tu burn neto y tu pista en el escenario base.
+3. Construye un escenario adverso con ingresos −40 % y calcula los meses hasta el piso.
+4. Escribe una tabla de tres disparadores con condición, acción y fecha de revisión.
+5. Define un hito de evidencia y la acción que ejecutarás si no se cumple.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar personal runway y business runway como sinónimos | Se pierde la distinción entre “meses de gastos esenciales cubiertos por liquidez personal” y “meses que la empresa puede operar al burn proyectado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “ligar runway a acciones y trigger dates” | Se saltó “separar personal y empresa” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. separar personal y empresa → 2. calcular gastos y burn → 3. definir cash floors → 4. construir base y downside → 5. ligar runway a acciones y trigger dates y marca el primer supuesto no demostrado. |
-| Optimizar solo months runway | La métrica local sustituyó al resultado del sistema | Contrástala con burn y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre runway personal y empresarial | Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor. |
-| No fijar revisión | Una decisión sobre runway personal y empresarial se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mezclar caja personal y empresarial | Comodidad | Cuentas y retiros definidos. |
+| Calcular solo el escenario base | Optimismo | Escenario adverso y de estrés. |
+| Olvidar gastos anuales | Se piensa en lo mensual | Prorratear seguros, impuestos y renovaciones. |
+| No fijar pisos | Se cree que se verá a tiempo | Pisos escritos antes de la crisis. |
+| Postergar decisiones por «aún hay pista» | Evitar el conflicto | Hitos de evidencia y disparadores. |
+| Recortar lo que genera ingresos | Pánico | Proteger ventas, red y capacidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **personal runway** y **business runway** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **burn rate** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **separar personal y empresa → calcular gastos y burn** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **months runway** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **runway personal y empresarial**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor.**?
+1. ¿Qué es el runway y cómo se calcula?
+2. ¿Qué diferencia hay entre burn bruto y neto?
+3. ¿Qué es un piso de caja?
+4. ¿Por qué se construye un escenario adverso?
+5. ¿Qué debe tener un disparador?
+6. ¿Qué palancas extienden la pista?
+7. ¿Qué límite tiene el runway?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Los meses que dura la caja al ritmo de consumo; caja relevante dividida por el burn neto mensual.
+2. El bruto es el gasto mensual; el neto es el gasto menos los ingresos disponibles.
+3. El nivel mínimo de caja que no se cruza para no comprometer lo esencial ni las opciones.
+4. Para saber cuánto tiempo hay si los ingresos caen y los gastos suben, y preparar acciones.
+5. Una condición medible, una acción, un responsable y una fecha de revisión.
+6. Acelerar cobranza, recortar discrecionales, ingresos puente, diferir inversiones y financiamiento evaluado.
+7. No debe justificar postergar decisiones y depende de supuestos; no cubre eventos extraordinarios.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/284-runway-personal-y-empresarial/`:
 
-- `risk-governance-brief.md` con el problema específico de **runway personal y empresarial**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **runway personal y empresarial** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **personal runway**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Founder cree tener 12 meses porque suma caja empresa y ahorros personales. Al separar IVA, impuestos, cuentas por pagar y gastos familiares, runway real es cinco meses.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk governance brief](../../../../templates/risk-governance-brief.md)) con el informe del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con los escenarios y disparadores;
+- `decision-journal.md` con los pisos, las palancas y el hito de evidencia.
 
 ## 📗 Fuentes y verificación
 
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** fragilidad, opcionalidad, redundancia y exposición asimétrica al riesgo. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **runway personal y empresarial** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **runway personal y empresarial**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **runway personal y empresarial** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **runway personal y empresarial** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **runway personal y empresarial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** decidir con información y anticiparse. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestión por resultados y responsabilidad. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** aprender antes de quedarse sin caja. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** evitar la ruina y la fragilidad. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** planes por etapas con hitos y puntos de control. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** separar al dueño del negocio. Lectura selectiva sobre **runway personal y empresarial**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para Runway personal y empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **runway personal y empresarial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Runway personal y empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones tributarias y previsionales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

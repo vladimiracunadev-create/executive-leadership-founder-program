@@ -1,65 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g284 d-g284" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g284">Ficha visual de la clase 284: Runway personal y empresarial</title>
-<desc id="d-g284">Conceptos: personal runway; business runway; burn rate; cash floor; downside scenario. Método: separar personal y empresa → calcular gastos y burn → definir cash floors → construir base y downside → ligar runway a acciones y trigger dates.</desc>
-<defs><marker id="p-g284" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 284 · Runway personal y empresarial</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 23 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >personal runway</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >meses de gastos esenciales cubiertos por liquidez</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >personal</text>
-<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >business runway</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >meses que la empresa puede operar al burn proyectado</text>
-<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >burn rate</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >consumo neto de caja por periodo</text>
-<circle cx="38" cy="300.12" r="5" fill="#59636e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cash floor</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >nivel mínimo de liquidez que no se desea cruzar</text>
-<circle cx="38" cy="358.12" r="5" fill="#59636e"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >downside scenario</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >escenario adverso plausible para probar resiliencia</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#59636e" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#59636e"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >separar personal y empresa</text>
-<circle cx="485" cy="176" r="14" fill="#59636e"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >calcular gastos y burn</text>
-<circle cx="485" cy="230" r="14" fill="#59636e"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir cash floors</text>
-<circle cx="485" cy="284" r="14" fill="#59636e"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >construir base y downside</text>
-<circle cx="485" cy="338" r="14" fill="#59636e"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >ligar runway a acciones y trigger dates</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >months runway</text>
-<rect x="153.7" y="442.12" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="166.7" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="177.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >burn</text>
-<rect x="217.3" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="230.3" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="241.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash floor</text>
-<rect x="322.3" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="335.3" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="346.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >receivables timing</text>
-<rect x="482.5" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="495.5" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="506.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >fixed commitments</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >antes de llegar al cash floor.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s284 d-s284" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s284">Clase 284 · Runway personal y empresarial</title>
+<desc id="d-s284">Cinco pasos para calcular el runway: separar lo personal de la empresa, calcular gastos y consumo de caja, fijar pisos de caja, construir escenarios base y adverso, y ligarlos a acciones con fechas.</desc>
+<defs><marker id="p-s284" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 284 · Runway personal y empresarial</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Drucker · Ries · Taleb · Watkins</text>
+<rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Separar personal y</text>
+<text x="72" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >empresa</text>
+<text x="44" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cuentas, gastos y</text>
+<text x="44" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >obligaciones distintas.</text>
+<path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s284)"/>
+<rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Gastos y consumo de</text>
+<text x="323.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >caja</text>
+<text x="295.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cuánto se gasta por mes en</text>
+<text x="295.5" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >cada lado.</text>
+<path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s284)"/>
+<rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Pisos de caja</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El mínimo que no se cruza.</text>
+<path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s284)"/>
+<rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Escenarios base y</text>
+<text x="826.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >adverso</text>
+<text x="798.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Con ingresos menores y</text>
+<text x="798.5" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >gastos mayores.</text>
+<path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s284)"/>
+<rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
+<text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Disparadores y</text>
+<text x="72" y="269.13" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >acciones</text>
+<text x="44" y="289.76" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué se hace y cuándo si se</text>
+<text x="44" y="307.01" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >acerca al piso.</text>
+<path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s284)"/>
+<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >los resultados reales corrigen el modelo</text>
+<rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El runway no debe justificar postergar indefinidamente una decisión: se definen los disparadores de reducir gasto, vender o buscar</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >empleo antes de llegar al piso.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las obligaciones personales y empresariales se revisan por separado.</text>
 </svg>

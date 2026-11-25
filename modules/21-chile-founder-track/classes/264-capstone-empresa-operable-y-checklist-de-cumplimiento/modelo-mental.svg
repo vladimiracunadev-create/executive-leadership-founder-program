@@ -1,67 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g264 d-g264" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g264">Ficha visual de la clase 264: Capstone: empresa operable y checklist de cumplimiento</title>
-<desc id="d-g264">Conceptos: operability; compliance checklist; compliance calendar; professional escalation; due diligence pack. Método: mapear modelo y actividades → validar sociedad SII y permisos → validar laboral IP y contratos → crear calendario y controls → hacer mock due diligence y cerrar gaps.</desc>
-<defs><marker id="p-g264" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 264 · Capstone: empresa operable y checklist de cumplimiento</text>
-<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Parte 21 · Fundador, propi…</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >operability</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad legal tributaria y operacional de ejecutar el</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >modelo</text>
-<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >compliance checklist</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >lista de obligaciones con evidencia y owner</text>
-<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >compliance calendar</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fechas recurrentes y dependencias</text>
-<circle cx="38" cy="300.12" r="5" fill="#59636e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >professional escalation</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >definición de cuándo intervenir abogado contador</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >prevencionista u otro especialista</text>
-<circle cx="38" cy="372.24" r="5" fill="#59636e"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >due diligence pack</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >carpeta estructurada de documentos y evidencias</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >empresariales</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#59636e" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#59636e"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear modelo y actividades</text>
-<circle cx="485" cy="176" r="14" fill="#59636e"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >validar sociedad SII y permisos</text>
-<circle cx="485" cy="230" r="14" fill="#59636e"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >validar laboral IP y contratos</text>
-<circle cx="485" cy="284" r="14" fill="#59636e"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >crear calendario y controls</text>
-<circle cx="485" cy="338" r="14" fill="#59636e"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >hacer mock due diligence y cerrar gaps</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >open compliance gaps</text>
-<rect x="202" y="470.36" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="215" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="226" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >deadline coverage</text>
-<rect x="355.3" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="368.3" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="379.3" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >document completeness</text>
-<rect x="536.2" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="549.2" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="560.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >owner assignment</text>
-<rect x="682.6" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="695.6" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="706.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >professional reviews</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una checklist completa hoy puede quedar obsoleta mañana. El entregable debe registrar fuente, fecha de verificación y responsable de</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >actualización.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 384.81" width="1040" role="img" aria-labelledby="t-s264 d-s264" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s264">Clase 264 · Una empresa operable: existe, opera y se mantiene</title>
+<desc id="d-s264">Tres bloques de una checklist de empresa operable: existe (sociedad, SII, permisos), opera (laboral, propiedad intelectual, contratos y bancos) y se mantiene (calendario, controles y responsables).</desc>
+<defs><marker id="p-s264" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="384.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 264 · Una empresa operable: existe, opera y se mantiene</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >RES · SII · Dirección del Trabajo · INAPI · OECD</text>
+<rect x="28" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Existe</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Sociedad y registros.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Inicio de actividades en el SII.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Permisos de la actividad.</text>
+<rect x="362.667" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Opera</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#1a7f37"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Contratos laborales y de clientes.</text>
+<circle cx="384.6666666666667" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="398.667" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Propiedad intelectual a nombre de la</text>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >empresa.</text>
+<circle cx="384.6666666666667" cy="225.75" r="4" fill="#1a7f37"/>
+<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cuentas, cobros y contabilidad.</text>
+<rect x="697.333" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Se mantiene</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Calendario de obligaciones.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Controles y responsables.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Fuente y fecha de verificación.</text>
+<rect x="28" y="275" width="984" height="43.25" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Una checklist completa hoy puede quedar obsoleta mañana: cada punto registra su fuente, la fecha de verificación y quién la actualiza.</text>
+<text x="28" y="344.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Una simulación de revisión previa (due diligence) detecta brechas antes de que lo haga un tercero.</text>
 </svg>

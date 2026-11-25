@@ -5,14 +5,15 @@ duration_minutes: 150
 level: "Etapa 6 — Founder en Chile"
 outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir persona natural de persona jurídica mediante evidencia observable."
-  - "Aplicar la secuencia: mapear actividad y exposición → definir necesidad de socios y capital → comparar administración y costos → revisar responsabilidad y contratos → validar alternativa con fuentes y asesoría."
-  - "Interpretar owner liability exposure, setup cost, ongoing compliance sin atribuir causalidad automática."
-  - "Resolver el caso de persona natural y persona jurídica: decisiones iniciales con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir persona natural y persona jurídica por sus rasgos observables."
+  - "Mapear la exposición de la actividad y la necesidad de socios y capital."
+  - "Comparar administración, costos recurrentes y trámites de cada alternativa."
+  - "Estimar con supuestos explícitos el costo de cada opción frente a la exposición."
+  - "Preparar la consulta profesional con preguntas y documentos concretos."
 deliverable: "risk-governance-brief.md"
 references:
   - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
@@ -21,13 +22,10 @@ references:
   - "Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*"
   - "Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*"
   - "INAPI (Chile) — *Propiedad industrial y orientación oficial*"
-  - "Registro de Empresas y Sociedades — información oficial sobre formas societarias: <https://www.registrodeempresasysociedades.cl/FAQ.aspx>."
-  - "SII — Portal Emprendedor: <https://www.sii.cl/portales/emprendedor/>."
 limits:
-  - "La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales."
+  - "Esta clase no interpreta normas ni calcula impuestos; plantea preguntas y estructura la decisión."
 evidence_signals:
-  - "owner liability exposure"
-  - "setup cost"
-  - "ongoing compliance"
-  - "capital needs"
-  - "contracting requirements"
+  - "exposicion del negocio estimada"
+  - "costo de cumplimiento comparado"
+  - "titularidad de contratos y activos"
+  - "consulta profesional preparada"

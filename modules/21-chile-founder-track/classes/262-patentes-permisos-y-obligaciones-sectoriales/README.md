@@ -10,219 +10,213 @@
 
 ## 🎯 Propósito
 
-Patentes municipales, permisos sanitarios, sectoriales y otras autorizaciones dependen de actividad, ubicación y riesgo. El founder debe crear una matriz de actividad → autoridad → permiso → evidencia → renovación en vez de asumir que constituir sociedad habilita cualquier operación.
+Tener el inicio de actividades al día no autoriza, por sí solo, a abrir las puertas. Muchas actividades requieren una **patente municipal** para operar en un lugar determinado y, según el rubro, **permisos o registros sectoriales** de otras autoridades: sanitarios, de seguridad, ambientales, de transporte, de educación, de salud, de comercio exterior, financieros, entre otros. Cada uno tiene su propio ente, sus propios requisitos, sus propios plazos y su propia lógica de renovación. El error clásico es **invertir antes de saber si se puede operar**: arrendar un local, comprar equipos o contratar personal y descubrir después que el lugar no admite esa actividad, que el permiso requiere obras costosas o que la autoridad tarda meses. Esa decisión es la menos reversible de un emprendimiento físico.
 
-La salida de esta parte es **formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **patentes, permisos y obligaciones sectoriales** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase enseña a **descubrir y ordenar las obligaciones sectoriales** de una actividad: describir qué se hace y dónde, identificar las autoridades competentes, mapear los permisos y su orden, obtener evidencia antes de operar y controlar renovaciones y cambios. **No existe un listado único para todas las empresas**: el municipio, la actividad y el sector cambian los requisitos, y las normas se actualizan. Por eso aquí no se enumeran permisos ni plazos; se enseña el método y se indican las fuentes de verificación (ChileAtiende, la municipalidad correspondiente, el SII, el RES, la DT, Corfo y los organismos sectoriales). Al terminar sabrás construir un mapa de permisos, comparar alternativas de ubicación con riesgo y costo y mantener un registro de obligaciones vigentes.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `municipal patent`, `sector permit`, `sanitary authorization`, `permit dependency`, `renewal` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder en chile.
-3. **Aplicar** la secuencia **1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** permit coverage, days to approval, renewal compliance sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** patente municipal, permiso sectorial, registro y obligación recurrente.
+2. **Describir** la actividad y el lugar con el detalle que cada autoridad necesita.
+3. **Mapear** autoridades, permisos y su orden, con evidencia verificable.
+4. **Comparar** alternativas de local o modelo con costo y riesgo esperados.
+5. **Controlar** renovaciones, cambios y vencimientos con un registro vigente.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define municipal patent y sector permit sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con permit coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué autoridades deberían autorizar tu actividad en tu lugar? |
+| 20–60 min | Actividad y lugar, autoridades, permisos y orden, evidencia, renovaciones y cambios. |
+| 60–105 min | Ejemplo trabajado: elección de local con probabilidad de aprobación y costo esperado. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **municipal patent** | autorización o tributo municipal asociado al ejercicio de actividades según normativa | Distingue un hecho compatible y otro que lo refute. |
-| **sector permit** | autorización específica de una autoridad por tipo de actividad | Distingue un hecho compatible y otro que lo refute. |
-| **sanitary authorization** | permiso sanitario cuando la actividad lo requiere | Distingue un hecho compatible y otro que lo refute. |
-| **permit dependency** | relación donde iniciar operación depende de autorización previa | Distingue un hecho compatible y otro que lo refute. |
-| **renewal** | renovación periódica de un permiso o registro | Distingue un hecho compatible y otro que lo refute. |
+| **Patente municipal** | Autorización local para ejercer una actividad en un lugar. | Documento del municipio. |
+| **Permiso sectorial** | Autorización de un organismo según el rubro. | Resolución o certificado. |
+| **Registro sectorial** | Inscripción exigida a ciertas actividades. | Número o constancia. |
+| **Autoridad competente** | Organismo que decide sobre un permiso. | Municipio o servicio sectorial. |
+| **Obligación recurrente** | Deber periódico para mantener la autorización. | Renovación, informe, inspección. |
+| **Evidencia previa** | Documento que prueba el permiso antes de operar. | Copia vigente y fecha. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 262: 1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios](modelo-mental.svg)
+![Cadena para identificar permisos: actividad y lugar, autoridades, permisos y orden, evidencia antes de operar, y renovaciones y cambios.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Patentes municipales, permisos sanitarios, sectoriales y otras autorizaciones dependen de actividad, ubicación y riesgo. El founder debe crear una matriz de actividad → autoridad → permiso → evidencia → renovación en vez de asumir que constituir sociedad habilita cualquier operación.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe un listado único para todas las empresas. Municipio, actividad y sector cambian requisitos; consulta autoridades oficiales antes de firmar inversiones irreversibles.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos. **Actividad y lugar**: qué se hace y dónde. **Autoridades**: municipio y organismos sectoriales. **Permisos y orden**: qué se necesita y en qué secuencia. **Evidencia antes de operar**: documentos y resoluciones. **Renovaciones y cambios**: vencimientos y modificaciones. La flecha de retorno indica que un cambio de local o de actividad reinicia el mapa. La nota recuerda que no existe un listado único y que se consulta a la autoridad antes de firmar inversiones irreversibles; el pie, que la patente municipal y el permiso sectorial son cosas distintas.
 
 ## 📖 Desarrollo
 
-### 1. municipal patent: mecanismo central
+### 1. Dos grandes familias: lo local y lo sectorial
 
-**municipal patent** se entiende aquí como **autorización o tributo municipal asociado al ejercicio de actividades según normativa**. Esta es la pieza causal o estructural desde la que se inicia **patentes, permisos y obligaciones sectoriales**: antes de describir actividad y localización, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La **patente municipal** (o autorización equivalente según el caso) habilita el ejercicio de una actividad en un lugar y depende de la normativa y la práctica de la municipalidad correspondiente: zonificación, tipo de actividad, características del local, y los documentos que cada comuna pida. Los **permisos sectoriales** dependen del rubro: quien manipula alimentos, atiende a niños, ofrece servicios de salud, transporta personas o mercancías, usa productos regulados, maneja datos sensibles, ofrece servicios financieros o educativos, o impacta el ambiente se relaciona con autoridades específicas. Una misma empresa puede necesitar varias. ChileAtiende ofrece orientación de trámites del Estado, y SII Educa describe la formalización de un negocio; **ninguno reemplaza la consulta directa** a la autoridad que decidirá.
 
-La lectura rectora de este bloque es Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. Su aporte se usa para examinar **constitución y modificaciones societarias en el Registro de Empresas y Sociedades**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **permit coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. Describir actividad y lugar con precisión
 
-Relaciona el mecanismo con **sector permit**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La autoridad decide sobre **hechos**: qué se hará exactamente, en qué superficie, con qué instalaciones, con cuántas personas, qué público se atenderá, qué materiales o equipos se usarán, qué horarios, qué residuos se generarán. Una descripción vaga produce respuestas vagas o, peor, una autorización que no cubre lo que realmente se hará. Se redacta una **ficha de actividad** de una página, que se actualiza si el negocio cambia. También se documenta el **lugar**: dirección, superficie, uso del inmueble, propietario, contrato de arriendo, planos o fotos. Esa ficha se usa para consultar a cada autoridad con la misma información y evitar contradicciones. El SII exige además que el domicilio declarado sea coherente con la realidad (clase 256).
 
-### 2. sector permit: frontera conceptual y error de clasificación
+### 3. Identificar autoridades y el orden de los pasos
 
-**Definición operacional:** autorización específica de una autoridad por tipo de actividad. Su valor está en distinguirlo de **municipal patent** y **sanitary authorization**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Con la ficha, se pregunta **a quién corresponde autorizar cada aspecto**. Un método: leer lo que publican los portales de ChileAtiende y de los organismos sectoriales, llamar o escribir a la **municipalidad** para preguntar qué requisitos tiene la actividad en ese lugar, y consultar a asociaciones del rubro o a profesionales con experiencia. Se registra **qué dijo cada fuente, quién lo dijo, cuándo** y con qué documento. Luego se arma el **orden**: algunos permisos requieren otros como antecedente (por ejemplo, el municipio puede pedir que el SII haya registrado tu actividad o que otra autoridad haya aprobado ciertas condiciones); otros pueden tramitarse en paralelo. El orden real lo confirman las autoridades; no se supone ni se copia de un caso ajeno.
 
-Contrasta el problema con Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*, que aporta una mirada sobre **obligaciones tributarias y ciclo de vida del contribuyente en Chile**. Formula dos mini-casos: uno que sí satisface la definición de **sector permit** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **days to approval** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Obtener evidencia antes de operar
 
-Antes de identificar autoridades competentes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un permiso en trámite **no es** un permiso otorgado. Antes de abrir, se debe tener la evidencia del permiso vigente, con su fecha, alcance, vencimiento y condiciones. Operar sin autorización o con una autorización que no cubre la actividad expone a sanciones, clausuras y, en algunos rubros, a riesgos para las personas. Si existe una autorización provisoria o un procedimiento especial, se verifica en la fuente oficial qué permite exactamente y hasta cuándo. Se guarda una **carpeta de permisos** con: copia del documento, autoridad emisora, número, fecha de otorgamiento, vencimiento, condiciones (por ejemplo, aforo, horarios, requisitos de seguridad), costos y responsable de la renovación. En licitaciones y contratos grandes, esa carpeta se solicita frecuentemente como parte de la evidencia de cumplimiento.
 
-### 3. sanitary authorization: operacionalización y medición
+### 5. Comparar alternativas de lugar y de modelo
 
-**sanitary authorization** significa **permiso sanitario cuando la actividad lo requiere**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las decisiones de lugar se comparan con **riesgo de autorización**. Se consulta a la autoridad sobre cada alternativa, se estima la probabilidad de aprobación y el plazo, se identifican las **adecuaciones necesarias** (obras, instalaciones, accesos, ventilación, seguridad) y su costo, y se calcula el **costo esperado**: arriendo, adecuaciones, costo de espera si hay retraso y pérdida si el permiso se deniega. Las estimaciones de probabilidad no son exactas, pero **obligan a preguntar** y a ponderar. A veces la alternativa correcta no es otro local sino otro modelo: operar desde una cocina autorizada de terceros, empezar con venta en línea mientras se tramita, usar un espacio ya habilitado. Corfo y otras instituciones pueden ofrecer apoyo para ciertas inversiones, pero sus programas cambian y se consultan en sus convocatorias vigentes.
 
-Dirección del Trabajo (Chile) — *Normativa y orientación oficial* orienta este bloque mediante **relaciones laborales, contratos, jornada y fiscalización laboral chilena**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **renewal compliance**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Obligaciones recurrentes, inspecciones y cambios
 
-Al llegar a mapear permisos y orden, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los permisos no son eternos ni estáticos. Hay **renovaciones**, **pagos periódicos**, **declaraciones**, **inspecciones**, **capacitaciones**, **informes** y **condiciones** que deben mantenerse. Un cambio importante (nuevo local, ampliación, nueva línea de productos, cambio de horarios, incorporación de maquinaria, cambio de titular) puede exigir **modificar o solicitar permisos nuevos**. Se mantiene un **registro de obligaciones** con: permiso, autoridad, obligación, periodicidad, responsable, fecha próxima, evidencia y fecha de verificación. Se incluyen también las obligaciones laborales y de seguridad (clase 260). Armstrong y Taylor destacan que la gestión de las personas incluye informar y capacitar sobre obligaciones de seguridad; en este contexto, los permisos suelen depender de que el equipo conozca y cumpla ciertos procedimientos.
 
-### 4. permit dependency: trade-offs y efectos de segundo orden
+### 7. Gobierno y proporcionalidad
 
-**Definición:** relación donde iniciar operación depende de autorización previa. Este concepto obliga a abandonar la idea de que **patentes, permisos y obligaciones sectoriales** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de obtener evidencia antes de operar, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial* aporta una lente sobre **instrumentos de desarrollo productivo, innovación y financiamiento empresarial**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **operating restrictions** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **patentes, permisos y obligaciones sectoriales**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **permit dependency** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. renewal: gobernanza, límites e integración
-
-**renewal** se define como **renovación periódica de un permiso o registro** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* se utiliza para estudiar **arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales** y contrastar la recomendación final. Al ejecutar controlar renovaciones y cambios, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No existe un listado único para todas las empresas. Municipio, actividad y sector cambian requisitos; consulta autoridades oficiales antes de firmar inversiones irreversibles.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **municipal patent**, **sector permit**, **sanitary authorization**, **permit dependency** y **renewal** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **patentes, permisos y obligaciones sectoriales** no consiste en sumar cinco definiciones. Empieza por **municipal patent**, contrasta **sector permit** con **sanitary authorization**, incorpora **permit dependency** como restricción o mecanismo y usa **renewal** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los principios de gobierno corporativo de la OECD destacan que el órgano de dirección debe comprender y supervisar los **riesgos relevantes**, incluidos los de cumplimiento. Para una pyme esto se traduce en: un responsable explícito de los permisos, un calendario revisado al menos mensualmente, un informe breve al dueño o socios con los vencimientos de los próximos 90 días y un mecanismo para escalar problemas. La proporcionalidad importa: no se necesita un sistema complejo, sino **constancia** y **ninguna sorpresa**. Y como la normativa y las prácticas locales cambian, se **revalida cada año** lo que se creía vigente. Para casos complejos (rubros regulados, grandes inversiones, actividades con impacto ambiental o sanitario), se contrata asesoría especializada antes de comprometer capital.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* | constitución y modificaciones societarias en el Registro de Empresas y Sociedades | ¿Qué supuesto de **patentes, permisos y obligaciones sectoriales** ayuda a desafiar? |
-| Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* | obligaciones tributarias y ciclo de vida del contribuyente en Chile | ¿Qué supuesto de **patentes, permisos y obligaciones sectoriales** ayuda a desafiar? |
-| Dirección del Trabajo (Chile) — *Normativa y orientación oficial* | relaciones laborales, contratos, jornada y fiscalización laboral chilena | ¿Qué supuesto de **patentes, permisos y obligaciones sectoriales** ayuda a desafiar? |
-| Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial* | instrumentos de desarrollo productivo, innovación y financiamiento empresarial | ¿Qué supuesto de **patentes, permisos y obligaciones sectoriales** ayuda a desafiar? |
-| Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* | arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales | ¿Qué supuesto de **patentes, permisos y obligaciones sectoriales** ayuda a desafiar? |
-
-En **patentes, permisos y obligaciones sectoriales**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **municipal patent**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Fuente | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| ChileAtiende | Orientación de trámites del Estado. | No decide tu permiso. | ¿Qué trámites se relacionan con mi actividad? |
+| Municipalidad competente | Requisitos locales de patente y uso del lugar. | No cubre permisos sectoriales. | ¿Qué exige mi comuna para este local? |
+| SII Educa | Formalización de un negocio y vínculo con permisos. | No define autorizaciones sectoriales. | ¿Qué debo tener antes de pedir la patente? |
+| Corfo | Apoyo a inversión y desarrollo empresarial. | No otorga permisos. | ¿Qué convocatoria vigente se relaciona? |
+| OECD (gobierno corporativo) | Supervisión de riesgos de cumplimiento. | No lista permisos. | ¿Quién supervisa mis vencimientos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa de alimentos constituye SpA y arrienda local, luego descubre que la infraestructura no cumple exigencias sanitarias necesarias para operar.
+**Situación (hipotética).** Una fundadora de una pastelería con venta al público evalúa tres locales. Antes de firmar, consulta a la municipalidad y a una asesora del rubro sobre requisitos. Todos los montos y probabilidades son **supuestos** que ella obtiene de esas consultas y que debe actualizar con la información oficial; el método es lo que importa.
 
-**Paso 1 — describir actividad y localización.** La gerencia escribe primero el supuesto asociado a **municipal patent** y evita convertirlo en hecho. Luego busca **permit coverage** para contrastarlo en el caso de **patentes, permisos y obligaciones sectoriales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos por alternativa.**
 
-**Paso 2 — identificar autoridades competentes.** La gerencia escribe primero el supuesto asociado a **sector permit** y evita convertirlo en hecho. Luego busca **days to approval** para contrastarlo en el caso de **patentes, permisos y obligaciones sectoriales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dato | Local A | Local B | Local C |
+|---|---|---|---|
+| Arriendo mensual | 700.000 | 500.000 | 600.000 |
+| Adecuaciones necesarias | 1.500.000 | 2.500.000 | 1.000.000 |
+| Probabilidad de aprobación a tiempo | 90 % | 50 % | 80 % |
+| Meses de retraso si no es a tiempo | 2 | 4 | 3 |
+| Probabilidad de denegación | 2 % | 15 % | 5 % |
 
-**Paso 3 — mapear permisos y orden.** La gerencia escribe primero el supuesto asociado a **sanitary authorization** y evita convertirlo en hecho. Luego busca **renewal compliance** para contrastarlo en el caso de **patentes, permisos y obligaciones sectoriales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo de espera esperado.** (1 − probabilidad a tiempo) × meses de retraso × arriendo. Se descuenta la denegación para no contarla dos veces: se usa la probabilidad de retraso como (1 − probabilidad a tiempo − probabilidad de denegación).
 
-**Paso 4 — obtener evidencia antes de operar.** La gerencia escribe primero el supuesto asociado a **permit dependency** y evita convertirlo en hecho. Luego busca **operating restrictions** para contrastarlo en el caso de **patentes, permisos y obligaciones sectoriales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Local A: probabilidad de retraso = 1 − 0,90 − 0,02 = 0,08; costo = 0,08 × 2 × 700.000 = **112.000**.
+- Local B: 1 − 0,50 − 0,15 = 0,35; costo = 0,35 × 4 × 500.000 = **700.000**.
+- Local C: 1 − 0,80 − 0,05 = 0,15; costo = 0,15 × 3 × 600.000 = **270.000**.
 
-**Paso 5 — controlar renovaciones y cambios.** La gerencia escribe primero el supuesto asociado a **renewal** y evita convertirlo en hecho. Luego busca **inspection findings** para contrastarlo en el caso de **patentes, permisos y obligaciones sectoriales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pérdida si se deniega (adecuaciones más tres meses de arriendo, supuesto).**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **patentes, permisos y obligaciones sectoriales**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+- A: 1.500.000 + 3 × 700.000 = 3.600.000; × 0,02 = **72.000**.
+- B: 2.500.000 + 3 × 500.000 = 4.000.000; × 0,15 = **600.000**.
+- C: 1.000.000 + 3 × 600.000 = 2.800.000; × 0,05 = **140.000**.
+
+**Costo esperado del primer año (arriendo de 12 meses + adecuaciones + espera esperada + denegación esperada).**
+
+| Local | Arriendo anual | Adecuaciones | Espera esperada | Denegación esperada | Total |
+|---|---|---|---|---|---|
+| A | 8.400.000 | 1.500.000 | 112.000 | 72.000 | **10.084.000** |
+| B | 6.000.000 | 2.500.000 | 700.000 | 600.000 | **9.800.000** |
+| C | 7.200.000 | 1.000.000 | 270.000 | 140.000 | **8.610.000** |
+
+**Lectura.** El local C tiene el menor costo esperado del primer año (8.610.000), pese a no ser el más barato en arriendo. El local B, el más barato de arrendar, queda 1.190.000 por encima de C (9.800.000 − 8.610.000) por su riesgo de autorización. El local A es el más seguro, pero cuesta 1.474.000 más que C (10.084.000 − 8.610.000).
+
+**Sensibilidad.** Si la probabilidad de aprobación a tiempo de C bajara de 80 % a 60 % (con 5 % de denegación): probabilidad de retraso 0,35; costo de espera 0,35 × 3 × 600.000 = 630.000; total 7.200.000 + 1.000.000 + 630.000 + 140.000 = **8.970.000**. C sigue siendo la mejor alternativa. **El resultado es robusto a esa variación.** Pero la calidad de las estimaciones es la clave: se mejoran con consultas formales, por escrito, a la autoridad.
+
+**Decisión.** Elegir el local C, pero **condicionar el contrato de arriendo** a la obtención de la patente y los permisos (cláusula de término sin costo si se deniega, a validar con un abogado), consultar por escrito a las autoridades, tramitar en el orden que ellas indiquen y no comprar equipos grandes hasta tener la evidencia.
+
+**Cuidados.** Las probabilidades, plazos y costos son supuestos; los requisitos reales los confirman las autoridades.
+
+**Qué muestra.** (1) Las estimaciones obligaron a preguntar a las autoridades. (2) El costo esperado cambió el ranking que sugería el arriendo. (3) La cláusula condicional transfiere parte del riesgo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **municipal patent** | autorización o tributo municipal asociado al ejercicio de actividades según normativa | Cuando permit coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **sector permit** | autorización específica de una autoridad por tipo de actividad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Patente municipal frente a permiso sectorial.** La patente autoriza el ejercicio de una actividad en un lugar y la entrega el municipio; el permiso sectorial depende del rubro y lo entrega el organismo competente. Una actividad puede necesitar ambos, en un orden que las autoridades confirman.
 
-**Frontera de aplicación:** No existe un listado único para todas las empresas. Municipio, actividad y sector cambian requisitos; consulta autoridades oficiales antes de firmar inversiones irreversibles.
+**Límites.** No existe un listado único. Esta clase no enumera permisos ni plazos y no reemplaza la consulta directa a las autoridades. Las probabilidades del ejemplo son supuestos. Para rubros regulados o inversiones grandes se requiere asesoría especializada antes de comprometer capital.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre patentes, permisos y obligaciones sectoriales |
+| Nivel | Cómo se relaciona con permisos y obligaciones |
 |---|---|
-| **Profesional** | usa **patentes, permisos y obligaciones sectoriales** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **municipal patent** y **sector permit** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta permit coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si patentes, permisos y obligaciones sectoriales cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de patentes, permisos y obligaciones sectoriales reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **patentes, permisos y obligaciones sectoriales** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple los procedimientos que sostienen los permisos. |
+| **Jefe / Team Lead** | Vela por las condiciones de seguridad y operación de su área. |
+| **Gerente** | Mantiene el registro de permisos y responde por los vencimientos. |
+| **CEO / Director** | Supervisa los riesgos de cumplimiento y la evidencia disponible. |
+| **Founder / Owner** | Decide el lugar y el modelo, y no opera sin evidencia de autorización. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa de alimentos constituye SpA y arrienda local, luego descubre que la infraestructura no cumple exigencias sanitarias necesarias para operar.
+Un fundador quiere abrir una clínica veterinaria con peluquería canina y venta de alimentos. Ha encontrado un local de 120 metros cuadrados en una calle residencial con arriendo de 1.200.000 pesos al mes y 18 meses de contrato mínimo. Compró un autoclave y una camilla radiográfica por 9.500.000 pesos «en oferta». Contrató a una veterinaria a honorarios y a dos auxiliares. Su pareja le dijo que «con la patente basta». Un vecino le advierte sobre ruidos y olores. El municipio indicó que el uso del local debe revisarse; otro organismo debe autorizar los equipos radiográficos, y debe resolver cómo se manejan los residuos. No ha consultado a ninguno por escrito. Planea abrir en 60 días. Su caja es de 15 millones.
 
-Entrega un **decision brief de patentes, permisos y obligaciones sectoriales** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de gobierno y riesgos de permisos** que contenga: (a) la ficha de actividad y lugar; (b) el mapa de autoridades, permisos y orden con lo que sabe y lo que debe preguntar; (c) el cálculo del costo esperado de tres escenarios (continuar con este local, negociar condiciones y buscar otro lugar) con supuestos explícitos; (d) las cláusulas condicionales que pedirá en el contrato de arriendo; (e) el registro de obligaciones recurrentes y su calendario; (f) las consultas formales que realizará y las verificaciones oficiales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **patentes, permisos y obligaciones sectoriales** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta permit coverage, days to approval; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tu ficha de actividad y lugar de una página.
+2. Haz una lista de autoridades que podrían intervenir y la pregunta que harás a cada una.
+3. Compara dos alternativas de lugar con costo esperado y sensibilidad.
+4. Diseña tu registro de obligaciones con responsable, fecha y evidencia.
+5. Define qué no comprarás ni firmarás hasta tener la evidencia de autorización.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar municipal patent y sector permit como sinónimos | Se pierde la distinción entre “autorización o tributo municipal asociado al ejercicio de actividades según normativa” y “autorización específica de una autoridad por tipo de actividad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “controlar renovaciones y cambios” | Se saltó “describir actividad y localización” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios y marca el primer supuesto no demostrado. |
-| Optimizar solo permit coverage | La métrica local sustituyó al resultado del sistema | Contrástala con days to approval y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre patentes, permisos y obligaciones sectoriales | No existe un listado único para todas las empresas. Municipio, actividad y sector cambian requisitos; consulta autoridades oficiales antes de firmar inversiones irreversibles. |
-| No fijar revisión | Una decisión sobre patentes, permisos y obligaciones sectoriales se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Arrendar antes de consultar | Urgencia o entusiasmo | Consulta formal y cláusula condicional. |
+| Creer que la patente lo resuelve todo | Se ignoran los permisos sectoriales | Mapear todas las autoridades. |
+| Operar con el permiso «en trámite» | Presión de caja | Evidencia vigente antes de abrir. |
+| Descripción vaga de la actividad | Se quiere evitar complicaciones | Ficha precisa y actualizada. |
+| Olvidar renovaciones | Sin responsable ni calendario | Registro de obligaciones y alertas. |
+| Comprar equipos antes de la autorización | Ofertas tentadoras | Posponer compras grandes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **municipal patent** y **sector permit** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **sanitary authorization** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **describir actividad y localización → identificar autoridades competentes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **permit coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **patentes, permisos y obligaciones sectoriales**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No existe un listado único para todas las empresas. Municipio, actividad y sector cambian requisitos; consulta autoridades oficiales antes de firmar inversiones irreversibles.**?
+1. ¿Qué diferencia hay entre patente municipal y permiso sectorial?
+2. ¿Por qué se describe la actividad y el lugar con precisión?
+3. ¿Cómo se identifican las autoridades competentes?
+4. ¿Por qué un permiso en trámite no habilita a operar?
+5. ¿Cómo se calcula el costo esperado de una alternativa de lugar?
+6. ¿Qué debe tener un registro de obligaciones?
+7. ¿Qué límite tiene esta clase?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La patente autoriza ejercer en un lugar y la entrega el municipio; el permiso sectorial depende del rubro y lo otorga el organismo competente.
+2. Porque la autoridad decide sobre hechos y una descripción vaga produce autorizaciones que no cubren lo real.
+3. Con orientación oficial, consulta directa al municipio y a organismos sectoriales, y registro de lo que cada uno dijo.
+4. Porque aún no existe autorización vigente; operar así expone a sanciones y riesgos.
+5. Sumando arriendo, adecuaciones, costo de espera esperado y pérdida esperada por denegación.
+6. Permiso, autoridad, obligación, periodicidad, responsable, fecha, evidencia y última verificación.
+7. No enumera permisos ni plazos, y exige consultar a las autoridades y a especialistas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/262-patentes-permisos-y-obligaciones-sectoriales/`:
 
-- `risk-governance-brief.md` con el problema específico de **patentes, permisos y obligaciones sectoriales**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **patentes, permisos y obligaciones sectoriales** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **municipal patent**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa de alimentos constituye SpA y arrienda local, luego descubre que la infraestructura no cumple exigencias sanitarias necesarias para operar.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk governance brief](../../../../templates/risk-governance-brief.md)) con el informe del caso ejecutivo;
+- `decision-journal.md` con la ficha, las consultas realizadas y el registro de obligaciones.
 
 ## 📗 Fuentes y verificación
 
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. **Fuente primaria:** <https://www.sii.cl/>.
-- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** relaciones laborales, contratos, jornada y fiscalización laboral chilena. **Fuente primaria:** <https://www.dt.gob.cl/>.
-- Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** instrumentos de desarrollo productivo, innovación y financiamiento empresarial. **Fuente primaria:** <https://www.corfo.cl/>.
-- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva sobre **patentes, permisos y obligaciones sectoriales**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- ChileAtiende — *Trámites y orientación del Estado*. **Uso en esta clase:** ubicar el trámite de permisos y patente y la municipalidad competente según giro. **Fuente primaria:** <https://www.chileatiende.gob.cl/>.
-- Servicio de Impuestos Internos (Chile) — *SII Educa: inicio de actividades y formalización de un negocio*. **Uso en esta clase:** comprobar en origen qué exige la formalización antes de tramitar permisos y patente. **Fuente primaria:** <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **patentes, permisos y obligaciones sectoriales** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **patentes, permisos y obligaciones sectoriales**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **patentes, permisos y obligaciones sectoriales** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **patentes, permisos y obligaciones sectoriales** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **patentes, permisos y obligaciones sectoriales** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- ChileAtiende — *Trámites y orientación del Estado*. **Uso en esta clase:** orientación de trámites y servicios del Estado. **Fuente primaria:** <https://www.chileatiende.gob.cl/>.
+- Servicio de Impuestos Internos (Chile) — *SII Educa: inicio de actividades y formalización de un negocio*. **Uso en esta clase:** formalización de un negocio y vínculo con permisos. **Fuente primaria:** <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
+- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** documentos oficiales de la entidad. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
+- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** obligaciones laborales vinculadas a la operación. **Fuente primaria:** <https://www.dt.gob.cl/>.
+- Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** instrumentos de apoyo a la inversión y el desarrollo empresarial. **Fuente primaria:** <https://www.corfo.cl/>.
+- Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice* (Kogan Page, Limited, 2023). **Uso en esta clase:** gestión de personas y capacitación en obligaciones de seguridad. Lectura selectiva sobre **patentes, permisos y obligaciones sectoriales**. **Localizador:** [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** supervisión de riesgos de cumplimiento por el órgano de dirección. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
 
-> **Regla de fuentes para Patentes, permisos y obligaciones sectoriales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **patentes, permisos y obligaciones sectoriales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Patentes, permisos y obligaciones sectoriales:** las obras y portales anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, trámite, tasa o plazo mencionado debe comprobarse nuevamente en su fuente primaria oficial vigente, y este programa no reemplaza asesoría legal, tributaria ni contable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce material protegido.
 
 <!-- pie:inicio -->
 ---

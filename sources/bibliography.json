@@ -114,7 +114,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
         "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental"
       ],
       "status": "verificada"
@@ -320,18 +319,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
-        "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
-        "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
-        "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
-        "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
-        "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
-        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
-        "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
@@ -930,6 +917,7 @@
       "locator": "https://www.chileatiende.gob.cl/",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales"
       ],
       "status": "verificada"
@@ -1452,7 +1440,6 @@
       "catalogue": "primary_official",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
         "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
         "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico"
@@ -1542,7 +1529,6 @@
       "used_in": [
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
         "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento"
@@ -1993,18 +1979,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
-        "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
-        "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
-        "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
-        "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
-        "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
-        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
-        "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
@@ -2211,8 +2185,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
         "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
         "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento"
       ],
@@ -3556,18 +3528,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
-        "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
-        "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
-        "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
-        "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
-        "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
-        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
-        "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
@@ -3920,11 +3880,8 @@
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
-        "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
         "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
-        "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
         "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
         "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento"
@@ -3944,7 +3901,6 @@
       "locator": "https://www.registrodeempresasysociedades.cl/FAQ.aspx",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama"
       ],
       "status": "verificada"
@@ -4431,7 +4387,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
         "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico"
       ],
       "status": "verificada"
@@ -4449,6 +4404,7 @@
       "locator": "https://www.sii.cl/destacados/ley_cumplimiento_obligaciones_tributarias/inicio_actividades.html",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro"
       ],
       "status": "verificada"
@@ -4502,15 +4458,10 @@
       "used_in": [
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
         "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
         "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
-        "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
-        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
-        "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento"
+        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico"
       ],
       "status": "verificada"
     },
@@ -4527,7 +4478,7 @@
       "locator": "https://www.sii.cl/portales/emprendedor/",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
+        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento"
       ],
       "status": "verificada"
@@ -4545,7 +4496,7 @@
       "locator": "https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
+        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales"
       ],
       "status": "verificada"
@@ -4687,7 +4638,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama"
       ],
       "status": "verificada"
@@ -4769,18 +4719,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
-        "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
-        "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
-        "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
-        "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
-        "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
-        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
-        "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
@@ -5057,18 +4995,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
-        "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
-        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
-        "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii",
-        "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo",
-        "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental",
-        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro",
-        "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
-        "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi",
-        "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales",
-        "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico",
-        "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
@@ -7506,7 +7432,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
-        "modules/17-boards-corporate-governance/classes/209-deberes-conflictos-e-independencia-fundamentos"
+        "modules/17-boards-corporate-governance/classes/209-deberes-conflictos-e-independencia-fundamentos",
+        "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama"
       ],
       "status": "verificada"
     },
@@ -7524,7 +7451,8 @@
       "locator": "https://www.cmfchile.cl/",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia"
+        "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia",
+        "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro"
       ],
       "status": "verificada"
     },

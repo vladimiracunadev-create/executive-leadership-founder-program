@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **formalization** de **RES** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **SII** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **municipal permit** con **compliance calendar**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre constituir una sociedad y hacer el inicio de actividades?
+2. ¿Por qué la descripción de la actividad es el punto de partida?
+3. ¿Qué es la ruta crítica y para qué sirve?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Dos founders constituyen una SpA y comienzan a vender. Meses después descubren que no completaron correctamente actividades o giros y que su comuna exige patente para la operación específica.
+**Caso:** Un fundador quiere abrir un pequeño taller de reparación de bicicletas eléctricas con venta de repuestos. Ha firmado un arriendo de 750.000 pesos mensuales en un local de una comuna que no consultó; piensa trabajar con un mecánico a honorarios y atender a clientes desde la semana siguiente. Todavía no ha decidido si operará como persona natural o con una sociedad; tiene un socio capitalista interesado que aportaría 6 millones. Planea vender repuestos importados por internet, guardar datos de clientes en una planilla y emitir boletas a medida que venda. Un amigo le dijo que «con el inicio de actividades basta». No tiene calendario ni contador.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir actividad y riesgos → seleccionar estructura y constituir → iniciar ciclo tributario → resolver permisos y registro sectorial → crear calendario laboral tributario y corporativo**. Debes utilizar o diseñar cómo obtener **registration status, SII status, permit coverage**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de gobierno y riesgos del ciclo empresarial** que contenga: (a) la descripción precisa de la actividad y sus riesgos; (b) el mapa de dependencias con estados (hecho, pendiente, desconocido); (c) la ruta crítica con plazos supuestos y el costo diario de espera; (d) las preguntas que debe hacer a cada autoridad y la fuente oficial de cada una; (e) qué decisiones requieren asesoría y por qué; (f) el calendario inicial de verificación con responsable y fecha. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los plazos y costos del ejemplo son supuestos.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

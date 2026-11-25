@@ -63,7 +63,7 @@ sin que el CI lo diga.
 <!-- registro-de-fuentes:inicio -->
 ## 🧾 El registro en cifras
 
-El programa cita **1834** veces un total de
+El programa cita **1762** veces un total de
 **352** obras a lo largo de sus **288** clases.
 De esas obras, **346** tienen hoy un localizador comprobado
 —ISBN-13, DOI o URL oficial con fecha de acceso— y **6**
@@ -95,7 +95,7 @@ las 288 clases se apoya cada una.
 | Adams, Renée B. et al. | *The Role of Boards of Directors in Corporate Governance: A Conceptual Framework and Survey* | Journal of Economic Literature | 2010 | [DOI](https://doi.org/10.1257/jel.48.1.58) | 2 |
 | Agrawal, Ajay et al. | *Prediction Machines* | Harvard Business Review Press | 2018 | [ISBN-13 9781633695672](https://openlibrary.org/isbn/9781633695672) | 2 |
 | Amabile, Teresa M. | *The Progress Principle* | Harvard Business Review Press | 2011 | [ISBN-13 9781422198575](https://openlibrary.org/isbn/9781422198575) | 2 |
-| Ambrose, Susan A. | *How Learning Works* | John Wiley & Sons, Incorporated | 2010 | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 61 |
+| Ambrose, Susan A. | *How Learning Works* | John Wiley & Sons, Incorporated | 2010 | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 49 |
 | Anderson, David J. | *Kanban* | Blue hole press | 2010 | [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401) | 2 |
 | Anderson, Ross | *Security Engineering* | John Wiley & Sons, Incorporated | 2001 | [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831) | 5 |
 | Andrade, Gregor et al. | *New Evidence and Perspectives on Mergers* | Journal of Economic Perspectives | 2001 | [DOI](https://doi.org/10.1257/jep.15.2.103) | 2 |
@@ -121,7 +121,7 @@ las 288 clases se apoya cada una.
 | Bower, Joseph L. | *Managing the Resource Allocation Process* | Harvard Business School | 1970 | [ISBN-13 9780875840833](https://openlibrary.org/isbn/9780875840833) | 2 |
 | Brealey, Richard et al. | *Principles of Corporate Finance* | McGraw-Hill International Book Co | 1984 | [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025) | 20 |
 | Brown, Brené | *Dare to Lead* | Ebury Publishing | 2018 | [ISBN-13 9781473562523](https://openlibrary.org/isbn/9781473562523) | 1 |
-| Brown, Peter C. et al. | *Make It Stick* | Harvard University Press | 2014 | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 61 |
+| Brown, Peter C. et al. | *Make It Stick* | Harvard University Press | 2014 | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 49 |
 | Brynjolfsson, Erik | *The Second Machine Age* | W. W. Norton | 2014 | [ISBN-13 9780393350647](https://openlibrary.org/isbn/9780393350647) | 2 |
 | Buckingham, Marcus | *First, Break All the Rules* | Simon and Schuster | 1999 | [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867) | 1 |
 | Buehler, Roger et al. | *Exploring the "planning fallacy": Why people underestimate their task completion times* | Journal of Personality and Social Psychology | 1994 | [DOI](https://doi.org/10.1037/0022-3514.67.3.366) | 2 |
@@ -169,10 +169,10 @@ las 288 clases se apoya cada una.
 | Edmondson, Amy | *Psychological Safety and Learning Behavior in Work Teams* | Administrative Science Quarterly | 1999 | [DOI](https://doi.org/10.2307/2666999) | 15 |
 | Edmondson, Amy C. | *The Fearless Organization* | Wiley | 2018 | [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242) | 24 |
 | Eisenhardt, Kathleen M. | *Making Fast Strategic Decisions in High-Velocity Environments* | Academy of Management Journal | 1989 | [DOI](https://doi.org/10.2307/256434) | 4 |
-| Ellet, William | *The Case Study Handbook* | Harvard Business Review Press | 2018 | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 60 |
+| Ellet, William | *The Case Study Handbook* | Harvard Business Review Press | 2018 | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 48 |
 | Ellis, Sean | *Hacking Growth* | Ebury Publishing | 2017 | [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386) | 9 |
 | Eloundou, Tyna et al. | *GPTs are GPTs: Labor market impact potential of LLMs* | Science | 2024 | [DOI](https://doi.org/10.1126/science.adj0998) | 1 |
-| Ericsson, Anders | *Peak* | Penguin Random House | 2016 | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 61 |
+| Ericsson, Anders | *Peak* | Penguin Random House | 2016 | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 49 |
 | Evans, David S. | *An Estimated Model of Entrepreneurial Choice under Liquidity Constraints* | Journal of Political Economy | 1989 | [DOI](https://doi.org/10.1086/261629) | 1 |
 | Eyal, Nir | *Hooked* | Portfolio/Penguin | 2014 | [ISBN-13 9781591847786](https://openlibrary.org/isbn/9781591847786) | 2 |
 | Fama, Eugene F. | *Common risk factors in the returns on stocks and bonds* | Journal of Financial Economics | 1993 | [DOI](https://doi.org/10.1016/0304-405X(93)90023-5) | 1 |
@@ -382,7 +382,7 @@ las 288 clases se apoya cada una.
 | Westerman, George et al. | *Leading Digital* | Harvard Business Review Press | 2014 | [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478) | 3 |
 | Wheeler, Donald J. | *Understanding Statistical Process Control* | SPC Press | 1992 | [ISBN-13 9780945320135](https://openlibrary.org/isbn/9780945320135) | 1 |
 | Whitmore, John | *Coaching for Performance* | Ediciones Paidos Iberica | 2003 | [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322) | 3 |
-| Wiggins, Grant | *Understanding by Design* | Pearson Education, Inc. | 2006 | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 60 |
+| Wiggins, Grant | *Understanding by Design* | Pearson Education, Inc. | 2006 | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 48 |
 | Williamson, Oliver E. | *Transaction-Cost Economics: The Governance of Contractual Relations* | The Journal of Law and Economics | 1979 | [DOI](https://doi.org/10.1086/466942) | 4 |
 | Wiseman, Liz | *Multipliers* | — | 2017 | [ISBN-13 9780062663078](https://openlibrary.org/isbn/9780062663078) | 1 |
 | Womack, James P. | *Lean Thinking* | Free Press | 2003 | [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640) | 9 |
@@ -408,10 +408,10 @@ respondía y las partes del programa que la usan.
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Ley N.º 20.659 y normativa vinculada | [www.bcn.cl](https://www.bcn.cl/leychile/) | 2026-08-19 | 21 |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: protección de datos personales (Ley 19.628 y Ley 21.719) | [www.bcn.cl](https://www.bcn.cl/leychile/) | 2026-11-25 | 15 |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393) | [www.bcn.cl](https://www.bcn.cl/leychile/) | 2026-11-25 | 15 |
-| Biblioteca del Congreso Nacional de Chile | LeyChile: sociedades anónimas (Ley 18.046) y su reglamento | [www.bcn.cl](https://www.bcn.cl/leychile/) | 2026-11-25 | 17 |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: sociedades anónimas (Ley 18.046) y su reglamento | [www.bcn.cl](https://www.bcn.cl/leychile/) | 2026-11-25 | 17, 21 |
 | ChileAtiende | Trámites y orientación del Estado | [www.chileatiende.gob.cl](https://www.chileatiende.gob.cl/) | 2026-08-19 | 21 |
 | Colegio de Contadores de Chile | Normativa contable aplicable y NIIF según tipo de entidad | — pendiente | — | 21 |
-| Comisión para el Mercado Financiero | Portal oficial de la CMF de Chile | [www.cmfchile.cl](https://www.cmfchile.cl/) | 2026-11-25 | 17 |
+| Comisión para el Mercado Financiero | Portal oficial de la CMF de Chile | [www.cmfchile.cl](https://www.cmfchile.cl/) | 2026-11-25 | 17, 21 |
 | Comisión para el Mercado Financiero (Chile) | Normativa e información del mercado financiero | [www.cmfchile.cl](https://www.cmfchile.cl/) | 2026-08-19 | 21 |
 | Corporación de Fomento de la Producción (Chile) | Programas, instrumentos y apoyo empresarial | [www.corfo.cl](https://www.corfo.cl/) | 2026-08-19 | 21 |
 | COSO | Enterprise Risk Management—Integrating with Strategy and Performance | [www.coso.org](https://www.coso.org/) | 2026-08-19 | 06, 15, 17, 19 |

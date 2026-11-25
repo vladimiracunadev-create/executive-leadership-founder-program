@@ -65,18 +65,18 @@ Las clases **261 a 264** cubren la protección y el ecosistema: propiedad intele
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 253 | [Mapa del ciclo empresarial en Chile](classes/253-mapa-del-ciclo-empresarial-en-chile/README.md) | formalization, RES, SII | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 254 | [Persona natural y persona jurídica: decisiones iniciales](classes/254-persona-natural-y-persona-juridica-decisiones-iniciales/README.md) | persona natural, persona jurídica, limited liability | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 255 | [RES y tipos societarios: panorama](classes/255-res-y-tipos-societarios-panorama/README.md) | SpA, EIRL, Ltda. | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 256 | [Inicio de actividades y ciclo tributario en SII](classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii/README.md) | inicio de actividades, giro, domicilio tributario | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 257 | [Documentos tributarios, IVA y registros: panorama ejecutivo](classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo/README.md) | DTE, IVA, debit tax | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 258 | [Contabilidad, tesorería y control documental](classes/258-contabilidad-tesoreria-y-control-documental/README.md) | bookkeeping, treasury, reconciliation | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 259 | [Cuenta bancaria, pagos y medios de cobro](classes/259-cuenta-bancaria-pagos-y-medios-de-cobro/README.md) | business bank account, merchant acquiring, settlement | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 260 | [Contratación, honorarios y obligaciones laborales: panorama](classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama/README.md) | contrato indefinido, plazo fijo, obra o faena | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 261 | [Propiedad intelectual e INAPI](classes/261-propiedad-intelectual-e-inapi/README.md) | trademark, patent, copyright | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 262 | [Patentes, permisos y obligaciones sectoriales](classes/262-patentes-permisos-y-obligaciones-sectoriales/README.md) | municipal patent, sector permit, sanitary authorization | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 263 | [ChileCompra, Sercotec, Corfo y ecosistema público](classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico/README.md) | Mercado Público, ChileCompra, Sercotec | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 264 | [Capstone: empresa operable y checklist de cumplimiento](classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento/README.md) | operability, compliance checklist, compliance calendar | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 253 | [Mapa del ciclo empresarial en Chile](classes/253-mapa-del-ciclo-empresarial-en-chile/README.md) | Formalización, Constitución, Inicio de actividades | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 254 | [Persona natural y persona jurídica: decisiones iniciales](classes/254-persona-natural-y-persona-juridica-decisiones-iniciales/README.md) | Persona natural, Persona jurídica, Exposición | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 255 | [RES y tipos societarios: panorama](classes/255-res-y-tipos-societarios-panorama/README.md) | RES, Tipo societario, Estatutos | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 256 | [Inicio de actividades y ciclo tributario en SII](classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii/README.md) | Inicio de actividades, Giro, Domicilio | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 257 | [Documentos tributarios, IVA y registros: panorama ejecutivo](classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo/README.md) | Documento tributario, Documento electrónico, IVA | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 258 | [Contabilidad, tesorería y control documental](classes/258-contabilidad-tesoreria-y-control-documental/README.md) | Contabilidad, Tesorería, Control documental | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 259 | [Cuenta bancaria, pagos y medios de cobro](classes/259-cuenta-bancaria-pagos-y-medios-de-cobro/README.md) | Cuenta empresarial, Medio de cobro, Adquirencia | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 260 | [Contratación, honorarios y obligaciones laborales: panorama](classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama/README.md) | Relación laboral, Contrato individual de trabajo, Prestación de servicios a honorarios | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 261 | [Propiedad intelectual e INAPI](classes/261-propiedad-intelectual-e-inapi/README.md) | Marca, Patente, Derecho de autor | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 262 | [Patentes, permisos y obligaciones sectoriales](classes/262-patentes-permisos-y-obligaciones-sectoriales/README.md) | Patente municipal, Permiso sectorial, Registro sectorial | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 263 | [ChileCompra, Sercotec, Corfo y ecosistema público](classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico/README.md) | Mercado Público, Convocatoria, Elegibilidad | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 264 | [Capstone: empresa operable y checklist de cumplimiento](classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento/README.md) | Empresa operable, Checklist de cumplimiento, Brecha abierta | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,69 +87,79 @@ Las clases **261 a 264** cubren la protección y el ecosistema: propiedad intele
 
 ## 🔤 Glosario de la parte
 
-59 conceptos definidos en las clases, con la definición operacional que usa cada una.
+69 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **bookkeeping** | registro sistemático de transacciones. |
-| **business bank account** | cuenta usada por entidad para separar y gestionar flujos. |
-| **carpeta tributaria** | conjunto de antecedentes tributarios consultables para determinados fines. |
-| **chargeback** | reverso o disputa de una transacción según reglas del medio. |
-| **ChileCompra** | institución que administra y desarrolla sistema de compras públicas. |
-| **compliance calendar** | calendario de obligaciones recurrentes y responsables. |
-| **compliance checklist** | lista de obligaciones con evidencia y owner. |
-| **contrato indefinido** | relación laboral sin fecha de término predeterminada. |
-| **copyright** | derechos sobre obras originales conforme a ley aplicable. |
-| **Corfo** | agencia de desarrollo productivo con programas e instrumentos. |
-| **credit tax** | IVA soportado que puede ser imputable bajo requisitos. |
-| **debit tax** | IVA generado en determinadas ventas o servicios. |
-| **domicilio tributario** | dirección asociada al contribuyente para fines tributarios. |
-| **DTE** | documento tributario electrónico emitido conforme a reglas SII. |
-| **due diligence pack** | carpeta estructurada de documentos y evidencias empresariales. |
-| **EIRL** | empresa individual de responsabilidad limitada con un titular. |
-| **formalization** | proceso de operar bajo estructuras y registros exigidos por la normativa. |
-| **giro** | actividad económica declarada ante SII. |
-| **governance** | reglas sobre decisiones representación y ownership. |
-| **honorarios** | prestación independiente que no debe encubrir subordinación y dependencia. |
-| **inicio de actividades** | declaración ante SII del comienzo de actividades susceptibles de generar obligaciones tributarias. |
-| **IP assignment** | acuerdo que transfiere derechos de propiedad intelectual. |
-| **IVA** | impuesto al valor agregado aplicable según hechos y normativa. |
-| **legal representative** | persona con facultades para representar a la entidad. |
-| **limited liability** | limitación de responsabilidad patrimonial cuando la forma y conducta lo permiten. |
-| **Ltda.** | sociedad de responsabilidad limitada con estructura y reglas propias. |
-| **Mercado Público** | plataforma asociada al sistema de compras públicas chileno. |
-| **merchant acquiring** | servicio que procesa pagos con tarjetas u otros medios. |
-| **month-end close** | proceso periódico para cerrar y revisar información financiera. |
-| **municipal patent** | autorización o tributo municipal asociado al ejercicio de actividades según normativa. |
-| **municipal permit** | autorización local que puede corresponder según actividad. |
-| **obra o faena** | contrato ligado a obra o servicio específico conforme al Código del Trabajo. |
-| **operability** | capacidad legal tributaria y operacional de ejecutar el modelo. |
-| **patent** | derecho sobre invención que cumple requisitos legales. |
-| **payment approval** | control que autoriza desembolsos. |
-| **permit dependency** | relación donde iniciar operación depende de autorización previa. |
-| **persona jurídica** | entidad distinta de sus miembros reconocida por ley. |
-| **persona natural** | individuo que realiza actividad económica en nombre propio. |
-| **plazo fijo** | contrato laboral con término pactado sujeto a límites legales. |
-| **professional escalation** | definición de cuándo intervenir abogado contador prevencionista u otro especialista. |
-| **public funding** | recursos sujetos a bases elegibilidad rendición y obligaciones. |
-| **reconciliation** | comparación de registros independientes para detectar diferencias. |
-| **renewal** | renovación periódica de un permiso o registro. |
-| **RES** | Registro de Empresas y Sociedades para constitución y actos disponibles en Chile. |
-| **RUT** | identificador tributario usado en Chile. |
-| **sanitary authorization** | permiso sanitario cuando la actividad lo requiere. |
-| **sector permit** | autorización específica de una autoridad por tipo de actividad. |
-| **separate patrimony** | separación entre bienes de la entidad y propietarios. |
-| **Sercotec** | servicio de apoyo a emprendedores y mipymes con instrumentos y centros. |
-| **settlement** | abono final de fondos procesados. |
-| **SII** | Servicio de Impuestos Internos responsable del ciclo tributario. |
-| **SpA** | sociedad por acciones con flexibilidad de ownership y administración según estatutos. |
-| **statute** | estatuto social que define objeto capital administración y reglas. |
-| **subordinación y dependencia** | hechos que caracterizan relación laboral según criterios legales. |
-| **supporting document** | evidencia que respalda una transacción. |
-| **tax register** | registro electrónico o contable asociado a operaciones tributarias. |
-| **trade secret** | información valiosa mantenida confidencial bajo medidas razonables. |
-| **trademark** | signo que distingue productos o servicios y puede registrarse. |
-| **treasury** | gestión de caja pagos cobros y liquidez. |
+| **Adquirencia** | Servicio que procesa pagos con tarjeta y liquida al comercio. |
+| **Autoridad competente** | Organismo que decide sobre un permiso. |
+| **Brecha abierta** | Punto sin evidencia o vencido. |
+| **Calendario de obligaciones** | Plazos recurrentes laborales, tributarios y societarios. |
+| **Capital** | Aportes de los socios al patrimonio. |
+| **Cesión** | Traspaso de derechos de un creador a la empresa. |
+| **Checklist de cumplimiento** | Lista verificable de obligaciones y evidencias. |
+| **Ciclo tributario** | Obligaciones recurrentes de documentos, registros y declaraciones. |
+| **Cobertura de plazos** | Proporción de obligaciones recurrentes con calendario. |
+| **Cofinanciamiento** | Parte del costo que aporta quien recibe el apoyo. |
+| **Colchón de caja** | Saldo mínimo para absorber retrasos y sorpresas. |
+| **Completitud documental** | Proporción de puntos con evidencia vigente. |
+| **Conciliación** | Comprobar que documentos, registros y banco coinciden. |
+| **Constitución** | Creación de una persona jurídica según el tipo elegido. |
+| **Contabilidad** | Registro ordenado y respaldado de lo ocurrido. |
+| **Contracargo** | Devolución de un pago a solicitud del titular de la tarjeta. |
+| **Contrato individual de trabajo** | Acuerdo escrito que regula la relación. |
+| **Contribuyente** | Persona o entidad con obligaciones tributarias. |
+| **Control documental** | Soporte localizable de cada operación y decisión. |
+| **Convocatoria** | Llamado con bases para postular a apoyos o subsidios. |
+| **Costo de cumplimiento** | Costo recurrente de administrar y cumplir. |
+| **Cotizaciones y seguros** | Aportes previsionales y de seguridad social asociados al trabajo. |
+| **Cuenta empresarial** | Cuenta bancaria a nombre de la empresa. |
+| **Derecho de autor** | Protección de obras originales, incluido el software. |
+| **Documento electrónico** | Documento emitido y recibido por medios electrónicos autorizados. |
+| **Documento tributario** | Documento que respalda una operación según reglas del SII. |
+| **Domicilio** | Lugar declarado para efectos tributarios y de operación. |
+| **Débito y crédito fiscal** | Lo que se cobra en ventas y lo que se paga en compras, según corresponda. |
+| **Elegibilidad** | Condiciones que debe cumplir quien postula. |
+| **Empresa operable** | Entidad que puede funcionar y cumplir de manera sostenida. |
+| **Estatutos** | Reglas internas de la sociedad. |
+| **Evidencia de estado** | Documento o consulta que prueba el estado actual. |
+| **Evidencia previa** | Documento que prueba el permiso antes de operar. |
+| **Exposición** | Pérdida posible por deudas, reclamos o incumplimientos. |
+| **Formalización** | Conjunto de pasos para operar legal y tributariamente. |
+| **Garantía personal** | Obligación asumida por una persona además de la empresa. |
+| **Giro** | Actividad económica declarada. |
+| **Inicio de actividades** | Declaración ante el SII para operar como contribuyente. |
+| **IVA** | Impuesto que grava ciertas ventas y servicios, con mecánica de débito y crédito. |
+| **Jornada** | Tiempo de trabajo que la normativa regula. |
+| **Liquidación** | Transferencia de lo cobrado a la cuenta del comercio. |
+| **Marca** | Signo que distingue productos o servicios en el mercado. |
+| **Medio de cobro** | Canal por el que el cliente paga. |
+| **Mercado Público** | Plataforma de compras del Estado administrada por ChileCompra. |
+| **Objeto** | Actividad que la sociedad declara. |
+| **Obligación recurrente** | Deber periódico para mantener la autorización. |
+| **Pacto de socios** | Acuerdo adicional sobre decisiones y salida. |
+| **Patente** | Protección de invenciones que cumplan los requisitos que fije la ley. |
+| **Patente municipal** | Autorización local para ejercer una actividad en un lugar. |
+| **Permiso** | Autorización de una autoridad para ejercer una actividad. |
+| **Permiso sectorial** | Autorización de un organismo según el rubro. |
+| **Persona jurídica** | Entidad distinta de sus dueños, con RUT propio. |
+| **Persona natural** | Individuo que opera con su propio RUT y patrimonio. |
+| **Prestación de servicios a honorarios** | Servicio independiente sin relación laboral. |
+| **Prevención de riesgos** | Obligaciones de seguridad y salud en el trabajo. |
+| **Registro sectorial** | Inscripción exigida a ciertas actividades. |
+| **Relación laboral** | Vínculo de trabajo con dirección y remuneración. |
+| **Rendición** | Reporte de uso y resultados que exige el programa. |
+| **RES** | Portal oficial para constituir y registrar ciertas sociedades. |
+| **Revisión previa (due diligence)** | Examen que hace un tercero antes de contratar o invertir. |
+| **Ruta crítica** | Secuencia de pasos que determina el plazo total. |
+| **Secreto empresarial** | Información valiosa que se mantiene reservada. |
+| **Segregación de accesos** | Separar quién prepara, aprueba y ejecuta. |
+| **Segregación de funciones** | Separar quien solicita, quien aprueba y quien ejecuta. |
+| **Soporte** | Respaldo que conserva la empresa para cada operación. |
+| **Tasa de adjudicación** | Proporción de ofertas ganadas sobre las presentadas. |
+| **Tesorería** | Gestión de cobros, pagos y caja en el tiempo. |
+| **Tipo societario** | Forma jurídica con reglas propias sobre dueños, control y administración. |
+| **Titularidad** | A nombre de quién están contratos, cuentas y activos. |
 
 ## 📦 Qué queda como evidencia
 

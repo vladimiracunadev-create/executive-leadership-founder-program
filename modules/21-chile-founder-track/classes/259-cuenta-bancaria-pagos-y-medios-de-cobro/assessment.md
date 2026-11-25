@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **business bank account** de **merchant acquiring** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **settlement** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **chargeback** con **payment approval**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre cuenta empresarial y servicio de cobro?
+2. ¿Qué criterios sirven para comparar medios de cobro?
+3. ¿Por qué el medio más barato puede salir caro?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una startup cobra por tres pasarelas. Finanzas compara ventas con saldo bancario sin considerar fees ni settlement; cada mes aparecen diferencias que nadie puede explicar.
+**Caso:** Un fundador vende cursos de fotografía: 40 % de las ventas por una plataforma de pago en línea con comisión de 4 % más 200 pesos por transacción, 35 % por transferencias de empresas que contratan capacitación y 25 % con tarjeta en talleres presenciales (comisión de 2,4 %). Las ventas mensuales son de 15 millones de pesos, con 250 transacciones en la plataforma. Un cliente de 3,2 millones pidió un cambio de cuenta de pago por correo y el equipo transfirió sin verificar: la cuenta no era del proveedor y el dinero no se recuperó. Tiene dos contracargos al mes de 80.000 pesos cada uno. La cuenta bancaria está a nombre del fundador personal y comparte clave con su asistente. La plataforma liquida a 7 días. Un competidor le ofrece reducir la comisión a 3,2 % si cambia de plataforma, con un costo de migración de 600.000 pesos.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **seleccionar medios por cliente y costo → definir cuentas y roles → mapear settlement y fees → implementar approvals y reconciliation → monitorear fraude y chargebacks**. Debes utilizar o diseñar cómo obtener **settlement delay, payment fees, chargeback rate**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de gobierno y riesgos de pagos y cobros** que contenga: (a) la comparación del costo total mensual por medio con las cifras del caso; (b) el análisis del cambio de plataforma con ahorro mensual y plazo de recuperación de la migración; (c) el rediseño de cuentas, roles y accesos y el traspaso a nombre de la empresa; (d) la política de verificación de cambios de datos bancarios y aprobaciones; (e) el manejo de contracargos y fraude con indicadores; (f) las verificaciones contractuales y oficiales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Productos bancarios y condiciones cambian por proveedor. Compara contratos, seguridad y costos vigentes y no dependas de una sola persona para accesos críticos.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las condiciones de productos bancarios y de cobro cambian por proveedor y fecha, y se verifican en los contratos y las fuentes vigentes.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

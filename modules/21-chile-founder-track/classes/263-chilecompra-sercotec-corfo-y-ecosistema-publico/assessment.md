@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **Mercado Público** de **ChileCompra** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **Sercotec** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **Corfo** con **public funding**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre vender al Estado y recibir un subsidio?
+2. ¿Dónde se verifican vigencia, bases y requisitos?
+3. ¿Cómo se calcula el valor esperado de una oferta?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una pyme gana subsidio para digitalización pero no presupuestó cofinanciamiento ni tiempos de rendición; la inversión comercial principal se queda sin caja.
+**Caso:** Un fundador tiene una empresa de mantenimiento de equipos de climatización con 8 trabajadores y ventas de 90 millones de pesos al año. Un colega le comenta que «el Estado paga bien» y que hay un cofinanciamiento para modernizar equipos. Revisa una licitación de mantenimiento en dependencias públicas por 36 millones de pesos a 12 meses, con margen bruto de 22 %, pago a 45 días, una garantía de cumplimiento que exige inmovilizar 1,2 millones, y 4 competidores habituales; preparar la oferta le tomaría 50 horas a 10.000 pesos. En sus últimos 6 intentos ganó 2. Además, un programa de apoyo cofinancia hasta el 60 % de una inversión de 8 millones en equipos de diagnóstico, con aporte propio y 40 horas de gestión a 10.000 pesos. Su caja es de 7 millones y paga remuneraciones el día 5 de cada mes.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir objetivo empresarial → buscar instrumento o licitación oficial → leer bases y elegibilidad → modelar esfuerzo cash y obligaciones → postular u ofertar con controls y rendición**. Debes utilizar o diseñar cómo obtener **eligible opportunities, bid win rate, grant leverage**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de decisión del fundador** que contenga: (a) la distinción entre las vías pública y privada y la estrategia de la empresa; (b) el valor esperado de la licitación con margen, financiamiento, garantía y probabilidad, y su tasa de equilibrio; (c) el análisis de la tasa de adjudicación de 2 de 6 y sus límites; (d) el apalancamiento y la adicionalidad del cofinanciamiento; (e) el plan de caja para financiar el contrato y la inversión; (f) la lista de verificación de bases y las consultas oficiales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Programas y bases cambian frecuentemente. Nunca enseñes montos o fechas como permanentes: verifica sitio oficial y bases de la convocatoria específica.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los programas, bases, montos y plazos cambian y no se enseñan como permanentes.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

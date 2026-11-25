@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **persona natural** de **persona jurídica** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **limited liability** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **separate patrimony** con **governance**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia práctica hay entre persona natural y jurídica?
+2. ¿Cómo se estima la exposición de una actividad?
+3. ¿Por qué una garantía personal puede cambiar el análisis?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un consultor solo factura a dos clientes y considera crear SpA por imagen; otro negocio vende productos con riesgo de garantía y busca inversionista. Ambos reciben la misma recomendación genérica.
+**Caso:** Un fundador trabaja desde hace un año como independiente en instalación de paneles solares domésticos: ventas anuales de 36 millones de pesos, dos ayudantes a quienes paga por día y un vehículo a su nombre. Un cliente le pidió una instalación de 22 millones para una pequeña empresa y el proveedor de paneles le ofrece crédito a 90 días a condición de que firme un aval personal. Un banco le ofrece una línea de crédito si presenta estados financieros. Un amigo ingeniero quiere entrar como socio aportando 5 millones y su experiencia. Ha tenido un reclamo por una filtración en un techo que costó 900.000 pesos. No tiene contador y paga los impuestos «al final del año». Su pareja trabaja como empleada y teme por el patrimonio familiar.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear actividad y exposición → definir necesidad de socios y capital → comparar administración y costos → revisar responsabilidad y contratos → validar alternativa con fuentes y asesoría**. Debes utilizar o diseñar cómo obtener **owner liability exposure, setup cost, ongoing compliance**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de gobierno y riesgos de la estructura** que contenga: (a) el mapa de exposición con escenarios, montos y probabilidades supuestas; (b) la necesidad de socios y capital en los próximos doce meses; (c) la comparación de costos recurrentes de cada alternativa con presupuestos supuestos; (d) el análisis del aval personal y de la línea de crédito; (e) las preguntas que llevará a un abogado y a un contador; (f) la decisión recomendada, el hecho que la cambiaría y las verificaciones oficiales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Esta clase no interpreta normas ni calcula impuestos; plantea preguntas y estructura la decisión.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

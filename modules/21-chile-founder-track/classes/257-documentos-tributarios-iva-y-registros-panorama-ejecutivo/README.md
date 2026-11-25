@@ -10,218 +10,208 @@
 
 ## 🎯 Propósito
 
-Documentos tributarios, IVA y registros forman parte del sistema de evidencia y cumplimiento de una empresa. El gerente debe saber qué evento genera documento, cómo se reconcilia con ventas y compras y qué excepciones requieren revisión, sin intentar memorizar tasas o formularios cambiantes.
+Cada venta, compra, pago o cobro de una empresa deja o debería dejar un **documento**, un **registro** y un **soporte**. En Chile, el SII regula los documentos tributarios, incluidos los electrónicos, y el Impuesto al Valor Agregado (IVA) es una de las obligaciones recurrentes más visibles para quien vende bienes y servicios. Para un fundador, el tema suele aparecer como una lista de miedos («me van a multar», «no entiendo el crédito fiscal») cuando en realidad se trata de **una disciplina de tres movimientos**: documentar cada transacción de forma correcta, registrar y conciliar lo documentado con la caja y el banco, y revisar con un contador el tratamiento del IVA antes de cerrar el período. El objetivo no es que el fundador sea contador, sino que **entienda qué le piden, qué evidencia debe guardar y cuándo preguntar**.
 
-La salida de esta parte es **formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **documentos tributarios, IVA y registros: panorama ejecutivo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase es un panorama ejecutivo: **no determina el tratamiento tributario de ninguna operación ni enseña tasas o plazos como permanentes**. El SII y los textos vigentes del Código Tributario y de la Ley sobre Impuesto a las Ventas y Servicios, disponibles en LeyChile, son las fuentes; la aplicación a cada caso la hace un contador. Se usa una tasa de IVA ilustrativa solo para mostrar la mecánica aritmética de débito y crédito, con la advertencia de verificarla en el SII. Al terminar sabrás mapear tus transacciones y documentos, ordenar la emisión y recepción, conciliar ventas, compras y banco, preparar las preguntas para tu contador y cerrar un período con soporte.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `DTE`, `IVA`, `debit tax`, `credit tax`, `tax register` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder en chile.
-3. **Aplicar** la secuencia **1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** DTE completeness, reconciliation breaks, tax filing timeliness sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** documento tributario, registro, soporte e IVA.
+2. **Mapear** las transacciones de tu empresa y el documento que corresponde a cada una.
+3. **Conciliar** ventas, compras y movimientos bancarios e investigar diferencias.
+4. **Preparar** las preguntas para el contador sobre el tratamiento del IVA.
+5. **Cerrar** un período con soporte, plazos y responsables.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define DTE y IVA sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con DTE completeness y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué documento respalda cada ingreso y cada gasto de tu empresa? |
+| 20–60 min | Documentos, emisión y recepción, registros, conciliación, IVA con el contador y cierre. |
+| 60–105 min | Ejemplo trabajado: conciliación mensual y mecánica ilustrativa de débito y crédito. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **DTE** | documento tributario electrónico emitido conforme a reglas SII | Distingue un hecho compatible y otro que lo refute. |
-| **IVA** | impuesto al valor agregado aplicable según hechos y normativa | Distingue un hecho compatible y otro que lo refute. |
-| **debit tax** | IVA generado en determinadas ventas o servicios | Distingue un hecho compatible y otro que lo refute. |
-| **credit tax** | IVA soportado que puede ser imputable bajo requisitos | Distingue un hecho compatible y otro que lo refute. |
-| **tax register** | registro electrónico o contable asociado a operaciones tributarias | Distingue un hecho compatible y otro que lo refute. |
+| **Documento tributario** | Documento que respalda una operación según reglas del SII. | Factura, boleta u otro, en la forma oficial. |
+| **Documento electrónico** | Documento emitido y recibido por medios electrónicos autorizados. | Registro en el SII. |
+| **IVA** | Impuesto que grava ciertas ventas y servicios, con mecánica de débito y crédito. | Declaración periódica. |
+| **Débito y crédito fiscal** | Lo que se cobra en ventas y lo que se paga en compras, según corresponda. | Registros de ventas y compras. |
+| **Conciliación** | Comprobar que documentos, registros y banco coinciden. | Diferencias explicadas. |
+| **Soporte** | Respaldo que conserva la empresa para cada operación. | Archivo ordenado y accesible. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 257: 1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte](modelo-mental.svg)
+![Tres columnas de la gestión de documentos tributarios: documentar, registrar y conciliar, y revisar y cerrar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Documentos tributarios, IVA y registros forman parte del sistema de evidencia y cumplimiento de una empresa. El gerente debe saber qué evento genera documento, cómo se reconcilia con ventas y compras y qué excepciones requieren revisión, sin intentar memorizar tasas o formularios cambiantes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El tratamiento de IVA depende del hecho y norma vigente. No uses esta clase para determinar un impuesto específico sin revisar SII y asesoría contable.**
+**Cómo leer el diagrama.** Tres columnas. **Documentar**: qué transacciones existen, qué documento corresponde a cada una y la emisión y recepción configuradas. **Registrar y conciliar**: ventas, compras y caja, diferencias explicadas y soporte conservado. **Revisar y cerrar**: tratamiento del IVA con el contador, cierre del período y plazos y registros al día. La nota afirma que el tratamiento del IVA depende del hecho y de la norma vigente, y que la clase no determina un impuesto específico; el pie, que un documento sin soporte o sin conciliar es un riesgo, aunque el número cuadre.
 
 ## 📖 Desarrollo
 
-### 1. DTE: mecanismo central
+### 1. Mapear transacciones y documentos
 
-**DTE** se entiende aquí como **documento tributario electrónico emitido conforme a reglas SII**. Esta es la pieza causal o estructural desde la que se inicia **documentos tributarios, IVA y registros: panorama ejecutivo**: antes de mapear transacciones y documentos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El primer paso es **un inventario de transacciones**: qué vende la empresa (productos, servicios, suscripciones, comisiones), a quién (consumidores, empresas, organismos públicos, clientes del exterior), cómo cobra (efectivo, transferencia, tarjeta, plataforma), qué compra (insumos, servicios, activos, arriendos, honorarios), a quién y cómo paga. Para cada una se pregunta: ¿qué documento corresponde?, ¿quién lo emite?, ¿cuándo?, ¿dónde se guarda? El SII define los documentos tributarios y sus formas de emisión; el contador confirma cuál aplica a cada operación. La tabla resultante es el **mapa de documentos** y es el insumo de todo lo demás. Una transacción sin documento definido es un riesgo, aunque «siempre se haya hecho así».
 
-La lectura rectora de este bloque es Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. Su aporte se usa para examinar **obligaciones tributarias y ciclo de vida del contribuyente en Chile**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **DTE completeness**; regístrala con periodo, unidad, población y baseline.
+### 2. Emisión y recepción configuradas
 
-Relaciona el mecanismo con **IVA**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La empresa debe poder **emitir** los documentos que le corresponden y **recibir y registrar** los que le emiten sus proveedores. El SII describe los mecanismos oficiales de documentos electrónicos y los requisitos para usarlos; la empresa elige herramientas (propias, de mercado o del propio SII) según su volumen y complejidad, y se asegura de que **todos los documentos queden registrados en un lugar único**, con numeración y fechas coherentes. Reglas útiles: una persona responsable de la emisión, un respaldo, un procedimiento para anular o corregir documentos según lo permitido, y un acuerdo con proveedores sobre cómo y a qué correo reciben los documentos. Los requisitos técnicos y de autorización cambian: se verifican en el SII, no en un tutorial antiguo.
 
-### 2. IVA: frontera conceptual y error de clasificación
+### 3. Registros: ventas, compras y caja
 
-**Definición operacional:** impuesto al valor agregado aplicable según hechos y normativa. Su valor está en distinguirlo de **DTE** y **debit tax**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los documentos se **registran**: libros o registros de ventas y compras, según las reglas del SII, y la contabilidad de la empresa. Registrar bien significa que cada documento aparece una vez, en el período correcto, con los datos del proveedor o cliente, el monto neto, el impuesto y el total. También significa **conservar el soporte**: el documento original o su copia electrónica, contratos, órdenes de compra, comprobantes de pago, correos de aprobación. Las normas fijan plazos de conservación que se verifican en las fuentes oficiales. Un registro correcto sin soporte es frágil; un soporte sin registro es desorden. Ambos deben existir y relacionarse.
 
-Contrasta el problema con Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*, que aporta una mirada sobre **constitución y modificaciones societarias en el Registro de Empresas y Sociedades**. Formula dos mini-casos: uno que sí satisface la definición de **IVA** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **reconciliation breaks** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Conciliar: que los números se parezcan entre sí
 
-Antes de configurar emisión y recepción, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **conciliación** compara tres fuentes: los **documentos emitidos y recibidos**, los **registros** y los **movimientos del banco** (clase 258). Las diferencias son una **señal**, no necesariamente un error: puede haber depósitos que se reciben en otro período, pagos con comisiones descontadas, documentos pendientes de emitir, notas de crédito, anticipos o errores de digitación. Lo importante es que **cada diferencia tenga una explicación escrita y un responsable**. Un depósito sin documento puede indicar una venta no facturada; un documento sin pago puede ser una cuenta por cobrar; un pago sin documento, un gasto sin respaldo. Hacerlo cada mes, y no solo al cierre anual, evita acumular desorden.
 
-### 3. debit tax: operacionalización y medición
+### 5. El IVA: mecánica, no interpretación
 
-**debit tax** significa **IVA generado en determinadas ventas o servicios**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El IVA funciona, en términos generales, con una lógica de **débito** (impuesto asociado a las ventas gravadas) y **crédito** (impuesto asociado a ciertas compras), y la diferencia se declara y paga en los períodos que fija el SII. **Qué ventas están gravadas, qué compras dan derecho a crédito, cuándo, con qué condiciones y con qué excepciones** son preguntas que se responden con el texto vigente y con un contador. Esta clase solo muestra la mecánica aritmética, con una tasa ilustrativa, para que el fundador entienda **por qué una compra mal documentada o mal clasificada cambia el monto a pagar**. Si hay dudas sobre una operación (exportaciones, servicios del exterior, activos, gastos mixtos, exenciones), se consulta antes de registrarla y se guarda la respuesta.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **tax filing timeliness**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cerrar el período con soporte
 
-Al llegar a reconciliar ventas compras y caja, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El **cierre** de un período es un pequeño ritual: se verifican los documentos emitidos y recibidos, se concilian con el banco, se revisan las diferencias, se calcula con el contador la declaración correspondiente, se aprueba y se paga dentro del plazo, y se **archiva todo** con una nota del cierre (fecha, responsable, incidencias). Un buen cierre deja evidencia de que alguien con autoridad revisó y aprobó. Si el período queda con asuntos pendientes (documentos que no llegaron, operaciones en duda), se anotan y se resuelven en un plazo definido. El cierre mensual también es la oportunidad para mirar el negocio: márgenes, ventas por cliente, gastos que crecen y cuentas por cobrar.
 
-### 4. credit tax: trade-offs y efectos de segundo orden
+### 7. Qué preguntar al contador y cuándo cambiar el proceso
 
-**Definición:** IVA soportado que puede ser imputable bajo requisitos. Este concepto obliga a abandonar la idea de que **documentos tributarios, IVA y registros: panorama ejecutivo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de revisar tratamiento iva con contador, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional* aporta una lente sobre **obligaciones y reglas del sistema previsional chileno**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **unsupported entries** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **documentos tributarios, IVA y registros: panorama ejecutivo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **credit tax** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. tax register: gobernanza, límites e integración
-
-**tax register** se define como **registro electrónico o contable asociado a operaciones tributarias** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Sercotec (Chile) — *Programas, capacitación y Centros de Desarrollo de Negocios* se utiliza para estudiar **desarrollo empresarial y apoyo a micro y pequeñas empresas en Chile** y contrastar la recomendación final. Al ejecutar cerrar periodo y conservar soporte, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El tratamiento de IVA depende del hecho y norma vigente. No uses esta clase para determinar un impuesto específico sin revisar SII y asesoría contable.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **DTE**, **IVA**, **debit tax**, **credit tax** y **tax register** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **documentos tributarios, IVA y registros: panorama ejecutivo** no consiste en sumar cinco definiciones. Empieza por **DTE**, contrasta **IVA** con **debit tax**, incorpora **credit tax** como restricción o mecanismo y usa **tax register** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El contador es un socio de control, no solo de trámite. Preguntas útiles: ¿qué documento corresponde a esta operación?, ¿qué tratamiento tiene en IVA?, ¿qué soporte se requiere?, ¿qué errores comunes ve en empresas como la mía?, ¿qué cambió en la norma o en el SII que me afecte?, ¿qué me conviene automatizar? Se revisa el proceso cuando cambia el volumen, se agregan líneas de negocio, se vende al exterior o se incorporan plataformas de pago. Drucker recuerda que conviene medir lo que importa para decidir; aquí, por ejemplo, el **porcentaje de documentos conciliados** y el **número de diferencias abiertas** al cierre son indicadores simples y útiles. Y como el panorama cambia, cada afirmación sobre una norma se revalida en la fuente vigente.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* | obligaciones tributarias y ciclo de vida del contribuyente en Chile | ¿Qué supuesto de **documentos tributarios, IVA y registros: panorama ejecutivo** ayuda a desafiar? |
-| Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* | constitución y modificaciones societarias en el Registro de Empresas y Sociedades | ¿Qué supuesto de **documentos tributarios, IVA y registros: panorama ejecutivo** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **documentos tributarios, IVA y registros: panorama ejecutivo** ayuda a desafiar? |
-| Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional* | obligaciones y reglas del sistema previsional chileno | ¿Qué supuesto de **documentos tributarios, IVA y registros: panorama ejecutivo** ayuda a desafiar? |
-| Sercotec (Chile) — *Programas, capacitación y Centros de Desarrollo de Negocios* | desarrollo empresarial y apoyo a micro y pequeñas empresas en Chile | ¿Qué supuesto de **documentos tributarios, IVA y registros: panorama ejecutivo** ayuda a desafiar? |
-
-En **documentos tributarios, IVA y registros: panorama ejecutivo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **DTE**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Fuente | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| SII (normativa y servicios) | Documentos, registros y obligaciones oficiales. | No decide tu caso. | ¿Qué documento y registro aplican hoy? |
+| LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios | Texto vigente de las normas. | Requiere interpretación profesional. | ¿Qué dice el texto vigente sobre esta operación? |
+| Registro de Empresas y Sociedades | Datos de la entidad que emite. | No trata documentos tributarios. | ¿Coinciden los datos de la entidad? |
+| Superintendencia de Pensiones | Normativa previsional vinculada a pagos laborales. | No es guía de IVA. | ¿Qué otras obligaciones recurrentes tengo? |
+| Drucker | Medir para gestionar. | No contiene normativa chilena. | ¿Qué indicador de control uso? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa cobra por transferencia y registra ingresos en banco, pero varias ventas no tienen DTE asociado y gastos personales del founder aparecen entre compras.
+**Situación (hipotética).** Una empresa de productos de limpieza para hoteles cierra el mes. Para ilustrar la mecánica se usa una **tasa de IVA de 19 %, solo como supuesto aritmético**: la tasa vigente, las ventas gravadas y el derecho a crédito se verifican en el SII y con el contador.
 
-**Paso 1 — mapear transacciones y documentos.** La gerencia escribe primero el supuesto asociado a **DTE** y evita convertirlo en hecho. Luego busca **DTE completeness** para contrastarlo en el caso de **documentos tributarios, IVA y registros: panorama ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ventas del mes (netas).** 8.000.000 pesos. Con IVA, las ventas facturadas suman 8.000.000 × 1,19 = **9.520.000**.
 
-**Paso 2 — configurar emisión y recepción.** La gerencia escribe primero el supuesto asociado a **IVA** y evita convertirlo en hecho. Luego busca **reconciliation breaks** para contrastarlo en el caso de **documentos tributarios, IVA y registros: panorama ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Compras del mes (netas).**
 
-**Paso 3 — reconciliar ventas compras y caja.** La gerencia escribe primero el supuesto asociado a **debit tax** y evita convertirlo en hecho. Luego busca **tax filing timeliness** para contrastarlo en el caso de **documentos tributarios, IVA y registros: panorama ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Neto |
+|---|---|
+| Insumos y envases | 2.700.000 |
+| Transporte | 500.000 |
+| Compras en consulta (tratamiento por confirmar con el contador) | 500.000 |
 
-**Paso 4 — revisar tratamiento IVA con contador.** La gerencia escribe primero el supuesto asociado a **credit tax** y evita convertirlo en hecho. Luego busca **unsupported entries** para contrastarlo en el caso de **documentos tributarios, IVA y registros: panorama ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mecánica de débito y crédito.**
 
-**Paso 5 — cerrar periodo y conservar soporte.** La gerencia escribe primero el supuesto asociado a **tax register** y evita convertirlo en hecho. Luego busca **credit-debit variance** para contrastarlo en el caso de **documentos tributarios, IVA y registros: panorama ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Débito: 19 % × 8.000.000 = **1.520.000**.
+- Crédito de las compras confirmadas: 19 % × (2.700.000 + 500.000) = 19 % × 3.200.000 = **608.000**.
+- IVA a pagar con lo confirmado: 1.520.000 − 608.000 = **912.000**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **documentos tributarios, IVA y registros: panorama ejecutivo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Efecto de la consulta.** Si las compras en consulta (500.000 netas) dieran derecho a crédito, se agregarían 95.000 de crédito y el IVA bajaría a 817.000. Si no, quedan en 912.000. **La diferencia de 95.000 depende de una interpretación que debe hacer el contador con la norma vigente**, no el fundador.
+
+**Conciliación con el banco.**
+
+| Concepto | Monto |
+|---|---|
+| Ventas facturadas con IVA | 9.520.000 |
+| Depósitos del mes asociables a clientes | 9.340.000 |
+| Diferencia | 180.000 |
+
+La diferencia puede explicarse por pagos de cuentas por cobrar de otro período, un cliente que pagó parcialmente, descuentos informales o depósitos pendientes. El procedimiento: revisar los 5 documentos de mayor monto sin pago, preguntar a ventas, anotar la causa, abrir un seguimiento. Supón que se encuentra que **120.000** corresponden a una factura pagada el primer día del mes siguiente y **60.000** a una nota de crédito que no se registró. La diferencia queda **explicada: 120.000 + 60.000 = 180.000**, pero la nota de crédito debe registrarse y su efecto sobre el IVA debe revisarse con el contador.
+
+**Indicadores del cierre.** Documentos del mes: 142; conciliados: 136, que equivalen a 95,8 % (136 ÷ 142). Diferencias abiertas: 6. Meta: 100 % conciliado al día 10 del mes siguiente (meta interna, no norma).
+
+**Decisión.** Enviar al contador las compras en consulta con sus documentos y el contexto, registrar la nota de crédito, cerrar el mes cuando las 6 diferencias estén explicadas y guardar el archivo del cierre con fecha y responsable. Revisar el proceso cuando los documentos por mes superen los 300 o se incorpore una nueva plataforma de cobro.
+
+**Cuidados.** La tasa, las operaciones gravadas, el derecho a crédito y los plazos son los vigentes en la fuente oficial y los confirma un contador; el ejemplo solo ilustra la mecánica.
+
+**Qué muestra.** (1) La aritmética de débito y crédito. (2) Cómo una consulta cambia el resultado. (3) Cómo la conciliación convierte una diferencia en una explicación documentada.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **DTE** | documento tributario electrónico emitido conforme a reglas SII | Cuando DTE completeness es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **IVA** | impuesto al valor agregado aplicable según hechos y normativa | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Documentar frente a registrar.** Documentar es generar o recibir el respaldo de la operación; registrar es anotarla en los libros o registros en el período correcto. Se necesitan ambos, y la conciliación los vincula con la caja.
 
-**Frontera de aplicación:** El tratamiento de IVA depende del hecho y norma vigente. No uses esta clase para determinar un impuesto específico sin revisar SII y asesoría contable.
+**Límites.** La clase no determina el IVA de ninguna operación: la tasa y el tratamiento son los que establecen las normas vigentes, y su aplicación la hace un contador. El ejemplo es ilustrativo. Los plazos, los registros y las formas de emisión cambian y se verifican en el SII.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre documentos tributarios, IVA y registros: panorama ejecutivo |
+| Nivel | Cómo se relaciona con los documentos y el IVA |
 |---|---|
-| **Profesional** | usa **documentos tributarios, IVA y registros: panorama ejecutivo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **DTE** y **IVA** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta DTE completeness con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si documentos tributarios, IVA y registros: panorama ejecutivo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de documentos tributarios, IVA y registros: panorama ejecutivo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **documentos tributarios, IVA y registros: panorama ejecutivo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrega documentos correctos para los gastos y rendiciones. |
+| **Jefe / Team Lead** | Revisa que los respaldos de su equipo estén completos. |
+| **Gerente** | Responde por el cierre y la conciliación de su unidad. |
+| **CEO / Director** | Aprueba el proceso y supervisa al contador. |
+| **Founder / Owner** | Es responsable final de que los documentos, registros y pagos cumplan. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa cobra por transferencia y registra ingresos en banco, pero varias ventas no tienen DTE asociado y gastos personales del founder aparecen entre compras.
+Una fundadora vende talleres de repostería en línea y kits de ingredientes. Cobra por una plataforma de pagos que descuenta una comisión antes de depositar; emite boletas o facturas «cuando se acuerda». Compra ingredientes a proveedores informales sin documento, paga el arriendo del local a una persona natural y contrata un servicio de edición de video desde el exterior. En el último mes facturó ventas netas por 6.500.000 pesos, tiene compras documentadas netas por 2.100.000, y 700.000 más sin documento. El banco recibió depósitos por 7.050.000. Usa una planilla para registrar todo y no concilia. Su contador le pide los documentos el día del vencimiento. Supón una tasa ilustrativa de 19 % para la aritmética.
 
-Entrega un **decision brief de documentos tributarios, IVA y registros: panorama ejecutivo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador** que contenga: (a) el mapa de transacciones y documentos con los vacíos; (b) el cálculo ilustrativo de débito y crédito con lo documentado y la sensibilidad a las compras sin documento; (c) la conciliación entre ventas con IVA y depósitos, con las hipótesis de explicación; (d) las preguntas al contador sobre arriendo, proveedores informales, servicio del exterior y comisiones de la plataforma; (e) el procedimiento mensual de cierre con responsable y soporte; (f) las verificaciones oficiales pendientes y las decisiones que se posponen hasta tenerlas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **documentos tributarios, IVA y registros: panorama ejecutivo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta DTE completeness, reconciliation breaks; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista tus tipos de transacción y el documento que corresponde a cada una.
+2. Concilia un mes de ventas con los depósitos y explica cada diferencia.
+3. Calcula con una tasa ilustrativa el débito y el crédito de tu mes y marca lo que consultarás.
+4. Escribe diez preguntas para tu contador con ejemplos de tus documentos.
+5. Diseña tu ritual de cierre: pasos, responsable, plazo y archivo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar DTE y IVA como sinónimos | Se pierde la distinción entre “documento tributario electrónico emitido conforme a reglas SII” y “impuesto al valor agregado aplicable según hechos y normativa” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar periodo y conservar soporte” | Se saltó “mapear transacciones y documentos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte y marca el primer supuesto no demostrado. |
-| Optimizar solo DTE completeness | La métrica local sustituyó al resultado del sistema | Contrástala con reconciliation breaks y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre documentos tributarios, IVA y registros: panorama ejecutivo | El tratamiento de IVA depende del hecho y norma vigente. No uses esta clase para determinar un impuesto específico sin revisar SII y asesoría contable. |
-| No fijar revisión | Una decisión sobre documentos tributarios, IVA y registros: panorama ejecutivo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Transacciones sin documento definido | «Siempre se ha hecho así» | Mapa de documentos revisado con el contador. |
+| Registrar sin soporte | Se confía en la planilla | Archivo ordenado de respaldos. |
+| No conciliar | No se ve valor | Conciliación mensual con diferencias explicadas. |
+| Interpretar el IVA de memoria | Parece simple | Consultar la norma vigente y al contador. |
+| Entregar documentos el último día | Falta de proceso | Calendario con anticipación y responsable. |
+| Mezclar cuentas personales y de la empresa | Comodidad | Separar y documentar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **DTE** y **IVA** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **debit tax** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear transacciones y documentos → configurar emisión y recepción** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **DTE completeness** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **documentos tributarios, IVA y registros: panorama ejecutivo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El tratamiento de IVA depende del hecho y norma vigente. No uses esta clase para determinar un impuesto específico sin revisar SII y asesoría contable.**?
+1. ¿Qué diferencia hay entre documento, registro y soporte?
+2. ¿Qué se compara en una conciliación?
+3. ¿Qué mecánica básica tienen débito y crédito?
+4. ¿Por qué no se determina el tratamiento del IVA en esta clase?
+5. ¿Cómo se trata una diferencia de conciliación?
+6. ¿Qué incluye un buen cierre de período?
+7. ¿Qué indicadores simples sirven para controlar el proceso?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El documento respalda la operación; el registro la anota en el período; el soporte es el respaldo que se conserva.
+2. Los documentos, los registros y los movimientos del banco.
+3. El impuesto de las ventas gravadas menos el de compras con derecho a crédito, según la norma vigente.
+4. Porque depende del hecho y de la norma vigente, y lo aplica un contador.
+5. Con una explicación escrita, un responsable y un seguimiento hasta cerrarla.
+6. Verificación, conciliación, revisión con el contador, aprobación, pago, archivo y nota de cierre.
+7. Porcentaje de documentos conciliados y número de diferencias abiertas al cierre.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **documentos tributarios, IVA y registros: panorama ejecutivo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **documentos tributarios, IVA y registros: panorama ejecutivo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **DTE**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa cobra por transferencia y registra ingresos en banco, pero varias ventas no tienen DTE asociado y gastos personales del founder aparecen entre compras.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `decision-journal.md` con el mapa de documentos, la conciliación y las consultas al contador.
 
 ## 📗 Fuentes y verificación
 
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** verificar en origen documentos tributarios electrónicos e IVA vigentes. **Fuente primaria:** <https://www.sii.cl/>.
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **documentos tributarios, iva y registros: panorama ejecutivo**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*. **Uso en esta clase:** obligaciones y reglas del sistema previsional chileno. **Fuente primaria:** <https://www.spensiones.cl/>.
-- Sercotec (Chile) — *Programas, capacitación y Centros de Desarrollo de Negocios*. **Uso en esta clase:** desarrollo empresarial y apoyo a micro y pequeñas empresas en Chile. **Fuente primaria:** <https://www.sercotec.cl/>.
-- Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** instrumentos de desarrollo productivo, innovación y financiamiento empresarial. **Fuente primaria:** <https://www.corfo.cl/>.
-- Biblioteca del Congreso Nacional de Chile — *LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios*. **Uso en esta clase:** leer el texto vigente que sostiene las obligaciones descritas en la clase. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **documentos tributarios, iva y registros: panorama ejecutivo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **documentos tributarios, iva y registros: panorama ejecutivo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **documentos tributarios, iva y registros: panorama ejecutivo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **documentos tributarios, iva y registros: panorama ejecutivo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **documentos tributarios, iva y registros: panorama ejecutivo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** documentos tributarios, registros y obligaciones oficiales. **Fuente primaria:** <https://www.sii.cl/>.
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios*. **Uso en esta clase:** texto vigente del Código Tributario y de la Ley sobre Impuesto a las Ventas y Servicios. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
+- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** datos oficiales de la entidad que emite. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
+- Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*. **Uso en esta clase:** normativa previsional asociada a pagos laborales. **Fuente primaria:** <https://www.spensiones.cl/>.
+- Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** programas e instrumentos de apoyo empresarial. **Fuente primaria:** <https://www.corfo.cl/>.
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** medir lo que importa para gestionar. Lectura selectiva sobre **documentos tributarios, iva y registros: panorama ejecutivo**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
 
-> **Regla de fuentes para Documentos tributarios, IVA y registros: panorama ejecutivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **documentos tributarios, IVA y registros: panorama ejecutivo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Documentos tributarios, IVA y registros:** las obras y portales anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, trámite, tasa o plazo mencionado debe comprobarse nuevamente en su fuente primaria oficial vigente, y este programa no reemplaza asesoría legal, tributaria ni contable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce material protegido.
 
 <!-- pie:inicio -->
 ---

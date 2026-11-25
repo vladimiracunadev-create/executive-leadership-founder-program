@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **bookkeeping** de **treasury** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **reconciliation** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **supporting document** con **month-end close**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué pregunta responde cada función: contabilidad, tesorería y control documental?
+2. ¿Por qué se separan las cuentas personales y las de la empresa?
+3. ¿Qué incluye una proyección de caja?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Founder usa una tarjeta personal y cuenta empresa indistintamente. El contador recibe fotos de boletas una vez al trimestre y nadie conoce caja comprometida de próximas seis semanas.
+**Caso:** Un fundador tiene una empresa de transporte escolar con ocho vehículos y diez personas. Ingresos mensuales de 22 millones de pesos, cobrados por mensualidades de apoderados (60 % paga puntualmente, 40 % se atrasa entre 15 y 30 días). Los gastos fijos son de 17 millones (remuneraciones 9, combustible y mantención 5, arriendo y seguros 3). Hay una cuota de 1,4 millones de un crédito vehicular y un pago de impuestos mensual de 1,1 millones. Paga proveedores con su tarjeta personal y luego se reembolsa; un conductor tiene la clave de la cuenta bancaria; no hace conciliación. En diciembre y enero los ingresos caen 50 %. Un cliente grande, un colegio, paga a 60 días. Tiene 6 millones de saldo.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **separar cuentas personales y empresa → capturar soporte de cada transacción → reconciliar banco y documentos → aprobar pagos con controles → cerrar mes con estados e issues**. Debes utilizar o diseñar cómo obtener **bank reconciliation, unmatched transactions, days to close**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de gobierno y riesgos financieros** que contenga: (a) la distinción entre las funciones contable, de tesorería y documental en su empresa; (b) un plan de separación de cuentas y reglas de reembolso; (c) la proyección de caja de cuatro semanas con colchón y prueba de estrés para la baja estacional; (d) la política de aprobación de pagos y de accesos; (e) el procedimiento de cierre mensual con responsables; (f) las palancas ante una brecha de caja y las verificaciones oficiales y contables pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los controles deben ser proporcionales: una empresa de tres personas no necesita comités, pero sí separación de cuentas, respaldo y conciliación.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

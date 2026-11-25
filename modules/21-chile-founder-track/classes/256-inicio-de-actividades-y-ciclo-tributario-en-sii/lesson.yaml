@@ -5,29 +5,27 @@ duration_minutes: 150
 level: "Etapa 6 — Founder en Chile"
 outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir inicio de actividades de giro mediante evidencia observable."
-  - "Aplicar la secuencia: confirmar entidad y RUT → definir giros y domicilio → reunir antecedentes exigidos → realizar inicio y verificar estado → configurar documentos y calendario tributario."
-  - "Interpretar SII registration status, declared activities, pending verification sin atribuir causalidad automática."
-  - "Resolver el caso de inicio de actividades y ciclo tributario en SII con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir constitución, inicio de actividades y giro."
+  - "Preparar los antecedentes del inicio de actividades con la fuente oficial vigente."
+  - "Verificar el estado de la empresa ante el SII y registrar la evidencia."
+  - "Armar el ciclo tributario inicial: documentos, registros y calendario."
+  - "Decidir qué se hace internamente y qué con un contador, con costo y riesgo."
 deliverable: "founder-owner-decision-brief.md"
 references:
-  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
-  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Servicio de Impuestos Internos (Chile) — *Ciclo de vida del contribuyente: inicio de actividades*"
+  - "Servicio de Impuestos Internos (Chile) — *Ayudas para el inicio de actividades*"
+  - "Servicio de Impuestos Internos (Chile) — *Acreditación de inicio de actividades y obligaciones tributarias*"
+  - "Servicio de Impuestos Internos (Chile) — *SII Educa: inicio de actividades y formalización de un negocio*"
+  - "Servicio de Impuestos Internos (Chile) — *Portal Emprendedor*"
   - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*"
-  - "INAPI (Chile) — *Propiedad industrial y orientación oficial*"
-  - "Dirección ChileCompra — *Mercado Público y normativa de compras públicas*"
-  - "SII — Ciclo de vida del contribuyente, Inicio de Actividades: <https://www.sii.cl/destacados/educacion/ciclo_vida_contribuyente/paso_02.html>."
-  - "SII — ayudas para Inicio de Actividades: <https://www.sii.cl/pagina/registro_contribuyentes/ayudas_inicio_actividades.htm>."
 limits:
-  - "Los pasos y antecedentes SII pueden cambiar y depender del caso. Verifica siempre requisitos actuales en sii.cl; el programa no reemplaza asesoría tributaria."
+  - "Esta clase no indica requisitos, plazos ni montos vigentes: los publica el SII."
 evidence_signals:
-  - "SII registration status"
-  - "declared activities"
-  - "pending verification"
-  - "document authorization"
-  - "tax deadlines"
+  - "entidad y RUT confirmados"
+  - "giros y domicilio coherentes"
+  - "antecedentes y evidencia de estado"
+  - "calendario tributario con responsable"

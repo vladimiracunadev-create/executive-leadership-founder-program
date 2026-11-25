@@ -10,219 +10,199 @@
 
 ## 🎯 Propósito
 
-Operar como persona natural o crear persona jurídica cambia separación patrimonial, contratos, tributación, gobierno, acceso a socios y percepción de riesgo. La elección debe partir de actividad, exposición, crecimiento y propiedad, no solo de facilidad inicial.
+La primera decisión formal de un negocio en Chile es **a nombre de quién se hace**: de una persona natural, que opera con su propio RUT y su propio patrimonio, o de una persona jurídica, una entidad distinta de sus dueños, con su propio RUT, su propia administración y sus propios registros. Muchos fundadores resuelven esto por costumbre («empiezo como persona natural y después veo») o por moda («todos dicen que hay que crear una empresa»). Ambas respuestas son malas porque ignoran lo central: **la forma jurídica es una herramienta para manejar exposición, socios, capital, costos y credibilidad, y su conveniencia depende de los hechos del caso**. Además, ninguna forma jurídica protege frente a toda responsabilidad ni corrige una mala gestión.
 
-La salida de esta parte es **formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **persona natural y persona jurídica: decisiones iniciales** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase enseña a tomar la decisión como un análisis: qué exposición tiene la actividad, si habrá socios o aportes externos, cuánto cuesta administrar cada alternativa, qué contratos hay que firmar y a nombre de quién, y cómo se verifica todo con fuentes oficiales y asesoría. Las fuentes son los portales del Registro de Empresas y Sociedades (RES), del SII, de la Dirección del Trabajo, LeyChile, la Superintendencia de Pensiones e INAPI. **No se interpretan normas ni se afirma qué responsabilidad cubre cada figura**: se plantean las preguntas que debe responder un profesional con el texto vigente a la vista. Al terminar sabrás estructurar la decisión, estimar costos y exposición con supuestos explícitos, identificar los hechos que inclinan la balanza y preparar la conversación con un abogado y un contador.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `persona natural`, `persona jurídica`, `limited liability`, `separate patrimony`, `governance` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder en chile.
-3. **Aplicar** la secuencia **1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** owner liability exposure, setup cost, ongoing compliance sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** persona natural y persona jurídica por sus rasgos observables.
+2. **Mapear** la exposición de la actividad y la necesidad de socios y capital.
+3. **Comparar** administración, costos recurrentes y trámites de cada alternativa.
+4. **Estimar** con supuestos explícitos el costo de cada opción frente a la exposición.
+5. **Preparar** la consulta profesional con preguntas y documentos concretos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define persona natural y persona jurídica sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con owner liability exposure y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿a nombre de quién operas hoy y por qué? |
+| 20–60 min | Exposición, socios y capital, administración y costos, contratos, tributación y consulta. |
+| 60–105 min | Ejemplo trabajado: comparación de costo recurrente frente a exposición esperada. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **persona natural** | individuo que realiza actividad económica en nombre propio | Distingue un hecho compatible y otro que lo refute. |
-| **persona jurídica** | entidad distinta de sus miembros reconocida por ley | Distingue un hecho compatible y otro que lo refute. |
-| **limited liability** | limitación de responsabilidad patrimonial cuando la forma y conducta lo permiten | Distingue un hecho compatible y otro que lo refute. |
-| **separate patrimony** | separación entre bienes de la entidad y propietarios | Distingue un hecho compatible y otro que lo refute. |
-| **governance** | reglas sobre decisiones representación y ownership | Distingue un hecho compatible y otro que lo refute. |
+| **Persona natural** | Individuo que opera con su propio RUT y patrimonio. | Contrata y factura a su nombre. |
+| **Persona jurídica** | Entidad distinta de sus dueños, con RUT propio. | Se constituye y se registra. |
+| **Exposición** | Pérdida posible por deudas, reclamos o incumplimientos. | Escenario, monto y probabilidad estimados. |
+| **Costo de cumplimiento** | Costo recurrente de administrar y cumplir. | Contador, registros, trámites. |
+| **Garantía personal** | Obligación asumida por una persona además de la empresa. | Aval o fianza firmados. |
+| **Titularidad** | A nombre de quién están contratos, cuentas y activos. | Documento y registro. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 254: 1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría](modelo-mental.svg)
+![Tabla de cinco decisiones para comparar persona natural y jurídica: responsabilidad, socios y capital, administración y costos, contratos y clientes, y tributación.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Operar como persona natural o crear persona jurídica cambia separación patrimonial, contratos, tributación, gobierno, acceso a socios y percepción de riesgo. La elección debe partir de actividad, exposición, crecimiento y propiedad, no solo de facilidad inicial.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales.**
+**Cómo leer el diagrama.** Una tabla de tres columnas. **Decisión**: los cinco temas a comparar. **Qué se pregunta**: la pregunta que debe responder el fundador en cada tema (qué patrimonio responde, si habrá socios, qué trámites exige cada alternativa, quién firma y factura, cómo tributa). **Dónde se verifica**: LeyChile y asesoría legal, el RES, el SII y el contador. La nota afirma que la forma jurídica no protege frente a toda responsabilidad ni corrige una mala gestión; el pie, que la decisión se registra con fecha y fuente.
 
 ## 📖 Desarrollo
 
-### 1. persona natural: mecanismo central
+### 1. Qué distingue a una persona natural de una jurídica
 
-**persona natural** se entiende aquí como **individuo que realiza actividad económica en nombre propio**. Esta es la pieza causal o estructural desde la que se inicia **persona natural y persona jurídica: decisiones iniciales**: antes de mapear actividad y exposición, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una **persona natural** es el individuo: opera con su RUT, firma a su nombre, y su patrimonio personal y el del negocio son, en términos prácticos, el mismo conjunto. Una **persona jurídica** es una entidad creada por un acto formal, con RUT propio, que puede contratar, tener cuentas y activos y comparecer en juicio por sí misma, y que se registra según su tipo (el RES describe los medios oficiales para constituir ciertas sociedades). Lo importante para la decisión no es la definición sino sus **consecuencias prácticas**: a nombre de quién se firman contratos, quién responde ante un incumplimiento, quién puede ser socio, cómo se transfieren las participaciones y qué obligaciones de administración se asumen. Estas consecuencias deben confirmarse con el texto legal vigente (LeyChile) y con asesoría; esta clase no las interpreta.
 
-La lectura rectora de este bloque es Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. Su aporte se usa para examinar **constitución y modificaciones societarias en el Registro de Empresas y Sociedades**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **owner liability exposure**; regístrala con periodo, unidad, población y baseline.
+### 2. Mapear la exposición
 
-Relaciona el mecanismo con **persona jurídica**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La exposición se estima con preguntas concretas: ¿qué puede salir mal?, ¿cuánto costaría?, ¿qué tan probable es?, ¿quién respondería? Una actividad con contacto físico con clientes, manipulación de alimentos, trabajo con menores, venta de productos que pueden dañar, grandes compromisos de deuda, arriendos largos o contratos con penalidades tiene más exposición que consultoría individual con pocos compromisos. La exposición no se elimina con una sigla: depende de **cómo se opera** (seguros, contratos, controles), de **las garantías personales** que se firmen (avales, fianzas, que pueden trasladar la deuda a la persona) y de las **responsabilidades que la ley asigna a las personas por sus propios actos**, que un abogado debe explicar para el caso. Un buen análisis lista escenarios y no se queda en la frase «para proteger mi patrimonio».
 
-### 2. persona jurídica: frontera conceptual y error de clasificación
+### 3. Socios y capital
 
-**Definición operacional:** entidad distinta de sus miembros reconocida por ley. Su valor está en distinguirlo de **persona natural** y **limited liability**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Si habrá **socios** o **aportes externos**, la opción natural se complica: dividir propiedad, pactar decisiones y reparto, y reconocer aportes exige una entidad con reglas claras (clase 251). Un socio capitalista que aporta dinero querrá saber qué recibe, qué controla y cómo sale. Tampoco conviene improvisar con «sociedades de hecho» o acuerdos verbales: los desacuerdos se resuelven peor sin estructura. Aun si hoy el negocio es de una sola persona, conviene preguntar: ¿en doce meses habrá un socio, un inversionista, un familiar que ayude o un empleado con participación? Si la respuesta es sí, empezar con la estructura adecuada suele ser más barato que migrar después. Los tipos disponibles y sus reglas se consultan en el RES y en LeyChile (clase 255).
 
-Contrasta el problema con Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*, que aporta una mirada sobre **obligaciones tributarias y ciclo de vida del contribuyente en Chile**. Formula dos mini-casos: uno que sí satisface la definición de **persona jurídica** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **setup cost** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Administración y costos recurrentes
 
-Antes de definir necesidad de socios y capital, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cada alternativa tiene **costos de arranque** (trámites, honorarios profesionales) y **costos recurrentes** (contabilidad, declaraciones, actualización de registros, cuentas, firmas, reuniones o decisiones de socios, según el tipo). Una persona jurídica suele exigir más orden administrativo; una persona natural puede ser más simple al comienzo, pero no está exenta de obligaciones tributarias, laborales y de permisos. El SII explica en su Portal Emprendedor las obligaciones de contribuyentes; el RES, el proceso para sociedades. Para decidir, se estima el **costo anual de cumplimiento** de cada opción con presupuestos reales de un contador (no con promedios) y se compara con la exposición y los beneficios esperados.
 
-### 3. limited liability: operacionalización y medición
+### 5. Contratos, clientes y credibilidad
 
-**limited liability** significa **limitación de responsabilidad patrimonial cuando la forma y conducta lo permiten**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La estructura afecta el modo de **contratar y facturar**. Algunos clientes (grandes empresas, organismos públicos) exigen proveedores constituidos o ciertos registros; algunos bancos y arrendadores piden garantías distintas según la entidad; los contratos laborales, de arriendo y con proveedores deben quedar a nombre de quien realmente asumirá la obligación. Un error frecuente es **mezclar titularidades**: la cuenta bancaria a nombre de la persona, el dominio de internet a nombre de un amigo, la marca a nombre de un socio, los contratos de arriendo a nombre del fundador. Cuando después se constituye una sociedad, ordenar esas titularidades cuesta tiempo y a veces dinero. La regla: **decidir la titularidad de los activos y contratos clave antes de firmar**, y registrarla.
 
-Dirección del Trabajo (Chile) — *Normativa y orientación oficial* orienta este bloque mediante **relaciones laborales, contratos, jornada y fiscalización laboral chilena**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **ongoing compliance**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Tributación y obligaciones laborales: preguntas para el profesional
 
-Al llegar a comparar administración y costos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El tratamiento tributario depende de la figura, la actividad, el régimen elegido y el nivel de ingresos; la información oficial está en el SII y su evaluación para el caso corresponde a un contador. De igual modo, las obligaciones laborales y previsionales se consultan en la Dirección del Trabajo, en LeyChile (Código del Trabajo y legislación laboral) y en la Superintendencia de Pensiones. Esta clase no calcula impuestos ni cotizaciones: **prepara las preguntas**. ¿Cómo tributaría mi actividad en cada alternativa con mis ingresos y costos estimados?, ¿qué documentos debo emitir?, ¿qué ocurre si contrato personal?, ¿cómo se retiran utilidades?, ¿qué cambia si hay socios? Llevar estas preguntas por escrito y las cifras proyectadas hace que la consulta sea más corta, más barata y más útil.
 
-### 4. separate patrimony: trade-offs y efectos de segundo orden
+### 7. Decidir, documentar y revisar
 
-**Definición:** separación entre bienes de la entidad y propietarios. Este concepto obliga a abandonar la idea de que **persona natural y persona jurídica: decisiones iniciales** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de revisar responsabilidad y contratos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente* aporta una lente sobre **texto legal vigente del Código del Trabajo y leyes laborales chilenas**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **capital needs** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **persona natural y persona jurídica: decisiones iniciales**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **separate patrimony** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. governance: gobernanza, límites e integración
-
-**governance** se define como **reglas sobre decisiones representación y ownership** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional* se utiliza para estudiar **obligaciones y reglas del sistema previsional chileno** y contrastar la recomendación final. Al ejecutar validar alternativa con fuentes y asesoría, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **persona natural**, **persona jurídica**, **limited liability**, **separate patrimony** y **governance** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **persona natural y persona jurídica: decisiones iniciales** no consiste en sumar cinco definiciones. Empieza por **persona natural**, contrasta **persona jurídica** con **limited liability**, incorpora **separate patrimony** como restricción o mecanismo y usa **governance** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La decisión se toma con un **cuadro comparativo** de las alternativas: exposición, socios, costos, titularidad, tributación y flexibilidad futura, con la fuente de cada dato y la fecha de verificación. Se anota qué supuestos se hicieron y cuáles se confirmaron con un profesional. Se define también **qué hecho haría cambiar la decisión** (ingreso de un socio, un contrato grande, un aval solicitado por un banco, un crecimiento de ingresos). La decisión no es eterna: puede revisarse al crecer, y es mejor planificar esa transición que improvisarla. Cuando el riesgo es alto o hay capital de terceros, la revisión por un abogado y un contador antes de firmar es parte del costo de hacer las cosas bien. Y siempre se recuerda: **la forma jurídica no corrige una mala gestión**.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* | constitución y modificaciones societarias en el Registro de Empresas y Sociedades | ¿Qué supuesto de **persona natural y persona jurídica: decisiones iniciales** ayuda a desafiar? |
-| Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* | obligaciones tributarias y ciclo de vida del contribuyente en Chile | ¿Qué supuesto de **persona natural y persona jurídica: decisiones iniciales** ayuda a desafiar? |
-| Dirección del Trabajo (Chile) — *Normativa y orientación oficial* | relaciones laborales, contratos, jornada y fiscalización laboral chilena | ¿Qué supuesto de **persona natural y persona jurídica: decisiones iniciales** ayuda a desafiar? |
-| Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente* | texto legal vigente del Código del Trabajo y leyes laborales chilenas | ¿Qué supuesto de **persona natural y persona jurídica: decisiones iniciales** ayuda a desafiar? |
-| Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional* | obligaciones y reglas del sistema previsional chileno | ¿Qué supuesto de **persona natural y persona jurídica: decisiones iniciales** ayuda a desafiar? |
-
-En **persona natural y persona jurídica: decisiones iniciales**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **persona natural**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Fuente | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Registro de Empresas y Sociedades | Información oficial sobre constitución y tipos. | No evalúa tu exposición. | ¿Qué trámites exige cada tipo? |
+| SII | Obligaciones de contribuyentes y emprendedores. | No decide la estructura. | ¿Cómo se registra y cumple cada alternativa? |
+| Dirección del Trabajo y LeyChile | Normativa laboral y su texto vigente. | No resuelve casos individuales. | ¿Qué obligaciones surgen al contratar? |
+| Superintendencia de Pensiones | Normativa del sistema previsional. | No es guía de contratación. | ¿Qué cotizaciones se asocian a cada relación? |
+| INAPI | Propiedad industrial y su registro. | No define la estructura societaria. | ¿Quién será titular de la marca? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un consultor solo factura a dos clientes y considera crear SpA por imagen; otro negocio vende productos con riesgo de garantía y busca inversionista. Ambos reciben la misma recomendación genérica.
+**Situación (hipotética).** Una fundadora ofrece servicios de banquetería para eventos. Debe decidir entre seguir como persona natural o constituir una persona jurídica. Los datos son **supuestos para el ejercicio**; las consecuencias jurídicas reales las confirma un abogado y las tributarias, un contador.
 
-**Paso 1 — mapear actividad y exposición.** La gerencia escribe primero el supuesto asociado a **persona natural** y evita convertirlo en hecho. Luego busca **owner liability exposure** para contrastarlo en el caso de **persona natural y persona jurídica: decisiones iniciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos supuestos.**
 
-**Paso 2 — definir necesidad de socios y capital.** La gerencia escribe primero el supuesto asociado a **persona jurídica** y evita convertirlo en hecho. Luego busca **setup cost** para contrastarlo en el caso de **persona natural y persona jurídica: decisiones iniciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dato | Valor |
+|---|---|
+| Ventas anuales proyectadas | 48.000.000 pesos |
+| Costo anual de cumplimiento, persona natural | 600.000 pesos |
+| Costo de arranque, persona jurídica (trámites y honorarios) | 450.000 pesos |
+| Costo anual de cumplimiento, persona jurídica | 1.500.000 pesos |
+| Reclamo posible por un evento (intoxicación, daños) | 15.000.000 pesos |
+| Probabilidad anual de un reclamo así | 5 % |
 
-**Paso 3 — comparar administración y costos.** La gerencia escribe primero el supuesto asociado a **limited liability** y evita convertirlo en hecho. Luego busca **ongoing compliance** para contrastarlo en el caso de **persona natural y persona jurídica: decisiones iniciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Exposición esperada.** 5 % × 15.000.000 = **750.000 pesos al año**.
 
-**Paso 4 — revisar responsabilidad y contratos.** La gerencia escribe primero el supuesto asociado a **separate patrimony** y evita convertirlo en hecho. Luego busca **capital needs** para contrastarlo en el caso de **persona natural y persona jurídica: decisiones iniciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo incremental de la persona jurídica.** Costo anual adicional: 1.500.000 − 600.000 = 900.000 pesos; el arranque de 450.000, repartido en tres años, agrega 150.000 al año. Total incremental: **1.050.000 al año**.
 
-**Paso 5 — validar alternativa con fuentes y asesoría.** La gerencia escribe primero el supuesto asociado a **governance** y evita convertirlo en hecho. Luego busca **contracting requirements** para contrastarlo en el caso de **persona natural y persona jurídica: decisiones iniciales**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Beneficio esperado supuesto.** Si, en este ejercicio, se supone que el 60 % de la exposición podría quedar limitada al patrimonio de la empresa, la reducción esperada es 0,60 × 750.000 = **450.000 pesos al año**, menor que el costo incremental de 1.050.000. **Con estos supuestos, solo por la exposición esperada, la persona jurídica no se paga.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **persona natural y persona jurídica: decisiones iniciales**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Lo que el promedio no muestra.** La exposición esperada es un promedio: la pérdida real, si ocurre, es de 15.000.000, equivalente a 31 % de las ventas anuales (15.000.000 ÷ 48.000.000). Un fundador puede preferir pagar un costo seguro de 1.050.000 anuales para evitar una pérdida poco probable pero grave. Además, el supuesto del 60 % es **frágil**: puede ser menor si se firmaron garantías personales o si la ley asigna responsabilidad a personas por sus actos. Un seguro de responsabilidad civil que cueste, por ejemplo, 400.000 al año podría reducir la pérdida con independencia de la forma jurídica; se cotiza con un corredor.
+
+**Cuando cambian los hechos.** La fundadora recibe una oferta: un socio capitalista aportaría 8.000.000 pesos a cambio de participación, y una empresa grande exigiría un proveedor constituido para un contrato de 18.000.000 anuales. Esos dos hechos cambian el cálculo: el contrato aumenta las ventas en 37,5 % (18.000.000 ÷ 48.000.000) y el socio exige una estructura con reglas. Aunque la exposición esperada no cambie, **la necesidad de socios y el requisito del cliente inclinan la decisión hacia la persona jurídica**.
+
+**Decisión.** Constituir la persona jurídica **cuando** se firme el contrato grande o ingrese el socio, no antes; mientras tanto, contratar un seguro, firmar contratos con límites claros, no firmar avales personales sin asesoría y registrar a nombre de la futura entidad solo lo que pueda transferirse ordenadamente. Consultar a un abogado y a un contador con las cifras y preguntas preparadas.
+
+**Cuidados.** Los porcentajes y montos son supuestos; la responsabilidad real de cada figura, la tributación y las cotizaciones se verifican en fuentes oficiales y con asesoría.
+
+**Qué muestra.** (1) La decisión se comparó con cifras y supuestos explícitos. (2) El promedio no capta el riesgo de una pérdida grave. (3) Los hechos del negocio, no la moda, inclinaron la decisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **persona natural** | individuo que realiza actividad económica en nombre propio | Cuando owner liability exposure es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **persona jurídica** | entidad distinta de sus miembros reconocida por ley | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Persona jurídica frente a protección absoluta.** Una persona jurídica separa patrimonios en las condiciones que la ley establece; no es un escudo universal. Garantías personales, responsabilidad por actos propios y ciertas obligaciones pueden alcanzar a las personas.
 
-**Frontera de aplicación:** La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales.
+**Límites.** Esta clase no interpreta normas ni calcula impuestos; plantea preguntas y estructura la decisión. Los costos y probabilidades del ejemplo son supuestos. Una decisión con capital de terceros, deudas importantes o actividad riesgosa requiere revisión profesional antes de firmar.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre persona natural y persona jurídica: decisiones iniciales |
+| Nivel | Cómo se relaciona con la decisión de estructura |
 |---|---|
-| **Profesional** | usa **persona natural y persona jurídica: decisiones iniciales** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **persona natural** y **persona jurídica** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta owner liability exposure con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si persona natural y persona jurídica: decisiones iniciales cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de persona natural y persona jurídica: decisiones iniciales reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **persona natural y persona jurídica: decisiones iniciales** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Trabaja bajo contrato o factura como independiente. |
+| **Jefe / Team Lead** | Conoce la entidad para la que trabaja y sus obligaciones. |
+| **Gerente** | Responde por contratos firmados a nombre de la empresa. |
+| **CEO / Director** | Decide estructura, garantías y gobierno. |
+| **Founder / Owner** | Elige la forma, ordena titularidades y asume la exposición residual. |
 
 ## 🏢 Caso ejecutivo
 
-Un consultor solo factura a dos clientes y considera crear SpA por imagen; otro negocio vende productos con riesgo de garantía y busca inversionista. Ambos reciben la misma recomendación genérica.
+Un fundador trabaja desde hace un año como independiente en instalación de paneles solares domésticos: ventas anuales de 36 millones de pesos, dos ayudantes a quienes paga por día y un vehículo a su nombre. Un cliente le pidió una instalación de 22 millones para una pequeña empresa y el proveedor de paneles le ofrece crédito a 90 días a condición de que firme un aval personal. Un banco le ofrece una línea de crédito si presenta estados financieros. Un amigo ingeniero quiere entrar como socio aportando 5 millones y su experiencia. Ha tenido un reclamo por una filtración en un techo que costó 900.000 pesos. No tiene contador y paga los impuestos «al final del año». Su pareja trabaja como empleada y teme por el patrimonio familiar.
 
-Entrega un **decision brief de persona natural y persona jurídica: decisiones iniciales** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de gobierno y riesgos de la estructura** que contenga: (a) el mapa de exposición con escenarios, montos y probabilidades supuestas; (b) la necesidad de socios y capital en los próximos doce meses; (c) la comparación de costos recurrentes de cada alternativa con presupuestos supuestos; (d) el análisis del aval personal y de la línea de crédito; (e) las preguntas que llevará a un abogado y a un contador; (f) la decisión recomendada, el hecho que la cambiaría y las verificaciones oficiales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **persona natural y persona jurídica: decisiones iniciales** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta owner liability exposure, setup cost; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista tres escenarios de pérdida de tu actividad con monto y probabilidad supuestos.
+2. Estima el costo anual de cumplimiento de cada alternativa con un presupuesto real.
+3. Define si habrá socios o capital externo en los próximos doce meses.
+4. Revisa a nombre de quién están hoy tus contratos, cuentas, dominio y marca.
+5. Redacta diez preguntas para un abogado y un contador con tus cifras.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar persona natural y persona jurídica como sinónimos | Se pierde la distinción entre “individuo que realiza actividad económica en nombre propio” y “entidad distinta de sus miembros reconocida por ley” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “validar alternativa con fuentes y asesoría” | Se saltó “mapear actividad y exposición” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría y marca el primer supuesto no demostrado. |
-| Optimizar solo owner liability exposure | La métrica local sustituyó al resultado del sistema | Contrástala con setup cost y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre persona natural y persona jurídica: decisiones iniciales | La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales. |
-| No fijar revisión | Una decisión sobre persona natural y persona jurídica: decisiones iniciales se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir por moda | «Todos crean una empresa» | Analizar exposición, socios y costos. |
+| Pensar que la sigla protege de todo | Se confunde estructura con inmunidad | Verificar alcance y garantías con un abogado. |
+| Firmar avales sin asesoría | Presión del proveedor o del banco | Estimar el efecto sobre el patrimonio personal. |
+| Mezclar titularidades | Se opera antes de ordenar | Decidir a nombre de quién va cada activo. |
+| Ignorar el costo recurrente | Se mira solo el arranque | Presupuestar el cumplimiento anual. |
+| No revisar la decisión | Se supone eterna | Definir qué hecho obliga a reconsiderarla. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **persona natural** y **persona jurídica** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **limited liability** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear actividad y exposición → definir necesidad de socios y capital** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **owner liability exposure** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **persona natural y persona jurídica: decisiones iniciales**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales.**?
+1. ¿Qué diferencia práctica hay entre persona natural y jurídica?
+2. ¿Cómo se estima la exposición de una actividad?
+3. ¿Por qué una garantía personal puede cambiar el análisis?
+4. ¿Qué costos recurrentes deben compararse?
+5. ¿Por qué importa a nombre de quién están contratos y activos?
+6. ¿Qué hechos pueden inclinar la decisión hacia una persona jurídica?
+7. ¿Qué límite tiene esta clase respecto de la asesoría?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La natural opera con su RUT y patrimonio; la jurídica es una entidad distinta con RUT propio, registro y administración.
+2. Con escenarios de pérdida, su monto, su probabilidad y quién respondería.
+3. Porque puede trasladar la deuda a la persona aunque exista una entidad.
+4. Contabilidad, registros, trámites y administración de cada alternativa, con presupuestos reales.
+5. Porque define quién asume las obligaciones y cuesta ordenar después.
+6. Ingreso de socios o capital, exigencias de clientes o bancos y crecimiento de la exposición.
+7. No interpreta normas ni calcula impuestos; prepara preguntas y exige verificación oficial y asesoría.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/254-persona-natural-y-persona-juridica-decisiones-iniciales/`:
 
-- `risk-governance-brief.md` con el problema específico de **persona natural y persona jurídica: decisiones iniciales**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **persona natural y persona jurídica: decisiones iniciales** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **persona natural**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un consultor solo factura a dos clientes y considera crear SpA por imagen; otro negocio vende productos con riesgo de garantía y busca inversionista. Ambos reciben la misma recomendación genérica.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk governance brief](../../../../templates/risk-governance-brief.md)) con el informe del caso ejecutivo;
+- `decision-journal.md` con la decisión, los supuestos y la lista de verificaciones con asesoría.
 
 ## 📗 Fuentes y verificación
 
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. **Fuente primaria:** <https://www.sii.cl/>.
-- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** relaciones laborales, contratos, jornada y fiscalización laboral chilena. **Fuente primaria:** <https://www.dt.gob.cl/>.
-- Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*. **Uso en esta clase:** texto legal vigente del Código del Trabajo y leyes laborales chilenas. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
-- Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*. **Uso en esta clase:** obligaciones y reglas del sistema previsional chileno. **Fuente primaria:** <https://www.spensiones.cl/>.
-- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** propiedad industrial, marcas, patentes y activos intangibles en Chile. **Fuente primaria:** <https://www.inapi.cl/>.
-- Registro de Empresas y Sociedades (Chile) — *Preguntas frecuentes del portal oficial*. **Uso en esta clase:** contrastar las formas societarias disponibles antes de elegir persona natural o jurídica. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/FAQ.aspx>.
-- Servicio de Impuestos Internos (Chile) — *Portal Emprendedor*. **Uso en esta clase:** verificar obligaciones tributarias iniciales según la forma jurídica elegida. **Fuente primaria:** <https://www.sii.cl/portales/emprendedor/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **persona natural y persona jurídica: decisiones iniciales** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **persona natural y persona jurídica: decisiones iniciales**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **persona natural y persona jurídica: decisiones iniciales** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **persona natural y persona jurídica: decisiones iniciales** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **persona natural y persona jurídica: decisiones iniciales** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** información oficial sobre constitución y registro de sociedades. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias de contribuyentes y emprendedores. **Fuente primaria:** <https://www.sii.cl/>.
+- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** orientación oficial sobre obligaciones laborales. **Fuente primaria:** <https://www.dt.gob.cl/>.
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*. **Uso en esta clase:** texto vigente del Código del Trabajo y legislación laboral. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
+- Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*. **Uso en esta clase:** normativa del sistema previsional. **Fuente primaria:** <https://www.spensiones.cl/>.
+- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** titularidad y registro de marcas y propiedad industrial. **Fuente primaria:** <https://www.inapi.cl/>.
 
-> **Regla de fuentes para Persona natural y persona jurídica: decisiones iniciales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **persona natural y persona jurídica: decisiones iniciales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Persona natural y persona jurídica:** las obras y portales anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, trámite o plazo mencionado debe comprobarse nuevamente en su fuente primaria oficial vigente, y este programa no reemplaza asesoría legal, tributaria ni contable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce material protegido.
 
 <!-- pie:inicio -->
 ---

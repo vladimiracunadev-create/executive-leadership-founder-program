@@ -10,218 +10,211 @@
 
 ## 🎯 Propósito
 
-Contabilidad, tesorería y control documental convierten transacciones en información confiable y protegen caja. Incluso con contador externo, el founder conserva responsabilidad de entregar antecedentes, aprobar pagos, separar fondos y revisar estados; externalizar no equivale a abdicar control.
+Una empresa puede ser rentable en el papel y quedarse sin caja; puede tener caja y no saber de dónde viene; puede tener ambas y no poder probar nada ante un banco, un cliente grande, una autoridad o un inversionista. Para evitar esas tres situaciones hacen falta tres capacidades distintas que los fundadores suelen mezclar: la **contabilidad**, que responde «¿qué pasó y está respaldado?»; la **tesorería**, que responde «¿qué vamos a pagar y cobrar, cuándo, y con qué caja?»; y el **control documental**, que garantiza que cada operación tiene un soporte que se puede encontrar y que las decisiones de pago tuvieron una autorización. En una pyme, estas funciones las hace a veces una sola persona, y justamente por eso conviene entender sus diferencias y diseñar controles **proporcionales al tamaño**: básicos pero firmes, sin la burocracia de una multinacional.
 
-La salida de esta parte es **formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **contabilidad, tesorería y control documental** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase construye un sistema mínimo y sólido: separar cuentas personales y de la empresa, capturar el soporte de cada transacción, conciliar banco y documentos, aprobar pagos con límites y roles, proyectar la caja y cerrar cada mes con revisión. Las fuentes oficiales relevantes son el SII, el RES, la CMF y la normativa contable aplicable según el tipo de entidad (se consulta con el contador y el Colegio de Contadores), el seguro de cesantía y ChileCompra cuando se vende al Estado; Drucker aporta el criterio de gestión por resultados. **No se interpretan normas contables ni tributarias**: se estructura el proceso y se señalan las preguntas para los profesionales. Al terminar sabrás montar un ciclo de cierre mensual, una proyección de caja de cuatro semanas con prueba de estrés y una política de aprobación de pagos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `bookkeeping`, `treasury`, `reconciliation`, `supporting document`, `month-end close` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder en chile.
-3. **Aplicar** la secuencia **1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** bank reconciliation, unmatched transactions, days to close sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** contabilidad, tesorería y control documental.
+2. **Separar** las finanzas personales y las de la empresa con reglas verificables.
+3. **Proyectar** la caja de corto plazo y someterla a una prueba de estrés.
+4. **Diseñar** una política de aprobación de pagos proporcional al tamaño.
+5. **Cerrar** el mes con conciliación, soporte, incidencias y responsables.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define bookkeeping y treasury sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con bank reconciliation y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánta caja tendrás dentro de un mes y cómo lo sabes? |
+| 20–60 min | Separación de cuentas, soporte, conciliación, aprobaciones, proyección de caja y cierre. |
+| 60–105 min | Ejemplo trabajado: proyección de cuatro semanas con prueba de estrés. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **bookkeeping** | registro sistemático de transacciones | Distingue un hecho compatible y otro que lo refute. |
-| **treasury** | gestión de caja pagos cobros y liquidez | Distingue un hecho compatible y otro que lo refute. |
-| **reconciliation** | comparación de registros independientes para detectar diferencias | Distingue un hecho compatible y otro que lo refute. |
-| **supporting document** | evidencia que respalda una transacción | Distingue un hecho compatible y otro que lo refute. |
-| **month-end close** | proceso periódico para cerrar y revisar información financiera | Distingue un hecho compatible y otro que lo refute. |
+| **Contabilidad** | Registro ordenado y respaldado de lo ocurrido. | Libros, registros y estados. |
+| **Tesorería** | Gestión de cobros, pagos y caja en el tiempo. | Proyección y aprobaciones. |
+| **Control documental** | Soporte localizable de cada operación y decisión. | Archivo con índice. |
+| **Conciliación** | Verificación de que banco, documentos y registros coinciden. | Diferencias explicadas. |
+| **Segregación de funciones** | Separar quien solicita, quien aprueba y quien ejecuta. | Roles distintos. |
+| **Colchón de caja** | Saldo mínimo para absorber retrasos y sorpresas. | Política numérica escrita. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 258: 1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues](modelo-mental.svg)
+![Contabilidad y tesorería en paneles: contabilidad responde qué pasó; tesorería responde qué se paga y cuándo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Contabilidad, tesorería y control documental convierten transacciones en información confiable y protegen caja. Incluso con contador externo, el founder conserva responsabilidad de entregar antecedentes, aprobar pagos, separar fondos y revisar estados; externalizar no equivale a abdicar control.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer.**
+**Cómo leer el diagrama.** Dos paneles. **Contabilidad: qué pasó**: registrar con soporte, conciliar y cerrar el mes. **Tesorería: qué se paga y cuándo**: proyectar la caja, aprobar pagos y proteger accesos. La nota afirma que los controles deben ser proporcionales al tamaño: una pyme necesita control básico fuerte y lo aumenta al crecer; el pie, que las cuentas personales y las de la empresa se mantienen separadas.
 
 ## 📖 Desarrollo
 
-### 1. bookkeeping: mecanismo central
+### 1. Tres funciones, tres preguntas
 
-**bookkeeping** se entiende aquí como **registro sistemático de transacciones**. Esta es la pieza causal o estructural desde la que se inicia **contabilidad, tesorería y control documental**: antes de separar cuentas personales y empresa, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La **contabilidad** mira hacia atrás: registra lo ocurrido con respaldo y produce información para decidir y para cumplir obligaciones. La **tesorería** mira hacia adelante: sabe cuánto hay, cuánto entrará, cuánto debe salir y cuándo, y decide qué pagar primero si no alcanza. El **control documental** sostiene a ambas: sin soporte, el registro es una afirmación sin prueba; sin autorización registrada, un pago es un riesgo. Drucker insiste en que una organización necesita información adecuada para decidir y controlar sus resultados; para una pyme, eso significa tener **pocos números fiables a tiempo** (caja disponible, cuentas por cobrar y por pagar, margen, compromisos próximos) más que muchos informes tardíos. El contador y el Colegio de Contadores orientan sobre la normativa contable aplicable según el tipo de entidad; esa verificación no se hace de memoria.
 
-La lectura rectora de este bloque es Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. Su aporte se usa para examinar **obligaciones tributarias y ciclo de vida del contribuyente en Chile**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **bank reconciliation**; regístrala con periodo, unidad, población y baseline.
+### 2. Separar cuentas personales y de la empresa
 
-Relaciona el mecanismo con **treasury**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Es la regla más simple y la más infringida. Mezclar gastos personales con los de la empresa dificulta saber si el negocio gana, esconde problemas de caja, complica el trabajo del contador, debilita la credibilidad ante bancos y, según el caso, puede traer consecuencias tributarias o legales que un profesional debe explicar. La separación práctica: **cuenta bancaria propia de la empresa**, medios de pago de la empresa, un procedimiento claro para retirar dinero (con documento y registro, no con transferencias informales), reembolso de gastos pagados por el fundador con respaldo y una política escrita de qué es gasto de la empresa y qué no. La apertura de la cuenta y los medios de cobro se tratan en la clase 259.
 
-### 2. treasury: frontera conceptual y error de clasificación
+### 3. Capturar el soporte de cada transacción
 
-**Definición operacional:** gestión de caja pagos cobros y liquidez. Su valor está en distinguirlo de **bookkeeping** y **reconciliation**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada operación debería dejar **tres rastros**: el documento (clase 257), el comprobante de pago o cobro y, cuando corresponde, el contrato, la orden o la aprobación. Un hábito simple: el soporte se captura **el mismo día**, con un nombre de archivo estándar (fecha, proveedor o cliente, monto, tipo), en una carpeta compartida con permisos, y se enlaza con el registro. Se define cuánto tiempo se conserva cada tipo de documento según las normas vigentes (se verifica en el SII y con el contador) y quién puede acceder. Un índice (planilla o sistema) permite encontrar un documento en minutos, algo indispensable ante un requerimiento, una auditoría de un cliente o un proceso de venta de la empresa. Lo que no se puede encontrar, para efectos prácticos, no existe.
 
-Contrasta el problema con Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*, que aporta una mirada sobre **constitución y modificaciones societarias en el Registro de Empresas y Sociedades**. Formula dos mini-casos: uno que sí satisface la definición de **treasury** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **unmatched transactions** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Conciliar banco y documentos
 
-Antes de capturar soporte de cada transacción, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **conciliación** compara el saldo y los movimientos del banco con los registros contables y los documentos. Se hace al menos **una vez al mes** (idealmente semanal en negocios con mucho movimiento). Las diferencias típicas: depósitos de plataformas con comisiones descontadas, pagos agrupados, cheques o transferencias en tránsito, errores de digitación, cargos desconocidos. Cada diferencia se explica por escrito. Una **diferencia sin explicar** es un riesgo de error o de fraude; una **diferencia explicada y recurrente** es una oportunidad de mejorar el proceso. Es útil dejar el resultado en una hoja de conciliación firmada (o aprobada electrónicamente) por una persona distinta de quien ejecuta los pagos, si el tamaño de la empresa lo permite.
 
-### 3. reconciliation: operacionalización y medición
+### 5. Aprobar pagos: controles proporcionales
 
-**reconciliation** significa **comparación de registros independientes para detectar diferencias**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+En una empresa pequeña, el fundador suele aprobar todo; a medida que crece, conviene definir **quién puede pedir, quién aprueba y quién ejecuta**. Una política mínima: pagos bajo cierto monto, los puede ejecutar una persona con respaldo del documento; sobre ese monto, requieren dos personas (una que prepara, otra que aprueba); pagos nuevos a un proveedor requieren verificación de datos (por teléfono con un contacto conocido, no solo por correo, para evitar fraudes); cambios de datos bancarios se validan por otro canal; los **accesos al banco** no dependen de una sola persona y se revocan cuando alguien deja el equipo. Los límites los fija cada empresa según su tamaño y riesgo. Lo importante es que existan, estén escritos y se cumplan, y que el fundador no esté siempre en el medio como cuello de botella.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **days to close**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Proyectar la caja y probarla bajo estrés
 
-Al llegar a reconciliar banco y documentos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La **proyección de caja** (por semana, a cuatro o trece semanas) es la herramienta central de la tesorería: saldo inicial, más cobros esperados, menos pagos comprometidos, igual saldo final. Se hace con **supuestos explícitos**: cuándo paga cada cliente, qué pagos son fijos y cuáles diferibles, qué impuestos, cotizaciones y cuotas vencen y cuándo (las fechas se toman de las fuentes oficiales y de los contratos). Se define un **colchón mínimo** (por ejemplo, el equivalente a dos semanas de gastos fijos) y se ejecuta una **prueba de estrés**: ¿qué pasa si los cobros se retrasan 30 %?, ¿si un cliente grande no paga?, ¿si sube un costo? La prueba no predice el futuro; muestra **dónde se rompe la caja y qué palancas existen** (negociar plazos, adelantar cobros, diferir gastos, línea de crédito, aporte de socios).
 
-### 4. supporting document: trade-offs y efectos de segundo orden
+### 7. Cerrar el mes y revisar
 
-**Definición:** evidencia que respalda una transacción. Este concepto obliga a abandonar la idea de que **contabilidad, tesorería y control documental** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de aprobar pagos con controles, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-AFC Chile — *Seguro de Cesantía: información y operación oficial* aporta una lente sobre **Seguro de Cesantía, cotizaciones y prestaciones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash forecast accuracy** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **contabilidad, tesorería y control documental**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **supporting document** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. month-end close: gobernanza, límites e integración
-
-**month-end close** se define como **proceso periódico para cerrar y revisar información financiera** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Dirección ChileCompra — *Mercado Público y normativa de compras públicas* se utiliza para estudiar **compras públicas, registro de proveedores y Mercado Público** y contrastar la recomendación final. Al ejecutar cerrar mes con estados e issues, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **bookkeeping**, **treasury**, **reconciliation**, **supporting document** y **month-end close** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **contabilidad, tesorería y control documental** no consiste en sumar cinco definiciones. Empieza por **bookkeeping**, contrasta **treasury** con **reconciliation**, incorpora **supporting document** como restricción o mecanismo y usa **month-end close** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El **cierre mensual** reúne: conciliación bancaria, revisión de documentos emitidos y recibidos, registro de pagos y cobros, revisión de cuentas por cobrar vencidas, revisión de cuentas por pagar próximas, actualización de la proyección de caja, lista de incidencias y acciones. Se asigna **responsable y fecha**, y se guarda el paquete de cierre. Si la empresa vende al Estado (clase 263), mantiene además la documentación de cada compra pública con sus plazos y requisitos de pago; si tiene trabajadores, el pago de remuneraciones y cotizaciones, con fechas oficiales (clase 260). El cierre es también el momento de decidir: qué cliente cobrar, qué gasto recortar, qué inversión posponer. Un cierre que solo archiva papeles pierde su mayor valor.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* | obligaciones tributarias y ciclo de vida del contribuyente en Chile | ¿Qué supuesto de **contabilidad, tesorería y control documental** ayuda a desafiar? |
-| Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* | constitución y modificaciones societarias en el Registro de Empresas y Sociedades | ¿Qué supuesto de **contabilidad, tesorería y control documental** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **contabilidad, tesorería y control documental** ayuda a desafiar? |
-| AFC Chile — *Seguro de Cesantía: información y operación oficial* | Seguro de Cesantía, cotizaciones y prestaciones | ¿Qué supuesto de **contabilidad, tesorería y control documental** ayuda a desafiar? |
-| Dirección ChileCompra — *Mercado Público y normativa de compras públicas* | compras públicas, registro de proveedores y Mercado Público | ¿Qué supuesto de **contabilidad, tesorería y control documental** ayuda a desafiar? |
-
-En **contabilidad, tesorería y control documental**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **bookkeeping**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Fuente | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| SII | Documentos, registros y plazos tributarios. | No diseña tus controles. | ¿Qué plazos oficiales entran en mi caja? |
+| Colegio de Contadores (normativa contable aplicable) | Referencia sobre normas contables según entidad. | No decide tu caso. | ¿Qué normativa contable me corresponde? |
+| CMF | Información del sistema financiero y su normativa. | No es guía de tesorería. | ¿Qué condiciones tiene mi producto financiero? |
+| ChileCompra | Reglas de compras públicas y pagos. | No cubre ventas privadas. | ¿Qué plazos de pago implica vender al Estado? |
+| Drucker | Información para decidir y controlar. | No incluye normativa chilena. | ¿Qué cinco números necesito cada semana? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Founder usa una tarjeta personal y cuenta empresa indistintamente. El contador recibe fotos de boletas una vez al trimestre y nadie conoce caja comprometida de próximas seis semanas.
+**Situación (hipotética).** Una empresa de reparación de equipos médicos proyecta su caja de cuatro semanas. Todos los montos son **supuestos para el ejercicio**; las fechas oficiales de impuestos y cotizaciones se toman de las fuentes vigentes.
 
-**Paso 1 — separar cuentas personales y empresa.** La gerencia escribe primero el supuesto asociado a **bookkeeping** y evita convertirlo en hecho. Luego busca **bank reconciliation** para contrastarlo en el caso de **contabilidad, tesorería y control documental**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos.** Saldo inicial: 4.000.000 pesos. Colchón mínimo definido: 2.000.000 (aproximadamente dos semanas de gastos fijos).
 
-**Paso 2 — capturar soporte de cada transacción.** La gerencia escribe primero el supuesto asociado a **treasury** y evita convertirlo en hecho. Luego busca **unmatched transactions** para contrastarlo en el caso de **contabilidad, tesorería y control documental**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Semana | Cobros esperados | Pagos comprometidos |
+|---|---|---|
+| 1 | 1.500.000 | 2.700.000 (remuneraciones 1.800.000 y arriendo 900.000) |
+| 2 | 1.200.000 | 1.400.000 (proveedores) |
+| 3 | 2.000.000 | 1.500.000 (servicios 600.000 e impuesto mensual 900.000) |
+| 4 | 1.000.000 | 1.600.000 (proveedores 1.100.000 y cuota de crédito 500.000) |
 
-**Paso 3 — reconciliar banco y documentos.** La gerencia escribe primero el supuesto asociado a **reconciliation** y evita convertirlo en hecho. Luego busca **days to close** para contrastarlo en el caso de **contabilidad, tesorería y control documental**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Proyección base.**
 
-**Paso 4 — aprobar pagos con controles.** La gerencia escribe primero el supuesto asociado a **supporting document** y evita convertirlo en hecho. Luego busca **cash forecast accuracy** para contrastarlo en el caso de **contabilidad, tesorería y control documental**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Semana | Saldo inicial | Cobros | Pagos | Saldo final |
+|---|---|---|---|---|
+| 1 | 4.000.000 | 1.500.000 | 2.700.000 | **2.800.000** |
+| 2 | 2.800.000 | 1.200.000 | 1.400.000 | **2.600.000** |
+| 3 | 2.600.000 | 2.000.000 | 1.500.000 | **3.100.000** |
+| 4 | 3.100.000 | 1.000.000 | 1.600.000 | **2.500.000** |
 
-**Paso 5 — cerrar mes con estados e issues.** La gerencia escribe primero el supuesto asociado a **month-end close** y evita convertirlo en hecho. Luego busca **missing documents** para contrastarlo en el caso de **contabilidad, tesorería y control documental**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+El mínimo es 2.500.000, mayor que el colchón de 2.000.000: la caja es suficiente en el caso base.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **contabilidad, tesorería y control documental**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Prueba de estrés: los cobros de las semanas 2 a 4 llegan 30 % menos.**
+
+- Semana 2: cobros 1.200.000 × 0,70 = 840.000. Saldo: 2.800.000 + 840.000 − 1.400.000 = **2.240.000**.
+- Semana 3: cobros 2.000.000 × 0,70 = 1.400.000. Saldo: 2.240.000 + 1.400.000 − 1.500.000 = **2.140.000**.
+- Semana 4: cobros 1.000.000 × 0,70 = 700.000. Saldo: 2.140.000 + 700.000 − 1.600.000 = **1.240.000**.
+
+El saldo de la semana 4 queda **760.000 por debajo del colchón** (2.000.000 − 1.240.000). La caja no se queda en cero, pero el colchón se rompe.
+
+**Palancas.** Negociar con proveedores un pago de 760.000 de la semana 4 a la semana 5; pedir anticipo del 30 % a clientes nuevos; reprogramar la cuota del crédito si el contrato lo permite (verificar condiciones). Con el pago diferido de 760.000, el saldo de la semana 4 sería 1.240.000 + 760.000 = 2.000.000, exactamente en el colchón.
+
+**Política de aprobación (supuesta).** Pagos hasta 300.000: una persona con documento. Entre 300.000 y 1.500.000: preparación y aprobación por dos personas. Sobre 1.500.000 o a proveedores nuevos: verificación por teléfono y aprobación del fundador. Los pagos de la semana 1 (remuneraciones 1.800.000 y arriendo 900.000) están en el nivel superior o recurrente, con aprobación documentada.
+
+**Decisión.** Mantener el plan, preparar de inmediato la conversación con el proveedor de 760.000 y ajustar la política de cobranza; actualizar la proyección cada semana y guardar las tres versiones en el paquete de cierre.
+
+**Cuidados.** Los montos, los plazos de pago y las fechas de impuestos y cotizaciones son supuestos; se verifican en contratos y fuentes oficiales.
+
+**Qué muestra.** (1) La proyección fija un colchón y un mínimo. (2) La prueba de estrés revela dónde se rompe la caja. (3) Las palancas se preparan antes de que el problema ocurra.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **bookkeeping** | registro sistemático de transacciones | Cuando bank reconciliation es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **treasury** | gestión de caja pagos cobros y liquidez | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Contabilidad frente a tesorería.** La contabilidad puede mostrar utilidad y la tesorería, falta de caja: son distintas porque los cobros y los pagos ocurren en momentos diferentes de la venta y la compra. Se necesitan ambas.
 
-**Frontera de aplicación:** Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer.
+**Límites.** Los controles deben ser proporcionales: una empresa de tres personas no necesita comités, pero sí separación de cuentas, respaldo y conciliación. La clase no interpreta normas contables ni tributarias. Las cifras del ejemplo son supuestos. Con el crecimiento, conviene un contador o un responsable administrativo y revisiones externas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre contabilidad, tesorería y control documental |
+| Nivel | Cómo se relaciona con contabilidad y tesorería |
 |---|---|
-| **Profesional** | usa **contabilidad, tesorería y control documental** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **bookkeeping** y **treasury** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta bank reconciliation con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si contabilidad, tesorería y control documental cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de contabilidad, tesorería y control documental reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **contabilidad, tesorería y control documental** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Rinde gastos con respaldo y cumple los procedimientos. |
+| **Jefe / Team Lead** | Solicita pagos con documentos y controla el presupuesto del equipo. |
+| **Gerente** | Aprueba pagos dentro de sus límites y responde por su área. |
+| **CEO / Director** | Define políticas, revisa la caja y supervisa al contador. |
+| **Founder / Owner** | Garantiza separación de cuentas, controles y caja suficiente. |
 
 ## 🏢 Caso ejecutivo
 
-Founder usa una tarjeta personal y cuenta empresa indistintamente. El contador recibe fotos de boletas una vez al trimestre y nadie conoce caja comprometida de próximas seis semanas.
+Un fundador tiene una empresa de transporte escolar con ocho vehículos y diez personas. Ingresos mensuales de 22 millones de pesos, cobrados por mensualidades de apoderados (60 % paga puntualmente, 40 % se atrasa entre 15 y 30 días). Los gastos fijos son de 17 millones (remuneraciones 9, combustible y mantención 5, arriendo y seguros 3). Hay una cuota de 1,4 millones de un crédito vehicular y un pago de impuestos mensual de 1,1 millones. Paga proveedores con su tarjeta personal y luego se reembolsa; un conductor tiene la clave de la cuenta bancaria; no hace conciliación. En diciembre y enero los ingresos caen 50 %. Un cliente grande, un colegio, paga a 60 días. Tiene 6 millones de saldo.
 
-Entrega un **decision brief de contabilidad, tesorería y control documental** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de gobierno y riesgos financieros** que contenga: (a) la distinción entre las funciones contable, de tesorería y documental en su empresa; (b) un plan de separación de cuentas y reglas de reembolso; (c) la proyección de caja de cuatro semanas con colchón y prueba de estrés para la baja estacional; (d) la política de aprobación de pagos y de accesos; (e) el procedimiento de cierre mensual con responsables; (f) las palancas ante una brecha de caja y las verificaciones oficiales y contables pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **contabilidad, tesorería y control documental** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta bank reconciliation, unmatched transactions; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta una política de separación de cuentas personales y de la empresa.
+2. Construye una proyección de caja de cuatro semanas con saldo, cobros y pagos.
+3. Aplica una prueba de estrés de 30 % en cobros y anota las palancas.
+4. Define una política de aprobación de pagos con montos y roles.
+5. Prepara una hoja de cierre mensual con responsables y plazos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar bookkeeping y treasury como sinónimos | Se pierde la distinción entre “registro sistemático de transacciones” y “gestión de caja pagos cobros y liquidez” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar mes con estados e issues” | Se saltó “separar cuentas personales y empresa” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues y marca el primer supuesto no demostrado. |
-| Optimizar solo bank reconciliation | La métrica local sustituyó al resultado del sistema | Contrástala con unmatched transactions y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre contabilidad, tesorería y control documental | Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer. |
-| No fijar revisión | Una decisión sobre contabilidad, tesorería y control documental se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mezclar cuentas personales y de la empresa | Comodidad | Cuenta propia y política de reembolso. |
+| Confundir utilidad con caja | Se mira solo el resultado contable | Proyectar la caja por semana. |
+| Soporte disperso | No hay hábito | Captura el mismo día y un índice. |
+| Una sola persona con todos los accesos | Confianza | Segregación y accesos revocables. |
+| No hacer prueba de estrés | Optimismo | Escenarios de cobros menores y gastos mayores. |
+| Cierre que solo archiva | Se ve como trámite | Usarlo para decidir cobranza y gastos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **bookkeeping** y **treasury** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **reconciliation** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **separar cuentas personales y empresa → capturar soporte de cada transacción** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **bank reconciliation** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **contabilidad, tesorería y control documental**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer.**?
+1. ¿Qué pregunta responde cada función: contabilidad, tesorería y control documental?
+2. ¿Por qué se separan las cuentas personales y las de la empresa?
+3. ¿Qué incluye una proyección de caja?
+4. ¿Qué hace una prueba de estrés?
+5. ¿Qué es la segregación de funciones?
+6. ¿Qué debe ocurrir con las diferencias de conciliación?
+7. ¿Qué límite tiene esta clase?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Qué pasó y está respaldado; qué se paga y cuándo; y dónde está el soporte y quién autorizó.
+2. Para saber si el negocio gana, proteger la credibilidad y evitar consecuencias legales y tributarias.
+3. Saldo inicial, cobros esperados, pagos comprometidos, saldo final, colchón y supuestos.
+4. Muestra dónde se rompe la caja con cobros menores o gastos mayores y qué palancas existen.
+5. Separar quién solicita, quién aprueba y quién ejecuta un pago.
+6. Se explican por escrito, con responsable y seguimiento hasta cerrarlas.
+7. No interpreta normas contables ni tributarias; propone un proceso proporcional y exige verificar con profesionales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/258-contabilidad-tesoreria-y-control-documental/`:
 
-- `risk-governance-brief.md` con el problema específico de **contabilidad, tesorería y control documental**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **contabilidad, tesorería y control documental** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **bookkeeping**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Founder usa una tarjeta personal y cuenta empresa indistintamente. El contador recibe fotos de boletas una vez al trimestre y nadie conoce caja comprometida de próximas seis semanas.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk governance brief](../../../../templates/risk-governance-brief.md)) con el informe del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con la proyección y la prueba de estrés;
+- `decision-journal.md` con las políticas, las palancas y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** confirmar declaraciones, registros y calendario tributario aplicables. **Fuente primaria:** <https://www.sii.cl/>.
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **contabilidad, tesorería y control documental**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** Seguro de Cesantía, cotizaciones y prestaciones. **Fuente primaria:** <https://www.afc.cl/>.
-- Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** compras públicas, registro de proveedores y Mercado Público. **Fuente primaria:** <https://www.chilecompra.cl/>.
-- Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*. **Uso en esta clase:** regulación e información financiera y de mercados en Chile. **Fuente primaria:** <https://www.cmfchile.cl/>.
-- Colegio de Contadores de Chile — *Normativa contable aplicable y NIIF según tipo de entidad*. **Uso en esta clase:** determinar qué marco contable rige a la entidad antes de diseñar el control documental. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **contabilidad, tesorería y control documental** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **contabilidad, tesorería y control documental**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **contabilidad, tesorería y control documental** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **contabilidad, tesorería y control documental** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **contabilidad, tesorería y control documental** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** documentos, registros y plazos tributarios oficiales. **Fuente primaria:** <https://www.sii.cl/>.
+- Colegio de Contadores de Chile — *Normativa contable aplicable y NIIF según tipo de entidad*. **Uso en esta clase:** normativa contable aplicable y NIIF según el tipo de entidad. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*. **Uso en esta clase:** información y normativa del sistema financiero. **Fuente primaria:** <https://www.cmfchile.cl/>.
+- Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** reglas de compras públicas y su documentación. **Fuente primaria:** <https://www.chilecompra.cl/>.
+- AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** información oficial del seguro de cesantía y su operación. **Fuente primaria:** <https://www.afc.cl/>.
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** información para decidir y controlar los resultados. Lectura selectiva sobre **contabilidad, tesorería y control documental**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
 
-> **Regla de fuentes para Contabilidad, tesorería y control documental:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **contabilidad, tesorería y control documental** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Contabilidad, tesorería y control documental:** las obras y portales anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, trámite, tasa o plazo mencionado debe comprobarse nuevamente en su fuente primaria oficial vigente, y este programa no reemplaza asesoría legal, tributaria ni contable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce material protegido.
 
 <!-- pie:inicio -->
 ---

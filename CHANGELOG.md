@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 21 completa** (253–264): Founder Track Chile como método de verificación con fuente oficial y diagrama a
+  medida: mapa del ciclo empresarial, persona natural y jurídica, RES y tipos societarios, inicio de actividades y
+  ciclo tributario en el SII, documentos tributarios e IVA, contabilidad y tesorería, cuentas y medios de cobro,
+  contratación y obligaciones laborales (Dirección del Trabajo, Previsión Social, SUSESO), propiedad intelectual e
+  INAPI, permisos y obligaciones sectoriales, ecosistema público (ChileCompra, Sercotec, Corfo) y capstone de empresa
+  operable. Las normas se remiten a la fuente oficial vigente sin interpretarlas.
 - **La parte 20 completa** (241–252): founder y creación de empresas como conocimiento con fuente y diagrama a medida:
   founder, freelance y empresario (Evans y Jovanovic, Kerr y otros, Sarasvathy), problemas valiosos, customer discovery
   (Blank, Fitzpatrick), hipótesis de cliente (Maurya), propuesta de valor (Osterwalder, Christensen y otros), modelo de

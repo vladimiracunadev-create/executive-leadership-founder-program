@@ -10,218 +10,205 @@
 
 ## 🎯 Propósito
 
-El ciclo empresarial chileno conecta decisión societaria, constitución, inicio de actividades, tributación, permisos, contratación, protección de marca, facturación y obligaciones recurrentes. La habilidad del founder es construir un mapa de dependencias y verificar cada paso en la fuente oficial vigente antes de actuar.
+Formalizar un negocio en Chile no es un trámite único sino una **secuencia de decisiones y registros que dependen unos de otros**: qué actividad se desarrollará y dónde, bajo qué forma jurídica, con qué inicio de actividades ante el Servicio de Impuestos Internos (SII), con qué permisos del municipio y de organismos sectoriales, y con qué calendario de obligaciones laborales, tributarias y societarias. Los fundadores primerizos suelen tratarla como una lista de papeles; los que operan bien la tratan como **un mapa de dependencias**: qué paso habilita a cuál, qué evidencia deja cada uno, quién es responsable y cuándo hay que volver a verificarlo.
 
-La salida de esta parte es **formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **mapa del ciclo empresarial en Chile** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase construye ese mapa y deja claro un límite: **este programa no es asesoría legal ni tributaria**. Los requisitos cambian por actividad, comuna y fecha, y las normas se leen en la fuente oficial vigente. Lo que se enseña es la secuencia, las preguntas correctas y los criterios para saber cuándo pedir apoyo profesional. Las fuentes de referencia son los portales oficiales del SII, del Registro de Empresas y Sociedades (RES), de la Dirección del Trabajo, de Previsión Social y del seguro de cesantía, junto con Drucker sobre gestión de organizaciones. Al terminar sabrás dibujar el ciclo de tu empresa, identificar los pasos críticos, estimar el tiempo hasta operar con una ruta crítica y preparar un calendario de verificación.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `formalization`, `RES`, `SII`, `municipal permit`, `compliance calendar` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder en chile.
-3. **Aplicar** la secuencia **1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** registration status, SII status, permit coverage sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** formalización, constitución, inicio de actividades, permiso y obligación recurrente.
+2. **Dibujar** el mapa de dependencias de una empresa chilena según su actividad.
+3. **Estimar** el tiempo hasta poder operar mediante una ruta crítica con supuestos explícitos.
+4. **Identificar** qué autoridad oficial verifica cada paso y cómo se registra la evidencia.
+5. **Decidir** cuándo corresponde pedir apoyo contable, legal o sectorial.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define formalization y RES sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con registration status y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué pasos de la formalización conoces y cuáles supones? |
+| 20–60 min | Actividad y riesgos, estructura, inicio de actividades, permisos, calendario y verificación. |
+| 60–105 min | Ejemplo trabajado: ruta crítica de apertura de un café con costos y plazos supuestos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **formalization** | proceso de operar bajo estructuras y registros exigidos por la normativa | Distingue un hecho compatible y otro que lo refute. |
-| **RES** | Registro de Empresas y Sociedades para constitución y actos disponibles en Chile | Distingue un hecho compatible y otro que lo refute. |
-| **SII** | Servicio de Impuestos Internos responsable del ciclo tributario | Distingue un hecho compatible y otro que lo refute. |
-| **municipal permit** | autorización local que puede corresponder según actividad | Distingue un hecho compatible y otro que lo refute. |
-| **compliance calendar** | calendario de obligaciones recurrentes y responsables | Distingue un hecho compatible y otro que lo refute. |
+| **Formalización** | Conjunto de pasos para operar legal y tributariamente. | Registro, inicio de actividades, permisos. |
+| **Constitución** | Creación de una persona jurídica según el tipo elegido. | Inscripción en el RES. |
+| **Inicio de actividades** | Declaración ante el SII para operar como contribuyente. | Estado y giro registrados. |
+| **Permiso** | Autorización de una autoridad para ejercer una actividad. | Resolución, patente u otro documento. |
+| **Ruta crítica** | Secuencia de pasos que determina el plazo total. | Pasos sin holgura. |
+| **Calendario de obligaciones** | Plazos recurrentes laborales, tributarios y societarios. | Fecha, responsable y evidencia. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 253: 1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo](modelo-mental.svg)
+![Ciclo empresarial en Chile: actividad y riesgos, estructura y constitución, inicio y ciclo tributario, permisos y registros, y calendario de obligaciones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El ciclo empresarial chileno conecta decisión societaria, constitución, inicio de actividades, tributación, permisos, contratación, protección de marca, facturación y obligaciones recurrentes. La habilidad del founder es construir un mapa de dependencias y verificar cada paso en la fuente oficial vigente antes de actuar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos. **Actividad y riesgos**: qué se hará, dónde y con qué exposición. **Estructura y constitución**: elegir la forma jurídica y registrarla. **Inicio y ciclo tributario**: alta ante el SII y calendario. **Permisos y registros**: autoridades según actividad y lugar. **Calendario de obligaciones**: laborales, tributarias y corporativas. La flecha de retorno indica que cada cambio del negocio reabre el mapa. La nota recuerda que el orden y los requisitos dependen de la actividad, la comuna y la fecha; el pie, que cada paso se cierra con evidencia, fecha de verificación y responsable.
 
 ## 📖 Desarrollo
 
-### 1. formalization: mecanismo central
+### 1. Qué es formalizar y qué no es
 
-**formalization** se entiende aquí como **proceso de operar bajo estructuras y registros exigidos por la normativa**. Esta es la pieza causal o estructural desde la que se inicia **mapa del ciclo empresarial en Chile**: antes de definir actividad y riesgos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Formalizar es **poner la actividad económica dentro del marco legal y tributario que le corresponde**. No se reduce a «sacar el RUT» ni a «crear la sociedad». El SII explica en su material educativo (SII Educa y el Portal Emprendedor) que el inicio de actividades es el paso por el cual una persona o entidad se registra como contribuyente para realizar su actividad; el Registro de Empresas y Sociedades, por su parte, es el portal oficial para constituir y registrar ciertos tipos de sociedades; y la Dirección del Trabajo y las entidades de previsión regulan la relación con quienes trabajan en la empresa. Son pasos distintos con autoridades distintas, y una empresa puede estar cumplida en uno y deficiente en otro. Por eso el primer producto de esta clase es una **tabla de estados**: qué está hecho, qué está pendiente, qué está desactualizado y qué se desconoce.
 
-La lectura rectora de este bloque es Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. Su aporte se usa para examinar **obligaciones tributarias y ciclo de vida del contribuyente en Chile**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **registration status**; regístrala con periodo, unidad, población y baseline.
+### 2. Actividad y riesgos: el punto de partida
 
-Relaciona el mecanismo con **RES**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Todo el mapa depende de **qué hará exactamente la empresa**: qué vende, a quién, con qué personas, en qué local o canal, con qué insumos y con qué datos. De esa descripción salen los permisos (¿se manipulan alimentos?, ¿se atiende público en un local?, ¿se importan productos?, ¿se tratan datos personales?), las obligaciones laborales (¿habrá trabajadores o honorarios?) y los riesgos que justifican una estructura jurídica u otra (¿hay deudas, socios, inversión, responsabilidad frente a terceros?). Drucker insiste en que una organización se gestiona a partir de **su propósito y sus resultados**; en este contexto, ese propósito se concreta en una descripción de actividad lo bastante precisa para que cada autoridad pueda decir qué exige. Una descripción vaga («emprendimiento de servicios») produce un mapa vago.
 
-### 2. RES: frontera conceptual y error de clasificación
+### 3. Estructura y constitución
 
-**Definición operacional:** Registro de Empresas y Sociedades para constitución y actos disponibles en Chile. Su valor está en distinguirlo de **formalization** y **SII**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Con la actividad y los riesgos claros, se decide si se opera como persona natural o a través de una persona jurídica y, en este último caso, qué tipo (clases 254 y 255). El RES es la fuente oficial para conocer los tipos de empresa que pueden constituirse por ese medio y los documentos del proceso; la Ley N.º 20.659 y sus normas vinculadas, que se consultan en su texto vigente en la Biblioteca del Congreso Nacional (LeyChile), son el marco legal asociado. Lo que enseña esta clase no es el contenido de esas normas sino **la lógica de dependencia**: la constitución produce una entidad con su propio RUT, y a partir de ahí se pueden dar los pasos tributarios y comerciales a nombre de la empresa. Hacer contratos o abrir cuentas antes de que la entidad exista suele generar problemas de titularidad que luego cuesta ordenar.
 
-Contrasta el problema con Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*, que aporta una mirada sobre **constitución y modificaciones societarias en el Registro de Empresas y Sociedades**. Formula dos mini-casos: uno que sí satisface la definición de **RES** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **SII status** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Inicio de actividades y ciclo tributario
 
-Antes de seleccionar estructura y constituir, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **inicio de actividades** declara ante el SII la actividad que se realizará (giro), el domicilio y otros antecedentes, y habilita para emitir documentos tributarios y cumplir obligaciones. El SII publica el paso a paso, las ayudas y los requisitos vigentes; ahí se verifica qué antecedentes se exigen en el caso concreto. A partir del inicio se configura el **ciclo tributario**: qué documentos se emiten y reciben, qué registros se llevan, qué declaraciones y pagos periódicos corresponden y en qué plazos (clases 256 y 257). Una confusión frecuente es creer que el inicio de actividades resuelve los permisos del municipio o las obligaciones laborales: no lo hace. Es un paso necesario y, para muchas actividades, previo a otros, pero **no suficiente**.
 
-### 3. SII: operacionalización y medición
+### 5. Permisos y registros sectoriales
 
-**SII** significa **Servicio de Impuestos Internos responsable del ciclo tributario**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cada actividad tiene **autoridades competentes** distintas: la municipalidad (patente comercial y condiciones del local, según la comuna), organismos sanitarios, de seguridad, ambientales, de comercio exterior, financieros u otros, según el rubro. No existe un listado único. ChileAtiende y la municipalidad correspondiente orientan sobre trámites; los portales sectoriales fijan los requisitos propios. La regla práctica es **identificar la autoridad antes de invertir**: arrendar un local o comprar equipamiento antes de saber si se puede operar en ese lugar es una de las decisiones más caras y menos reversibles de un emprendimiento (clase 262). Para cada permiso se registra la autoridad, el documento obtenido, la fecha, el vencimiento y quién lo renueva.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **permit coverage**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Calendario laboral, tributario y corporativo
 
-Al llegar a iniciar ciclo tributario, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una vez que la empresa opera, el trabajo se vuelve **recurrente**. El calendario reúne: obligaciones tributarias (declaraciones, pagos, registros), laborales (contratos, remuneraciones, cotizaciones, seguridad y salud, que se consultan en la Dirección del Trabajo, la Subsecretaría de Previsión Social y el seguro de cesantía), societarias (actualizaciones, libros, decisiones de los socios), de permisos (renovaciones) y contractuales (vencimientos de arriendos, seguros y contratos con clientes). Cada entrada lleva: **qué**, **quién**, **fecha**, **fuente oficial**, **evidencia** y **fecha de última verificación**. Un calendario sin fuente ni fecha de verificación envejece sin que nadie lo note.
 
-### 4. municipal permit: trade-offs y efectos de segundo orden
+### 7. La ruta crítica y cuándo pedir apoyo
 
-**Definición:** autorización local que puede corresponder según actividad. Este concepto obliga a abandonar la idea de que **mapa del ciclo empresarial en Chile** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de resolver permisos y registro sectorial, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Dirección del Trabajo (Chile) — *Normativa y orientación oficial* aporta una lente sobre **relaciones laborales, contratos, jornada y fiscalización laboral chilena**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **deadline compliance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **mapa del ciclo empresarial en Chile**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **municipal permit** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. compliance calendar: gobernanza, límites e integración
-
-**compliance calendar** se define como **calendario de obligaciones recurrentes y responsables** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44* se utiliza para estudiar **gestión preventiva de riesgos laborales y marco del Decreto Supremo N°44** y contrastar la recomendación final. Al ejecutar crear calendario laboral tributario y corporativo, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **formalization**, **RES**, **SII**, **municipal permit** y **compliance calendar** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **mapa del ciclo empresarial en Chile** no consiste en sumar cinco definiciones. Empieza por **formalization**, contrasta **RES** con **SII**, incorpora **municipal permit** como restricción o mecanismo y usa **compliance calendar** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los pasos se encadenan: algunos no pueden empezar hasta que otro termine, y otros pueden avanzar en paralelo. La **ruta crítica** es la secuencia más larga: determina el plazo mínimo para poder operar, y cualquier retraso en ella retrasa todo. Identificarla permite saber dónde conviene gastar esfuerzo o dinero (por ejemplo, empezar pronto el trámite que más demora). Además de planificar, el mapa sirve para **decidir cuándo apoyarse en especialistas**: un contador para el ciclo tributario y la contabilidad, un abogado para la estructura societaria, los contratos y los permisos complejos, un especialista laboral para la contratación, un agente de propiedad industrial para marcas y patentes. Pedir ayuda en los puntos donde un error es caro es parte de la competencia del founder, no una debilidad. Y todo lo que se aprenda aquí se **revalida en la fuente oficial** antes de actuar.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* | obligaciones tributarias y ciclo de vida del contribuyente en Chile | ¿Qué supuesto de **mapa del ciclo empresarial en Chile** ayuda a desafiar? |
-| Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* | constitución y modificaciones societarias en el Registro de Empresas y Sociedades | ¿Qué supuesto de **mapa del ciclo empresarial en Chile** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **mapa del ciclo empresarial en Chile** ayuda a desafiar? |
-| Dirección del Trabajo (Chile) — *Normativa y orientación oficial* | relaciones laborales, contratos, jornada y fiscalización laboral chilena | ¿Qué supuesto de **mapa del ciclo empresarial en Chile** ayuda a desafiar? |
-| Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44* | gestión preventiva de riesgos laborales y marco del Decreto Supremo N°44 | ¿Qué supuesto de **mapa del ciclo empresarial en Chile** ayuda a desafiar? |
-
-En **mapa del ciclo empresarial en Chile**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **formalization**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Fuente | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| SII (Portal Emprendedor, SII Educa) | Pasos oficiales del inicio de actividades y obligaciones. | No decide la estructura ni los permisos. | ¿Qué antecedentes exige hoy para mi caso? |
+| Registro de Empresas y Sociedades | Constitución y registro de tipos societarios. | No cubre permisos ni tributación. | ¿Qué tipo se puede constituir por este medio? |
+| Dirección del Trabajo y Previsión Social | Obligaciones laborales y de seguridad. | No resuelve casos individuales. | ¿Qué cambia si contrato a la primera persona? |
+| Seguro de cesantía (AFC) | Información oficial del seguro y su operación. | No es guía de contratación. | ¿Qué obligación se activa al contratar? |
+| Drucker | Gestionar por propósito y resultados. | No contiene normativa chilena. | ¿Mi actividad está descrita con precisión? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Dos founders constituyen una SpA y comienzan a vender. Meses después descubren que no completaron correctamente actividades o giros y que su comuna exige patente para la operación específica.
+**Situación (hipotética).** Una fundadora quiere abrir un café con cocina simple en un local arrendado, con dos trabajadores a medio tiempo y venta con tarjeta. Quiere estimar cuándo podrá abrir y cuánto costará la espera. Todos los plazos son **supuestos para el ejercicio**; los reales dependen de la comuna, de la actividad y de la fecha, y se verifican con las autoridades.
 
-**Paso 1 — definir actividad y riesgos.** La gerencia escribe primero el supuesto asociado a **formalization** y evita convertirlo en hecho. Luego busca **registration status** para contrastarlo en el caso de **mapa del ciclo empresarial en Chile**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pasos, dependencias y duraciones supuestas (días corridos).**
 
-**Paso 2 — seleccionar estructura y constituir.** La gerencia escribe primero el supuesto asociado a **RES** y evita convertirlo en hecho. Luego busca **SII status** para contrastarlo en el caso de **mapa del ciclo empresarial en Chile**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Depende de | Duración |
+|---|---|---|
+| A. Describir actividad, riesgos y local | — | 3 |
+| B. Decidir estructura y constituir | A | 5 |
+| C. Inicio de actividades en el SII | B | 3 |
+| D. Permisos del local (según municipalidad y sector) | C | 20 |
+| E. Cuenta bancaria y medio de cobro | C | 7 |
+| F. Contratos de trabajo y registro de obligaciones | C | 4 |
+| G. Equipamiento, instalación y capacitación | A | 15 |
+| H. Apertura | D, E, F, G | 0 |
 
-**Paso 3 — iniciar ciclo tributario.** La gerencia escribe primero el supuesto asociado a **SII** y evita convertirlo en hecho. Luego busca **permit coverage** para contrastarlo en el caso de **mapa del ciclo empresarial en Chile**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo de fechas (inicio = día 0).**
 
-**Paso 4 — resolver permisos y registro sectorial.** La gerencia escribe primero el supuesto asociado a **municipal permit** y evita convertirlo en hecho. Luego busca **deadline compliance** para contrastarlo en el caso de **mapa del ciclo empresarial en Chile**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- A termina el día 3.
+- B: 3 → 8. C: 8 → 11.
+- D: 11 → 31. E: 11 → 18. F: 11 → 15.
+- G: 3 → 18 (corre en paralelo con B y C).
+- H puede ocurrir cuando todos terminan: máximo(31, 18, 15, 18) = **día 31**.
 
-**Paso 5 — crear calendario laboral tributario y corporativo.** La gerencia escribe primero el supuesto asociado a **compliance calendar** y evita convertirlo en hecho. Luego busca **open obligations** para contrastarlo en el caso de **mapa del ciclo empresarial en Chile**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ruta crítica.** A → B → C → D → H, con 3 + 5 + 3 + 20 = **31 días**. Las demás tienen holgura: E tiene 31 − 18 = 13 días; F, 16; G, 13.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **mapa del ciclo empresarial en Chile**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Costo de la espera.** El arriendo del local es de 900.000 pesos al mes desde el día 0 (supuesto), y el sueldo pre-apertura de una persona clave es de 600.000 al mes. Costo diario ≈ (900.000 + 600.000) ÷ 30 = **50.000 pesos**. Los 31 días cuestan 1.550.000 pesos antes de vender.
+
+**Efecto de un retraso.** Si el permiso D tarda 35 días en lugar de 20, la apertura pasa al día 46 y el costo de espera sube a 46 × 50.000 = 2.300.000: **750.000 pesos adicionales** (15 días × 50.000). Un retraso en G de 10 días (de 15 a 25) no mueve la apertura (termina el día 28, antes del 31), pero consume holgura: queda 3 días.
+
+**Decisión.** La fundadora prioriza la consulta anticipada a la municipalidad sobre el permiso (la ruta crítica), firma el arriendo solo cuando conozca los requisitos de su local, y mantiene G en paralelo. Registra, para cada paso, la autoridad, la fuente oficial, la fecha de verificación y el responsable.
+
+**Cuidados.** No se asumen plazos ni costos de trámites como válidos para otros casos. Las obligaciones tributarias, laborales y sanitarias se confirman en los portales oficiales y con asesoría.
+
+**Qué muestra.** (1) El mapa de dependencias permite calcular la ruta crítica. (2) Un retraso en la ruta crítica tiene costo diario; uno fuera de ella consume holgura. (3) La prioridad es verificar con la autoridad antes de comprometer dinero.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **formalization** | proceso de operar bajo estructuras y registros exigidos por la normativa | Cuando registration status es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **RES** | Registro de Empresas y Sociedades para constitución y actos disponibles en Chile | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Mapa del ciclo frente a lista de trámites.** La lista enumera papeles; el mapa muestra dependencias, evidencias, responsables y fechas de verificación, y permite estimar plazos y priorizar.
 
-**Frontera de aplicación:** Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real.
+**Límites.** Los plazos y costos del ejemplo son supuestos. Los requisitos cambian por actividad, comuna y fecha. Esta clase no reemplaza la revisión oficial ni la asesoría contable o legal para un caso real. Normas como la jornada de trabajo, la Ley Karin o el DS 44 se verifican en la fuente vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre mapa del ciclo empresarial en Chile |
+| Nivel | Cómo se relaciona con el ciclo empresarial |
 |---|---|
-| **Profesional** | usa **mapa del ciclo empresarial en Chile** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **formalization** y **RES** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta registration status con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si mapa del ciclo empresarial en Chile cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de mapa del ciclo empresarial en Chile reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **mapa del ciclo empresarial en Chile** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple las obligaciones que le corresponden como trabajador o proveedor. |
+| **Jefe / Team Lead** | Conoce los permisos y registros que afectan a su área. |
+| **Gerente** | Responde por el cumplimiento y el calendario de su unidad. |
+| **CEO / Director** | Decide la estructura y vigila que existan controles. |
+| **Founder / Owner** | Construye el mapa, verifica con fuentes oficiales y responde por todo el ciclo. |
 
 ## 🏢 Caso ejecutivo
 
-Dos founders constituyen una SpA y comienzan a vender. Meses después descubren que no completaron correctamente actividades o giros y que su comuna exige patente para la operación específica.
+Un fundador quiere abrir un pequeño taller de reparación de bicicletas eléctricas con venta de repuestos. Ha firmado un arriendo de 750.000 pesos mensuales en un local de una comuna que no consultó; piensa trabajar con un mecánico a honorarios y atender a clientes desde la semana siguiente. Todavía no ha decidido si operará como persona natural o con una sociedad; tiene un socio capitalista interesado que aportaría 6 millones. Planea vender repuestos importados por internet, guardar datos de clientes en una planilla y emitir boletas a medida que venda. Un amigo le dijo que «con el inicio de actividades basta». No tiene calendario ni contador.
 
-Entrega un **decision brief de mapa del ciclo empresarial en Chile** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de gobierno y riesgos del ciclo empresarial** que contenga: (a) la descripción precisa de la actividad y sus riesgos; (b) el mapa de dependencias con estados (hecho, pendiente, desconocido); (c) la ruta crítica con plazos supuestos y el costo diario de espera; (d) las preguntas que debe hacer a cada autoridad y la fuente oficial de cada una; (e) qué decisiones requieren asesoría y por qué; (f) el calendario inicial de verificación con responsable y fecha.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **mapa del ciclo empresarial en Chile** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta registration status, SII status; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Describe tu actividad en cinco líneas con lugar, personas, insumos y datos.
+2. Dibuja el mapa de pasos con dependencias y marca los desconocidos.
+3. Calcula la ruta crítica con tus plazos supuestos y el costo diario de espera.
+4. Para cada paso, anota la autoridad, la fuente oficial y la evidencia que dejará.
+5. Define qué asesoría necesitas y qué pregunta le harás a cada profesional.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar formalization y RES como sinónimos | Se pierde la distinción entre “proceso de operar bajo estructuras y registros exigidos por la normativa” y “Registro de Empresas y Sociedades para constitución y actos disponibles en Chile” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “crear calendario laboral tributario y corporativo” | Se saltó “definir actividad y riesgos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo y marca el primer supuesto no demostrado. |
-| Optimizar solo registration status | La métrica local sustituyó al resultado del sistema | Contrástala con SII status y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre mapa del ciclo empresarial en Chile | Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real. |
-| No fijar revisión | Una decisión sobre mapa del ciclo empresarial en Chile se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Creer que el RUT o el inicio de actividades lo resuelve todo | Se confunden pasos con autoridades distintas | Mapa por autoridad y por paso. |
+| Arrendar antes de consultar permisos | Entusiasmo y urgencia | Verificar con la autoridad antes de comprometer dinero. |
+| Calendario sin fuente | Se anotan fechas de memoria | Registrar fuente y fecha de verificación. |
+| Operar con documentos a nombre de la persona y no de la empresa | Se empieza antes de constituir | Alinear la titularidad desde el comienzo. |
+| Ignorar obligaciones laborales | Se piensa en «ayudantes» informales | Clasificar los hechos y consultar a la DT. |
+| Tratar los plazos como fijos | Se copian de otro caso | Estimar con supuestos y revisar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **formalization** y **RES** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **SII** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir actividad y riesgos → seleccionar estructura y constituir** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **registration status** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **mapa del ciclo empresarial en Chile**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real.**?
+1. ¿Qué diferencia hay entre constituir una sociedad y hacer el inicio de actividades?
+2. ¿Por qué la descripción de la actividad es el punto de partida?
+3. ¿Qué es la ruta crítica y para qué sirve?
+4. ¿Qué entradas debe tener cada fila del calendario de obligaciones?
+5. ¿Por qué no existe un listado único de permisos?
+6. ¿Cuándo conviene pedir apoyo profesional?
+7. ¿Qué límite tiene este programa respecto de la asesoría?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Constituir crea la persona jurídica; el inicio de actividades registra a la entidad como contribuyente ante el SII para su actividad.
+2. Porque de ella dependen los permisos, las obligaciones laborales y los riesgos que justifican la estructura.
+3. Es la secuencia más larga de pasos dependientes; determina el plazo mínimo y dónde concentrar esfuerzo.
+4. Qué, quién, fecha, fuente oficial, evidencia y fecha de última verificación.
+5. Porque los requisitos cambian por actividad, comuna y sector.
+6. En los puntos donde un error es caro o irreversible: estructura, tributario, laboral, permisos complejos y propiedad industrial.
+7. No es asesoría legal ni tributaria; enseña secuencia y preguntas, y exige verificar en la fuente oficial vigente.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/253-mapa-del-ciclo-empresarial-en-chile/`:
 
-- `risk-governance-brief.md` con el problema específico de **mapa del ciclo empresarial en Chile**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **mapa del ciclo empresarial en Chile** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **formalization**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Dos founders constituyen una SpA y comienzan a vender. Meses después descubren que no completaron correctamente actividades o giros y que su comuna exige patente para la operación específica.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk governance brief](../../../../templates/risk-governance-brief.md)) con el informe del caso ejecutivo;
+- `decision-journal.md` con las decisiones, las fuentes consultadas y las fechas de verificación.
 
 ## 📗 Fuentes y verificación
 
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. **Fuente primaria:** <https://www.sii.cl/>.
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** verificar en origen el ciclo de constitución societaria del régimen simplificado. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **mapa del ciclo empresarial en chile**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** relaciones laborales, contratos, jornada y fiscalización laboral chilena. **Fuente primaria:** <https://www.dt.gob.cl/>.
-- Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*. **Uso en esta clase:** gestión preventiva de riesgos laborales y marco del Decreto Supremo N°44. **Fuente primaria:** <https://previsionsocial.gob.cl/ds44/>.
-- AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** Seguro de Cesantía, cotizaciones y prestaciones. **Fuente primaria:** <https://www.afc.cl/>.
-- Servicio de Impuestos Internos (Chile) — *SII Educa: inicio de actividades y formalización de un negocio*. **Uso en esta clase:** comprobar en origen los pasos de formalización de un negocio en Chile. **Fuente primaria:** <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **mapa del ciclo empresarial en chile** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **mapa del ciclo empresarial en chile**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **mapa del ciclo empresarial en chile** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **mapa del ciclo empresarial en chile** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mapa del ciclo empresarial en chile** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** pasos oficiales del inicio de actividades y obligaciones tributarias. **Fuente primaria:** <https://www.sii.cl/>.
+- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y registro de sociedades según el portal oficial. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
+- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** orientación oficial sobre obligaciones laborales. **Fuente primaria:** <https://www.dt.gob.cl/>.
+- Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*. **Uso en esta clase:** seguridad y salud laboral y su implementación. **Fuente primaria:** <https://previsionsocial.gob.cl/ds44/>.
+- AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** información oficial del seguro de cesantía y su operación. **Fuente primaria:** <https://www.afc.cl/>.
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestión por propósito y resultados. Lectura selectiva sobre **mapa del ciclo empresarial en chile**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
 
-> **Regla de fuentes para Mapa del ciclo empresarial en Chile:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mapa del ciclo empresarial en Chile** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Mapa del ciclo empresarial en Chile:** las obras y portales anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, trámite o plazo mencionado debe comprobarse nuevamente en su fuente primaria oficial vigente, y este programa no reemplaza asesoría legal, tributaria ni contable. Los ejemplos y casos son hipotéticos, con cifras y plazos ilustrativos. El desarrollo es original y no reproduce material protegido.
 
 <!-- pie:inicio -->
 ---

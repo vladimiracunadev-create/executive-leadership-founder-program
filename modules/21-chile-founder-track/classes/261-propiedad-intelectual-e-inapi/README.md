@@ -10,218 +10,218 @@
 
 ## 🎯 Propósito
 
-La propiedad intelectual protege distintos activos mediante derechos y mecanismos diferentes: marca, patente, diseño, derecho de autor, secreto empresarial y contratos. INAPI administra varias categorías en Chile; una startup debe asegurar también titularidad de IP creada por founders, empleados y proveedores.
+En muchas empresas nuevas, lo más valioso no está en el local ni en las máquinas, sino en intangibles: el **nombre** con el que los clientes reconocen el negocio, el **software** que lo opera, el **contenido** que lo distingue, los **procesos** y datos que acumula, el **dominio** y las cuentas en redes. Esos activos suelen estar mal ordenados: el nombre sin registrar, el logo diseñado por un conocido sin contrato, el software escrito por un freelance que nunca cedió derechos, el dominio a nombre de un socio que se fue. El resultado aparece en el peor momento: cuando alguien registra tu marca antes que tú, cuando un inversionista pide acreditar la titularidad de lo que compra, o cuando un socio se lleva las claves. La propiedad intelectual no es un lujo legal: es **inventariar lo que vale, saber de quién es y decidir cómo protegerlo**.
 
-La salida de esta parte es **formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **propiedad intelectual e INAPI** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta un enfoque ejecutivo: un inventario de activos intangibles, la elección del mecanismo de protección adecuado para cada uno (marcas y patentes ante INAPI, derecho de autor ante el Departamento de Derechos Intelectuales, confidencialidad y contratos para lo que no se registra), la cadena de titularidad y los controles de renovación. **No interpreta la legislación de propiedad industrial ni intelectual**: indica qué decisiones tomar, qué preguntar a un especialista y dónde se verifica cada requisito. Las fuentes son los portales oficiales de INAPI y del Departamento de Derechos Intelectuales, los principios de gobierno corporativo de la OECD, Drucker y los portales del SII, el RES y ChileCompra donde la titularidad importa. Al terminar sabrás construir el inventario, priorizar qué proteger primero, ordenar la titularidad y preparar la conversación con un abogado o agente de propiedad industrial.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `trademark`, `patent`, `copyright`, `trade secret`, `IP assignment` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder en chile.
-3. **Aplicar** la secuencia **1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** registered marks, IP assignment coverage, renewal deadlines sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** marca, patente, derecho de autor, secreto y dominio como activos y mecanismos distintos.
+2. **Inventariar** los activos intangibles de una empresa con su titular y su estado de protección.
+3. **Priorizar** qué proteger según valor, riesgo y costo con supuestos explícitos.
+4. **Verificar** la cadena de titularidad: contratos con creadores, socios y proveedores.
+5. **Controlar** renovaciones, confidencialidad y accesos a activos digitales.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define trademark y patent sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con registered marks y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuáles son tus cinco activos intangibles más valiosos y de quién son? |
+| 20–60 min | Inventario, mecanismos, marca, patente, derecho de autor, secreto, titularidad y controles. |
+| 60–105 min | Ejemplo trabajado: prioridad de protección con costo y exposición esperada. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **trademark** | signo que distingue productos o servicios y puede registrarse | Distingue un hecho compatible y otro que lo refute. |
-| **patent** | derecho sobre invención que cumple requisitos legales | Distingue un hecho compatible y otro que lo refute. |
-| **copyright** | derechos sobre obras originales conforme a ley aplicable | Distingue un hecho compatible y otro que lo refute. |
-| **trade secret** | información valiosa mantenida confidencial bajo medidas razonables | Distingue un hecho compatible y otro que lo refute. |
-| **IP assignment** | acuerdo que transfiere derechos de propiedad intelectual | Distingue un hecho compatible y otro que lo refute. |
+| **Marca** | Signo que distingue productos o servicios en el mercado. | Nombre, logo o lema que el cliente asocia al negocio. |
+| **Patente** | Protección de invenciones que cumplan los requisitos que fije la ley. | Solicitud ante la autoridad competente. |
+| **Derecho de autor** | Protección de obras originales, incluido el software. | Obra y autor; registro opcional. |
+| **Secreto empresarial** | Información valiosa que se mantiene reservada. | Confidencialidad real y contractual. |
+| **Titularidad** | Quién es el dueño de un activo. | Contrato, cesión o registro. |
+| **Cesión** | Traspaso de derechos de un creador a la empresa. | Documento firmado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 261: 1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación](modelo-mental.svg)
+![Tabla de activos de propiedad intelectual de una empresa: nombre y marca, invento, software y contenido, know-how y datos, y dominio y cuentas, con el mecanismo y la verificación.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La propiedad intelectual protege distintos activos mediante derechos y mecanismos diferentes: marca, patente, diseño, derecho de autor, secreto empresarial y contratos. INAPI administra varias categorías en Chile; una startup debe asegurar también titularidad de IP creada por founders, empleados y proveedores.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada.**
+**Cómo leer el diagrama.** Una tabla de tres columnas. **Activo**: nombre y marca, invento o proceso técnico, software, obra y contenido, know-how y datos, dominio y cuentas. **Mecanismo a evaluar**: registro de marca ante INAPI, patente u otra figura de propiedad industrial, derecho de autor y su registro, confidencialidad y contratos, titularidad a nombre de la empresa. **Qué se verifica**: búsqueda previa y categorías, novedad y asesoría especializada, titularidad y cesiones, quién accede y bajo qué acuerdo, y quién controla los accesos. La nota advierte que registrar una marca no protege todas las categorías ni garantiza libertad de operar; el pie, que cada activo tiene un titular claro: la empresa, no una persona.
 
 ## 📖 Desarrollo
 
-### 1. trademark: mecanismo central
+### 1. El inventario: ver lo que se tiene
 
-**trademark** se entiende aquí como **signo que distingue productos o servicios y puede registrarse**. Esta es la pieza causal o estructural desde la que se inicia **propiedad intelectual e INAPI**: antes de inventariar activos ip, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El primer paso es una **lista de activos intangibles** con cuatro columnas: qué es, quién lo creó, a nombre de quién está, qué protección tiene. Se incluyen: nombres y logos, eslóganes, dominio, cuentas en redes, software y repositorios, bases de datos, contenidos (textos, fotos, videos, cursos), diseños, procesos, recetas, fórmulas, listas de clientes, contratos clave y cualquier invento. La OECD, en sus principios de gobierno corporativo, subraya la importancia de que los órganos de dirección comprendan y gestionen los **riesgos y activos relevantes**; Drucker recuerda que lo que no se mide ni se gestiona se deteriora. El inventario permite descubrir lo más frecuente: activos valiosos a nombre de la persona equivocada o sin ninguna protección.
 
-La lectura rectora de este bloque es INAPI (Chile) — *Propiedad industrial y orientación oficial*. Su aporte se usa para examinar **propiedad industrial, marcas, patentes y activos intangibles en Chile**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **registered marks**; regístrala con periodo, unidad, población y baseline.
+### 2. Marca: nombre, logo y reputación
 
-Relaciona el mecanismo con **patent**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La **marca** distingue tu negocio de otros y concentra la reputación. INAPI, el organismo oficial de propiedad industrial en Chile, publica la información sobre el registro y sus requisitos. Las decisiones para el fundador son: **buscar** antes de elegir un nombre (para no invertir en una marca que ya está registrada por otro en tu rubro), **decidir qué registrar** (nombre, logo, ambos), **en qué categorías de productos o servicios** (el registro no cubre todos los rubros), y **quién será el titular** (la empresa). Registrar una marca **no garantiza libertad de operar** ni protege automáticamente todas las categorías, y una marca similar a otra puede generar conflictos. Los plazos, costos y procedimientos se verifican en el portal de INAPI; las situaciones complejas requieren un agente o abogado especializado.
 
-### 2. patent: frontera conceptual y error de clasificación
+### 3. Patentes y otras figuras de propiedad industrial
 
-**Definición operacional:** derecho sobre invención que cumple requisitos legales. Su valor está en distinguirlo de **trademark** y **copyright**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Si la empresa desarrolla una **invención técnica** (un producto o proceso nuevo con aplicación industrial), puede evaluar protegerla con una patente u otra figura de propiedad industrial, según lo que establezca la ley y evalúe INAPI. La decisión es costosa y técnica: depende de la **novedad**, de si ya se divulgó (publicar o vender antes de solicitar puede afectar la posibilidad de protección, algo que debe consultarse con un especialista antes de hacerlo), del mercado en que se quiere proteger y de la estrategia (¿proteger o mantener como secreto?). El fundador no necesita dominar los requisitos: necesita **detectar a tiempo que existe una posible invención y consultar antes de divulgar**. Para muchas pymes de servicios o comercio, las patentes no son relevantes; para empresas de tecnología o manufactura, pueden ser centrales.
 
-Contrasta el problema con Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*, que aporta una mirada sobre **responsabilidad gerencial, propósito, organización y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **patent** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **IP assignment coverage** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Derecho de autor: software, contenido y obras
 
-Antes de clasificar mecanismo de protección, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **derecho de autor** protege obras originales (textos, imágenes, música, software, videos, diseños), y el Departamento de Derechos Intelectuales publica orientación y los procedimientos de registro. El punto crítico para la empresa es la **titularidad**: la ley y los contratos determinan si los derechos pertenecen al creador o a quien lo contrató, y en qué condiciones. Por eso, cuando alguien externo crea algo para tu negocio (logo, sitio web, software, contenido), conviene un **contrato escrito** que defina el alcance, la cesión o licencia de derechos, la confidencialidad y las responsabilidades; lo mismo con los socios y empleados que crean obras. Lo que se firme debe revisarlo un abogado. Un software sin cesión clara es una duda en cualquier venta o inversión.
 
-### 3. copyright: operacionalización y medición
+### 5. Secretos, confidencialidad y datos
 
-**copyright** significa **derechos sobre obras originales conforme a ley aplicable**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No todo se registra. El **know-how**, los procesos, las fórmulas, las listas de clientes y las bases de datos suelen protegerse manteniéndolos **reservados** y regulando por contrato quién accede: acuerdos de confidencialidad con empleados, socios y proveedores, controles de acceso, registro de quién tiene qué, procedimientos al salir una persona. La protección de un secreto depende de **qué tan real es la reserva**: si cualquiera puede acceder o copiar, difícilmente será considerado un secreto. En materia de datos personales de clientes y trabajadores existen normas especiales (LeyChile publica los textos vigentes) que se verifican con asesoría. Los registros de actividad, los respaldos y las claves bien administradas forman parte de la protección.
 
-OECD — *G20/OECD Principles of Corporate Governance 2023* orienta este bloque mediante **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **renewal deadlines**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Dominio, cuentas y activos digitales
 
-Al llegar a verificar ownership y assignments, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El **dominio**, las cuentas de redes, las tiendas en línea, los repositorios y los servicios en la nube son activos que suelen registrarse con el correo de quien los creó. Si esa persona se va o se enemista, la empresa pierde el control. La regla: **todo activo digital crítico se registra a nombre de la empresa**, con un correo institucional, con autenticación reforzada, con al menos dos personas con acceso de administración y con un registro de claves y renovaciones. Se agenda la **renovación de dominios y registros** con anticipación. Un dominio expirado o secuestrado puede costar semanas de ventas y una reputación difícil de recuperar. En compras públicas y contratos con grandes clientes, la titularidad de estos activos puede ser requisito de contratación (ChileCompra y bases de cada licitación).
 
-### 4. trade secret: trade-offs y efectos de segundo orden
+### 7. Cadena de titularidad y controles periódicos
 
-**Definición:** información valiosa mantenida confidencial bajo medidas razonables. Este concepto obliga a abandonar la idea de que **propiedad intelectual e INAPI** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de buscar y registrar cuando aporta, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* aporta una lente sobre **obligaciones tributarias y ciclo de vida del contribuyente en Chile**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **confidentiality controls** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **propiedad intelectual e INAPI**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **trade secret** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. IP assignment: gobernanza, límites e integración
-
-**IP assignment** se define como **acuerdo que transfiere derechos de propiedad intelectual** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* se utiliza para estudiar **constitución y modificaciones societarias en el Registro de Empresas y Sociedades** y contrastar la recomendación final. Al ejecutar crear controles de confidencialidad y renovación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **trademark**, **patent**, **copyright**, **trade secret** y **IP assignment** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **propiedad intelectual e INAPI** no consiste en sumar cinco definiciones. Empieza por **trademark**, contrasta **patent** con **copyright**, incorpora **trade secret** como restricción o mecanismo y usa **IP assignment** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La cadena de titularidad responde: **¿de quién fue originalmente y cómo llegó a la empresa?** Cada eslabón necesita un documento: contratos de trabajo con cláusulas de propiedad de lo creado en el ejercicio de funciones, contratos de servicios con cesión, acuerdos de socios, registros de INAPI o del Departamento de Derechos Intelectuales a nombre de la empresa. Una **auditoría anual** revisa: ¿hay activos nuevos sin inventario?, ¿hay renovaciones próximas?, ¿hay terceros usando la marca?, ¿hubo cambios de personas con accesos?, ¿hay contratos con cláusulas que cedan derechos sin querer? Se prepara también una **respuesta a infracciones**: quién decide, qué evidencia se guarda, cuándo se consulta a un abogado. La clase da el marco; la estrategia concreta de protección se diseña con un especialista.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| INAPI (Chile) — *Propiedad industrial y orientación oficial* | propiedad industrial, marcas, patentes y activos intangibles en Chile | ¿Qué supuesto de **propiedad intelectual e INAPI** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **propiedad intelectual e INAPI** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **propiedad intelectual e INAPI** ayuda a desafiar? |
-| Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales* | obligaciones tributarias y ciclo de vida del contribuyente en Chile | ¿Qué supuesto de **propiedad intelectual e INAPI** ayuda a desafiar? |
-| Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial* | constitución y modificaciones societarias en el Registro de Empresas y Sociedades | ¿Qué supuesto de **propiedad intelectual e INAPI** ayuda a desafiar? |
-
-En **propiedad intelectual e INAPI**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **trademark**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Fuente | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| INAPI | Información oficial de marcas, patentes y propiedad industrial. | No decide tu estrategia. | ¿Qué debo buscar y registrar? |
+| Departamento de Derechos Intelectuales | Orientación sobre derecho de autor y su registro. | No redacta tus contratos. | ¿De quién son los derechos de esta obra? |
+| OECD (principios de gobierno corporativo) | Gestión de riesgos y activos desde el directorio. | No trata propiedad intelectual específica. | ¿Mi órgano de dirección ve estos activos? |
+| Drucker | Gestionar lo que importa. | No contiene normativa chilena. | ¿Qué activo vale más y está menos protegido? |
+| SII y RES | Titularidad de la empresa y sus datos. | No protegen intangibles. | ¿A nombre de quién estará el registro? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La empresa paga a un freelancer por logo y código, pero contrato no trata propiedad intelectual. Años después busca inversión y no puede demostrar cadena de titularidad.
+**Situación (hipotética).** Una empresa de repostería saludable con una marca propia, una tienda en línea y una aplicación de pedidos desarrollada por un freelance debe decidir qué proteger primero con un presupuesto limitado. Todos los valores son **supuestos**; los costos, plazos y requisitos reales se verifican en INAPI y con especialistas.
 
-**Paso 1 — inventariar activos IP.** La gerencia escribe primero el supuesto asociado a **trademark** y evita convertirlo en hecho. Luego busca **registered marks** para contrastarlo en el caso de **propiedad intelectual e INAPI**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Inventario y estado.**
 
-**Paso 2 — clasificar mecanismo de protección.** La gerencia escribe primero el supuesto asociado a **patent** y evita convertirlo en hecho. Luego busca **IP assignment coverage** para contrastarlo en el caso de **propiedad intelectual e INAPI**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Activo | Titular actual | Protección | Valor estimado si se pierde |
+|---|---|---|---|
+| Nombre y logo | La fundadora | Sin registro | 3.600.000 (rediseño, letreros, empaques) más 3.000.000 de margen perdido |
+| Dominio y redes | Correo personal de un socio que se fue | Ninguna | 4.500.000 (ventas de 3 semanas de interrupción) |
+| Aplicación de pedidos | El freelance (sin contrato de cesión) | Ninguna | 8.000.000 (reconstrucción) |
+| Recetas | La fundadora y dos cocineros | Sin acuerdos de confidencialidad | 2.000.000 |
 
-**Paso 3 — verificar ownership y assignments.** La gerencia escribe primero el supuesto asociado a **copyright** y evita convertirlo en hecho. Luego busca **renewal deadlines** para contrastarlo en el caso de **propiedad intelectual e INAPI**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Probabilidades supuestas (en tres años) y exposición esperada.**
 
-**Paso 4 — buscar y registrar cuando aporta.** La gerencia escribe primero el supuesto asociado a **trade secret** y evita convertirlo en hecho. Luego busca **confidentiality controls** para contrastarlo en el caso de **propiedad intelectual e INAPI**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Activo | Probabilidad de problema | Pérdida | Exposición esperada |
+|---|---|---|---|
+| Nombre y logo (alguien registra o usa algo similar) | 10 % | 6.600.000 | 660.000 |
+| Dominio y redes (pérdida de control) | 15 % | 4.500.000 | 675.000 |
+| Aplicación (disputa o falta de cesión en una venta o inversión) | 12 % | 8.000.000 | 960.000 |
+| Recetas (salida de un cocinero con la receta) | 8 % | 2.000.000 | 160.000 |
+| **Total** | | | **2.455.000** |
 
-**Paso 5 — crear controles de confidencialidad y renovación.** La gerencia escribe primero el supuesto asociado a **IP assignment** y evita convertirlo en hecho. Luego busca **IP disputes** para contrastarlo en el caso de **propiedad intelectual e INAPI**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo de las medidas (supuestos).**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **propiedad intelectual e INAPI**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Medida | Costo |
+|---|---|
+| Registro de marca con búsqueda y asesoría | 350.000 |
+| Transferir dominio y redes a la empresa, con correo institucional y doble acceso | 80.000 (principalmente tiempo) |
+| Contrato de cesión con el freelance y revisión legal | 450.000 |
+| Acuerdos de confidencialidad con dos cocineros | 120.000 |
+| **Total** | **1.000.000** |
+
+**Prioridad por razón exposición/costo.**
+
+- Dominio y redes: 675.000 ÷ 80.000 = **8,4**.
+- Aplicación: 960.000 ÷ 450.000 = **2,1**.
+- Marca: 660.000 ÷ 350.000 = **1,9**.
+- Recetas: 160.000 ÷ 120.000 = **1,3**.
+
+**Lectura.** Las cuatro medidas tienen una razón mayor que 1 con estos supuestos, pero la **primera** (casi gratuita) debe hacerse de inmediato, la **cesión de la aplicación** y el **registro de marca** siguen en el orden de la tabla, y los **acuerdos de confidencialidad** son importantes pero de menor retorno. El total de medidas es 1.000.000 contra una exposición esperada de 2.455.000.
+
+**Lo que el cálculo no incluye.** La exposición esperada no recoge el valor de la empresa en una venta o ronda de inversión, donde un inversionista puede exigir titularidad clara; tampoco recoge conflictos que no se pueden cuantificar. Los supuestos se revisan con un abogado o agente de propiedad industrial.
+
+**Decisión.** Esta semana transferir dominio y redes a la empresa; en 30 días firmar la cesión con el freelance y hacer la búsqueda y la solicitud de marca; en 60 días firmar confidencialidad con el equipo; crear un calendario de renovaciones y una auditoría anual.
+
+**Cuidados.** Las probabilidades, pérdidas y costos son supuestos. La procedencia y alcance de cada protección dependen de la ley vigente y de las categorías que se registren.
+
+**Qué muestra.** (1) El inventario reveló titularidades equivocadas. (2) La razón exposición/costo ordenó las acciones. (3) La medida más barata resultó la más urgente.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **trademark** | signo que distingue productos o servicios y puede registrarse | Cuando registered marks es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **patent** | derecho sobre invención que cumple requisitos legales | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Registrar frente a contratar.** El registro (marca, patente, obra) da un derecho frente a terceros; el contrato ordena la titularidad dentro de la empresa. Muchas veces el problema no es el registro, sino un contrato que nunca se hizo.
 
-**Frontera de aplicación:** Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada.
+**Límites.** Esta clase no interpreta la legislación de propiedad industrial ni intelectual. El registro de una marca no protege todas las categorías ni garantiza libertad de operar. Las patentes y los conflictos complejos requieren búsqueda y asesoría especializada. Los valores del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre propiedad intelectual e INAPI |
+| Nivel | Cómo se relaciona con la propiedad intelectual |
 |---|---|
-| **Profesional** | usa **propiedad intelectual e INAPI** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **trademark** y **patent** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta registered marks con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si propiedad intelectual e INAPI cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de propiedad intelectual e INAPI reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **propiedad intelectual e INAPI** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Respeta la confidencialidad y la titularidad de lo que crea para la empresa. |
+| **Jefe / Team Lead** | Sabe qué creaciones de su equipo son activos de la empresa. |
+| **Gerente** | Vela por contratos con creadores y proveedores. |
+| **CEO / Director** | Gestiona los riesgos de intangibles y supervisa el inventario. |
+| **Founder / Owner** | Decide qué proteger y se asegura de que todo esté a nombre de la empresa. |
 
 ## 🏢 Caso ejecutivo
 
-La empresa paga a un freelancer por logo y código, pero contrato no trata propiedad intelectual. Años después busca inversión y no puede demostrar cadena de titularidad.
+Una fundadora lanzó una plataforma de clases de yoga en línea. El nombre «Soma Yoga» lo eligió ella y el logo lo diseñó una amiga sin contrato; el sitio web y la aplicación los desarrolló un estudio externo, con una factura y sin documento de cesión; el dominio está a nombre de su hermano, que se mudó al extranjero; las clases las graban tres profesoras con una carta de acuerdo simple; el contenido es su principal valor. Un competidor lanzó un servicio con el nombre «Soma Yoga Online» en otra ciudad. Una inversionista ofrece 20 millones de pesos por el 15 % y quiere que le acrediten la titularidad de marca, software y contenido en 30 días. Un cliente corporativo pide un contrato con cláusula de propiedad intelectual y confidencialidad. Tiene un presupuesto de 1,5 millones para proteger sus activos.
 
-Entrega un **decision brief de propiedad intelectual e INAPI** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador sobre propiedad intelectual** que contenga: (a) el inventario de activos con titular, protección y brecha; (b) la priorización con exposición esperada, costo y razón, con supuestos explícitos; (c) el plan para ordenar titularidades en 30 días con documentos y responsables; (d) la estrategia ante el competidor con el nombre similar, incluyendo qué consultar y qué evidencia guardar; (e) las cláusulas y acuerdos que pedirá al abogado para el inversionista y el cliente corporativo; (f) las verificaciones oficiales pendientes en INAPI y el Departamento de Derechos Intelectuales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **propiedad intelectual e INAPI** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta registered marks, IP assignment coverage; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Construye el inventario de tus activos con titular y protección actual.
+2. Estima probabilidad, pérdida y exposición esperada de cada brecha.
+3. Calcula la razón exposición/costo de cada medida y ordénalas.
+4. Revisa a nombre de quién están dominio, redes, repositorios y servicios.
+5. Prepara cinco preguntas para un agente de propiedad industrial y cinco para un abogado.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar trademark y patent como sinónimos | Se pierde la distinción entre “signo que distingue productos o servicios y puede registrarse” y “derecho sobre invención que cumple requisitos legales” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “crear controles de confidencialidad y renovación” | Se saltó “inventariar activos IP” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar activos IP → 2. clasificar mecanismo de protección → 3. verificar ownership y assignments → 4. buscar y registrar cuando aporta → 5. crear controles de confidencialidad y renovación y marca el primer supuesto no demostrado. |
-| Optimizar solo registered marks | La métrica local sustituyó al resultado del sistema | Contrástala con IP assignment coverage y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre propiedad intelectual e INAPI | Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada. |
-| No fijar revisión | Una decisión sobre propiedad intelectual e INAPI se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Elegir un nombre sin búsqueda | Entusiasmo | Buscar antes y registrar por categoría. |
+| Creaciones sin contrato | «Es de confianza» | Cesión o licencia escrita revisada por un abogado. |
+| Activos digitales a nombre de personas | Comodidad | Titularidad de la empresa y doble acceso. |
+| Divulgar un invento antes de consultar | Prisa por mostrar | Consultar a un especialista antes de publicar. |
+| Creer que registrar protege todo | Confusión | Entender categorías y límites del registro. |
+| No renovar | Sin calendario | Agenda de renovaciones y auditoría anual. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **trademark** y **patent** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **copyright** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar activos IP → clasificar mecanismo de protección** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **registered marks** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **propiedad intelectual e INAPI**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada.**?
+1. ¿Qué diferencia hay entre marca, patente y derecho de autor?
+2. ¿Por qué un secreto empresarial requiere reserva real?
+3. ¿Qué es una cesión y por qué importa?
+4. ¿Qué activos digitales conviene registrar a nombre de la empresa?
+5. ¿Cómo se prioriza qué proteger primero?
+6. ¿Qué no garantiza el registro de una marca?
+7. ¿Qué límite tiene esta clase?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La marca distingue productos o servicios; la patente protege invenciones; el derecho de autor protege obras originales.
+2. Porque si cualquiera puede acceder o copiar, difícilmente se considerará reservado.
+3. Un documento por el cual un creador traspasa derechos a la empresa; ordena la titularidad.
+4. Dominio, redes, tiendas, repositorios, servicios en la nube y correo.
+5. Comparando exposición esperada y costo de cada medida, empezando por la de mayor razón.
+6. No protege todas las categorías ni asegura libertad de operar.
+7. No interpreta la legislación; plantea decisiones y preguntas, y exige verificar en INAPI y con especialistas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/261-propiedad-intelectual-e-inapi/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **propiedad intelectual e INAPI**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **propiedad intelectual e INAPI** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **trademark**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La empresa paga a un freelancer por logo y código, pero contrato no trata propiedad intelectual. Años después busca inversión y no puede demostrar cadena de titularidad.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `decision-journal.md` con el inventario, las prioridades y el calendario de renovaciones.
 
 ## 📗 Fuentes y verificación
 
-- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** comprobar qué protege una marca o patente y cómo se solicita. **Fuente primaria:** <https://www.inapi.cl/>.
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **propiedad intelectual e inapi**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. **Fuente primaria:** <https://www.sii.cl/>.
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. **Fuente primaria:** <https://www.registrodeempresasysociedades.cl/>.
-- Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** compras públicas, registro de proveedores y Mercado Público. **Fuente primaria:** <https://www.chilecompra.cl/>.
-- Departamento de Derechos Intelectuales (Chile) — *Derecho de autor: registro y orientación oficial*. **Uso en esta clase:** distinguir qué queda cubierto por derecho de autor y no por propiedad industrial. **Fuente primaria:** <https://www.propiedadintelectual.gob.cl/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **propiedad intelectual e inapi** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **propiedad intelectual e inapi**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **propiedad intelectual e inapi** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **propiedad intelectual e inapi** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **propiedad intelectual e inapi** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** información oficial de marcas, patentes y propiedad industrial. **Fuente primaria:** <https://www.inapi.cl/>.
+- Departamento de Derechos Intelectuales (Chile) — *Derecho de autor: registro y orientación oficial*. **Uso en esta clase:** orientación oficial sobre derecho de autor y su registro. **Fuente primaria:** <https://www.propiedadintelectual.gob.cl/>.
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** gestión de riesgos y activos desde el órgano de dirección. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** datos tributarios de la entidad titular. **Fuente primaria:** <https://www.sii.cl/>.
+- Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** requisitos de titularidad en compras públicas. **Fuente primaria:** <https://www.chilecompra.cl/>.
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestionar lo que importa. Lectura selectiva sobre **propiedad intelectual e inapi**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
 
-> **Regla de fuentes para Propiedad intelectual e INAPI:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propiedad intelectual e INAPI** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Propiedad intelectual e INAPI:** las obras y portales anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, trámite, tasa o plazo mencionado debe comprobarse nuevamente en su fuente primaria oficial vigente, y este programa no reemplaza asesoría legal, tributaria ni contable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce material protegido.
 
 <!-- pie:inicio -->
 ---

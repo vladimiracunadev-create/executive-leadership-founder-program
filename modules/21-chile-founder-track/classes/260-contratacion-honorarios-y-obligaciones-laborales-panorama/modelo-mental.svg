@@ -1,68 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g260 d-g260" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g260">Ficha visual de la clase 260: Contratación, honorarios y obligaciones laborales: panorama</title>
-<desc id="d-g260">Conceptos: contrato indefinido; plazo fijo; obra o faena; honorarios; subordinación y dependencia. Método: clasificar hechos de la relación → elegir contrato y modalidad → redactar cláusulas y anexos → registrar y operar jornada cotizaciones y prevención → gestionar cambios y término con evidencia.</desc>
-<defs><marker id="p-g260" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 260 · Contratación, honorarios y obligaciones laborales: panorama</text>
-<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Parte 21 · Funda…</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >contrato indefinido</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >relación laboral sin fecha de término predeterminada</text>
-<circle cx="38" cy="170" r="5" fill="#59636e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >plazo fijo</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >contrato laboral con término pactado sujeto a límites</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >legales</text>
-<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >obra o faena</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >contrato ligado a obra o servicio específico conforme</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >al Código del Trabajo</text>
-<circle cx="38" cy="314.24" r="5" fill="#59636e"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >honorarios</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >prestación independiente que no debe encubrir</text>
-<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >subordinación y dependencia</text>
-<circle cx="38" cy="386.36" r="5" fill="#59636e"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >subordinación y dependencia</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >hechos que caracterizan relación laboral según</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >criterios legales</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#59636e" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#59636e"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >clasificar hechos de la relación</text>
-<circle cx="485" cy="176" r="14" fill="#59636e"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >elegir contrato y modalidad</text>
-<circle cx="485" cy="230" r="14" fill="#59636e"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >redactar cláusulas y anexos</text>
-<circle cx="485" cy="284" r="14" fill="#59636e"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >registrar y operar jornada cotizaciones y prevención</text>
-<circle cx="485" cy="338" r="14" fill="#59636e"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >gestionar cambios y término con evidencia</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#59636e"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contract registration</text>
-<rect x="208.9" y="484.48" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="221.9" cy="497.48" r="3.5" fill="#59636e"/>
-<text x="232.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >working hours</text>
-<rect x="334.6" y="484.48" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="347.6" cy="497.48" r="3.5" fill="#59636e"/>
-<text x="358.6" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >payroll-cotization status</text>
-<rect x="543.1" y="484.48" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="556.1" cy="497.48" r="3.5" fill="#59636e"/>
-<text x="567.1" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >safety obligations</text>
-<rect x="703.3" y="484.48" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="716.3" cy="497.48" r="3.5" fill="#59636e"/>
-<text x="727.3" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >termination exceptions</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Derecho laboral es sensible a hechos y cambia. A agosto de 2026 la jornada máxima general ya está en 42 horas; Ley Karin y DS 44</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >requieren controles específicos. Verifica DT y BCN y usa asesoría laboral para casos reales.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s260 d-s260" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s260">Clase 260 · Honorarios o contrato: los hechos mandan</title>
+<desc id="d-s260">Hechos observables de la relación de trabajo, la pregunta que plantean y dónde se verifican.</desc>
+<defs><marker id="p-s260" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 260 · Honorarios o contrato: los hechos mandan</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Dirección del Trabajo · LeyChile · Noe et al. · Armstrong y Taylor</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Hecho observable</text>
+<text x="292.308" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Pregunta</text>
+<text x="708.615" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Dónde se verifica</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Dirección y dependencia</text>
+<text x="292.308" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Quién dirige el trabajo y cómo?</text>
+<text x="708.615" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Dirección del Trabajo y asesoría laboral.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Jornada y horario</text>
+<text x="292.308" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Hay horario fijado y control de asistencia?</text>
+<text x="708.615" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Código del Trabajo vigente.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Continuidad</text>
+<text x="292.308" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Es un servicio acotado o permanente?</text>
+<text x="708.615" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Orientación oficial de la DT.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Remuneración</text>
+<text x="292.308" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Cómo se paga y qué se retiene o cotiza?</text>
+<text x="708.615" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >SII, previsión y asesoría.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Prevención y seguridad</text>
+<text x="292.308" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué obligaciones de seguridad y salud existen?</text>
+<text x="708.615" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Previsión Social y SUSESO.</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El derecho laboral es sensible a los hechos y cambia. El nombre del contrato no decide: se revisan los hechos con fuentes oficiales y</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >asesoría laboral antes de contratar.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La jornada, Ley Karin y DS 44 se verifican en las fuentes vigentes.</text>
 </svg>

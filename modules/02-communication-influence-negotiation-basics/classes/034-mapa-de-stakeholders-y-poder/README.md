@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 034: 1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un mapa de stakeholders muestra quién puede afectar o ser afectado por una decisión, qué le importa, qué poder posee y qué relación necesita. No es un ranking para manipular; permite anticipar bloqueos, impactos invisibles y necesidades de participación diferentes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia.**
 

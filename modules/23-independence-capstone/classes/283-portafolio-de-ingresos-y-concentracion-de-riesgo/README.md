@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 283: 1. mapear fuentes y margen → 2. medir concentración y correlación → 3. clasificar effort y recurrence → 4. priorizar 2 o 3 engines complementarios → 5. retirar fuentes que destruyen foco](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear fuentes y margen → 2. medir concentración y correlación → 3. clasificar effort y recurrence → 4. priorizar 2 o 3 engines complementarios → 5. retirar fuentes que destruyen foco
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un portafolio de ingresos reduce riesgo de concentración, pero cada línea consume atención y puede tener correlaciones ocultas. El objetivo es diversificar fuentes con economics y capacidades complementarias, no coleccionar side projects.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Diversificación nominal puede no diversificar riesgo. Analiza drivers comunes y no sacrifiques profundidad de una fuente rentable por reducir un porcentaje abstracto.**
 

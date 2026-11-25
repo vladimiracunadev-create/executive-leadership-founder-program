@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 225: 1. definir rationale y alternativas → 2. cuantificar stand-alone y synergies → 3. establecer walk-away price → 4. mapear risks e integration needs → 5. aprobar thesis y diligence plan](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir rationale y alternativas → 2. cuantificar stand-alone y synergies → 3. establecer walk-away price → 4. mapear risks e integration needs → 5. aprobar thesis y diligence plan
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **M&A crea valor solo si existe una lógica estratégica y económica que supere precio, integración y riesgo. Las tesis típicas incluyen capacidad, cliente, escala, consolidación o tecnología; crecer más rápido no basta sin mecanismo de sinergia verificable.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **M&A puede destruir valor por sobrepago y sobreestimación de sinergias. Siempre compara con build, partner o no hacer nada.**
 

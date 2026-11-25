@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 132: 1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La negociación enterprise integra discovery, value case, multi-stakeholder, pricing, BATNA, términos y governance. El capstone exige preparar una negociación completa y decidir qué no conceder, qué intercambiar y cuándo retirarse.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ganar una negociación que crea un contrato inviable destruye valor. Comercial, finanzas, legal y delivery deben compartir límites antes de la mesa.**
 

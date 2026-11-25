@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 178: 1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir tesis y value case → 2. traducir a capabilities y workstreams → 3. secuenciar dependencias y quick wins → 4. gobernar beneficios y riesgos → 5. institucionalizar capacidades y retirar estructura temporal
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Transformación empresarial implica cambiar simultáneamente estrategia, operating model, capacidades, tecnología y comportamiento para lograr un outcome material. Un portafolio de proyectos no es transformación si no altera cómo crea y captura valor la organización.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal.**
 

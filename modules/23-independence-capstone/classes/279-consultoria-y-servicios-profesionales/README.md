@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 279: 1. elegir problema e ICP → 2. hacer discovery y diagnose → 3. definir scope y outcome → 4. proponer fee y terms → 5. entregar medir y request reference](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. elegir problema e ICP → 2. hacer discovery y diagnose → 3. definir scope y outcome → 4. proponer fee y terms → 5. entregar medir y request reference
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Consultoría vende diagnóstico, judgment y cambio, no solo horas. Una oferta profesional fuerte define problema, cliente, alcance, entregables, límites, fee y criterios de éxito; discovery comercial evita aceptar trabajos vagos que se convierten en staff augmentation no deseada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Value pricing no significa cobrar cifras arbitrarias ni ocultar esfuerzo. Debe ser transparente, defendible y compatible con mercado, ética y contrato.**
 

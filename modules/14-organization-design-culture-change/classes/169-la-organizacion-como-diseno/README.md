@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 169: 1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. partir de estrategia y capacidades → 2. diagnosticar fricciones del sistema → 3. diseñar estructura y procesos juntos → 4. alinear rewards y people practices → 5. pilotear y medir efectos
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Diseño organizacional alinea estrategia, estructura, procesos, recompensas y personas. El Star Model de Galbraith ayuda a evitar el error de reorganizar cajas del organigrama sin cambiar decisiones, información o incentivos. La organización es un sistema socio-técnico, no un dibujo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas.**
 

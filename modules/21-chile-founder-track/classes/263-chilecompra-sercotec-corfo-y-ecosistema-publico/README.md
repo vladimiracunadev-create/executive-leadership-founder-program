@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 263: 1. definir objetivo empresarial → 2. buscar instrumento o licitación oficial → 3. leer bases y elegibilidad → 4. modelar esfuerzo cash y obligaciones → 5. postular u ofertar con controls y rendición](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir objetivo empresarial → 2. buscar instrumento o licitación oficial → 3. leer bases y elegibilidad → 4. modelar esfuerzo cash y obligaciones → 5. postular u ofertar con controls y rendición
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **ChileCompra, Sercotec y Corfo representan rutas diferentes del ecosistema público: vender al Estado, obtener apoyo o capacitación o postular a instrumentos. El founder debe evaluar elegibilidad, costos de postulación, obligaciones y fit estratégico en vez de tratar subsidios o compras públicas como dinero gratuito.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Programas y bases cambian frecuentemente. Nunca enseñes montos o fechas como permanentes: verifica sitio oficial y bases de la convocatoria específica.**
 

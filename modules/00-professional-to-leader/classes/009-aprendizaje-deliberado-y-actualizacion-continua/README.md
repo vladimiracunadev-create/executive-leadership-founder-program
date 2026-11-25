@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 009: 1. definir una competencia observable → 2. diagnosticar una brecha concreta → 3. diseñar práctica con dificultad adecuada → 4. obtener feedback y corregir → 5. probar transferencia en un caso distinto](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir una competencia observable → 2. diagnosticar una brecha concreta → 3. diseñar práctica con dificultad adecuada → 4. obtener feedback y corregir → 5. probar transferencia en un caso distinto
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Aprendizaje deliberado significa convertir experiencia y estudio en mejora observable, no acumular cursos. Requiere una habilidad objetivo, una brecha específica, práctica en el límite de competencia, feedback rápido y repetición. Para un líder, además incluye desaprender recetas que funcionaron en una escala o contexto distinto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Aprender más no siempre es la prioridad. Si la brecha es de práctica, incentivo, entorno o autoridad, otro curso puede aumentar conocimiento sin cambiar desempeño.**
 

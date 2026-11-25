@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 154: 1. definir valor entregado → 2. mapear funnel y eventos → 3. seleccionar métrica de outcome y drivers → 4. segmentar cohortes y ventanas → 5. establecer review y decisiones asociadas](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir valor entregado → 2. mapear funnel y eventos → 3. seleccionar métrica de outcome y drivers → 4. segmentar cohortes y ventanas → 5. establecer review y decisiones asociadas
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Las métricas de producto deben conectar adquisición y uso con valor para el usuario y economía para la empresa. Vanity metrics crecen sin cambiar decisiones; métricas operables tienen definición, población, ventana temporal, owner y vínculo con un outcome.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una North Star puede inducir gaming si se desconecta de calidad, margen o bienestar. Acompáñala con guardrails y análisis de cohortes.**
 

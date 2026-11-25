@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 207: 1. clarificar roles chair y CEO → 2. diseñar agenda y pre-reads → 3. crear canales de feedback → 4. proteger executive sessions → 5. resolver tensiones sin doble comando](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. clarificar roles chair y CEO → 2. diseñar agenda y pre-reads → 3. crear canales de feedback → 4. proteger executive sessions → 5. resolver tensiones sin doble comando
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Presidente del directorio y CEO tienen responsabilidades complementarias: el chair lidera la efectividad del board y la relación de supervisión; el CEO lidera management y ejecución. Cuando una persona concentra ambos roles, deben existir mecanismos adicionales de independencia según contexto y jurisdicción.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Separar roles no garantiza independencia ni efectividad. Cultura, composición, información y capacidad de challenge importan tanto como el organigrama.**
 

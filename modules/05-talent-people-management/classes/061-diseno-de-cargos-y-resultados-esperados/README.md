@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 061: 1. definir problema de negocio del rol → 2. escribir 3–5 outcomes → 3. identificar decisiones y interfaces → 4. derivar competencias y nivel → 5. validar scorecard con manager y stakeholders](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir problema de negocio del rol → 2. escribir 3–5 outcomes → 3. identificar decisiones y interfaces → 4. derivar competencias y nivel → 5. validar scorecard con manager y stakeholders
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Diseñar un cargo parte de resultados y decisiones, no de copiar una descripción de mercado. El rol debe especificar por qué existe, outcomes, interfaces, autoridad, capacidades y evidencias de buen desempeño. Esta claridad mejora contratación, onboarding, evaluación y compensación.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una descripción perfecta no arregla un diseño organizacional incoherente. Si varios roles compiten por el mismo outcome, primero corrige derechos de decisión.**
 

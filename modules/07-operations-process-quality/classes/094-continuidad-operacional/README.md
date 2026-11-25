@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 094: 1. identificar servicios críticos → 2. hacer BIA y dependencias → 3. definir RTO/RPO → 4. diseñar estrategias y playbooks → 5. ejercitar y corregir brechas](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. identificar servicios críticos → 2. hacer BIA y dependencias → 3. definir RTO/RPO → 4. diseñar estrategias y playbooks → 5. ejercitar y corregir brechas
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Continuidad operacional protege servicios críticos durante disrupciones mediante análisis de impacto, objetivos de recuperación, estrategias y ejercicios. No es solo backup tecnológico: personas, proveedores, instalaciones, datos y decisiones forman parte del plan.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Continuidad total es imposible y costosa. Prioriza por impacto y tiempos; los objetivos deben estar aprobados por negocio, no elegidos solo por tecnología.**
 

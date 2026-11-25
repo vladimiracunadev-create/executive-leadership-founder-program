@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 228: 1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. establecer cash floor y constraints → 2. comparar oportunidades por return y risk → 3. considerar strategic options → 4. asignar capital y talent → 5. revisar post-investment y recycle
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El comité de capital integra inversión orgánica, deuda, dividendos, recompras, fundraising y M&A como un portafolio. El capstone exige comparar oportunidades con riesgo, estrategia, cash y reversibilidad, y decidir qué no financiar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un framework único no captura todas las opciones, pero comparaciones sin lenguaje común favorecen política. Normaliza economics y declara explícitamente factores estratégicos no cuantificados.**
 

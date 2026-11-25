@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 001: 1. detectar una brecha relevante → 2. formular un resultado y no solo una actividad → 3. construir apoyo con evidencia y contexto → 4. proponer una acción proporcional a la autoridad disponible → 5. cerrar el ciclo informando resultado y aprendizaje](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. detectar una brecha relevante → 2. formular un resultado y no solo una actividad → 3. construir apoyo con evidencia y contexto → 4. proponer una acción proporcional a la autoridad disponible → 5. cerrar el ciclo informando resultado y aprendizaje
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Liderar sin cargo formal significa producir dirección y coordinación sin apoyarse en autoridad jerárquica. El foco está en identificar una necesidad, construir legitimidad mediante competencia y confiabilidad, movilizar a otros alrededor de un resultado y aceptar responsabilidad por la calidad de la propuesta, aunque la decisión final pertenezca a otra persona.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Influir sin autoridad no autoriza a saltarse derechos de decisión. La iniciativa madura reduce fricción y propone; no captura decisiones que pertenecen legítimamente a otra función.**
 

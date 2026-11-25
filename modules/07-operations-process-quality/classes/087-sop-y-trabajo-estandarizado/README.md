@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 087: 1. seleccionar proceso estable y crítico → 2. observar cómo se ejecuta realmente → 3. documentar pasos y controles mínimos → 4. probar con una persona nueva → 5. versionar y revisar tras incidentes](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. seleccionar proceso estable y crítico → 2. observar cómo se ejecuta realmente → 3. documentar pasos y controles mínimos → 4. probar con una persona nueva → 5. versionar y revisar tras incidentes
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un SOP documenta la mejor forma conocida de ejecutar trabajo repetible y crítico, incluyendo propósito, precondiciones, pasos, controles y excepciones. No busca eliminar juicio donde se necesita; libera capacidad cognitiva de decisiones rutinarias y facilita entrenamiento y auditoría.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Estandarizar trabajo exploratorio o creativo en exceso reduce aprendizaje. Un SOP debe concentrarse en lo repetible, regulado o riesgoso y dejar claro dónde se requiere criterio.**
 

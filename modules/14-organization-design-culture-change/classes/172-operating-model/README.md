@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 172: 1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. derivar capabilities de estrategia → 2. diseñar unidades y servicios compartidos → 3. mapear decisiones y flujos críticos → 4. definir datos tecnología y talento habilitante → 5. establecer governance y cadencias
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Operating model traduce estrategia en cómo se organiza y ejecuta el trabajo: unidades, procesos, decisiones, datos, tecnología, talento, governance y cadencias. Es el puente entre qué queremos lograr y cómo funciona la empresa cada semana.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema.**
 

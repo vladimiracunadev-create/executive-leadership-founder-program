@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 064: 1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. seleccionar competencias del scorecard → 2. crear preguntas conductuales y situacionales → 3. definir anchors antes de entrevistar → 4. puntuar independientemente antes de debatir → 5. calibrar discrepancias y guardar evidencia
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Las entrevistas estructuradas mejoran comparabilidad al usar preguntas ligadas a competencias, criterios de puntuación y múltiples evaluadores calibrados. Preguntar lo mismo no basta: se necesitan anchors sobre qué evidencia corresponde a un nivel alto, medio o bajo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez.**
 

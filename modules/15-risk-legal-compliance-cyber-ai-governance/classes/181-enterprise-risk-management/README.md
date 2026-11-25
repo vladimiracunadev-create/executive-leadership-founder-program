@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 181: 1. definir objetivos y contexto → 2. identificar escenarios de riesgo → 3. estimar exposición inherente → 4. diseñar respuesta y controles → 5. monitorear residual y agregación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir objetivos y contexto → 2. identificar escenarios de riesgo → 3. estimar exposición inherente → 4. diseñar respuesta y controles → 5. monitorear residual y agregación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Enterprise Risk Management integra riesgo con estrategia y desempeño: identifica eventos y condiciones que pueden afectar objetivos, define respuestas y monitorea exposición agregada. COSO ERM e ISO 31000 insisten en que riesgo no es una lista separada del negocio sino parte de la decisión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las matrices de colores simplifican y pueden esconder colas extremas o correlaciones. Para riesgos materiales, complementa scoring con escenarios y magnitudes económicas.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 118: 1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **ROI mide retorno respecto de inversión con definiciones variables; ROIC conecta beneficio operativo después de impuestos con capital invertido y permite comparar creación de valor contra costo de capital. Una inversión atractiva por ROI contable puede destruir valor si ignora timing, riesgo o capital adicional.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios y capital total, no una sola razón.**
 

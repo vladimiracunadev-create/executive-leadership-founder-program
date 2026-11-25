@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 104: 1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un business review combina resultados, causas, forecast, riesgos y decisiones. No es una sesión donde cada área defiende sus métricas. El pre-read debe llegar antes, el tiempo se concentra en desviaciones materiales y la reunión termina con decisiones, owners y cambios de forecast.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución.**
 

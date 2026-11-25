@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 275: 1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El owner dashboard debe mostrar salud económica, dependencia, liderazgo, clientes, riesgo y capital del portafolio con pocas métricas accionables. Su objetivo es permitir supervisión de propiedad sin volver a operar cada proceso.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría.**
 

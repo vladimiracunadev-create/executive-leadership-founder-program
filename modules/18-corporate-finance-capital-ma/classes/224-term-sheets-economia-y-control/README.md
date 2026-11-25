@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 224: 1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. separar economics de control → 2. modelar waterfall en exits → 3. revisar dilution protections → 4. mapear veto y board rights → 5. negociar conjunto y escenarios
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un term sheet distribuye economía y control mediante valoración, preferencia de liquidación, anti-dilution, board seats, protective provisions, vesting y otros términos. Dos ofertas con la misma valoración pueden producir outcomes muy diferentes en downside o exit.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los términos dependen de jurisdicción y documentos definitivos. Esta clase enseña economics e issue spotting; usa abogados especializados antes de firmar.**
 

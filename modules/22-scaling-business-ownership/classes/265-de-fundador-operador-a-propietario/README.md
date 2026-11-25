@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 265: 1. medir dependencia del founder → 2. separar owner CEO y operator tasks → 3. documentar critical decisions → 4. construir líderes y controls → 5. retirar founder gradualmente y medir performance](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. medir dependencia del founder → 2. separar owner CEO y operator tasks → 3. documentar critical decisions → 4. construir líderes y controls → 5. retirar founder gradualmente y medir performance
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pasar de founder-operador a owner significa que el valor de la empresa deja de depender de la presencia diaria del fundador. La transición requiere documentar decisiones, construir líderes, controles, reporting y una agenda de propietario distinta de la agenda de operador.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Eliminar al fundador demasiado pronto puede destruir relaciones y conocimiento. Transfiere progresivamente, observando calidad y construyendo contexto.**
 

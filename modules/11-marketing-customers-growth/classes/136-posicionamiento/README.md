@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 136: 1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Posicionamiento define el contexto competitivo en el que tus fortalezas son relevantes para un segmento. Debe responder: para quién, contra qué alternativas, qué capacidades únicas importan y qué valor habilitan. No es un slogan; es una elección que guía producto, ventas y marketing.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting.**
 

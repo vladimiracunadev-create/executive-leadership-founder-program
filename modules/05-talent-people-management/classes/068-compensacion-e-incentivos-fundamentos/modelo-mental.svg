@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 364" width="1040" role="img" aria-labelledby="t d" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t">Modelo mental de la clase 068: Compensación e incentivos: fundamentos</title>
+<desc id="d">1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming</desc>
+<defs><marker id="punta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#0969da"/></marker></defs>
+<rect width="1040" height="364" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="132" height="26" rx="13" fill="#0969da"/>
+<text x="94" y="41.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">MODELO MENTAL</text>
+<text x="176" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 068 · Compensación e incentivos: fundamentos</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 05 · Liderazgo de equipos y ejecución</text>
+<rect x="28" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M28,126 V104 a12,12 0 0 1 12,-12 H185.6 a12,12 0 0 1 12,12 V126 Z" fill="#0969da"/>
+<text x="44" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 1</text>
+<text x="42" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir</text>
+<text x="42" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >filosofía de</text>
+<text x="42" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >compensación</text>
+<path d="M203.6,173 H223.6" stroke="#0969da" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="231.6" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M231.6,126 V104 a12,12 0 0 1 12,-12 H389.2 a12,12 0 0 1 12,12 V126 Z" fill="#0969da"/>
+<text x="247.6" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 2</text>
+<text x="245.6" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >benchmarkear sin</text>
+<text x="245.6" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >delegar decisión</text>
+<text x="245.6" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >al mercado</text>
+<path d="M407.2,173 H427.2" stroke="#0969da" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="435.2" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M435.2,126 V104 a12,12 0 0 1 12,-12 H592.8 a12,12 0 0 1 12,12 V126 Z" fill="#0969da"/>
+<text x="451.2" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 3</text>
+<text x="449.2" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >construir bandas</text>
+<text x="449.2" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >y criterios</text>
+<path d="M610.8,173 H630.8" stroke="#0969da" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="638.8" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M638.8,126 V104 a12,12 0 0 1 12,-12 H796.4 a12,12 0 0 1 12,12 V126 Z" fill="#0969da"/>
+<text x="654.8" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 4</text>
+<text x="652.8" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >diseñar variable</text>
+<text x="652.8" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >con guardrails</text>
+<path d="M814.4,173 H834.4" stroke="#0969da" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="842.4" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M842.4,126 V104 a12,12 0 0 1 12,-12 H1000 a12,12 0 0 1 12,12 V126 Z" fill="#0969da"/>
+<text x="858.4" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 5</text>
+<text x="856.4" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >auditar equidad</text>
+<text x="856.4" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >y gaming</text>
+<path d="M927.2,222 V244 a10,10 0 0 1 -10,10 H122.8 a10,10 0 0 1 -10,-10 V224" fill="none" stroke="#0969da" stroke-width="2" stroke-dasharray="7 6" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="358.6" y="242" width="322.8" height="24" rx="12" fill="#f6f8fa" stroke="#0969da" stroke-width="1.2"/>
+<text x="520" y="258.5" font-size="12.5" font-weight="600" fill="#0969da" text-anchor="middle" >revisar y ajustar cuando la evidencia cambie</text>
+<text x="28" y="300" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="314" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2"/>
+<circle cx="41" cy="327" r="3.5" fill="#0969da"/>
+<text x="52" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >compa-ratio</text>
+<rect x="139.9" y="314" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2"/>
+<circle cx="152.9" cy="327" r="3.5" fill="#0969da"/>
+<text x="163.9" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pay gaps</text>
+<rect x="231.1" y="314" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2"/>
+<circle cx="244.1" cy="327" r="3.5" fill="#0969da"/>
+<text x="255.1" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >turnover por compensación</text>
+<rect x="439.6" y="314" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2"/>
+<circle cx="452.6" cy="327" r="3.5" fill="#0969da"/>
+<text x="463.6" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >variable versus outcome</text>
+<rect x="634.3" y="314" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2"/>
+<circle cx="647.3" cy="327" r="3.5" fill="#0969da"/>
+<text x="658.3" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >gaming o reclamos</text>
+</svg>

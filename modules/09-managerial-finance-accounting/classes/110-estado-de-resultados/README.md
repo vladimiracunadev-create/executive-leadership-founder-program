@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 110: 1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El estado de resultados explica desempeño durante un periodo mediante ingresos, costos, gastos, resultado operativo, financiero e impuestos. La lectura gerencial debe normalizar partidas no recurrentes y analizar márgenes por nivel: una utilidad neta positiva puede ocultar deterioro operativo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance.**
 

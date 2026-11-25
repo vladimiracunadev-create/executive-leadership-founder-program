@@ -65,6 +65,9 @@ jobs:
       - name: Verificar el registro de fuentes
         run: python scripts/verify-sources
 
+      - name: Verificar los modelos mentales (SVG de cada clase)
+        run: python tools/build_diagrams.py --check
+
       - name: Verificar la navegación (portadas de parte, migas y pies de clase)
         run: python tools/build_navigation.py --check
 

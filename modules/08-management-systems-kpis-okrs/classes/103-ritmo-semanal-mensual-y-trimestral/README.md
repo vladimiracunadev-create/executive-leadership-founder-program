@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 103: 1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El ritmo semanal, mensual y trimestral separa horizontes de gestión. La semana corrige ejecución; el mes analiza tendencias y recursos; el trimestre revisa prioridades y supuestos. Mezclar todos los temas en cada reunión produce microgestión estratégica o estrategia sin seguimiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo.**
 

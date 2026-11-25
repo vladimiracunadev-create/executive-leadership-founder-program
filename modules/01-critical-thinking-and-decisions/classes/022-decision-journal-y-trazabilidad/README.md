@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 022: 1. registrar decisión antes del resultado → 2. anotar opciones y supuestos críticos → 3. expresar predicciones y rangos → 4. definir fecha de revisión → 5. comparar proceso y resultado sin hindsight](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. registrar decisión antes del resultado → 2. anotar opciones y supuestos críticos → 3. expresar predicciones y rangos → 4. definir fecha de revisión → 5. comparar proceso y resultado sin hindsight
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un decision journal conserva lo que se sabía al decidir y evita reescribir la historia después. Debe registrar contexto, opciones, probabilidades, supuestos, decisión, resultado esperado y fecha de revisión. Su valor aparece meses después, cuando permite separar calidad del proceso de suerte en el resultado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo acto operativo merece un journal detallado. Registra decisiones de suficiente impacto, incertidumbre o aprendizaje; burocratizar microdecisiones destruye adopción.**
 

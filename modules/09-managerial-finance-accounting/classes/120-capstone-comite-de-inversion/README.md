@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 120: 1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El comité de inversión integra estrategia, cash flows, riesgo, opciones y governance. Debe decidir no solo si un proyecto tiene NPV positivo, sino si es la mejor asignación de capital dada la cartera, la liquidez y la capacidad de ejecución.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución.**
 

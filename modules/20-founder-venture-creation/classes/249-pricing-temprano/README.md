@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 249: 1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pricing temprano es un experimento sobre valor, segmento y modelo. Cost-plus puede poner piso, pero willingness to pay, alternatives y value metrics ayudan a capturar valor. Descuentos permanentes a primeros clientes pueden esconder que el problema no es suficientemente valioso.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes.**
 

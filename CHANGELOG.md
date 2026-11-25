@@ -20,6 +20,13 @@
 
 ## Sin publicar
 
+### Modelos mentales en SVG
+
+- Cada una de las 288 clases muestra su modelo mental como diagrama SVG
+  autónomo (pasos numerados, flechas, bucle de revisión y señales a observar),
+  con la misma secuencia en texto plegable para quien no ve imágenes.
+- Nuevo `tools/build_diagrams.py` (con `--check` en la CI).
+
 ### Navegación y portadas de parte
 
 - **Cada parte tiene portada pedagógica**: de qué trata, con qué hay que llegar,

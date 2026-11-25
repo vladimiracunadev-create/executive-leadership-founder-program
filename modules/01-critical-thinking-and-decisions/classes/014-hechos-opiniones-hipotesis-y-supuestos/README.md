@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 014: 1. inventariar afirmaciones clave → 2. clasificarlas por tipo → 3. registrar fuente y calidad → 4. convertir explicaciones en hipótesis refutables → 5. definir qué evidencia cambiaría la decisión](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. inventariar afirmaciones clave → 2. clasificarlas por tipo → 3. registrar fuente y calidad → 4. convertir explicaciones en hipótesis refutables → 5. definir qué evidencia cambiaría la decisión
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Hechos, opiniones, hipótesis y supuestos cumplen funciones distintas. Mezclarlos produce falsa certeza: un dato observado puede ser correcto y la explicación causal seguir siendo equivocada. El líder debe etiquetar el tipo de afirmación, su fuente y qué prueba aumentaría o reduciría confianza.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Etiquetar una afirmación no la vuelve verdadera. Incluso un 'hecho' puede estar mal medido, desactualizado o sesgado por selección; la calidad de la fuente importa tanto como la categoría.**
 

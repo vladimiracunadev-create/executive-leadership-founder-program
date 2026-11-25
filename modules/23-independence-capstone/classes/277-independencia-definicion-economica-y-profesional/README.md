@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 277: 1. definir necesidades y objetivo → 2. medir runway y concentración → 3. mapear capabilities y assets → 4. crear vías de ingreso compatibles → 5. revisar riesgo y optionality trimestralmente](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir necesidades y objetivo → 2. medir runway y concentración → 3. mapear capabilities y assets → 4. crear vías de ingreso compatibles → 5. revisar riesgo y optionality trimestralmente
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Independencia profesional y económica no significa no trabajar; significa aumentar capacidad de elegir mediante runway, ingresos diversificados, activos, reputación y capacidades transferibles. Debe medirse en concentración y margen de maniobra, no en una etiqueta de emprendedor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Diversificar demasiado pronto puede fragmentar foco y reducir ingresos. Construye independencia por etapas, protegiendo capacidad principal y evitando apuestas simultáneas sin tracción.**
 

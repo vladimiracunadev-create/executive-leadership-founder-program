@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 187: 1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear activos y procesos críticos → 2. definir escenarios e impacto → 3. establecer governance y controles → 4. medir detección respuesta y recuperación → 5. reportar exposición residual y decisiones
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gobernanza de ciberseguridad traduce riesgo técnico a exposición empresarial, responsabilidades, tolerancias y decisiones de inversión. NIST CSF 2.0 incorpora Govern junto a Identify, Protect, Detect, Respond y Recover: el directorio supervisa riesgo, no configura firewalls.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales.**
 

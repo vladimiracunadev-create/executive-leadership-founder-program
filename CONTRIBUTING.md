@@ -22,6 +22,7 @@ Si tu cambio toca clases, plantillas o datos, además hay que regenerar los
 documentos que dependen de ellos:
 
 ```bash
+python tools/build_diagrams.py
 python tools/build_navigation.py
 python tools/build_syllabus.py
 python tools/build_status.py

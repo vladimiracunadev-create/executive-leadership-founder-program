@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 404" width="1040" role="img" aria-labelledby="t d" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t">Modelo mental de la clase 114: Capital de trabajo</title>
+<desc id="d">1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes</desc>
+<defs><marker id="punta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#8250df"/></marker></defs>
+<rect width="1040" height="404" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="132" height="26" rx="13" fill="#8250df"/>
+<text x="94" y="41.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">MODELO MENTAL</text>
+<text x="176" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 114 · Capital de trabajo</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 09 · Gestión de negocio</text>
+<rect x="28" y="92" width="169.6" height="168" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M28,126 V104 a12,12 0 0 1 12,-12 H185.6 a12,12 0 0 1 12,12 V126 Z" fill="#8250df"/>
+<text x="44" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 1</text>
+<text x="42" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >calcular</text>
+<text x="42" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >componentes</text>
+<text x="42" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >operativos</text>
+<path d="M203.6,193 H223.6" stroke="#8250df" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="231.6" y="92" width="169.6" height="168" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M231.6,126 V104 a12,12 0 0 1 12,-12 H389.2 a12,12 0 0 1 12,12 V126 Z" fill="#8250df"/>
+<text x="247.6" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 2</text>
+<text x="245.6" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >convertir saldos</text>
+<text x="245.6" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >a días</text>
+<path d="M407.2,193 H427.2" stroke="#8250df" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="435.2" y="92" width="169.6" height="168" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M435.2,126 V104 a12,12 0 0 1 12,-12 H592.8 a12,12 0 0 1 12,12 V126 Z" fill="#8250df"/>
+<text x="451.2" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 3</text>
+<text x="449.2" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
+<text x="449.2" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >driver de</text>
+<text x="449.2" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >variación</text>
+<path d="M610.8,193 H630.8" stroke="#8250df" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="638.8" y="92" width="169.6" height="168" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M638.8,126 V104 a12,12 0 0 1 12,-12 H796.4 a12,12 0 0 1 12,12 V126 Z" fill="#8250df"/>
+<text x="654.8" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 4</text>
+<text x="652.8" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >modelar caja</text>
+<text x="652.8" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >liberada por</text>
+<text x="652.8" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >mejoras</text>
+<path d="M814.4,193 H834.4" stroke="#8250df" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="842.4" y="92" width="169.6" height="168" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M842.4,126 V104 a12,12 0 0 1 12,-12 H1000 a12,12 0 0 1 12,12 V126 Z" fill="#8250df"/>
+<text x="858.4" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 5</text>
+<text x="856.4" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >evitar trasladar</text>
+<text x="856.4" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >riesgo</text>
+<text x="856.4" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >abusivamente a</text>
+<text x="856.4" y="214" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >proveedores o</text>
+<text x="856.4" y="234" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >clientes</text>
+<path d="M927.2,262 V284 a10,10 0 0 1 -10,10 H122.8 a10,10 0 0 1 -10,-10 V264" fill="none" stroke="#8250df" stroke-width="2" stroke-dasharray="7 6" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="358.6" y="282" width="322.8" height="24" rx="12" fill="#f6f8fa" stroke="#8250df" stroke-width="1.2"/>
+<text x="520" y="298.5" font-size="12.5" font-weight="600" fill="#8250df" text-anchor="middle" >revisar y ajustar cuando la evidencia cambie</text>
+<text x="28" y="340" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="354" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2"/>
+<circle cx="41" cy="367" r="3.5" fill="#8250df"/>
+<text x="52" y="371.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >DSO</text>
+<rect x="84.7" y="354" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2"/>
+<circle cx="97.7" cy="367" r="3.5" fill="#8250df"/>
+<text x="108.7" y="371.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >DIO</text>
+<rect x="141.4" y="354" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2"/>
+<circle cx="154.4" cy="367" r="3.5" fill="#8250df"/>
+<text x="165.4" y="371.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >DPO</text>
+<rect x="198.1" y="354" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2"/>
+<circle cx="211.1" cy="367" r="3.5" fill="#8250df"/>
+<text x="222.1" y="371.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash conversion cycle</text>
+<rect x="379" y="354" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2"/>
+<circle cx="392" cy="367" r="3.5" fill="#8250df"/>
+<text x="403" y="371.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cash released</text>
+</svg>

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 134: 1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Investigación de mercado reduce incertidumbre sobre tamaño, segmentos, comportamiento, competencia y drivers de compra. Combina datos secundarios, investigación cuantitativa y cualitativa. La pregunta de negocio determina método; una encuesta grande no arregla una pregunta sesgada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia.**
 

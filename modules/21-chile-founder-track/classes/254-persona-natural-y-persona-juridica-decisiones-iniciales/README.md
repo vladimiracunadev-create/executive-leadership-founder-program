@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 254: 1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear actividad y exposición → 2. definir necesidad de socios y capital → 3. comparar administración y costos → 4. revisar responsabilidad y contratos → 5. validar alternativa con fuentes y asesoría
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Operar como persona natural o crear persona jurídica cambia separación patrimonial, contratos, tributación, gobierno, acceso a socios y percepción de riesgo. La elección debe partir de actividad, exposición, crecimiento y propiedad, no solo de facilidad inicial.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales.**
 

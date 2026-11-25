@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 151: 1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un roadmap orientado a outcomes comunica problemas, resultados esperados y apuestas, no una lista rígida de funcionalidades con fechas falsas. Debe conectar estrategia, aprendizaje y capacidad, mostrando qué se intenta mover y qué evidencia justificará cambiar la secuencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real.**
 

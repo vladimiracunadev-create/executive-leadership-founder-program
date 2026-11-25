@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 216: 1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone simula una reunión de directorio con pre-read, decisiones materiales, riesgo, performance, estrategia y sesión ejecutiva. Se evalúa si management entrega información accionable y si el board pregunta, decide y supervisa sin microgestión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable.**
 

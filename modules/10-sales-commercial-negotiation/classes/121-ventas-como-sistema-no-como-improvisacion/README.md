@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 121: 1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Ventas como sistema convierte prospección, discovery, propuesta, negociación, cierre y expansión en etapas observables. El objetivo no es forzar un funnel lineal para toda venta, sino generar evidencia de avance y aprender dónde se pierden oportunidades. Actividad sin criterios de etapa produce forecasts ficticios.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM.**
 

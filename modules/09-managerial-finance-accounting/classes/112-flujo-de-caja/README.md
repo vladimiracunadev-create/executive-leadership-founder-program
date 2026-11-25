@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 112: 1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El flujo de caja revela cuándo el efectivo entra y sale por operación, inversión y financiamiento. Beneficio no es caja: crecimiento puede consumir efectivo por capital de trabajo y CAPEX. El gerente debe distinguir generación operativa recurrente de financiamiento externo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente.**
 

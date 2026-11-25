@@ -49,9 +49,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 190: 1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gestionar una crisis exige distinguir incidente, crisis y emergencia, activar estructura de comando, proteger personas, estabilizar operación, comunicar hechos confirmados y tomar decisiones reversibles cuando la información es incompleta. La preparación previa reduce improvisación bajo presión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales.**
 

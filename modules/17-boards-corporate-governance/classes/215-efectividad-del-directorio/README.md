@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 215: 1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La efectividad del directorio depende de composición, información, agenda, confianza, challenge, liderazgo del chair y seguimiento. Evaluaciones periódicas deben producir cambios observables, no un formulario de satisfacción anual.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 091: 1. definir características críticas → 2. medir proceso en el tiempo → 3. distinguir causas comunes y especiales → 4. corregir causa adecuada → 5. estandarizar mejora y monitorear](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir características críticas → 2. medir proceso en el tiempo → 3. distinguir causas comunes y especiales → 4. corregir causa adecuada → 5. estandarizar mejora y monitorear
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Calidad es la capacidad de producir resultados conformes y útiles con variación controlada. Deming desplaza la mirada desde culpar individuos hacia comprender procesos y causas comunes versus especiales. Mejorar calidad exige medición estable, aprendizaje y diseño preventivo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No conviertas calidad en solo conformidad interna. Un proceso estable puede producir consistentemente algo que el cliente no necesita; conecta control con valor y outcome.**
 

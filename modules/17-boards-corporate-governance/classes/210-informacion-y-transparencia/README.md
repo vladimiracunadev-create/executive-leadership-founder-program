@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 210: 1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Transparencia útil significa entregar información material, comprensible, oportuna y equilibrada a quienes tienen derecho a ella. Más datos no equivalen a mejor disclosure; el board debe poder distinguir performance, riesgo, supuestos y excepciones sin quedar enterrado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo.**
 

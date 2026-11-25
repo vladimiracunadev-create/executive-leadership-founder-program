@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 262: 1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. describir actividad y localización → 2. identificar autoridades competentes → 3. mapear permisos y orden → 4. obtener evidencia antes de operar → 5. controlar renovaciones y cambios
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Patentes municipales, permisos sanitarios, sectoriales y otras autorizaciones dependen de actividad, ubicación y riesgo. El founder debe crear una matriz de actividad → autoridad → permiso → evidencia → renovación en vez de asumir que constituir sociedad habilita cualquier operación.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe un listado único para todas las empresas. Municipio, actividad y sector cambian requisitos; consulta autoridades oficiales antes de firmar inversiones irreversibles.**
 

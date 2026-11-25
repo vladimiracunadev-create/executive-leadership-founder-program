@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 027: 1. definir decisión del lector → 2. escribir conclusión provisional → 3. agrupar razones en 2–4 argumentos → 4. adjuntar evidencia a cada claim → 5. editar redundancia y cerrar con acción](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir decisión del lector → 2. escribir conclusión provisional → 3. agrupar razones en 2–4 argumentos → 4. adjuntar evidencia a cada claim → 5. editar redundancia y cerrar con acción
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La escritura ejecutiva reduce carga cognitiva y acelera decisiones. Comienza con la respuesta o recomendación, organiza argumentos en grupos lógicos y separa hechos, interpretación y petición. Un memo eficaz permite que alguien entienda la decisión en minutos y profundice solo donde necesita evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La pirámide no debe ocultar incertidumbre ni forzar una conclusión antes de analizar. Es una estructura de comunicación, no una excusa para cherry-picking.**
 

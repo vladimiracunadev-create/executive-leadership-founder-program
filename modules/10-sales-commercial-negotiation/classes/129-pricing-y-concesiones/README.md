@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 129: 1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pricing define cómo se captura valor y debe diferenciar precio, descuento, paquete y concesión. Conceder precio sin recibir algo a cambio enseña al mercado a negociar. El diseño puede basarse en costo, competencia o valor, pero la decisión debe cubrir economía y posicionamiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Precio basado en valor requiere evidencia y ética; no significa cobrar arbitrariamente el máximo. Considera competencia, relación, acceso y reglas de mercado.**
 

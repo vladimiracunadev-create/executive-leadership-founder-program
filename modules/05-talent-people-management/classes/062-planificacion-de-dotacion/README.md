@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 062: 1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. proyectar demanda por escenario → 2. inventariar capacidad y skills → 3. calcular brechas y timing → 4. comparar build-buy-borrow-automate → 5. aprobar hiring plan con triggers
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Planificar dotación traduce estrategia y demanda en capacidades, no simplemente en headcount. Debe distinguir volumen, skills, productividad, timing, rotación y alternativas como automatización o proveedores. Contratar demasiado pronto consume caja; demasiado tarde quema al equipo y pierde oportunidades.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso.**
 

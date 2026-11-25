@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 096: 1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Rediseñar una operación integra flujo, capacidad, cuello, calidad, nivel de servicio, terceros, continuidad y automatización. El capstone exige demostrar que la mejora global no solo desplaza espera o costo a otra área.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles.**
 

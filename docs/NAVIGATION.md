@@ -58,11 +58,15 @@ La navegación **se genera**; no se edita a mano.
   `<!-- parte:inicio -->` y `<!-- parte:fin -->`), la miga y el pie de cada clase,
   y el pie de los laboratorios y proyectos. Con `--check` falla si algo está
   desfasado, y la CI lo ejecuta.
+- `tools/build_diagrams.py` dibuja el **modelo mental** de cada clase como SVG
+  (`modelo-mental.svg`, junto a su README) a partir de la secuencia de pasos y de
+  las `evidence_signals` de `lesson.yaml`. Con `--check` falla si algo está
+  desfasado.
 - El contenido pedagógico propio de cada parte (de qué trata, qué se necesita,
   resultados, riesgos y evidencia) está en `curriculum/part_pedagogy.py`.
 - Títulos, duraciones, entregables y conceptos salen de cada clase: se cambian
   en `lesson.yaml` o en el README de la clase y se vuelven a generar.
 - Si regeneras una clase con `tools/deep_curriculum_builder.py`, ejecuta después
-  `tools/build_navigation.py`: el generador de clases no conoce las marcas.
+  `tools/build_diagrams.py` y `tools/build_navigation.py`: el generador de clases no conoce las marcas.
 - Los laboratorios, el proyecto, la bibliografía y el criterio de aprobación
   de cada parte, que van después de `<!-- parte:fin -->`, sí se editan a mano.

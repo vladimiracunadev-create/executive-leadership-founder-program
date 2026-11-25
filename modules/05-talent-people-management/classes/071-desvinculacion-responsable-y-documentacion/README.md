@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 071: 1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. revisar hechos, documentación y fundamento → 2. consultar RR.HH./legal antes de comunicar → 3. preparar conversación breve y digna → 4. ejecutar offboarding y seguridad → 5. comunicar al equipo sin divulgar información privada
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una desvinculación responsable separa decisión de negocio o desempeño, proceso legal, comunicación humana y continuidad operativa. El manager debe basarse en hechos, coordinar con RR.HH./legal, evitar humillación, proteger privacidad y asegurar transferencia de activos y accesos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada.**
 

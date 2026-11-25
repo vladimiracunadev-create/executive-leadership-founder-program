@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 031: 1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una conversación difícil mezcla tres capas: lo que ocurrió, cómo afecta identidad y emociones, y qué relación queremos preservar o cambiar. Prepararla exige distinguir hechos de intenciones atribuidas, reconocer la propia contribución al problema y definir un objetivo que no sea 'ganar'.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación legal, se activa el proceso formal correspondiente.**
 

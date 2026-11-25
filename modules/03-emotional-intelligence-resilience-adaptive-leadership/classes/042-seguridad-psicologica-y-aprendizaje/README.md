@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 042: 1. observar cuándo la gente calla → 2. modelar falibilidad y preguntas → 3. responder productivamente a malas noticias → 4. separar error de negligencia → 5. mantener estándares y seguimiento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. observar cuándo la gente calla → 2. modelar falibilidad y preguntas → 3. responder productivamente a malas noticias → 4. separar error de negligencia → 5. mantener estándares y seguimiento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Seguridad psicológica es la creencia de que es posible asumir riesgos interpersonales —preguntar, admitir error, disentir— sin castigo humillante. No equivale a comodidad ni baja exigencia. Los equipos de alto aprendizaje combinan seguridad para hablar con estándares altos y responsabilidad por resultados.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Seguridad psicológica no protege conducta abusiva, bajo desempeño deliberado ni ausencia de accountability. El espacio para hablar debe coexistir con consecuencias claras y justas.**
 

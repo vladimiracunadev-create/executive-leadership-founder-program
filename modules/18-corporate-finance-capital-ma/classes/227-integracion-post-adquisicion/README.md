@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 227: 1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. traducir deal thesis a integration priorities → 2. proteger clientes y talento → 3. definir Day 1 governance → 4. secuenciar synergies y systems → 5. medir value capture y culture risks
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La integración post-adquisición captura o destruye la tesis del deal. Antes del Day 1 deben definirse governance, critical talent, customer continuity, synergies, systems y ritmo de decisión. Integrar todo rápidamente no siempre maximiza valor; algunas capacidades requieren autonomía.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis.**
 

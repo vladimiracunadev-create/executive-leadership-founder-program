@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 194: 1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pensar a nivel empresa requiere comprender cómo clientes, ingresos, costos, capital, talento, riesgo y capacidades interactúan. El CEO optimiza valor sostenible del sistema, aunque eso implique sacrificar el KPI de una función o negocio en el corto plazo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema.**
 

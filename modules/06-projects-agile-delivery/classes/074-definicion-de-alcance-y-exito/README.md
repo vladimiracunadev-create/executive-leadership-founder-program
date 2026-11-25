@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 074: 1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Definir alcance y éxito exige separar entregables de outcomes y acordar criterios de aceptación. El alcance delimita lo que se compromete ahora; la gestión de beneficios pregunta si el cambio creó el valor esperado. Un proyecto puede terminar a tiempo y fracasar en outcome.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen.**
 

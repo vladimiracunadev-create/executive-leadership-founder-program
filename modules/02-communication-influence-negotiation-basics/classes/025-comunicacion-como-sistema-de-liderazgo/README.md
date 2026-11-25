@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 025: 1. definir propósito y audiencia → 2. seleccionar canal según ambigüedad y sensibilidad → 3. estructurar mensaje y contexto → 4. confirmar comprensión y decisión → 5. cerrar con owner, acción y registro](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir propósito y audiencia → 2. seleccionar canal según ambigüedad y sensibilidad → 3. estructurar mensaje y contexto → 4. confirmar comprensión y decisión → 5. cerrar con owner, acción y registro
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La comunicación de liderazgo es un sistema de sentido, coordinación y retroalimentación. Un mensaje no está completo cuando se envía, sino cuando la otra parte comprende qué significa para ella, qué decisión se tomó y qué acción sigue. Los canales, cadencias y mecanismos de feedback son parte del diseño.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más comunicación no siempre mejora coordinación. Exceso de mensajes sin jerarquía aumenta ruido; diseña arquitectura y fuentes confiables, no volumen.**
 

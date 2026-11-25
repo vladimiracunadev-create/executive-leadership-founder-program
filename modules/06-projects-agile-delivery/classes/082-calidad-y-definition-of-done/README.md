@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 082: 1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Calidad y Definition of Done convierten 'terminado' en un estándar verificable. La calidad no se inspecciona únicamente al final; se diseña en criterios, pruebas y controles del proceso. Una DoD común evita que cada persona declare completo un trabajo con deuda oculta distinta.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito.**
 

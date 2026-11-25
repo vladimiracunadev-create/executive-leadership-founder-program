@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 048: 1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Liderar una crisis humana integra seguridad, hechos, empatía, límites, coordinación y comunicación. Primero se estabiliza el daño y se activa el protocolo aplicable; luego se preserva dignidad, se asignan responsables y se decide qué información compartir. La presión no suspende obligaciones éticas o legales.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **En crisis humanas, la investigación y comunicación deben respetar debido proceso, privacidad y normativa. El manager no debe improvisar como investigador clínico, policial o jurídico fuera de su competencia.**
 

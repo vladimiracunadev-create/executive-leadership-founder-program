@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 272: 1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Holding y estructuras de propiedad organizan ownership de una o varias entidades, pero tienen efectos legales, tributarios, financieros y de gobierno que dependen de jurisdicción. El owner debe comprender conceptos y preguntas, no implementar estructuras complejas sin asesoría.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales.**
 

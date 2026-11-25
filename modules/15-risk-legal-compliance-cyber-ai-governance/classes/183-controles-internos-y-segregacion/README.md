@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 183: 1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear riesgo y objetivo → 2. identificar puntos de fraude o error → 3. diseñar control preventivo y detective → 4. separar funciones incompatibles → 5. testear evidencia y remediar fallas
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Control interno reduce riesgos a un nivel aceptable mediante ambiente de control, evaluación, actividades, información y monitoreo. Segregación de funciones evita que una persona pueda iniciar, aprobar, ejecutar y ocultar una transacción material sin detección.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Separar toda función puede ser inviable en equipos pequeños. Usa controles compensatorios —revisión independiente, límites, alertas, reconciliación— proporcionales al riesgo.**
 

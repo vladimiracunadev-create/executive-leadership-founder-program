@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 068: 1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir filosofía de compensación → 2. benchmarkear sin delegar decisión al mercado → 3. construir bandas y criterios → 4. diseñar variable con guardrails → 5. auditar equidad y gaming
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Compensación e incentivos combinan salario, variable, beneficios, equity y reconocimiento para atraer, retener y orientar conducta. El diseño debe equilibrar competitividad externa, equidad interna, capacidad de pago y riesgo de gaming. Pagar por una métrica cambia lo que las personas optimizan.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local.**
 

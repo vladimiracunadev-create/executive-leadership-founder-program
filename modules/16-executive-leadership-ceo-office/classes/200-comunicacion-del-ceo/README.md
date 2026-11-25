@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 200: 1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La comunicación del CEO reduce incertidumbre y alinea interpretación. Debe adaptar mensaje a empleados, directorio, clientes, inversionistas y medios sin contradecir hechos. En crisis o cambio, claridad sobre lo conocido, lo desconocido y la próxima decisión es más valiosa que falsa certeza.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen.**
 

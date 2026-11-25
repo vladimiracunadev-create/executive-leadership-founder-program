@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 137: 1. definir situaciones de compra → 2. construir activos consistentes → 3. añadir pruebas y señales → 4. alinear experiencia con promesa → 5. medir recuerdo, confianza y conversión](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir situaciones de compra → 2. construir activos consistentes → 3. añadir pruebas y señales → 4. alinear experiencia con promesa → 5. medir recuerdo, confianza y conversión
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Marca funciona como sistema de señales que reduce incertidumbre y facilita recuerdo y confianza. Incluye activos distintivos, consistencia de experiencia, reputación y promesas cumplidas. La marca no es solo identidad visual; cada interacción confirma o contradice la expectativa creada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Invertir en marca no reemplaza distribución ni producto. Tampoco todo atributo necesita diferenciación; algunos activos sirven para ser recordado más que para justificar superioridad.**
 

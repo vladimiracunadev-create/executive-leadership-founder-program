@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 041: 1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir funciones críticas → 2. identificar shocks plausibles y puntos únicos → 3. crear buffers o alternativas → 4. practicar respuesta y aprendizaje → 5. rediseñar vulnerabilidades descubiertas
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Resiliencia combina recuperación, adaptación y aprendizaje frente a adversidad; no es aguantar indefinidamente un sistema dañino. A nivel organizacional, se fortalece con redundancia selectiva, relaciones, capacidad de improvisar y mecanismos que permiten absorber shocks sin depender de una persona heroica.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material.**
 

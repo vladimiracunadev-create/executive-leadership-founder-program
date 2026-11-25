@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 198: 1. inventariar usos de capital y talento → 2. estimar retorno riesgo y strategic fit → 3. comparar contra hurdle y alternativas → 4. reallocate desde bajo valor → 5. revisar outcomes y kill decisions](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. inventariar usos de capital y talento → 2. estimar retorno riesgo y strategic fit → 3. comparar contra hurdle y alternativas → 4. reallocate desde bajo valor → 5. revisar outcomes y kill decisions
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Asignar capital y talento es una de las tareas centrales del CEO. Los recursos deben moverse hacia oportunidades y capacidades con mayor valor ajustado por riesgo, no quedar atrapados por presupuesto histórico, poder político o sunk costs.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No reduzcas allocation a NPV cuando existen opciones estratégicas, capabilities o impactos difíciles de monetizar. Haz explícitas esas consideraciones en vez de ocultarlas en el cálculo.**
 

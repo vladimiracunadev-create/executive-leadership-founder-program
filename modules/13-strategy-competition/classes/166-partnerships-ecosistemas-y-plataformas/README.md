@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 166: 1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Partnerships, plataformas y ecosistemas permiten crear valor más allá de los límites de una empresa, pero introducen dependencia, gobernanza y distribución de valor. La pregunta estratégica es qué controlar, qué estandarizar y dónde conviene compartir capacidades.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado.**
 

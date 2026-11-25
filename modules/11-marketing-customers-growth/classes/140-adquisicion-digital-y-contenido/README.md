@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 140: 1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Adquisición digital y contenido deben conectar audiencia, intención, propuesta y conversión. Tráfico no es demanda si no corresponde al ICP o al momento de compra. Un sistema de contenido construye activos reutilizables y mide desde atención hasta pipeline o revenue según el modelo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad.**
 

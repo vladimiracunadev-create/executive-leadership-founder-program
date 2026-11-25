@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 229: 1. partir de outcomes de negocio → 2. mapear capabilities y tech enablers → 3. identificar bottlenecks y debt → 4. priorizar inversiones por value y risk → 5. medir outcome y retire legacy](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. partir de outcomes de negocio → 2. mapear capabilities y tech enablers → 3. identificar bottlenecks y debt → 4. priorizar inversiones por value y risk → 5. medir outcome y retire legacy
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Tecnología es una capacidad empresarial cuando cambia velocidad, costo, experiencia, riesgo o modelo de negocio; no un centro de costo separado. El ejecutivo debe comprender portfolio de capacidades, dependencias y economics para invertir con propósito.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo valor tecnológico se traduce inmediatamente a revenue. Resiliencia, compliance y option value requieren lenguaje económico distinto, pero igualmente explícito.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 179: 1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir problema que requiere reorg → 2. diseñar target operating model → 3. mapear roles talento y decisiones → 4. planificar transición y comunicación → 5. medir continuidad claridad y beneficios
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una reorganización redistribuye roles, reporting y poder; por eso genera riesgos humanos y operativos antes de producir beneficios. Debe diseñarse alrededor de trabajo y decisiones, proteger continuidad, tratar personas con claridad y medir si el nuevo sistema resuelve el problema original.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural.**
 

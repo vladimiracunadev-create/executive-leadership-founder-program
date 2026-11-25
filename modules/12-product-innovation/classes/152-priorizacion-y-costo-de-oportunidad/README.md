@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 152: 1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Priorizar es asignar recursos escasos y aceptar explícitamente lo que no se hará. Marcos como RICE, WSJF u opportunity scoring ayudan a estructurar comparación, pero no reemplazan estrategia, dependencias ni juicio. El costo de oportunidad debe quedar visible.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos.**
 

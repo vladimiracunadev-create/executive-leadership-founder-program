@@ -48,9 +48,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 010: 1. definir qué problema quieres que te asocien → 2. inventariar resultados y artefactos verificables → 3. crear pruebas públicas sin violar confidencialidad → 4. pedir referencias específicas sobre contribución → 5. alinear canales y mensajes con la evidencia](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir qué problema quieres que te asocien → 2. inventariar resultados y artefactos verificables → 3. crear pruebas públicas sin violar confidencialidad → 4. pedir referencias específicas sobre contribución → 5. alinear canales y mensajes con la evidencia
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una marca profesional basada en evidencia es la expectativa que otros forman sobre los problemas que sabes resolver y la forma en que trabajas. Se construye con resultados, artefactos, referencias y conducta repetida; no con adjetivos autoasignados. La reputación útil debe ser específica, verificable y coherente con el mercado al que quieres servir.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La marca no debe inducir a revelar propiedad intelectual, datos de clientes o resultados imposibles de verificar. Tampoco sustituye competencia: amplificar una promesa débil aumenta riesgo reputacional.**
 

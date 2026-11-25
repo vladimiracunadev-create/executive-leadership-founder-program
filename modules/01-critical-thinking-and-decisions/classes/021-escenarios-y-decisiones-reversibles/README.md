@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 021: 1. clasificar costo de reversa → 2. dividir decisión en etapas → 3. diseñar experimento y criterio de éxito → 4. preservar opciones donde exista incertidumbre → 5. escalar cuando la evidencia alcance umbral](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. clasificar costo de reversa → 2. dividir decisión en etapas → 3. diseñar experimento y criterio de éxito → 4. preservar opciones donde exista incertidumbre → 5. escalar cuando la evidencia alcance umbral
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Las decisiones reversibles permiten aprender barato; las irreversibles exigen más evidencia, gobernanza y preparación. La clave no es etiquetar todo como 'puerta de una o dos vías', sino descomponer decisiones grandes en experimentos, opciones y triggers que preserven capacidad de corregir.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reversibilidad no justifica experimentar eternamente. Algunas oportunidades caducan; el valor de información debe compararse con el costo de esperar y con la velocidad competitiva.**
 

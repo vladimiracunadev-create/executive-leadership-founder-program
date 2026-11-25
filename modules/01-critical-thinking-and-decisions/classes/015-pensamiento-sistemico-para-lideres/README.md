@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 015: 1. definir frontera y propósito del sistema → 2. mapear variables y relaciones causales → 3. identificar loops reforzadores y balanceadores → 4. localizar demoras y acumulaciones → 5. probar intervenciones en puntos de apalancamiento](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir frontera y propósito del sistema → 2. mapear variables y relaciones causales → 3. identificar loops reforzadores y balanceadores → 4. localizar demoras y acumulaciones → 5. probar intervenciones en puntos de apalancamiento
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El pensamiento sistémico mira patrones, retroalimentaciones, demoras y efectos no lineales en lugar de atribuir resultados a una causa aislada. En organizaciones, una política cambia incentivos y esos cambios retroalimentan el problema. Un buen líder busca loops y stocks antes de intervenir sobre eventos visibles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un mapa causal puede volverse una historia elegante sin datos. Los loops son hipótesis sobre estructura; deben contrastarse con series temporales, observación y experimentos cuando sea posible.**
 

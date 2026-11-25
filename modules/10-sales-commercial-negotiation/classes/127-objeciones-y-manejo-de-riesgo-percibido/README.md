@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 127: 1. escuchar sin defender → 2. clarificar categoría y severidad → 3. confirmar que es la objeción real → 4. responder con evidencia o alternativa → 5. pedir siguiente paso verificable](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. escuchar sin defender → 2. clarificar categoría y severidad → 3. confirmar que es la objeción real → 4. responder con evidencia o alternativa → 5. pedir siguiente paso verificable
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Las objeciones expresan riesgo percibido, información faltante, prioridad o negociación. Responder bien empieza por clarificar qué objeción existe y qué evidencia sería suficiente; rebatir demasiado rápido puede endurecer la posición. Precio, timing y confianza requieren tratamientos distintos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda objeción debe superarse. Si el producto no cumple un requisito crítico o el cliente no tiene fit, retirarse protege margen, confianza y éxito futuro.**
 

@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 199: 1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un CEO equilibra intereses de clientes, personas, accionistas y sociedad dentro de obligaciones legales y una lógica sostenible de creación de valor. Stakeholder management no significa satisfacer a todos; exige reconocer externalidades, horizontes y trade-offs explícitos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir.**
 

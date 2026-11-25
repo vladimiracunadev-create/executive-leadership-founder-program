@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 146: 1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un equipo de producto no debería empezar por funcionalidades sino por un problema verificable y un outcome deseado. Problema, necesidad, dolor y deseo no son equivalentes; deben conectarse a una conducta observable y a una situación concreta. Un buen outcome deja libertad para descubrir múltiples soluciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz.**
 

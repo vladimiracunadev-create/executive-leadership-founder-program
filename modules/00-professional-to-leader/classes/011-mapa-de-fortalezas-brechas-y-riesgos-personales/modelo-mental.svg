@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 458" width="1040" role="img" aria-labelledby="t d" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t">Modelo mental de la clase 011: Mapa de fortalezas, brechas y riesgos personales</title>
+<desc id="d">1. definir requisitos del rol siguiente → 2. recolectar evidencia de desempeño y feedback → 3. clasificar fortalezas, brechas y derailers → 4. priorizar dos brechas de alto impacto → 5. diseñar mitigación mediante práctica, delegación o complemento</desc>
+<defs><marker id="punta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#1a7f37"/></marker></defs>
+<rect width="1040" height="458" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="132" height="26" rx="13" fill="#1a7f37"/>
+<text x="94" y="41.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">MODELO MENTAL</text>
+<text x="176" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 011 · Mapa de fortalezas, brechas y riesgos personales</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 00 · Autoliderazgo y fundamentos ejecutivos</text>
+<rect x="28" y="92" width="169.6" height="188" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M28,126 V104 a12,12 0 0 1 12,-12 H185.6 a12,12 0 0 1 12,12 V126 Z" fill="#1a7f37"/>
+<text x="44" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 1</text>
+<text x="42" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir</text>
+<text x="42" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >requisitos del</text>
+<text x="42" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >rol siguiente</text>
+<path d="M203.6,203 H223.6" stroke="#1a7f37" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="231.6" y="92" width="169.6" height="188" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M231.6,126 V104 a12,12 0 0 1 12,-12 H389.2 a12,12 0 0 1 12,12 V126 Z" fill="#1a7f37"/>
+<text x="247.6" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 2</text>
+<text x="245.6" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >recolectar</text>
+<text x="245.6" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >evidencia de</text>
+<text x="245.6" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >desempeño y</text>
+<text x="245.6" y="214" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >feedback</text>
+<path d="M407.2,203 H427.2" stroke="#1a7f37" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="435.2" y="92" width="169.6" height="188" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M435.2,126 V104 a12,12 0 0 1 12,-12 H592.8 a12,12 0 0 1 12,12 V126 Z" fill="#1a7f37"/>
+<text x="451.2" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 3</text>
+<text x="449.2" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >clasificar</text>
+<text x="449.2" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >fortalezas,</text>
+<text x="449.2" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >brechas y</text>
+<text x="449.2" y="214" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >derailers</text>
+<path d="M610.8,203 H630.8" stroke="#1a7f37" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="638.8" y="92" width="169.6" height="188" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M638.8,126 V104 a12,12 0 0 1 12,-12 H796.4 a12,12 0 0 1 12,12 V126 Z" fill="#1a7f37"/>
+<text x="654.8" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 4</text>
+<text x="652.8" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >priorizar dos</text>
+<text x="652.8" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >brechas de alto</text>
+<text x="652.8" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >impacto</text>
+<path d="M814.4,203 H834.4" stroke="#1a7f37" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="842.4" y="92" width="169.6" height="188" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+<path d="M842.4,126 V104 a12,12 0 0 1 12,-12 H1000 a12,12 0 0 1 12,12 V126 Z" fill="#1a7f37"/>
+<text x="858.4" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 5</text>
+<text x="856.4" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >diseñar</text>
+<text x="856.4" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >mitigación</text>
+<text x="856.4" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >mediante</text>
+<text x="856.4" y="214" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >práctica,</text>
+<text x="856.4" y="234" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >delegación o</text>
+<text x="856.4" y="254" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >complemento</text>
+<path d="M927.2,282 V304 a10,10 0 0 1 -10,10 H122.8 a10,10 0 0 1 -10,-10 V284" fill="none" stroke="#1a7f37" stroke-width="2" stroke-dasharray="7 6" stroke-linecap="round" marker-end="url(#punta)"/>
+<rect x="358.6" y="302" width="322.8" height="24" rx="12" fill="#f6f8fa" stroke="#1a7f37" stroke-width="1.2"/>
+<text x="520" y="318.5" font-size="12.5" font-weight="600" fill="#1a7f37" text-anchor="middle" >revisar y ajustar cuando la evidencia cambie</text>
+<text x="28" y="360" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
+<rect x="28" y="374" width="164" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2"/>
+<circle cx="41" cy="387" r="3.5" fill="#1a7f37"/>
+<text x="52" y="391.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >feedback convergente</text>
+<rect x="202" y="374" width="233" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2"/>
+<circle cx="215" cy="387" r="3.5" fill="#1a7f37"/>
+<text x="226" y="391.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >errores repetidos bajo presión</text>
+<rect x="445" y="374" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2"/>
+<circle cx="458" cy="387" r="3.5" fill="#1a7f37"/>
+<text x="469" y="391.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >roles evitados</text>
+<rect x="577.6" y="374" width="253.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2"/>
+<circle cx="590.6" cy="387" r="3.5" fill="#1a7f37"/>
+<text x="601.6" y="391.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependencia de una sola fortaleza</text>
+<rect x="28" y="408" width="253.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2"/>
+<circle cx="41" cy="421" r="3.5" fill="#1a7f37"/>
+<text x="52" y="425.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >progreso de competencias objetivo</text>
+</svg>

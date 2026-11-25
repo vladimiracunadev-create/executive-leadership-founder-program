@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 223: 1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. limpiar cap table actual → 2. convertir a fully diluted → 3. modelar nueva emisión y pool → 4. calcular ownership post-money → 5. simular rondas y exits
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Cap table muestra quién posee qué y cómo opciones, convertibles y nuevas rondas alteran propiedad. El founder debe comprender fully diluted ownership, option pool y escenarios de dilución antes de firmar; porcentajes nominales sin waterfall pueden engañar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera.**
 

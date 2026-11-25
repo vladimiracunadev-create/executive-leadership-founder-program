@@ -47,9 +47,18 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
+<!-- modelo:inicio -->
+![Modelo mental de la clase 240: 1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits](modelo-mental.svg)
+
+<details>
+<summary>La misma secuencia, en texto</summary>
+
 ```text
 1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits
 ```
+
+</details>
+<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El transformation board prioriza una cartera digital e IA por estrategia, value, risk, dependencies y capacity, y exige evidencia de adopción y beneficios. El capstone separa demos de capacidades operables y decide qué escalar, pausar o retirar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales.**
 
